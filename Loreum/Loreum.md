@@ -5,10 +5,13 @@ Welcome in Encyclopaedia Loreum, section of Baedoor Encyclopaedia constitued to 
 knowledge about the universe.
 
 ---
-### 🧭 Topics
-### 🎇 Index
-### 🎆 Tags
+### 🧭 [Topics](Topics/Topics.md)
+### 🎇 [Index](Index.md)
+### 🎆 [Tags](Tags.md)
 ### 🪔 Chronology search
 
 ---
 ### 📖 [Abbreviations](Abbrevs.md)
+
+---
+✥

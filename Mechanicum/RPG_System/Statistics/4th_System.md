@@ -15,3 +15,6 @@ While 3rd Edition will be maintained for a while for `The Isle of Ansur` game, u
 - Addition of new skills and activities (first edition parity).
 
 ## Changelog
+
+---
+♜

@@ -7,3 +7,6 @@ Baedoor RPG system and other technical aspects of this universe.
 ###🎲 [Baedoor RPG System](RPG_System/RPG_System.md)
 ###🌀 Item properties and statistics
 ###🗝️ Games walkthroughs
+
+---
+✥
