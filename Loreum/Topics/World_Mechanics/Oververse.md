@@ -57,14 +57,44 @@ as the wisest oneironauts.
 The only such oneironaut known for Baedoor universe is **Xaine**.
 
 ---
-
 ### ♨️ HISTORY
 Concept of Oververse appeared in Baedoor world quite early, considering first discovery was made 
-by Si Avani yet in Pre-Era.
+by Si Avani yet in Pre-Era. By the following time, more multiverses were discovered by next
+starshifters, resulting even in creating several academias focused solely on concept of starshifting.
 
-<img alt="Oververse Sketch" height="312" src="/Assets/oververse_sketch.jpg" width="416"/>
+Map below showcases all currently known multiverses, drawn as galaxy, since Baedoorians believe
+oververse is similar to the concept of cosmos, just expanded on different plane of reality. The
+placement is, though, way more arbitrary:
 
+<img alt="Oververse Sketch" height="520" src="/Assets/oververse_sketch.jpg" width="420"/>
 
+Multiverses were discovered in such chronology as the graph below showcases:
+
+| Date of discovery | Multiverse | Explorer     | Possible Earth-understanding                |
+| ----------------- | ---------- |--------------|---------------------------------------------|
+ | 655 BT            | Tamariel   | Si Avani     | Tamriel, Elder Scrolls universe             |
+ | 272 BT            | Uru'ai     |              | Myst / Uru universe                         |
+ | 463 OE            | Osde'in    |              | DiscWorld universe                          |
+ | 431 NE            | Ins'in     | Tehom Aranai | Nalqiwatya                                  |
+ | 637 NE            | Eis'in     |              | End's Phantasm                              |
+ | 638 NE            | Ne'rin     |              | Minecraft universe                          |
+ | 654 NE            | Ne'n       |              | Breach dimension between Ne'rin and Baedoor |
+ | 654 NE            | Aji'n      |              | Desolat and Deeper Undergrowth breaches     |
+
+Important event which is needed to be mentioned happened in 494 NE, being called as `The Rift 
+Outbreak`.  
+It is understood nowadays that this event opened quickly The Rift, structure
+making breach between multiverses, letting them connect for brief amount of time.  
+In normal
+circumstances, this wouldn't be possible, but baedoorian starshifters explain it as a result
+of what they call to be on "the outer ring of reality", which is concept popularised by Ins'in
+ghloddish-saphtri explorer, **Tehom Aranai**, meaning Baedoor multiverse is in position making it
+be directly bound to The Void, place considered to be the essence of every multiverse.  
+This, according
+to the theorists, can result in way less predictable universal laws and more anomalies, which is not
+the case of multiverses placed further from the ring - such as Earth, experiencing anomalies extremely
+rarely.
 
 ---
-♜: history
+♜: history, concept of starshifters
+♢: universities, explorers, concept of starshifters
