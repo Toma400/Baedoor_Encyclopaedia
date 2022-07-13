@@ -8,7 +8,7 @@ It came through two iterations, which are better explained in [history section](
 - [Abilities and skills](Statistics/Abilities_Skills.md)
 - [Races](Statistics/Races.md)
 - [Classes](Statistics/Classes.md)
-- [!Persuasion index](Statistics/Persuasion.md)
+- [Persuasion index](Statistics/Persuasion.md)
 - Morality index
 - Worldpowers index
 
@@ -26,3 +26,6 @@ It came through two iterations, which are better explained in [history section](
 
 **🎴4TH EDITION**
 - [Upcoming changes](Statistics/4th_System.md)
+
+---
+✥

@@ -22,3 +22,6 @@ xm = old value
 
 p - persuasion value  
 c - charisma value
+
+---
+♜
