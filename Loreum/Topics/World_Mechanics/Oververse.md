@@ -1,6 +1,9 @@
 # 🎆 Oververse
 
 ---
+``a``
+
+---
 ### 🔆 CONCEPT
 Oververse is concept that expands the idea known in our world as "multiverse".
 
@@ -66,35 +69,87 @@ Map below showcases all currently known multiverses, drawn as galaxy, since Baed
 oververse is similar to the concept of cosmos, just expanded on different plane of reality. The
 placement is, though, way more arbitrary:
 
-<img alt="Oververse Sketch" height="520" src="/Assets/oververse_sketch.jpg" width="420"/>
+<img alt="Oververse Sketch" height="520" src="/Assets/oververse_sketch.jpg" width="422"/>
 
-Multiverses were discovered in such chronology as the graph below showcases:
+Multiverses were discovered in such chronology as the table below showcases:
 
-| Date of discovery | Multiverse | Explorer     | Possible Earth-understanding                |
-| ----------------- | ---------- |--------------|---------------------------------------------|
- | 655 BT            | Tamariel   | Si Avani     | Tamriel, Elder Scrolls universe             |
- | 272 BT            | Uru'ai     |              | Myst / Uru universe                         |
- | 463 OE            | Osde'in    |              | DiscWorld universe                          |
- | 431 NE            | Ins'in     | Tehom Aranai | Nalqiwatya                                  |
- | 637 NE            | Eis'in     |              | End's Phantasm                              |
- | 638 NE            | Ne'rin     |              | Minecraft universe                          |
- | 654 NE            | Ne'n       |              | Breach dimension between Ne'rin and Baedoor |
- | 654 NE            | Aji'n      |              | Desolat and Deeper Undergrowth breaches     |
+| Date of discovery | Multiverse | Explorer     | Possible Earth-understanding                 |
+|-------------------| ---------- |--------------|----------------------------------------------|
+ | 655 PE            | Tamariel   | Si Avani     | Tamriel, Elder Scrolls universe              |
+ | 272 PE            | Uru'ai     |              | Myst / Uru universe                          |
+ | 463 OE            | Osde'in    |              | DiscWorld universe                           |
+ | 431 NE            | Ins'in     | Tehom Aranai | Nalqiwatya                                   |
+ | 637 NE            | Eis'in     |              | End's Phantasm                               |
+ | 638 NE            | Ne'rin     |              | Minecraft universe                           |
+ | 654 NE            | Ne'n       |              | Breach dimensions between Ne'rin and Baedoor |
+ | 654 NE            | Aji'n      |              | Desolat and Deeper Undergrowth breaches      |
 
-Important event which is needed to be mentioned happened in 494 NE, being called as `The Rift 
-Outbreak`.  
+<span style="color:#0099cc">**THE RIFT OUTBREAK**</span>  
+Important event which is needed to be mentioned happened in **494 NE**, being called as <span style="color:#0099cc">**The Rift 
+Outbreak**</span>.  
 It is understood nowadays that this event opened quickly The Rift, structure
 making breach between multiverses, letting them connect for brief amount of time.  
-In normal
-circumstances, this wouldn't be possible, but baedoorian starshifters explain it as a result
+
+In normal circumstances, this wouldn't be possible, but baedoorian starshifters explain it as a result
 of what they call to be on "the outer ring of reality", which is concept popularised by Ins'in
-ghloddish-saphtri explorer, **Tehom Aranai**, meaning Baedoor multiverse is in position making it
-be directly bound to The Void, place considered to be the essence of every multiverse.  
-This, according
-to the theorists, can result in way less predictable universal laws and more anomalies, which is not
-the case of multiverses placed further from the ring - such as Earth, experiencing anomalies extremely
-rarely.
+ghloddish-saphtri explorer, **Tehom Aranai**.  
+
+In short, this idea consider Baedoor multiverse to exist on one of "rings", being sort of metaphysical
+states of the multiverses that bounds them directly with **The Void**.  
+According to theorists, positioning the multiverse in such ring makes it way less predictable 
+in universal laws and anomalies are more probable to be found.  
+This is not the case of multiverses placed further from the ring - such as Earth, experiencing 
+anomalies extremely rarely.
+
+<span style="color:#0099cc">**STARSHIFTERS**</span>  
+First voyagers of dreams, oneironauts of the oververse, were calling themselves as **Starshifters**,
+being a secret organisation established by **Xaine**, the first and the only physical oneironaut known
+to Baedoor universe by far.  
+He cared a lot about spreading information on true structure of reality, so Starshifters are known to
+be precisely selected people, wise enough to read and expand notes left by Xaine before he left Baedoor
+universe again.
+
+Although oververse concept is nowadays no longer Starshifters exclusive knowledge, their organisation
+is still considered as the most knowledgeable about the topic, since all multiverse discoveries were
+made by starshifters. After establishing of **International Council of Oververse Exploration**,
+starshifters decided to reveal few their members as emissaries, to communicate with the Council and
+share the knowledge.
+
+<span style="color:#0099cc">**OVERVERSE UNIVERSITIES**</span>  
+Oververse concept were known to mages and mystics of Baedoor universes for thousands of years, but
+for huge part of time it was more of a theory, usually split into countless variants and lots of 
+believers arguing about details.  
+This resulted on decision - firstly made by ghlodds - to create some universities focused on studying
+what is beyond the mere universe. By the time of Pre-Era, **Ghloddish Universe Observatories** were
+built in 220 PE, being in fact just complex of universities bound to Ghloddish Temple. It was partly
+inspired by the discovery of Uru'ai half of century ago, which was the knowledge starshifters shared
+poorly with several scientists.
+
+In following centuries, new scientific sections of universities were being made: 
+
+| Year   | University or organisation                    | Place of build      | Council? |
+|--------|-----------------------------------------------|---------------------|----------|
+ | 976 PE | Starshifters                                  | Jitado              | 🟠       |
+ | 220 PE | Ghloddish Universe Observatories              | Seiteh              | 🟢       |
+ | 55 PE  | Trish Starexploring Association               | West Moon Continent | 🟢       |
+ | 466 SE | Metagalactical Wing of Oe'os University       | Oe'os               | 🟢       |
+ | 922 SE | Adiana's Crystal                              | Septei              | 🟣       |
+ | 112 NE | Black University                              | Rossevette          | 🟣       |
+ | 655 NE | University on Oververse Study in West Baedoor | West Baedoor        | 🟢       |
+ | 690 NE | Jitadish Observatory of Universes             | Jitado              | 🟢       |
+
+
+This increased attention given to multiverses resulted in creating what is known as <span style="color:#0099cc">
+**International Council of Oververse Exploration**</span>. This Council were made in 695 NE, to ease 
+communication and knowledge exchange between universities. At the same time, Starshifters decided to
+partly reveal their identities, to help upcoming Council to establish properly.
+
+``` 
+ TABLE LEGEND:
+ 🟠 not part of Council  
+ 🟣 honorary member  
+ 🟢 regular member
+```
 
 ---
-♜: history, concept of starshifters
-♢: universities, explorers, concept of starshifters
+♢: universities, explorers, concept of starshifters, the void
