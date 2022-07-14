@@ -6,7 +6,7 @@ Baedoor, tak szczegółowo jak to tylko możliwe.
 **🏵️ CZYM JEST BAEDOOR?**
 
 Jeśli nie wiesz, czym jest Baedoor, idź [tutaj](Baedoor.md). 
-Jeśli ciekawi Cię wizja autora i chciałbyś zobaczyć wszystkie jego dzieła, idź tutaj.
+Jeśli ciekawi Cię wizja autora i chciałbyś zobaczyć wszystkie jego dzieła, idź [tutaj](Author.md).
 
 **🏔️ HISTORIA**
 
@@ -19,7 +19,7 @@ dość niekompletna.
 **⛩️ SEKCJE**
 
 Encyklopedia stoi na czterech filarach:
-- 🏺 Encyclopaedia Loreum - skupiona na wyjaśnianiu świata Baedoor
+- 🏺 [Encyclopaedia Loreum](Loreum/Loreum.md) - skupiona na wyjaśnianiu świata Baedoor
 - 🎭 Encyclopaedia Langue - opisująca języki i słowniki cywilizacji ze świata Baedoor
 - 📕 Encyclopaedia Scribae - zbierająca wszystkie książki ze świata Baedoor
 - ⚙️ [Encyclopaedia Mechanicum](Mechanicum/Mechanicum.md) - wyjaśniająca system RPG i 
