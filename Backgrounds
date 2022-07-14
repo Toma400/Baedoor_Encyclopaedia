@@ -8,3 +8,8 @@ Entries have additional symbol system which marks the ones that are being worked
 ♜ - not finished entry
 
    entry which still needs to be updated/expanded
+
+♢ - not linked entry
+
+   there are some keywords in this entry that are not linked (usually by no page to be linked), so just inspect
+   this entry to ensure it gets linked eventually when conditions for it are met
