@@ -1,7 +1,7 @@
 # 🎆 Oververse
 
 ---
-``a``
+<span style="color:#8F3DA5">**universe**</span> [✦](/Loreum/Tags.md#-universe)  
 
 ---
 ### 🔆 CONCEPT
@@ -69,7 +69,7 @@ Map below showcases all currently known multiverses, drawn as galaxy, since Baed
 oververse is similar to the concept of cosmos, just expanded on different plane of reality. The
 placement is, though, way more arbitrary:
 
-<img alt="Oververse Sketch" height="520" src="/Assets/oververse_sketch.jpg" width="422"/>
+<img alt="Oververse Sketch" height="422" src="/Assets/oververse_sketch.jpg" width="520"/>
 
 Multiverses were discovered in such chronology as the table below showcases:
 
@@ -142,7 +142,7 @@ In following centuries, new scientific sections of universities were being made:
 This increased attention given to multiverses resulted in creating what is known as <span style="color:#0099cc">
 **International Council of Oververse Exploration**</span>. This Council were made in 695 NE, to ease 
 communication and knowledge exchange between universities. At the same time, Starshifters decided to
-partly reveal their identities, to help upcoming Council to establish properly.
+partly reveal their identities, to help upcoming Council establish properly.
 
 ``` 
  TABLE LEGEND:
