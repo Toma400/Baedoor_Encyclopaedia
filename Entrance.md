@@ -1,27 +1,22 @@
-# 🌅 Welcome in Baedoor Encyclopaedia!
+# 🌅 Üdvözlünk a Baedoor Enciklopédiában!
 
-Baedoor Encyclopaedia is place made by me to keep track on Baedoor lore, in its smallest details. 
+A Baedoor Enciklopédia az a hely, ahol én, a legkisebb részletig dokumentálom a Baedoor történetét.
 
-**🏵️ WHAT IS BAEDOOR?**
+**🏵️ MI AZ A BAEDOOR?**
 
-If you are stranger to what Baedoor is, head on [here](Baedoor.md). If you want to see author's 
-creative path and all Baedoor-related creations listed, go [here](Author.md).
+Ha nem ismered a Baedoor-t, akkor kattints [ide](Baedoor.md). Ha szeretnéd a szerző kreatív útját megismerni és megtekinteni az összes Baedoor-hoz kapcsolódó kreálmányt, mennj idea.
 
-**🏔️ HISTORY**
+**🏔️ TÖRTÉNELEM**
 
-Originally handled through Twine software, I decided to migrate it into .md system due to its 
-simplicity, clear syntax and possibility to include images - which was my main issue with Twine.
-This is *First Edition*, meaning it will be rather incomplete.
+Ezen projekt eredetileg a Twine szoftverrel volt kezelve, viszont úgy döntöttem, hogy áthelyezem egy .md rendszerbe az egyszerűsége, átlátható szintaxisa és képek prezentálásának lehetősége miatt - ami a fő problémám votl a Twine-nal.
+Ez az *Első kiadás*, ami azt jelenti, hogy meglehetőleg hiányos lesz.
 
-**⛩️ SECTIONS**
+**⛩️ SZEKCIÓK**
 
-Encyclopaedia is set on four pillars:
-- 🏺 [Encyclopaedia Loreum](Loreum/Loreum.md) - focused on explaining lore of Baedoor universe
-- 🎭 Encyclopaedia Langue - focused on languages and dictionaries of Baedoor civilisations
-- 📕 Encyclopaedia Scribae - storing all books written by Baedoor civilisations
-- ⚙️ [Encyclopaedia Mechanicum](Mechanicum/Mechanicum.md) - explaining RPG systems and storing all detailed info on items, including technicals like statistics
+Az Enciklopédia 4 alappilléren áll:
+- 🏺 Enciklopédia Loreum - A Baedoor univerzum története
+- 🎭 Enciklopédia Langue - A Beadoor civilizációnak nyelvei és szótárai
+- 📕 Enciklopédia Scribae - A Baedoor civilizációi által írt összes könyv tárolója
+- ⚙️ [Enciklopédia Mechanicum](Mechanicum/Mechanicum.md) - Az összes RPG rendszernek, eszköznek és statisztikának dokumentációja
 
-Click on section names to head to specific one.
-
----
-✥
+Kattint a bizonyos szekciónevekre, hogy meglátogasd azt.
