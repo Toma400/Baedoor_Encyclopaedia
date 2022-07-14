@@ -1,4 +1,4 @@
-# 🌅 Welcome in Baedoor Encyclopaedia!
+# 🌅 Witaj w Encyklopedii Baedoor!
 
 Baedoor Encyclopaedia is place made by me to keep track on Baedoor lore, in its smallest details. 
 
