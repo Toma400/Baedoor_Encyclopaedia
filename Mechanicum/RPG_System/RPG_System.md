@@ -1,31 +1,32 @@
-# 🎲 RPG System
+# 🎲 System RPG
 
-Baedoor RPG System was designed as inherent aspect of all RPG games taking place in Baedoor universe.
-It came through two iterations, which are better explained in [history section](/Baedoor.md). Encyclopaedia is written for third edition of a system.
+System RPG Baedooru został stworzony jako inherentna część składowa wszystkich gier
+RPG odbywających się w tym uniwersum. System ten przeszedł przez szereg zmian.
+Encyklopedia jest napisana dla trzeciej edycji systemu.
 
-**♟️STATISTICS**
-- [Basic modifiers](Statistics/Basic_Modifiers.md)
-- [Abilities and skills](Statistics/Abilities_Skills.md)
-- [Races](Statistics/Races.md)
-- [Classes](Statistics/Classes.md)
-- [Persuasion index](Statistics/Persuasion.md)
-- Morality index
-- Worldpowers index
+**♟️STATYSTYKI**
+- [Podstawowe modyfikatory](Statistics/Basic_Modifiers.md)
+- [Atrybuty i umiejętności](Statistics/Abilities_Skills.md)
+- [Rasy](Statistics/Races.md)
+- [Klasy](Statistics/Classes.md)
+- [Indeks perswazji](Statistics/Persuasion.md)
+- Indeks moralności
+- Indeks sił
 
-**🏹 GAME PRACTICE**
-- [Hero creation](Statistics/Creation.md)
-- Actions dependent on skills
-- Professions
-- What to do?
-- Travelling
-- Gathering resources
-- Interactions with NPCs
-- Fighting
-- Use of magic
-- Factions and guilds
+**🏹 PRAKTYKA GRY**
+- [Tworzenie postaci](Statistics/Creation.md)
+- Akcje zależne od umiejętności
+- Profesje
+- Co mam robić?
+- Podróżowanie
+- Zbieranie surowców
+- Interakcje z postaciami
+- Walka
+- Użycie magii
+- Stronnictwa i gildie
 
-**🎴4TH EDITION**
-- [Upcoming changes](Statistics/4th_System.md)
+**🎴 CZWARTA EDYCJA**
+- [Zapowiedziane zmiany](Statistics/4th_System.md)
 
 ---
 ✥

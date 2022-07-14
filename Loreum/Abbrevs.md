@@ -1,9 +1,9 @@
-# 📖 Abbreviations
+# 📖 Skróty
 
 ---
-Here you can find all abbreviations used by Encyclopaedia.
+Tutaj możesz znaleźć wszystkie skróty użyte w Encyklopedii.
 
 ---
-`ghl.` - ghloddish (usually referred for translation in this language)
+`ghl.` - głoddyjski (zwykle używany podczas tłumaczeń)
 
-`trl.` - transliteration (used mostly in context of clearing some misunderstandings of specific languages)
+`trl.` - transliteracja (używana zwykle do wyjaśniania złożonych konceptów języków)

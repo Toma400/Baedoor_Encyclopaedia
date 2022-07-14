@@ -1,12 +1,12 @@
 # ⚙️ Encyclopaedia Mechanicum
 
-Welcome in Encyclopaedia Mechanicum, section of Baedoor Encyclopaedia focused on 
-Baedoor RPG system and other technical aspects of this universe.
+Witaj w Encyklopedii Mechanicum, sekcji Encyklopedii Baedoor poświęconej systemowi RPG
+oraz innym technicznym aspektom uniwersum.
 
 ---
-###🎲 [Baedoor RPG System](RPG_System/RPG_System.md)
-###🌀 Item properties and statistics
-###🗝️ Games walkthroughs
+###🎲 [System RPG](RPG_System/RPG_System.md)
+###🌀 Właściwości i statystyki przedmiotów
+###🗝️ Przewodniki po grach
 
 ---
 ✥
