@@ -20,6 +20,7 @@ It came through two iterations. Encyclopaedia is written for third edition of a 
 - Travelling
 - Gathering resources
 - Interactions with NPCs
+- Visiting the cities
 - Fighting
 - Use of magic
 - Factions and guilds
