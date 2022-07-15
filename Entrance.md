@@ -4,7 +4,7 @@ A Baedoor Enciklopédia az a hely, ahol én, a legkisebb részletig dokumentálo
 
 **🏵️ MI AZ A BAEDOOR?**
 
-Ha nem ismered a Baedoor-t, akkor kattints [ide](Baedoor.md). Ha szeretnéd a szerző kreatív útját megismerni és megtekinteni az összes Baedoor-hoz kapcsolódó kreálmányt, mennj idea.
+Ha nem ismered a Baedoor-t, akkor kattints [ide](Baedoor.md). Ha szeretnéd a szerző kreatív útját megismerni és megtekinteni az összes Baedoor-hoz kapcsolódó kreálmányt, menj [ide](Author.md).
 
 **🏔️ TÖRTÉNELEM**
 
@@ -15,7 +15,7 @@ Ez az *Első kiadás*, ami azt jelenti, hogy meglehetőleg hiányos lesz.
 
 Az Enciklopédia 4 alappilléren áll:
 - 🏺 Enciklopédia Loreum - A Baedoor univerzum története
-- 🎭 Enciklopédia Langue - A Beadoor civilizációnak nyelvei és szótárai
+- 🎭 [Enciklopédia Langue](Loreum/Loreum.md) - A Beadoor civilizációnak nyelvei és szótárai
 - 📕 Enciklopédia Scribae - A Baedoor civilizációi által írt összes könyv tárolója
 - ⚙️ [Enciklopédia Mechanicum](Mechanicum/Mechanicum.md) - Az összes RPG rendszernek, eszköznek és statisztikának dokumentációja
 
