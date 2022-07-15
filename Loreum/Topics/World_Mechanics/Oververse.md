@@ -57,7 +57,7 @@ each part: eventually, people cannot really travel through oververse other way t
 this "travel" is more of a "visiting" than actual being.  
 There are only few who are known to travel physically through oververse, and those could be considered 
 as the wisest oneironauts.  
-The only such oneironaut known for Baedoor universe is **Xaine**.
+The only such oneironaut known for Baedoor universe is [Xaine](/Loreum/Topics/Characters/List/Xaine.md).
 
 ---
 ### ♨️ HISTORY
@@ -103,8 +103,8 @@ anomalies extremely rarely.
 
 <span style="color:#0099cc">**STARSHIFTERS**</span>  
 First voyagers of dreams, oneironauts of the oververse, were calling themselves as **Starshifters**,
-being a secret organisation established by **Xaine**, the first and the only physical oneironaut known
-to Baedoor universe by far.  
+being a secret organisation established by [Xaine](/Loreum/Topics/Characters/List/Xaine.md), the 
+first and the only physical oneironaut known to Baedoor universe by far.  
 He cared a lot about spreading information on true structure of reality, so Starshifters are known to
 be precisely selected people, wise enough to read and expand notes left by Xaine before he left Baedoor
 universe again.
