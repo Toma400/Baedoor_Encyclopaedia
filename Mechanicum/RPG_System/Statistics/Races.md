@@ -1,6 +1,7 @@
 # ♟️ Races
 
-Races are main aspect differentiating Baedoor inhabitants, ranging from regular humans, human-like tris or ormaths, to purely bestial races.  
+Races are main aspect differentiating Baedoor inhabitants, ranging from regular humans, 
+human-like tris or ormaths, to purely bestial races.  
 Each of those races have their modifiers for certain aspects.
 
 For more in-depth explanation on races, please visit Encyclopaedia Loreum.
@@ -28,7 +29,7 @@ Has subraces. All modifiers distribution depends on them.
 >   🌸CONN +5  
 >   ⚙️TECH +1  
 >   🔮MGCK +1  
->   ⛏️:repairs(+1), tool creating (+1)
+>   ⛏️:repairs(+1), tools (+1)
 
 **ORMATH**
 >   💠INT +2  
@@ -61,14 +62,14 @@ Has subraces. All modifiers distribution depends on them.
 >   ♦️Vampire  
 >   ⛏️:destruction (+2)
 
-**ERDS ♈**
+**ERD ♈**
 >   ❇️AGI +3  
 >   💠INT +3  
 >   ✴️STR -3  
    
 >   🌸CONN +5  
 >   🔮MGCK +8  
->   ⛏️: transformation (+2)
+>   ⛏️:transformation (+2)
 
 **LATOKA 🀄**  
 >   💠INT +2  
@@ -131,7 +132,7 @@ Has subraces. All modifiers distribution depends on them.
 >   ✴️STR +1  
 >   ☯️CHA -1  
    
->   ⛏️:tool creating (+1), smithing (+1)
+>   ⛏️:tools (+1), smithing (+1)
 
 **NORDWINIAN**
 >   ✴️STR +1  
@@ -200,7 +201,6 @@ Has subraces. All modifiers distribution depends on them.
 >   ♦️Animal friend  
 >   ⛏️:transformation (+1), restoration (+1) 
 
----
 
 ---
 
@@ -208,3 +208,6 @@ Has subraces. All modifiers distribution depends on them.
 - 🀄 - this race does not have `TECH/MAGCK` penalty
 - ♑ - this race does not have `VOID/CONN` penalty
 - ♈ - should be used for more advanced gameplay, since those races are pretty unbalanced
+
+---
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)

@@ -52,7 +52,7 @@ in Baedoor section:
 
 ### 📿 MODS
 I started my modding journey from small Battle for Wesnoth mod made in around 2012. Since it uses original
-images from World of Tanks, I upload it privately, since I can't do it officially.
+images from World of Tanks, I upload it privately, as I can't do it officially due to copyrights.
 
 Wrench means status of support - if the mod is maintained anymore.
 
@@ -65,8 +65,6 @@ Wrench means status of support - if the mod is maintained anymore.
 ---
 
 ### 🏯 GAMES
-I started my modding journey from small Battle for Wesnoth mod made in around 2012. Since it uses original
-images from World of Tanks, I upload it privately, since I can't do it officially.
 
 Wrench means status of support - if the game is maintained anymore.
 
@@ -158,7 +156,7 @@ plan, there was created one specific song for this project.
 ---
 
 ### 📜 POEMS
-**Lang** section will transfer you to the story in selected language. Poems without links were meant to either be private (marked with *), or were too weak to be published.  
+**Lang** section will transfer you to the poem in selected language. Poems without links were meant to either be private (marked with *), or were too weak to be published.  
 Poems with 💠 symbol have some Baedoor references.
 
 | No. | Date of creation | Name                                                  | Lang                                                                                                                                                                                                                                                                               |
@@ -258,7 +256,7 @@ Poems with 💠 symbol have some Baedoor references.
 ---
 ### 🧮️ COLLECTIONS  
 All things from previous sections which try to collect several stuff of mine.  
-**Lang** section will transfer you to the story in selected language.
+**Lang** section will transfer you to the collection in selected language.
 
 | Date of creation | Name                 | Lang                                                                                    | Description                                           |
 |------------------|----------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------|

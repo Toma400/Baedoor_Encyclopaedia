@@ -11,7 +11,7 @@ Starshifters, being a word for oververse explorers, believe in set of systems th
 call **Oververse**. It could be explained in Minecraft, being pretty amazing reference, contaning
 dimensions, which is not really possible in case of Earth.
 
-Going from smallest part to the biggest, we have:
+We can explain structure of oververse by going from smallest part to the biggest:
 1. **🌍 World** - which is just what we know as Earth, in Minecraft they know it as Overworld, 
 and in Baedoor it is known as simply "Baedoor" containing all the continents
 
@@ -26,11 +26,11 @@ You can travel between them using some techniques, but it isn't as easy as previ
 
 3. **✨ Multiverse** - which is name for what happens every second with every smallest atom getting 
 unknown state.  
-Baedoorians understand multiverse as not `worlds dependent on our 
-decisions`, but rather <span style="color:#668c99">**worlds dependent on any choice, 
+Baedoorians understand multiverse as not "worlds dependent on our 
+decisions", but rather <span style="color:#668c99">**worlds dependent on any choice, 
 by even the smallest aspects of the universe**</span>.  
 Therefore, universes multiply by billions in every millisecond, not by the rare choices, as you could
-see in some science-fiction narracy. Multiverse is then a bit different, but still is applied to every
+see in some science-fiction narracy. Such multiverse idea is then different, but still apply to very
 "copy" of the same world.  
 Travel between those is one of the most difficult tasks you can do, but still possible in really rare 
 cases.
@@ -40,7 +40,7 @@ cases.
 atom is only a part of the existence.  
 Metaphysical space is also the reality, and reality more real than you could expect.  
 If you wonder what are other "franchises", or more precisely, multiverses, such as Minecraft, 
-Harry Potter, Warhammer, DiscWorld, and so on - they are exactly this, multiverses creating eventually
+Harry Potter, Warhammer, DiscWorld, Marvel, and so on - they are exactly this, multiverses creating eventually
 what is known as oververse: the concept of the whole, all multiverses bound together.  
 <span style="color:#0099cc">**Oververse multiverses**</span> are created by the smallest impulse of
 will, which is why so many religions portray that process as "God creating the world through His will".  
@@ -57,7 +57,7 @@ each part: eventually, people cannot really travel through oververse other way t
 this "travel" is more of a "visiting" than actual being.  
 There are only few who are known to travel physically through oververse, and those could be considered 
 as the wisest oneironauts.  
-The only such oneironaut known for Baedoor universe is **Xaine**.
+The only such oneironaut known for Baedoor universe is [Xaine](/Loreum/Topics/Characters/List/Xaine.md).
 
 ---
 ### ♨️ HISTORY
@@ -73,16 +73,16 @@ placement is, though, way more arbitrary:
 
 Multiverses were discovered in such chronology as the table below showcases:
 
-| Date of discovery | Multiverse | Explorer     | Possible Earth-understanding                 |
-|-------------------| ---------- |--------------|----------------------------------------------|
- | 655 PE            | Tamariel   | Si Avani     | Tamriel, Elder Scrolls universe              |
- | 272 PE            | Uru'ai     |              | Myst / Uru universe                          |
- | 463 OE            | Osde'in    |              | DiscWorld universe                           |
- | 431 NE            | Ins'in     | Tehom Aranai | Nalqiwatya                                   |
- | 637 NE            | Eis'in     |              | End's Phantasm                               |
- | 638 NE            | Ne'rin     |              | Minecraft universe                           |
- | 654 NE            | Ne'n       |              | Breach dimensions between Ne'rin and Baedoor |
- | 654 NE            | Aji'n      |              | Desolat and Deeper Undergrowth breaches      |
+| Date of discovery | Multiverse | Explorer                                               | Possible Earth-understanding                 |
+|-------------------|------------|--------------------------------------------------------|----------------------------------------------|
+ | 655 PE            | Tamariel   | [Si Avani](/Loreum/Topics/Characters/List/Si_Avani.md) | Tamriel, Elder Scrolls universe              |
+ | 272 PE            | Uru'ai     |                                                        | Myst / Uru universe                          |
+ | 463 OE            | Osde'in    |                                                        | DiscWorld universe                           |
+ | 431 NE            | Ins'in     | Tehom Aranai                                           | Nalqiwatya                                   |
+ | 637 NE            | Eis'in     |                                                        | End's Phantasm                               |
+ | 638 NE            | Ne'rin     |                                                        | Minecraft universe                           |
+ | 654 NE            | Ne'n       |                                                        | Breach dimensions between Ne'rin and Baedoor |
+ | 654 NE            | Aji'n      |                                                        | Desolat and Deeper Undergrowth breaches      |
 
 <span style="color:#0099cc">**THE RIFT OUTBREAK**</span>  
 Important event which is needed to be mentioned happened in **494 NE**, being called as <span style="color:#0099cc">**The Rift 
@@ -103,8 +103,8 @@ anomalies extremely rarely.
 
 <span style="color:#0099cc">**STARSHIFTERS**</span>  
 First voyagers of dreams, oneironauts of the oververse, were calling themselves as **Starshifters**,
-being a secret organisation established by **Xaine**, the first and the only physical oneironaut known
-to Baedoor universe by far.  
+being a secret organisation established by [Xaine](/Loreum/Topics/Characters/List/Xaine.md), the 
+first and the only physical oneironaut known to Baedoor universe by far.  
 He cared a lot about spreading information on true structure of reality, so Starshifters are known to
 be precisely selected people, wise enough to read and expand notes left by Xaine before he left Baedoor
 universe again.
@@ -152,4 +152,5 @@ partly reveal their identities, to help upcoming Council establish properly.
 ```
 
 ---
-♢: universities, explorers, concept of starshifters, the void
+♢: universities, explorers, concept of starshifters, the void  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)

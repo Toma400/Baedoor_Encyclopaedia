@@ -13,3 +13,5 @@ If this section becomes too big, it can be split into linked sections in the fut
 </span>
 
 * [Oververse](Topics/World_Mechanics/Oververse.md)
+* [Si Avani](Topics/Characters/List/Si_Avani.md)
+* [Xaine](Topics/Characters/List/Xaine.md)
