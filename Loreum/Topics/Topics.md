@@ -11,7 +11,7 @@
 ### 🕌 Religions
 ### 🏯 Guilds
 ### ⚜️ Factions
-### 🌸 Characters
+### 🌸 [Characters](Characters.md)
 
 ---
 ✥

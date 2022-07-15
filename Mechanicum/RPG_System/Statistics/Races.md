@@ -62,7 +62,7 @@ Has subraces. All modifiers distribution depends on them.
 >   ♦️Vampire  
 >   ⛏️:destruction (+2)
 
-**ERDS ♈**
+**ERD ♈**
 >   ❇️AGI +3  
 >   💠INT +3  
 >   ✴️STR -3  
