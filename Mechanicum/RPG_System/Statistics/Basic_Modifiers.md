@@ -53,7 +53,12 @@ Used during actions, and within time (1 minute)
 **SP/HNG/THR < 0**, abilities temporarily going down -1 for each -100)  
 **SP > 1k**, resets back to SP=1000;  
 **HNG/THR > 1k**, abilities going down -1 for each +100)
-- SPD - depends on AGI, system will be designed in near future
+- SPD - depends on AGI, with base value being 1. Uses functions shown below:
+
+<img alt="Speed Func" height="70" src="/Assets/speed_function.jpg" width="180"/>
+Where f(x) is used for AGI level up to 70, and g(x) is used after that level.  
+
+<img alt="Speed Graph" height="110" src="/Assets/speed_graph.jpg" width="200"/>
 
 ⛎ **POWER MODIFIERS**   
 - TECH lowers MAGCK. 1 TECH = -1 MAGCK
