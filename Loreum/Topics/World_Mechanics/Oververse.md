@@ -40,7 +40,7 @@ cases.
 atom is only a part of the existence.  
 Metaphysical space is also the reality, and reality more real than you could expect.  
 If you wonder what are other "franchises", or more precisely, multiverses, such as Minecraft, 
-Harry Potter, Warhammer, DiscWorld, and so on - they are exactly this, multiverses creating eventually
+Harry Potter, Warhammer, DiscWorld, Marvel, and so on - they are exactly this, multiverses creating eventually
 what is known as oververse: the concept of the whole, all multiverses bound together.  
 <span style="color:#0099cc">**Oververse multiverses**</span> are created by the smallest impulse of
 will, which is why so many religions portray that process as "God creating the world through His will".  

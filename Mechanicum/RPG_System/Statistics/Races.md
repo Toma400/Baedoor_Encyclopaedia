@@ -29,7 +29,7 @@ Has subraces. All modifiers distribution depends on them.
 >   🌸CONN +5  
 >   ⚙️TECH +1  
 >   🔮MGCK +1  
->   ⛏️:repairs(+1), tool creating (+1)
+>   ⛏️:repairs(+1), tools (+1)
 
 **ORMATH**
 >   💠INT +2  
@@ -69,7 +69,7 @@ Has subraces. All modifiers distribution depends on them.
    
 >   🌸CONN +5  
 >   🔮MGCK +8  
->   ⛏️: transformation (+2)
+>   ⛏️:transformation (+2)
 
 **LATOKA 🀄**  
 >   💠INT +2  
@@ -132,7 +132,7 @@ Has subraces. All modifiers distribution depends on them.
 >   ✴️STR +1  
 >   ☯️CHA -1  
    
->   ⛏️:tool creating (+1), smithing (+1)
+>   ⛏️:tools (+1), smithing (+1)
 
 **NORDWINIAN**
 >   ✴️STR +1  
