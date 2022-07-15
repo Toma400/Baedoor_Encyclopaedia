@@ -1,15 +1,14 @@
-# 🎆 Tags
+# 🎆 Tagi
 
 ---
-Tags are additional form of searching introduced in current Encyclopaedia, allowing you to browse
-index elements within separated categories.  
-If this section becomes too big, it can be split into linked sections in the future.
+Tagi są dodatkową formą szukania wprowadzoną do obecnej Encyklopedii, pozwalając
+na szukanie elementów z indeksu przez ich tematykę.
 
 ---
 <span style="color:#8F3DA5">
 
-### 💫 UNIVERSE
+### 💫 UNIWERSUM
 
 </span>
 
-* [Oververse](Topics/World_Mechanics/Oververse.md)
+* [Wszechwers](Topics/World_Mechanics/Oververse.md)

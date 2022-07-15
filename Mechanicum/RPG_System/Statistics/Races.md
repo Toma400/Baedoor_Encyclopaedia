@@ -1,25 +1,26 @@
-# ♟️ Races
+# ♟️ Rasy
 
-Races are main aspect differentiating Baedoor inhabitants, ranging from regular humans, human-like tris or ormaths, to purely bestial races.  
-Each of those races have their modifiers for certain aspects.
+Rasy są głównym aspektem rozróżniającym mieszkańców Baedoor. Możemy wyróżnić
+najróżniejsze typy ras, od ludzi, rasy człowiecze, po bestialskie.  
+Każda z tych raz ma swoje modyfikatory do specyficznych cech.
 
-For more in-depth explanation on races, please visit Encyclopaedia Loreum.
+Bardziej dokładny opis ras może być znaleziony w Encyklopedii Loreum.
 
 ---
 
-## MAIN RACES
+## GŁÓWNE RASY
 
 
-**HUMAN**  
-Has subraces.  
+**CZŁOWIEK**  
+Posiada subrasy.  
 >   ✴️STR +1  
 >   ☯️CHA +1  
 >   💠INT +1  
 
 **TRI**  
-Has subraces. All modifiers distribution depends on them.
+Posiadają subrasy. Wszystkie modyfikatory są zależne od nich.
 
-**GHLOD'HYR (GHLOD) 🀄**
+**GHLOD'HYR (GŁODD) 🀄**
 >   ❇️AGI +2  
 >   ✴️STR +1  
 >   🔱END +1  
@@ -28,7 +29,7 @@ Has subraces. All modifiers distribution depends on them.
 >   🌸CONN +5  
 >   ⚙️TECH +1  
 >   🔮MGCK +1  
->   ⛏️:repairs(+1), tool creating (+1)
+>   ⛏️:naprawa(+1), narzędzia (+1)
 
 **ORMATH**
 >   💠INT +2  
@@ -39,7 +40,7 @@ Has subraces. All modifiers distribution depends on them.
 >   🌸CONN +7  
 >   🔮MGCK +2  
 >   🌑VOID -20  
->   ⛏️:healing (+1), connection (+1)
+>   ⛏️:leczenie (+1), zjednoczenie (+1)
 
 **ETT**  
 >   🔱END +2  
@@ -48,7 +49,7 @@ Has subraces. All modifiers distribution depends on them.
 >   ❇️AGI -1
    
 >   ⚙️TECH +6  
->   ⛏️:smithing (+1), traps (+1)
+>   ⛏️:kowalstwo (+1), pułapki (+1)
 
 **KEHT ♈**  
 >   ✴️STR +2  
@@ -58,17 +59,17 @@ Has subraces. All modifiers distribution depends on them.
    
 >   🌑VOID +4  
 >   🔮MAGCK +3  
->   ♦️Vampire  
->   ⛏️:destruction (+2)
+>   ♦️Wampir  
+>   ⛏️:destrukcja (+2)
 
-**ERDS ♈**
+**ERD ♈**
 >   ❇️AGI +3  
 >   💠INT +3  
 >   ✴️STR -3  
    
 >   🌸CONN +5  
 >   🔮MGCK +8  
->   ⛏️: transformation (+2)
+>   ⛏️:transformacja (+2)
 
 **LATOKA 🀄**  
 >   💠INT +2  
@@ -78,7 +79,7 @@ Has subraces. All modifiers distribution depends on them.
    
 >   🌸CONN +1  
 >   ⚙️TECH +2  
->   ⛏️:healing (+1), resource processing (+1)
+>   ⛏️:leczenie (+1), przetwarzanie surowców (+1)
 
 **TERTEN ♈♑**
 >   ✴️STR +2  
@@ -89,8 +90,8 @@ Has subraces. All modifiers distribution depends on them.
 >   🔮MAGCK +3  
 >   🌑VOID +8  
 >   🌸CONN +2  
->   ♦️Undead  
->   ⛏️:necromancy (+2)
+>   ♦️Nieumarły  
+>   ⛏️:nekromancja (+2)
 
 **STHEYR ♈**  
 >   🔱AGI +4  
@@ -99,61 +100,61 @@ Has subraces. All modifiers distribution depends on them.
 >   💠INT -2  
 >   ☯️CHA -4
    
->   ♦️Bodies harvesting  
+>   ♦️Pożeranie ciał  
 >   ♦️Stheyr  
->   ⛏️:resource processing (+2), handfight (+7)
+>   ⛏️:przetwarzanie surowców (+2), walka wręcz (+7)
 
 ---
 
-## SUBRACES
+## SUBRASY
 
 ---
 
-### HUMAN
+### CZŁOWIEK
 
 ---
 
-**BAEDOORIAN**
+**BAEDOORCZYK**
 >   ☯️CHA +1  
 >   🔱END -1
    
 >   ⚙️TECH +3  
->   ⛏️:firearms (+1), persuasion (+1)
+>   ⛏️:broń palna (+1), perswazja (+1)
 
-**JITADIAN**
+**JITADCZYK**
 >   💠INT +1  
 >   ✴️STR -1  
    
 >   ⚙️TECH +2  
->   ⛏️:firearms (+1), smithing (+1)
+>   ⛏️:broń palna (+1), kowalstwo (+1)
 
-**MRRAN**
+**MRRAŃCZYK**
 >   ✴️STR +1  
 >   ☯️CHA -1  
    
->   ⛏️:tool creating (+1), smithing (+1)
+>   ⛏️:narzędzia (+1), kowalstwo (+1)
 
-**NORDWINIAN**
+**NORDWIŃCZYK**
 >   ✴️STR +1  
 >   🔱END +1  
 >   ☯️CHA -1  
 >   💠INT -1
    
->   ⛏️:resource processing (+1), longswords (+1)
+>   ⛏️:przetwarzanie surowców (+1), broń długa (+1)
 
-**MOONLANDERS**
+**LUDY KSIĘŻYCOWE**
 >   💠INT +1  
 >   ☯️CHA +1  
 >   ✴️STR -1  
 >   🔱END -1
 
->   ⛏️:alchemy (+1), herbalism (+1)
+>   ⛏️:alchemia (+1), zielarstwo (+1)
 
-**MS INPEANS**
+**MS INPEJCZYK**
 >   🔱END +1  
 >   ❇️AGI -1
    
->   ⛏️:trade (+1), longswords (+1)
+>   ⛏️:handel (+1), broń długa (+1)
 
 ---
 
@@ -169,7 +170,7 @@ Has subraces. All modifiers distribution depends on them.
 >   🌑VOID +2,  
 >   ⚙️TECH +1    
 >   ♦️Berserk  
->   ⛏️:survival (+1), handfight (+1)    
+>   ⛏️:przetrwanie (+1), walka wręcz (+1)    
 
 **VOITRI**
 >   💠INT +2  
@@ -179,7 +180,7 @@ Has subraces. All modifiers distribution depends on them.
    
 >   ⚫VOID +2  
 >   🔮MGCK +4  
->   ⛏️:transformation (+1), destruction (+1)
+>   ⛏️:transformacja (+1), destrukcja (+1)
 
 **SAPHTRI**  
 >   ❇️AGI +2  
@@ -188,7 +189,7 @@ Has subraces. All modifiers distribution depends on them.
 >   ✴️STR -1  
    
 >   🌸CONN +1  
->   ⛏️:archery (+2)
+>   ⛏️:łucznictwo (+2)
 
 **LUNATRI**
 >   ❇️AGI +2  
@@ -197,14 +198,14 @@ Has subraces. All modifiers distribution depends on them.
 >   ✴️STR -1  
    
 >   🔮MGCK +6  
->   ♦️Animal friend  
->   ⛏️:transformation (+1), restoration (+1) 
+>   ♦️Przyjaciel zwierząt  
+>   ⛏️:transformacja (+1), odnowienie (+1) 
 
 ---
 
 ---
 
-#### Legend:
-- 🀄 - this race does not have `TECH/MAGCK` penalty
-- ♑ - this race does not have `VOID/CONN` penalty
-- ♈ - should be used for more advanced gameplay, since those races are pretty unbalanced
+#### Legenda:
+- 🀄 - ta rasa nie posiada kary `TECH/MAGCK` 
+- ♑ - ta rasa nie posiada kary `VOID/CONN` 
+- ♈ - rasa ta powinna być użyta przy bardziej zaawansowanej grze, gdyż jest niezbalansowana
