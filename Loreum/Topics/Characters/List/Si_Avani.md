@@ -9,4 +9,5 @@ It is widely known by his membership in **Starshifters** organisation and discov
 multiverse known to Baedoor universe - **Tamariel**.
 
 ---
-♜✥
+♜✥  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)

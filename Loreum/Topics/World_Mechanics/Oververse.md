@@ -152,4 +152,5 @@ partly reveal their identities, to help upcoming Council establish properly.
 ```
 
 ---
-♢: universities, explorers, concept of starshifters, the void
+♢: universities, explorers, concept of starshifters, the void  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)

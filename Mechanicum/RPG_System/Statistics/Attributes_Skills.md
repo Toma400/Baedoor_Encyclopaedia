@@ -67,3 +67,6 @@ Not expandable, once-gatherable (with race, class or by learning).
 
 ¹ - one point guaranteed by default  
 ² - available for characters having positive connection alignment
+
+---
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)

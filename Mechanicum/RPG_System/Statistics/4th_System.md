@@ -24,4 +24,5 @@ but closes way to another forms of path magic instead).
 ## Changelog
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)

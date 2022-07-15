@@ -118,3 +118,6 @@ it is mostly bonus to some skills.
    📜 Erd  
    ♦️ Walking on water  
    ⛏️ Transformation (+2), Toughness (-1)
+
+---
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)

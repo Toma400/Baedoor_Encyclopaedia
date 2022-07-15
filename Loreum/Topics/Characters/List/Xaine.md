@@ -13,4 +13,5 @@ In public understanding, Xaine is understood as traveller from outside of Baedoo
 there thanks to some form of breach, Rift or his own unknown knowledge.
 
 ---
-♜✥
+♜✥  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)

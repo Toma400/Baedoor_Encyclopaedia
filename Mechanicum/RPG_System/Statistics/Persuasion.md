@@ -27,4 +27,5 @@ p - persuasion value
 c - charisma value
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)

@@ -32,3 +32,6 @@ skill points on elements you find the most useful for yourself.
 Whether you play table RPG or any game offering you visual experience, you can end 
 creating process by drawing or choosing image of your persona.  
 After that, all is done. Have fun travelling roads of Baedoor universe!
+
+---
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)

@@ -1,5 +1,8 @@
 # ♟️ Basic Modifiers
 
+---
+
+
 Basic modifiers are what is building our hero during the journey. 
 All of them are inherited either from hero's secondary modifiers or the journey itself.
 
@@ -42,7 +45,7 @@ Skills level up during your actions.
 - XP (add) = XPxMOD (MOD = [INT/5]/10, +1)
 - XP (limit) = LVLx12 (LVLup = reset XP)
 - WGH (limit) = STRx4 (WGH>WGHlimit = lowers the speed with each 4WGH over the limit)
-- DTX = [END*0.1] + [Survival*0.1] [DTX from poison, addictions, alcohol effects and narcotics]
+- DTX = END x 0.1 + Survival x 0.1 ``DTX from poison, addictions, alcohol effects and narcotics``
 
 ♉ **OPTIONAL MODIFIERS**
 - HNG = default 1000
@@ -76,7 +79,4 @@ Initial character creation has predetermined values, so all alignments (increase
 Samely, MAGCK decrease in example wouldn't happen if race has lowering disabled.
 
 ---
-♜
-[<< Back to RPG system menu](/)
-
-<span style="color:blue">empty passage - SPD, DTX (trucizny, alkohol, narkotyki oddzielnie) obliczeniowo</span>
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)

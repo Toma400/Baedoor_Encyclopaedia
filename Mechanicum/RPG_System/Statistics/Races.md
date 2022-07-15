@@ -201,7 +201,6 @@ Has subraces. All modifiers distribution depends on them.
 >   ♦️Animal friend  
 >   ⛏️:transformation (+1), restoration (+1) 
 
----
 
 ---
 
@@ -209,3 +208,6 @@ Has subraces. All modifiers distribution depends on them.
 - 🀄 - this race does not have `TECH/MAGCK` penalty
 - ♑ - this race does not have `VOID/CONN` penalty
 - ♈ - should be used for more advanced gameplay, since those races are pretty unbalanced
+
+---
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)
