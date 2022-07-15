@@ -42,7 +42,7 @@ Skills level up during your actions.
 - XP (add) = XPxMOD (MOD = [INT/5]/10, +1)
 - XP (limit) = LVLx12 (LVLup = reset XP)
 - WGH (limit) = STRx4 (WGH>WGHlimit = lowers the speed with each 4WGH over the limit)
-- DTX = depending on END [DTX from poison, addictions, alcohol effects and narcotics]
+- DTX = [END*0.1] + [Survival*0.1] [DTX from poison, addictions, alcohol effects and narcotics]
 
 ♉ **OPTIONAL MODIFIERS**
 - HNG = default 1000
@@ -55,10 +55,11 @@ Used during actions, and within time (1 minute)
 **HNG/THR > 1k**, abilities going down -1 for each +100)
 - SPD - depends on AGI, with base value being 1. Uses functions shown below:
 
-<img alt="Speed Func" height="70" src="/Assets/speed_function.jpg" width="180"/>
-Where f(x) is used for AGI level up to 70, and g(x) is used after that level.  
+<img alt="Speed Func" height="140" src="/Assets/speed_function.jpg" width="360" class="center"/>  
+Where f(x) is used for AGI level up to 70, and g(x) is used after that level. This can be shown 
+in graph in such manner:  
 
-<img alt="Speed Graph" height="110" src="/Assets/speed_graph.jpg" width="200"/>
+<img alt="Speed Graph" height="220" src="/Assets/speed_graph.jpg" width="400" class="center"/>
 
 ⛎ **POWER MODIFIERS**   
 - TECH lowers MAGCK. 1 TECH = -1 MAGCK
