@@ -1,8 +1,10 @@
 # ♟️ Basic Modifiers
 
-Basic modifiers are what is building our hero during the journey. All of them are inherited either from hero's secondary modifiers or the journey itself.
+Basic modifiers are what is building our hero during the journey. 
+All of them are inherited either from hero's secondary modifiers or the journey itself.
 
-During character creation, you can append two ability points and two skill points to your hero. Each levelling up gives you one ability point more to spend.  
+During character creation, you can append two attribute points and two skill points to your hero. 
+Each levelling up gives you one ability point more to spend.  
 Skills level up during your actions.
 
 ---
@@ -68,7 +70,7 @@ Initial character creation has predetermined values, so all alignments (increase
 Samely, MAGCK decrease in example wouldn't happen if race has lowering disabled.
 
 ---
-
+♜
 [<< Back to RPG system menu](/)
 
 <span style="color:blue">empty passage - SPD, DTX (trucizny, alkohol, narkotyki oddzielnie) obliczeniowo</span>

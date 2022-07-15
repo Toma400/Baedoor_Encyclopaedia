@@ -1,12 +1,13 @@
 # ♟️ Secondary modifiers
 
-Abilities are passive traits giving background to your basic modifiers. They can also rarily serve as bonus or modifier for some of your actions.
+Attributes are passive traits giving background to your basic modifiers. 
+They can also rarily serve as bonus or modifier for some of your actions.
 
 Skills, in the other hand, are results of your own work - and, samely as in life, the more you train, the better outcome you get.
 
 ---
-**ABILITIES**  
-By default, all abilities are at level 8.
+**ATTRIBUTES**  
+By default, all attributes are at level 8.
 
 - STR (Strength)
 - AGI (Agility)

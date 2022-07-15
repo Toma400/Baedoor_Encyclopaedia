@@ -1,6 +1,7 @@
 # ♟️ Races
 
-Races are main aspect differentiating Baedoor inhabitants, ranging from regular humans, human-like tris or ormaths, to purely bestial races.  
+Races are main aspect differentiating Baedoor inhabitants, ranging from regular humans, 
+human-like tris or ormaths, to purely bestial races.  
 Each of those races have their modifiers for certain aspects.
 
 For more in-depth explanation on races, please visit Encyclopaedia Loreum.

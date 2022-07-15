@@ -11,7 +11,7 @@ Starshifters, being a word for oververse explorers, believe in set of systems th
 call **Oververse**. It could be explained in Minecraft, being pretty amazing reference, contaning
 dimensions, which is not really possible in case of Earth.
 
-Going from smallest part to the biggest, we have:
+We can explain structure of oververse by going from smallest part to the biggest:
 1. **🌍 World** - which is just what we know as Earth, in Minecraft they know it as Overworld, 
 and in Baedoor it is known as simply "Baedoor" containing all the continents
 
@@ -26,11 +26,11 @@ You can travel between them using some techniques, but it isn't as easy as previ
 
 3. **✨ Multiverse** - which is name for what happens every second with every smallest atom getting 
 unknown state.  
-Baedoorians understand multiverse as not `worlds dependent on our 
-decisions`, but rather <span style="color:#668c99">**worlds dependent on any choice, 
+Baedoorians understand multiverse as not "worlds dependent on our 
+decisions", but rather <span style="color:#668c99">**worlds dependent on any choice, 
 by even the smallest aspects of the universe**</span>.  
 Therefore, universes multiply by billions in every millisecond, not by the rare choices, as you could
-see in some science-fiction narracy. Multiverse is then a bit different, but still is applied to every
+see in some science-fiction narracy. Such multiverse idea is then different, but still apply to very
 "copy" of the same world.  
 Travel between those is one of the most difficult tasks you can do, but still possible in really rare 
 cases.
