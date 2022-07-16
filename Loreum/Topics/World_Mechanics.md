@@ -3,7 +3,7 @@
 ---
 **🎆GENERAL**
 - [Oververse](World_Mechanics/Oververse.md)
-- Time
+- [Time](World_Mechanics/Time.md)
 - Creating Forces
 
 **🎇SPECIFIC**

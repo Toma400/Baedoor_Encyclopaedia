@@ -8,7 +8,7 @@ knowledge about the universe.
 ### 🧭 [Topics](Topics/Topics.md)
 ### 🎇 [Index](Index.md)
 ### 🎆 [Tags](Tags.md)
-### 🪔 Chronology search
+### 🪔 [Chronology search](Chronology/Chronology_Search.md)
 
 ---
 ### 📖 [Abbreviations](Abbrevs.md)

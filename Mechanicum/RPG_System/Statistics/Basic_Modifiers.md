@@ -21,12 +21,12 @@ Skills level up during your actions.
 - Maximum Weight (WGH)
 - Detoxication (DTX)
 - Morality Alignment (MORX, MORY)
+- Speed (SPD)
 
 ♉ **OPTIONAL MODIFIERS**
 
 - Hunger (HNG)
 - Thirst (THR)
-- Speed (SPD)
 
 ⛎ **POWER MODIFIERS** (from -20 to 20)
 
@@ -38,7 +38,7 @@ Skills level up during your actions.
 ---
 ### How modifiers are counted?
 
-♈ **MAIN**
+♈ **MAIN MODIFIERS**
 - HP = 20 + ENDx10 (if < 100, HP = 100)
 - MP = 20 + INTx10 + MAGCKx10
 - SP = default 1000 (look at optionals)
@@ -46,6 +46,13 @@ Skills level up during your actions.
 - XP (limit) = LVLx12 (LVLup = reset XP)
 - WGH (limit) = STRx4 (WGH>WGHlimit = lowers the speed with each 4WGH over the limit)
 - DTX = END x 0.1 + Survival x 0.1 ``DTX from poison, addictions, alcohol effects and narcotics``
+- SPD - depends on AGI, with base value being 1. Uses functions shown below:
+
+<img alt="Speed Func" height="140" src="/Assets/speed_function.jpg" width="360" class="center"/>  
+Where f(x) is used for AGI level up to 70, and g(x) is used after that level. This can be shown 
+in graph in such manner:  
+
+<img alt="Speed Graph" height="220" src="/Assets/speed_graph.jpg" width="400" class="center"/>
 
 ♉ **OPTIONAL MODIFIERS**
 - HNG = default 1000
@@ -56,13 +63,6 @@ Used during actions, and within time (1 minute)
 **SP/HNG/THR < 0**, abilities temporarily going down -1 for each -100)  
 **SP > 1k**, resets back to SP=1000;  
 **HNG/THR > 1k**, abilities going down -1 for each +100)
-- SPD - depends on AGI, with base value being 1. Uses functions shown below:
-
-<img alt="Speed Func" height="140" src="/Assets/speed_function.jpg" width="360" class="center"/>  
-Where f(x) is used for AGI level up to 70, and g(x) is used after that level. This can be shown 
-in graph in such manner:  
-
-<img alt="Speed Graph" height="220" src="/Assets/speed_graph.jpg" width="400" class="center"/>
 
 ⛎ **POWER MODIFIERS**   
 - TECH lowers MAGCK. 1 TECH = -1 MAGCK
