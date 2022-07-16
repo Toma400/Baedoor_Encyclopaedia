@@ -85,16 +85,16 @@ bardziej arbitralne:
 
 Multiwersa były odkrywane w takiej oto chronologii:
 
-| Data odkrycia | Multiwersum | Odkrywca     | Prawdopodobna nazwa w naszym świecie                               |
-|---------------|-------------|--------------|--------------------------------------------------------------------|
- | 655 CP        | Tamariel    | Si Avani     | Tamriel, uniwersum Elder Scrolls                                   |
- | 272 CP        | Uru'ai      |              | Uniwersum Myst / Uru                                               |
- | 463 SE        | Osde'in     |              | Świat Dysku                                                        |
- | 431 NE        | Ins'in      | Tehom Aranai | Nalqiwatya                                                         |
- | 637 NE        | Eis'in      |              | End's Phantasm                                                     |
- | 638 NE        | Ne'rin      |              | Uniwersum Minecrafta                                               |
- | 654 NE        | Ne'n        |              | Wymiar-wyłom pomiędzy Ne'rin a Baedoor                             |
- | 654 NE        | Aji'n       |              | Konstelacja wymiarów-wyłomów o nazwie Desolat i Deeper Undergrowth |
+| Data odkrycia | Multiwersum | Odkrywca                                               | Prawdopodobna nazwa w naszym świecie                               |
+|---------------|-------------|--------------------------------------------------------|--------------------------------------------------------------------|
+ | 655 CP        | Tamariel    | [Si Avani](/Loreum/Topics/Characters/List/Si_Avani.md) | Tamriel, uniwersum Elder Scrolls                                   |
+ | 272 CP        | Uru'ai      |                                                        | Uniwersum Myst / Uru                                               |
+ | 463 SE        | Osde'in     |                                                        | Świat Dysku                                                        |
+ | 431 NE        | Ins'in      | Tehom Aranai                                           | Nalqiwatya                                                         |
+ | 637 NE        | Eis'in      |                                                        | End's Phantasm                                                     |
+ | 638 NE        | Ne'rin      |                                                        | Uniwersum Minecrafta                                               |
+ | 654 NE        | Ne'n        |                                                        | Wymiar-wyłom pomiędzy Ne'rin a Baedoor                             |
+ | 654 NE        | Aji'n       |                                                        | Konstelacja wymiarów-wyłomów o nazwie Desolat i Deeper Undergrowth |
 
 <span style="color:#0099cc">**ROZSZCZELNIENIE**</span>  
 Ważnym wydarzeniem, które powinno być wspomniane, było <span style="color:#0099cc">
