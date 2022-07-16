@@ -1,17 +1,18 @@
-# 🧭 Topics
+# 🧭 Tematy
 
 ---
-### 🌌 [World Mechanics](World_Mechanics.md)
-### 🎎️ History
-### 📖 Literature
-### 🌏 Geography
-### 🌿 Nature
-### 💮 Races
-### ☸️ Languages
-### 🕌 Religions
-### 🏯 Guilds
-### ⚜️ Factions
-### 🌸 [Characters](Characters.md)
+
+### 🌌 [Mechaniki świata](World_Mechanics.md)
+### 🎎️ Historia
+### 📖 Literatura
+### 🌏 Geografia
+### 🌿 Natura
+### 💮 Rasy
+### ☸️ Języki
+### 🕌 Religie
+### 🏯 Gildie
+### ⚜️ Stronnictwa
+### 🌸 [Postacie](Characters.md)
 
 ---
 ✥
