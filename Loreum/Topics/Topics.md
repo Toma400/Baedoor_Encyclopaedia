@@ -1,6 +1,7 @@
 # 🧭 Tematy
 
 ---
+
 ### 🌌 [Mechaniki świata](World_Mechanics.md)
 ### 🎎️ Historia
 ### 📖 Literatura
@@ -11,7 +12,7 @@
 ### 🕌 Religie
 ### 🏯 Gildie
 ### ⚜️ Stronnictwa
-### 🌸 Postacie
+### 🌸 [Postacie](Characters.md)
 
 ---
 ✥

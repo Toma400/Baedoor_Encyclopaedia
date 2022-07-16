@@ -201,7 +201,6 @@ Posiadają subrasy. Wszystkie modyfikatory są zależne od nich.
 >   ♦️Przyjaciel zwierząt  
 >   ⛏️:transformacja (+1), odnowienie (+1) 
 
----
 
 ---
 
@@ -209,3 +208,6 @@ Posiadają subrasy. Wszystkie modyfikatory są zależne od nich.
 - 🀄 - ta rasa nie posiada kary `TECH/MAGCK` 
 - ♑ - ta rasa nie posiada kary `VOID/CONN` 
 - ♈ - rasa ta powinna być użyta przy bardziej zaawansowanej grze, gdyż jest niezbalansowana
+
+---
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)

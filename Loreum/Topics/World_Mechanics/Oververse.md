@@ -66,7 +66,7 @@ rozważamy. Ostatecznie, nikt nie może tak naprawdę podróżować przez wszech
 niż poprzez sny, a i taka "podróż" to bardziej "odwiedzanie" niż faktycznie bycie.  
 Tylko małej garstce udało się fizycznie podróżować przez wszechwers, i byli to
 najwybitniejsi podróżnicy snów.  
-Jedynym takim oneironautą znanym w świecie Baedoor jest **Xaine**.
+Jedynym takim oneironautą znanym w świecie Baedoor jest [Xaine](/Loreum/Topics/Characters/List/Xaine.md).
 
 ---
 ### ♨️ HISTORIA
@@ -81,6 +81,7 @@ rozszerzonym o inne spektrum rzeczywistości. Położenie multiwersów jest jedn
 bardziej arbitralne:
 
 <img alt="Oververse Sketch" height="422" src="/Assets/oververse_sketch.jpg" width="520"/>
+
 
 Multiwersa były odkrywane w takiej oto chronologii:
 
@@ -115,7 +116,7 @@ W przypadku multiwersów położonych dalej od pierścieni - jak chociażby nasz
 
 <span style="color:#0099cc">**GWIAZDOUNOSICIELE**</span>  
 Pierwsi podróżnicy snów, oneironauci wszechwersu, nazywali siebie **Gwiazdounosicielami**,
-przyjmując nazwę sekretnej organizacji założonej przez **Xaine**, jedynego fizycznego
+przyjmując nazwę sekretnej organizacji założonej przez [Xaine](/Loreum/Topics/Characters/List/Xaine.md), jedynego fizycznego
 podróżnika wszechwersu jakiego to uniwersum zna do tej pory.  
 Dbał on bardzo, by dzielić się informacjami dotyczącymi prawdziwej struktury
 rzeczywistości, więc Gwiazdounosiciele byli precyzyjnie wybraną grupą ludzi, dostatecznie
@@ -169,4 +170,5 @@ wiedzę.
 ```
 
 ---
-♢: universities, explorers, concept of starshifters, the void
+♢: universities, explorers, concept of starshifters, the void  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)

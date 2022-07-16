@@ -1,6 +1,7 @@
 # ♟️ Classes
 
-Class is another aspect modifying our hero's background. In case of class, it is mostly bonus to some skills.
+Class is another aspect modifying our hero's background. In case of class, 
+it is mostly bonus to some skills.
 
 ---
 
@@ -117,3 +118,6 @@ Class is another aspect modifying our hero's background. In case of class, it is
    📜 Erd  
    ♦️ Walking on water  
    ⛏️ Transformation (+2), Toughness (-1)
+
+---
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)

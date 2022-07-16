@@ -12,3 +12,5 @@ na szukanie elementów z indeksu przez ich tematykę.
 </span>
 
 * [Wszechwers](Topics/World_Mechanics/Oververse.md)
+* [Si Avani](Topics/Characters/List/Si_Avani.md)
+* [Xaine](Topics/Characters/List/Xaine.md)

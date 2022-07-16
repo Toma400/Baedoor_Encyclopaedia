@@ -21,6 +21,7 @@ Encyklopedia jest napisana dla trzeciej edycji systemu.
 - Podróżowanie
 - Zbieranie surowców
 - Interakcje z postaciami
+- Miasta
 - Walka
 - Użycie magii
 - Stronnictwa i gildie
