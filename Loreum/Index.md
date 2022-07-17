@@ -9,6 +9,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### S
 - [Si Avani](Topics/Characters/List/Si_Avani.md)
+- [Starshifters](Topics/Guilds/List/Starshifters.md)
 
 ### X
 - [Xaine](Topics/Characters/List/Xaine.md)

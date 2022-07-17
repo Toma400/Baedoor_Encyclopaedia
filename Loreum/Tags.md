@@ -14,4 +14,5 @@ If this section becomes too big, it can be split into linked sections in the fut
 
 * [Oververse](Topics/World_Mechanics/Oververse.md)
 * [Si Avani](Topics/Characters/List/Si_Avani.md)
+* [Starshifters](Topics/Guilds/List/Starshifters.md)
 * [Xaine](Topics/Characters/List/Xaine.md)
