@@ -6,6 +6,7 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 ---
 ### S
 - [Si Avani](Topics/Characters/List/Si_Avani.md)
+- [Starshifters](Topics/Guilds/List/Starshifters.md)
 
 ### X
 - [Xaine](Topics/Characters/List/Xaine.md)

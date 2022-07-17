@@ -9,8 +9,8 @@
 ### 💮 Rasy
 ### ☸️ Języki
 ### 🕌 Religie
-### 🏯 Gildie
-### ⚜️ Stronnictwa
+### 🏯 [Gildie](Guilds.md)
+### ⚜️ [Stronnictwa](Factions.md)
 ### 🌸 [Postacie](Characters.md)
 
 ---
