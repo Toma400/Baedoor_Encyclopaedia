@@ -9,8 +9,8 @@
 ### 💮 Races
 ### ☸️ Languages
 ### 🕌 Religions
-### 🏯 Guilds
-### ⚜️ Factions
+### 🏯 [Guilds](Guilds.md)
+### ⚜️ [Factions](Factions.md)
 ### 🌸 [Characters](Characters.md)
 
 ---

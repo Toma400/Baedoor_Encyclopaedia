@@ -2,7 +2,7 @@
 
 ---
 <span style="color:#99ccff">**Old Era**</span> is time counted from end of **Pre Era** and **Exodus** in
-year 1027 SE.
+year 1027 OE.
 
 **Old Era** is mostly known for rise of **Baedoor Empire** which dominated whole continent and became
 dominant power on its side of the universe.  
