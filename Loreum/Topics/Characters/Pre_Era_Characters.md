@@ -1,4 +1,4 @@
-# 🍁 Pre Era Characters
+# 🍁 Postaci Czasu Przederowego
 
 ---
 ### 🛕 JITADO
