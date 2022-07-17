@@ -146,9 +146,9 @@ W następnym wiekach, powstawały nowe sekcje uniwersytetów poświęcone wszech
 
 | Rok    | Uniwersytet lub organizacja                            | Miejsce powstania | Rada |
 |--------|--------------------------------------------------------|-------------------|------|
- | 976 PE | Gwiazdounosiciele                                      | Jitado            | 🟠   |
- | 220 PE | Głoddyjskie Obserwatoria Uniwersów                     | Seiteh            | 🟢   |
- | 55 PE  | Trijskie Stowarzyszenie Gwiezdne                       | Zachodni Księżyc  | 🟢   |
+ | 976 CP | Gwiazdounosiciele                                      | Jitado            | 🟠   |
+ | 220 CP | Głoddyjskie Obserwatoria Uniwersów                     | Seiteh            | 🟢   |
+ | 55 CP  | Trijskie Stowarzyszenie Gwiezdne                       | Zachodni Księżyc  | 🟢   |
  | 466 SE | Metagalaktyczne Skrzydło Uniwersytetu Oe'os            | Oe'os             | 🟢   |
  | 922 SE | Kryształ Adiany                                        | Septei            | 🟣   |
  | 112 NE | Czarny Uniwersytet                                     | Rossevette        | 🟣   |
