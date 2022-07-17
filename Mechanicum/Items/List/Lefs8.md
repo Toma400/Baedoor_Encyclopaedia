@@ -1,7 +1,7 @@
 # 🪔 Lefs 8
 
 ---
-<img alt="Lefs8" height="80" src="/Assets/item_lefs8.jpg" width="80"/>  
+<img alt="Lefs8" height="80" src="/Assets/item_lefs8.png" width="80"/>  
 
 ✭ Visualisation of Lefs8 in **Wastelands of Baedoor** mod.
 
