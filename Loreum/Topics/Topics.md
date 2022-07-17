@@ -1,7 +1,6 @@
 # 🧭 Tematy
 
 ---
-
 ### 🌌 [Mechaniki świata](World_Mechanics.md)
 ### 🎎️ Historia
 ### 📖 Literatura

@@ -1,18 +1,18 @@
-# 🪔 Old Era
+# 🪔 Stara Era
 
 ---
-<span style="color:#99ccff">**Old Era**</span> is time counted from end of **Pre Era** and **Exodus** in
-year 1027 SE.
+<span style="color:#99ccff">**Stara Era**</span> jest nazwą okresu między końcem
+**Czasu Przederowego** a **Exodusem**, który miał miejsce w roku 1027 SE.
 
-**Old Era** is mostly known for rise of **Baedoor Empire** which dominated whole continent and became
-dominant power on its side of the universe.  
-In the same time, Old Era is marked as time of expanding technology outside of Jitado and Seiteh, which
-gave birth to steampunk revolution all around the world.
+**Stara Era** jest znana głównie z powstania **Imperium Baedoor**, które zdominowało
+cały kontynent po swojej stronie uniwersum.  
+Jednocześnie, Stara Era wyznaczyła nowy okres w rozwoju technologii, poszerzając jej
+wpływ z Jitado i Seiteh na całe uniwersum, dając początek steampunkowej rewolucji.
 
 ---
-#### Old Era History
-#### Old Era Factions
-#### Old Era Characters
+#### Historia Starej Ery
+#### Stronnictwa Starej Ery
+#### Postacie Starej Ery
 
 ---
 ✥♢  
