@@ -3,7 +3,7 @@
 ---
 **🎆OGÓLNE**
 - [Wszechwers](World_Mechanics/Oververse.md)
-- Czas
+- [Czas](World_Mechanics/Time.md)
 - Siły
 
 **🎇SPECYFICZNE**

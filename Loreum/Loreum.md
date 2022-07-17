@@ -8,7 +8,7 @@ wszystkich informacji na temat tego świata.
 ### 🧭 [Tematy](Topics/Topics.md)
 ### 🎇 [Indeks](Index.md)
 ### 🎆 [Tagi](Tags.md)
-### 🪔 Szukanie chronologiczne
+### 🪔 [Szukanie chronologiczne](Chronology/Chronology_Search.md)
 
 ---
 ### 📖 [Skróty](Abbrevs.md)

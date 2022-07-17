@@ -20,6 +20,9 @@ but closes way to another forms of path magic instead).
    - Traveller - class slightly supporting traveller skills, as well as giving you special 
                  prices in inns and taverns (mostly for sleepovers)
 - Addition of new skills and activities (first edition parity).
+- Fixing some inconsistencies within perks and skills:
+   - Removal of `Vehicles Driving` and `Animal Training` perks - adding `Vehicles Driving` and 
+     `Animal Taming` skills instead
 
 ## Changelog
 
