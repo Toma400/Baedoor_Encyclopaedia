@@ -4,9 +4,11 @@
 Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności alfabetycznej.
 
 ---
+### G
+- [Gwiazdounosiciele](Topics/Guilds/List/Starshifters.md)
+
 ### S
 - [Si Avani](Topics/Characters/List/Si_Avani.md)
-- [Starshifters](Topics/Guilds/List/Starshifters.md)
 
 ### X
 - [Xaine](Topics/Characters/List/Xaine.md)
