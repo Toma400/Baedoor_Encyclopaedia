@@ -76,11 +76,11 @@ Wrench means status of support - if the game is maintained anymore.
 
 **🔨 Learning projects**
 
-| 🔧  | Date       | Name                      | Description                                                                              | Download                                                                       |
-|----|------------|---------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| 🔴  | 2018-03-12 | WarCards                  | Simple cardgame made in Python.                                                          | [Replit](https://replit.com/@Toma400/WarCards#main.py)                         |
-| 🔴  | 2018-03-20 | Temple Settlers           | Simple strategy made in Python, with resources gathering and building an empire.         | [Replit](https://replit.com/@Toma400/Temple-Settlers#main.py)                  |
-| 🔴  | 2018-07-29 | Between Shadows and Light | Full-blown text RPG made in Python, yet buggy and with extremely small location to play. | [Replit](https://replit.com/@Toma400/Between-Shadows-and-Light-rework#main.py) |
+| 🔧  | Date       | Name                      | Description                                                                              | Download                                                                                                                                                                      |
+|-----|------------|---------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🔴  | 2018-03-12 | WarCards                  | Simple cardgame made in Python.                                                          | [Replit](https://replit.com/@Toma400/WarCards#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                         |
+| 🔴  | 2018-03-20 | Temple Settlers           | Simple strategy made in Python, with resources gathering and building an empire.         | [Replit](https://replit.com/@Toma400/Temple-Settlers#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                  |
+| 🔴  | 2018-07-29 | Between Shadows and Light | Full-blown text RPG made in Python, yet buggy and with extremely small location to play. | [Replit](https://replit.com/@Toma400/Between-Shadows-and-Light-rework#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing) |
 
 ---
 
@@ -262,3 +262,22 @@ All things from previous sections which try to collect several stuff of mine.
 |------------------|----------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------|
 | 2021-01-08       | Duch Nieskończoności | [🇵🇱](https://drive.google.com/file/d/1KgrlGnznHZ3pDogHoa1O0RFGHPC3_Rqq/view?usp=sharing) | Collection of scenes (short texts without true story) |
 | 2021-01-25       | Przez Pustynie Serca | [🇵🇱](https://drive.google.com/file/d/1kdLMS0IhLfuX401W0jzTA20jQ8zQOha3/view?usp=sharing) | Collection of 42 poems, with small corrections        |
+
+### 📿 LOST AND FOUND
+All stuff outside of anything official, but still worth nothing just for cataloguing purposes.
+
+| Date of creation | Name                                        | Description                                                                                                                                                                       | URL                                                                                           |
+|------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| 2019-07-31       | Forgotten Journeys Through Waste Years      | Compilation of all stuff I've made from 2018 to 2020. This compilation is making me pretty ashamed on how terrible quality songs it have - they still are songs I've made, though | [Drive](https://drive.google.com/drive/folders/1kY9XS2D34mE2QbO5YcZpcbSzRHgD_zct?usp=sharing) |
+| 2019-08-30       | A Lonely Violinist (The Book of Seth Remix) | Remix under **The Book of Seth** name for my father's single                                                                                                                      | [Bandcamp](https://ghostofsunset.bandcamp.com/album/a-lonely-violinist)                       |
+
+Although **Forgotten Journeys Through Waste Years** is pretty bad compilation, I've spent over a
+month to handdraw the cover art for it, and then, reshape it in GIMP. And even though it's nowhere
+close to be good cover art, I have some big nostalgia for it - maybe because the cover art itself
+uses so many symbols being close to my heart, who knows?
+
+<img alt="Cover Art" height="936" src="/Assets/old_compilation.png" width="930"/>
+
+For the context, knowledge on ancient greek and Baedoor lore is pretty required to understand all
+weird symbols put. General symbolical knowledge (including niches such as native african symbols) is
+also highly recommended to have full context.
