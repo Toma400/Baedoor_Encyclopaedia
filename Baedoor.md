@@ -3,6 +3,7 @@
 * [Overview](Baedoor.md#what-is-baedoor)
 * [Baedoor RPG System](Baedoor.md#what-is-baedoor-rpg-system)
 * [Short History](Baedoor.md#short-history-of-baedoor-universe-and-rpg-system)
+* [List of Baedoor games](Baedoor.md#baedoor-works)
 
 ***
 # What Is Baedoor?
@@ -60,7 +61,7 @@ All geeky details are available in [Mechanicum](Mechanicum/RPG_System/RPG_System
 ***
 # Short History of Baedoor Universe and RPG System
 
-### Trinity
+### 🪔 ️Trinity
 Baedoor RPG System was firstly introduced in three games made by me in my childhood, 
 when I liked to create my own paper-based games and started creating Baedoor Universe.  
 They didn't have strict name, being forever "work in progress" in fact, but I refer to them 
@@ -78,7 +79,7 @@ open for player's initiative: player was both Game Master and Player. Therefore 
 dependent on him and his will - rules were just small guides to be followed, but not strictly, 
 if that contradicted player's will.
 
-### Baedoor as notebook RPG
+### 🪔 Baedoor as notebook RPG
 
 There was several iterations of Baedoor RPG games introduced by that time, 
 each one showed also new lands (respectively: Baedoor Island, WesternWald, Vershation Highlands, 
@@ -98,7 +99,7 @@ stories in this era would destroy what I created before - being marked with my c
 (eventually it didn't matter, since newer stories take place in various eras and lands, 
 but it mattered for me at the time).
 
-### Between Shadows and Light
+### 🧱 Between Shadows and Light
 
 The real change for RPG system came in similar time, with Between Shadows and Lights, 
 being my study project to pass lessons. It was written in Python in 2018, using most 
@@ -123,7 +124,7 @@ since it was written entirely in Polish.
 ***Revisioning-Toma here:** it eventually became available thanks to this Encyclopaedia. Check [Author](Author.md)
 page to get your hands on Between Shadows and Lights, if you want to.*
 
-### Gaming hiatus
+### ❄️ Gaming hiatus
 
 Baedoor universe then became my universe where I tried to write stories more frequently: 
 abandoning cRPG ideas, I decided to focus on stories, which I had written before, but never finished.   
@@ -139,7 +140,7 @@ It led to Ghlodds having its distinct, really weird language, in which I even tr
 lore-based poetry, using the name of poet Nansaai Narayana (and somehow, I also included it in 
 "real-life" poetry, such as in [this poem](https://drive.google.com/file/d/1B0GTSDmfjdpSsHbKb8AJquiE6ezEEctf/view?usp=sharing) which uses Ghloddish title).
 
-### Minecraft modding
+### 📿 Minecraft modding
 
 Next part of Baedoor universe expansion came with 
 [Wastelands of Baedoor](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor) 
@@ -155,7 +156,7 @@ lot of my creations. It also helped me with deciding which features and items sh
 because Baedoor universe had grounded features for a lot of time - my work was only to make it 
 Minecraft-friendly.
 
-### Modding continued
+### 📿 Modding continued
 
 Once WoB got released and I received positive feedback on it, I decided to part it into three pieces:
 - **Wastelands** - being original mod, focusing on steampunk, airships and guns
@@ -174,7 +175,7 @@ a month).
 is maintained from this point on. Additionally to better code, it also supports modding from the
 earliest version.
 
-### Current times
+### ✨ Current times
 
 Well, you can guess that current times are basically maintaining the projects above - because this is
 mostly what I do.  
@@ -209,6 +210,7 @@ and who knows, maybe we will meet across the road someday?
 ### Upcoming
 * [2022] The Isle of Ansur `indev`
 * [2022] Civilisations of Baedoor `indev`
+* [2022] Baedooria `indev`
 * [ ` ? ` ] Spires of Baedoor
 #### Far future?
 * [ ` ? ` ] Temple Settlers 2

@@ -54,7 +54,7 @@ in Baedoor section:
 I started my modding journey from small Battle for Wesnoth mod made in around 2012. Since it uses original
 images from World of Tanks, I upload it privately, as I can't do it officially due to copyrights.
 
-Wrench means status of support - if the mod is maintained anymore.
+Wrench means status of support - if the mod is still maintained.
 
 | 🔧 | Name                     | Original game      | Description                                                                                                 | Download                                                                                      |
 |---|--------------------------|--------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
@@ -66,7 +66,7 @@ Wrench means status of support - if the mod is maintained anymore.
 
 ### 🏯 GAMES
 
-Wrench means status of support - if the game is maintained anymore.
+Wrench means status of support - if the game is still maintained.
 
 **🎎 True Games**
 
@@ -81,6 +81,18 @@ Wrench means status of support - if the game is maintained anymore.
 | 🔴  | 2018-03-12 | WarCards                  | Simple cardgame made in Python.                                                          | [Replit](https://replit.com/@Toma400/WarCards#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                         |
 | 🔴  | 2018-03-20 | Temple Settlers           | Simple strategy made in Python, with resources gathering and building an empire.         | [Replit](https://replit.com/@Toma400/Temple-Settlers#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                  |
 | 🔴  | 2018-07-29 | Between Shadows and Light | Full-blown text RPG made in Python, yet buggy and with extremely small location to play. | [Replit](https://replit.com/@Toma400/Between-Shadows-and-Light-rework#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing) |
+
+---
+
+### ⚗️ SOFTWARE
+
+Wrench means status of support - if the program is still maintained.
+
+**🎎 True Games**
+
+| 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                 |
+|----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+| 🟢 | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE) |
 
 ---
 
@@ -263,7 +275,51 @@ All things from previous sections which try to collect several stuff of mine.
 | 2021-01-08       | Duch Nieskończoności | [🇵🇱](https://drive.google.com/file/d/1KgrlGnznHZ3pDogHoa1O0RFGHPC3_Rqq/view?usp=sharing) | Collection of scenes (short texts without true story) |
 | 2021-01-25       | Przez Pustynie Serca | [🇵🇱](https://drive.google.com/file/d/1kdLMS0IhLfuX401W0jzTA20jQ8zQOha3/view?usp=sharing) | Collection of 42 poems, with small corrections        |
 
-### 📿 LOST AND FOUND
+### 🍁️ ️️SMALLER MODDING PROJECTS
+Aside from mods, I also created some projects related to modding, but not being mods in their strict
+sense.
+
+<span style="color:#668c99">**🔥️ ADDONS**  
+Addons are mods which depend on other mods, because they usually create just some additional content
+related to the parent mod.
+</span>
+
+| Published  | Name     | Description                                                                                                                   | URL                                                                                                     |
+|------------|----------|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 2022-01-07 | Woodpact | Mod adding compatibility between **Wastelands of Baedoor** and **Oh The Biomes You'll Go** mods, adding WoB variants of wood. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor-oh-the-biomes-youll-go) |
+
+<span style="color:#668c99">**❄️ MODPACKS**  
+Modpacks are names for collection of mods which serve some specific purpose - usually gameplay-wise.
+This is kinda popular way for regular players to get in touch with modded experience without
+sacrificing lots of hours on searching for mods and testing incompatibilities.
+</span>
+
+| Published     | Name                                                 | Description                                                                                                                                                                         | URL                                                                                                         |
+|---------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| 🟢 2022-05-02 | Earth on Hell:<br> Paths Through Forgotten Dimension | Nether-based modpack adding lush, survival experience to this dimension. **Minecraft 1.16**                                                                                         | [CurseForge](https://www.curseforge.com/minecraft/modpacks/earth-on-hell-paths-through-forgotten-dimension) |
+| 🔵 2022-02-27 | Refuse To Forget                                     | Nostalgic modpack on **Minecraft 1.12**, adding "best of" mods in my opinion                                                                                                        | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               | 
+| 🔵 2022-02-27 | Constellation of Ancient Cities                      | **Minecraft 1.16** modpack for my beloved world, trying to be "best of builder/exploring" vanilla+ modpack                                                                          | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               | 
+| 🔵 2022-02-27 | The Deep Awakening                                   | Modpack on **Minecraft 1.15** mods, a bit chaotic, but very enjoyable group of exploring-aimed MCreator mods                                                                        | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               | 
+| 🔵 2022-02-27 | Insanity                                             | Full-chaos modpack on **Minecraft 1.16** which is made for extreme fun and testing tech mods such as IE and Create, as well as storing some amazing mods not fitting other modpacks | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               | 
+| 🔵 2022-02-27 | Everlasting                                          | Adventure-aimed **Minecraft 1.16** modpack with a lot of non-vanilla mods, being a bit of "I don't care about building" CoAC variant                                                | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               |
+| 🔵 2022-02-27 | Cliffied and Cavified                                | **Minecraft 1.18** modpack for testing 1.18 version. Just bunch of interesting mods and a bit of testing ground for me back in the days. Features some magic mods, for example.     | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               |
+
+### 🎭 COLLABORATIONS
+Despite me being lone wolf as a creator, I have made attempts to contribute to some projects, or even
+were a part of a teams during those times.
+
+```
+TAGS:
+--------------
+📿 MOD
+```
+
+| Time of collab    | Tag | Name    | What is the project                                                                                            |               My role                |                                  URL                                  |
+|-------------------|:---:|---------|----------------------------------------------------------------------------------------------------------------|:------------------------------------:|:---------------------------------------------------------------------:|
+| 2021-12 🔹 2022-03 | 📿  | Desolat | Mod around desert dimension, Desolat. Eventually made a reference to it in Baedoor universe (Aji'n multiverse) | **Collaborator**<br>Made small fixes | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedesolat) |
+
+---
+### ☠️ LOST AND FOUND
 All stuff outside of anything official, but still worth nothing just for cataloguing purposes.
 
 | Date of creation | Name                                        | Description                                                                                                                                                                       | URL                                                                                           |
