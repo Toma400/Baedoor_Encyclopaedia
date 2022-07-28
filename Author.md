@@ -88,8 +88,6 @@ Wrench means status of support - if the game is still maintained.
 
 Wrench means status of support - if the program is still maintained.
 
-**🎎 True Games**
-
 | 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                 |
 |----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
 | 🟢 | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE) |
@@ -263,7 +261,8 @@ Poems with 💠 symbol have some Baedoor references.
 | 87  | 2022-05-06       | Gottensmenschen                                       | [🇵🇱](https://drive.google.com/file/d/1j10R2o-TEhSlLCZ-ZPbvqdaTo-NiaEaB/view?usp=sharing)                                                                                                                                                                                         | 
 | 88  | 2022-06-06       | Szomorú Szívemen                                      | [🇵🇱](https://drive.google.com/file/d/1VPj7FB0cXeF4C1hqYA6hO9lkTmOvdi1o/view?usp=sharing)                                                                                                                                                                                         | 
 | 89  | 2022-06-17       | Po Swoich Krokach                                     | [🇵🇱](https://drive.google.com/file/d/1z_bRseX0UCaFFlOl0wBCPPQFNthODF9d/view?usp=sharing)                                                                                                                                                                                         | 
-| 90  | 2022-06-17       | Kwiaty Czarnej Doliny                                 | [🇵🇱](https://drive.google.com/file/d/1KrBvyz1EEbc_bzA8-DN7ZMVCDYGlSb98/view?usp=sharing)                                                                                                                                                                                         | 
+| 90  | 2022-06-17       | Kwiaty Czarnej Doliny                                 | [🇵🇱](https://drive.google.com/file/d/1KrBvyz1EEbc_bzA8-DN7ZMVCDYGlSb98/view?usp=sharing)                                                                                                                                                                                         |
+| 91  | 2022-07-28       | W Bibliotekach Miłości                                | [🇵🇱](https://drive.google.com/file/d/1ADBd0xXLom8nqQT88ucS2CbYgaHF3aUn/view?usp=sharing), [🇬🇧](https://drive.google.com/file/d/1SsVA0L9bEMt_LKX79x1y20NSy_kz7OBZ/view?usp=sharing)                                                                                             |
 
 ---
 ### 🧮️ COLLECTIONS  
@@ -303,6 +302,17 @@ sacrificing lots of hours on searching for mods and testing incompatibilities.
 | 🔵 2022-02-27 | Insanity                                             | Full-chaos modpack on **Minecraft 1.16** which is made for extreme fun and testing tech mods such as IE and Create, as well as storing some amazing mods not fitting other modpacks | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               | 
 | 🔵 2022-02-27 | Everlasting                                          | Adventure-aimed **Minecraft 1.16** modpack with a lot of non-vanilla mods, being a bit of "I don't care about building" CoAC variant                                                | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               |
 | 🔵 2022-02-27 | Cliffied and Cavified                                | **Minecraft 1.18** modpack for testing 1.18 version. Just bunch of interesting mods and a bit of testing ground for me back in the days. Features some magic mods, for example.     | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               |
+
+### 🎬 VIDEOS
+There was a time I thought of becoming YouTuber, so there is still my [YouTube account](https://www.youtube.com/channel/UCbb_Yt86DlOHDPYIJCrJDmw)
+for this purpose. I've recorded few let's play episodes for it:
+
+| Date       | Name                                                   |  Playlist  | Link                                    |
+|------------|--------------------------------------------------------|:----------:|-----------------------------------------|
+| 2021-08-03 | #1 - The Journey           | ⚜️ Atheris | [YouTube](https://youtu.be/7CHwYHhfwSg) |
+| 2021-08-18 | #2 - Into the Mineshaft!   | ⚜️ Atheris | [YouTube](https://youtu.be/R-pA5YBCO9c) |
+| 2021-09-11 | #3 - Forge Expansion       | ⚜️ Atheris | [YouTube](https://youtu.be/sgGVaQL8R4E)|
+| 2021-09-24 | #4 - Pillar Up To The Sky! | ⚜️ Atheris | [YouTube](https://youtu.be/e9-mttuTZtc)|
 
 ### 🎭 COLLABORATIONS
 Despite me being lone wolf as a creator, I have made attempts to contribute to some projects, or even
