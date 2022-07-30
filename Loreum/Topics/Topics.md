@@ -2,7 +2,7 @@
 
 ---
 ### 🌌 [World Mechanics](World_Mechanics.md)
-### 🎎️ History
+### 🎎️ [History](History.md)
 ### 📖 Literature
 ### 🌏 Geography
 ### 🌿 Nature
