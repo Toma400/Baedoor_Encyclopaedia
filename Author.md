@@ -329,6 +329,42 @@ TAGS:
 | 2021-12 🔹 2022-03 | 📿  | Desolat | Mod around desert dimension, Desolat. Eventually made a reference to it in Baedoor universe (Aji'n multiverse) | **Collaborator**<br>Made small fixes | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedesolat) |
 
 ---
+### 📰 BLOG
+Aside of all writing projects, I also used to write a blog called **Rat 41**, which you can find under **[this link](http://toma400.blogspot.com/)**.  
+It was, unfortunately, written in Polish, but even then, you can still probably understand my AOTY
+series which are still maintained and try to put best music albums of the year.  
+I can, someday, rewrite those into separate PDF files, since I'm always worried about web-exclusive
+content.
+
+```
+TAGS:
+--------------
+🎵 MUSIC
+🎶 AOTY SERIES
+🎲 GAMES
+```
+
+|    Date    | No. | Tag | Name                                                     | Link                                                                                       |
+|:----------:|:---:|:---:|:---------------------------------------------------------|:-------------------------------------------------------------------------------------------|
+| 2016-05-15 |  1  | 🎵  | Nokturnal Mortum - Істина (Verity)                       | [Blogspot](http://toma400.blogspot.com/2017/05/nokturnal-mortum-verity.html)               | 
+| 2016-05-16 |  2  | 🎵  | Danger Incorporated - Are You Afraid of the Danger Boys? | [Blogspot](http://toma400.blogspot.com/2017/05/danger-incorporated-are-you-afraid-of.html) | 
+| 2016-05-18 |  3  | 🎵  | Amebix - Sonic Mass                                      | [Blogspot](http://toma400.blogspot.com/2017/05/amebix-sonic-mass.html)                     | 
+| 2016-05-27 |  4  | 🎵  | Dødsengel - Interequinox                                 | [Blogspot](http://toma400.blogspot.com/2017/05/ddsengel-interequinox.html)                 | 
+| 2017-05-28 |  5  | 🎵  | Grave Upheaval - Untitled                                | [Blogspot](http://toma400.blogspot.com/2017/05/grave-upheaval-untitled.html)               | 
+| 2017-06-27 |  6  | 🎵  | Dying Fetus - Wrong One To Fuck With                     | [Blogspot](http://toma400.blogspot.com/2017/06/dying-fetus-wrong-one-to-fuck-with.html)    | 
+| 2017-06-29 |  7  | 🎵  | Forgotten Tomb - Negative Megalomania                    | [Blogspot](http://toma400.blogspot.com/2017/06/forgotten-tomb-negative-megalomania.html)   | 
+| 2017-07-22 |  8  | 🎲  | Zeno Clash                                               | [Blogspot](http://toma400.blogspot.com/2017/07/zeno-clash.html)                            | 
+| 2017-11-09 |  9  | 🎵  | Desolation - Eternity of Hell                            | [Blogspot](http://toma400.blogspot.com/2017/11/desolation-eternity-of-hell.html)           | 
+| 2017-12-31 | 10  | 🎶  | 2017 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2017/12/2017-aotys.html)                            | 
+| 2018-03-14 | 11  | 🎵  | nothing,nowhere. - Reaper                                | [Blogspot](http://toma400.blogspot.com/2018/03/nothingnowhere-reaper.html)                 | 
+| 2018-12-24 | 12  | 🎶  | 2018 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2018/12/2018-aotys.html)                            | 
+| 2019-12-24 | 13  | 🎶  | 2019 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2019/12/2019-aotys.html)                            | 
+| 2020-05-28 | 14  | 🎵  | Biesy - Transsatanizm                                    | [Blogspot](http://toma400.blogspot.com/2020/05/biesy-transsatanizm.html)                   | 
+| 2020-07-02 | 15  | 🎵  | Rat Kru - Rok Szczura                                    | [Blogspot](http://toma400.blogspot.com/2020/07/rat-kru-rok-szczura.html)                   | 
+| 2020-12-30 | 16  | 🎶  | 2020 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2020/12/2020-aotys.html)                            | 
+| 2021-12-30 | 17  | 🎶  | 2021 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2021/12/2021-aotys.html)                            | 
+
+---
 ### ☠️ LOST AND FOUND
 All stuff outside of anything official, but still worth nothing just for cataloguing purposes.
 
