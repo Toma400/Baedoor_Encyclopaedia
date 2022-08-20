@@ -7,7 +7,7 @@
 
 ---
 ### DESCRIPTION  
-Lefs 8 is one of regular revolvers created by **Lefs** company, produced since 720 NE till today.  
+Lefs 8 is one of regular revolvers created by **Lefs** company, produced since 720 NE to today.  
 It became extremely popular few years after initial production, within armies and gunslingers, due to
 its balanced statistics and comfort of use.  
 This popularity came even despite quite high price
@@ -21,6 +21,14 @@ to tris bias against firearms.
 ### STATISTICS
 #### 🚂 Wastelands of Baedoor
 ```
+OBTAINING:
+|  🦋 BANDIT AIRSHIP
+|  🦋 MERCHANT AIRSHIP
+|  🧨 STORY
+├───────────────────────┘
+CRAFTING:                
+|  ❄️ NOT CRAFTABLE
+├───────────────────────┘
 BASE STATISTICS:
 │  ⚪️ DURABILITY       ││ 280           ││
 │  ⚫️ POWER * DMG      ││ 6 * 1 (6)     ││
