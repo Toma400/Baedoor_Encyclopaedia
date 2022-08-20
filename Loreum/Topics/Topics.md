@@ -5,7 +5,7 @@
 ### 🎎️ [History](History.md)
 ### 📖 Literature
 ### 🌏 Geography
-### 🌿 Nature
+### 🍂 [Nature](Nature.md)
 ### 💮 Races
 ### ☸️ Languages
 ### 🕌 Religions

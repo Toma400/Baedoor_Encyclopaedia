@@ -40,6 +40,7 @@ a
 |  b  | **bias value**       |  ``-3``  |  ``2``  | NPC        | 🔆🔆       |     🟢      |
 |  c  | **charisma value**   |  ``1``   | ``inf`` | Player     | ♨️         |     ⚫️      |
 |  p  | **persuasion value** |  ``0``   | ``inf`` | Player     | 🔆         |     🟣      |
+
 Dialogue choices changes index "on the run", so they are not counted towards formula, but they
 directly affects the index without touching extensive math.
 

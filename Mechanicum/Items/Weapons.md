@@ -17,6 +17,7 @@
 #### Bows
 #### Crossbows
 #### Throwables
+#### Chain Knives
 
 ### 🔥 Firearms
 #### [Revolvers](Revolvers.md)
