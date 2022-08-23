@@ -1,16 +1,20 @@
-# 🎇 Index
+# 🎇 Indeks
 
 ---
-You can find all possible named entries of Encyclopaedia Loreum here listed.
+Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności alfabetycznej.
 
 ---
-### O
-- [Order of the Sword](Topics/Guilds/List/Order_of_the_Sword.md)
-- [Oververse](Topics/World_Mechanics/Oververse.md)
+### G
+- [Gwiazdounosiciele](Topics/Guilds/List/Starshifters.md)
 
 ### S
 - [Si Avani](Topics/Characters/List/Si_Avani.md)
-- [Starshifters](Topics/Guilds/List/Starshifters.md)
 
 ### X
 - [Xaine](Topics/Characters/List/Xaine.md)
+
+### W
+- [Wszechwers](Topics/World_Mechanics/Oververse.md)
+
+### Z
+- [Zakon Mieczowy](Topics/Guilds/List/Order_of_the_Sword.md)
