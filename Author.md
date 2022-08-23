@@ -54,7 +54,7 @@ in Baedoor section:
 I started my modding journey from small Battle for Wesnoth mod made in around 2012. Since it uses original
 images from World of Tanks, I upload it privately, as I can't do it officially due to copyrights.
 
-Wrench means status of support - if the mod is maintained anymore.
+Wrench means status of support - if the mod is still maintained.
 
 | 🔧 | Name                     | Original game      | Description                                                                                                 | Download                                                                                      |
 |---|--------------------------|--------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
@@ -66,7 +66,7 @@ Wrench means status of support - if the mod is maintained anymore.
 
 ### 🏯 GAMES
 
-Wrench means status of support - if the game is maintained anymore.
+Wrench means status of support - if the game is still maintained.
 
 **🎎 True Games**
 
@@ -76,11 +76,21 @@ Wrench means status of support - if the game is maintained anymore.
 
 **🔨 Learning projects**
 
-| 🔧  | Date       | Name                      | Description                                                                              | Download                                                                       |
-|----|------------|---------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| 🔴  | 2018-03-12 | WarCards                  | Simple cardgame made in Python.                                                          | [Replit](https://replit.com/@Toma400/WarCards#main.py)                         |
-| 🔴  | 2018-03-20 | Temple Settlers           | Simple strategy made in Python, with resources gathering and building an empire.         | [Replit](https://replit.com/@Toma400/Temple-Settlers#main.py)                  |
-| 🔴  | 2018-07-29 | Between Shadows and Light | Full-blown text RPG made in Python, yet buggy and with extremely small location to play. | [Replit](https://replit.com/@Toma400/Between-Shadows-and-Light-rework#main.py) |
+| 🔧  | Date       | Name                      | Description                                                                              | Download                                                                                                                                                                      |
+|-----|------------|---------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🔴  | 2018-03-12 | WarCards                  | Simple cardgame made in Python.                                                          | [Replit](https://replit.com/@Toma400/WarCards#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                         |
+| 🔴  | 2018-03-20 | Temple Settlers           | Simple strategy made in Python, with resources gathering and building an empire.         | [Replit](https://replit.com/@Toma400/Temple-Settlers#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                  |
+| 🔴  | 2018-07-29 | Between Shadows and Light | Full-blown text RPG made in Python, yet buggy and with extremely small location to play. | [Replit](https://replit.com/@Toma400/Between-Shadows-and-Light-rework#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing) |
+
+---
+
+### ⚗️ SOFTWARE
+
+Wrench means status of support - if the program is still maintained.
+
+| 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                 |
+|----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+| 🟢 | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE) |
 
 ---
 
@@ -133,17 +143,17 @@ want to create under aliases I cared about. Hence this project began, as sort of
 If you really insist on getting those, please message me directly.
 </span>
 
-| Date of creation | Album name                              | Tags | Description                                                                            | URL                                                                                         |
-|------------------|-----------------------------------------| ---- |----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| 2019-10-20       | Night Sessions: Light Becoming Darkness | 🔴️🔳 | First one-day improvisation from **Night Sessions** series. In general, pretty trashy. | No.                                                                                          |
-| 2020-4-30        | Will Under Love                         | 🔴🔷 | Song reversing famous Aleister Crowley quote, which was my counterstatement for love.  | No.                                                                                          |
-| 2020-5-15        | Night Sessions: Oingo                   | 🔴️🔳 | Second **Night Sessions** improvisation. Similar quality.                              | No.                                                                                          |
-| 2020-5-22        | Oneironaut                              | 🔴🔷 | First a bit quality song, inspired by egyptian theme of Cubfan135.                     | [Drive](https://drive.google.com/drive/folders/1akNYaTypxw5-6kJqRy34RAT1H9kTn8FS?usp=sharing)|
-| 2020-6-14        | Νεκρόω                                  | 🔴🔷 | Some old recorded song I found, with pretty haunting atmosphere                        | [Drive](https://drive.google.com/drive/folders/1Fo9btnqHH7qmrhioLu0myIrr2u-2d38n?usp=sharing)|
-| 2020-9-07        | Burning Babylon                         | 🔴🔷 | Industrial-sque maxi-single, on which I'm pretty proud of.                             | [Drive](https://drive.google.com/drive/folders/1nXKfJvXKI3YS6BAN3N-WbExuyuLLHnPa?usp=sharing)|
-| 2020-9-12        | Sigillum Animarum                       | 🔴🔷 | Follow-up to Burning Babylon with one outtake and some weird instrumental              | [Drive](https://drive.google.com/drive/folders/1-dnwkdHeQmK-pVM3VbfoZHvbHl8gdHhQ?usp=sharing)|
-| 2021-2-27        | Εἰκών                                   | 🔴🔷 | Some random single                                                                     | [Drive](https://drive.google.com/drive/folders/11EiUtVQYNpZLN6u3IKZHNvs0C0_tBKqy?usp=sharing)|
-| 2021-10-24       | Night Sessions: Towards White Cold      | 🔴️🔳 | Third **Night Sessions** improvisation, finally quality one.                           | [Drive](https://drive.google.com/drive/folders/1hShLuXoTkOyyztUZS2V9Vk-q5xx5y1uA?usp=sharing)|
+| Date of creation | Album name                              | Tags  | Description                                                                            | URL                                                                                                                                                             |
+|------------------|-----------------------------------------|-------|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2019-10-20       | Night Sessions: Light Becoming Darkness | 🔴️🔳 | First one-day improvisation from **Night Sessions** series. In general, pretty trashy. | No.                                                                                                                                                             |
+| 2020-4-30        | Will Under Love                         | 🔴🔷  | Song reversing famous Aleister Crowley quote, which was my counterstatement for love.  | No.                                                                                                                                                             |
+| 2020-5-15        | Night Sessions: Oingo                   | 🔴️🔳 | Second **Night Sessions** improvisation. Similar quality.                              | No.                                                                                                                                                             |
+| 2020-5-22        | Oneironaut                              | 🔴🔷  | First a bit quality song, inspired by egyptian theme of Cubfan135.                     | [Drive](https://drive.google.com/drive/folders/1akNYaTypxw5-6kJqRy34RAT1H9kTn8FS?usp=sharing)                                                                   |
+| 2020-6-14        | Νεκρόω                                  | 🔴🔷  | Some old recorded song I found, with pretty haunting atmosphere                        | [Drive](https://drive.google.com/drive/folders/1Fo9btnqHH7qmrhioLu0myIrr2u-2d38n?usp=sharing)                                                                   |
+| 2020-9-07        | Burning Babylon                         | 🔴🔷  | Industrial-sque maxi-single, on which I'm pretty proud of.                             | [Drive](https://drive.google.com/drive/folders/1nXKfJvXKI3YS6BAN3N-WbExuyuLLHnPa?usp=sharing)  [Bandcamp](https://zileffect.bandcamp.com/album/burning-babylon) |
+| 2020-9-12        | Sigillum Animarum                       | 🔴🔷  | Follow-up to Burning Babylon with one outtake and some weird instrumental              | [Drive](https://drive.google.com/drive/folders/1-dnwkdHeQmK-pVM3VbfoZHvbHl8gdHhQ?usp=sharing)                                                                   |
+| 2021-2-27        | Εἰκών                                   | 🔴🔷  | Some random single                                                                     | [Drive](https://drive.google.com/drive/folders/11EiUtVQYNpZLN6u3IKZHNvs0C0_tBKqy?usp=sharing)                                                                   |
+| 2021-10-24       | Night Sessions: Towards White Cold      | 🔴️🔳 | Third **Night Sessions** improvisation, finally quality one.                           | [Drive](https://drive.google.com/drive/folders/1hShLuXoTkOyyztUZS2V9Vk-q5xx5y1uA?usp=sharing)                                                                   |
 
 <span style="color:#668c99">**🌆 SUN TRIBE**  
 Sun Tribe is trance project in which I wanted to capture my love to the sound of legends such as ATB, Armin van
@@ -251,7 +261,8 @@ Poems with 💠 symbol have some Baedoor references.
 | 87  | 2022-05-06       | Gottensmenschen                                       | [🇵🇱](https://drive.google.com/file/d/1j10R2o-TEhSlLCZ-ZPbvqdaTo-NiaEaB/view?usp=sharing)                                                                                                                                                                                         | 
 | 88  | 2022-06-06       | Szomorú Szívemen                                      | [🇵🇱](https://drive.google.com/file/d/1VPj7FB0cXeF4C1hqYA6hO9lkTmOvdi1o/view?usp=sharing)                                                                                                                                                                                         | 
 | 89  | 2022-06-17       | Po Swoich Krokach                                     | [🇵🇱](https://drive.google.com/file/d/1z_bRseX0UCaFFlOl0wBCPPQFNthODF9d/view?usp=sharing)                                                                                                                                                                                         | 
-| 90  | 2022-06-17       | Kwiaty Czarnej Doliny                                 | [🇵🇱](https://drive.google.com/file/d/1KrBvyz1EEbc_bzA8-DN7ZMVCDYGlSb98/view?usp=sharing)                                                                                                                                                                                         | 
+| 90  | 2022-06-17       | Kwiaty Czarnej Doliny                                 | [🇵🇱](https://drive.google.com/file/d/1KrBvyz1EEbc_bzA8-DN7ZMVCDYGlSb98/view?usp=sharing)                                                                                                                                                                                         |
+| 91  | 2022-07-28       | W Bibliotekach Miłości                                | [🇵🇱](https://drive.google.com/file/d/1ADBd0xXLom8nqQT88ucS2CbYgaHF3aUn/view?usp=sharing), [🇬🇧](https://drive.google.com/file/d/1SsVA0L9bEMt_LKX79x1y20NSy_kz7OBZ/view?usp=sharing)                                                                                             |
 
 ---
 ### 🧮️ COLLECTIONS  
@@ -262,3 +273,113 @@ All things from previous sections which try to collect several stuff of mine.
 |------------------|----------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------|
 | 2021-01-08       | Duch Nieskończoności | [🇵🇱](https://drive.google.com/file/d/1KgrlGnznHZ3pDogHoa1O0RFGHPC3_Rqq/view?usp=sharing) | Collection of scenes (short texts without true story) |
 | 2021-01-25       | Przez Pustynie Serca | [🇵🇱](https://drive.google.com/file/d/1kdLMS0IhLfuX401W0jzTA20jQ8zQOha3/view?usp=sharing) | Collection of 42 poems, with small corrections        |
+
+### 🍁️ ️️SMALLER MODDING PROJECTS
+Aside from mods, I also created some projects related to modding, but not being mods in their strict
+sense.
+
+<span style="color:#668c99">**🔥️ ADDONS**  
+Addons are mods which depend on other mods, because they usually create just some additional content
+related to the parent mod.
+</span>
+
+| Published  | Name     | Description                                                                                                                   | URL                                                                                                     |
+|------------|----------|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 2022-01-07 | Woodpact | Mod adding compatibility between **Wastelands of Baedoor** and **Oh The Biomes You'll Go** mods, adding WoB variants of wood. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor-oh-the-biomes-youll-go) |
+
+<span style="color:#668c99">**❄️ MODPACKS**  
+Modpacks are names for collection of mods which serve some specific purpose - usually gameplay-wise.
+This is kinda popular way for regular players to get in touch with modded experience without
+sacrificing lots of hours on searching for mods and testing incompatibilities.
+</span>
+
+| Published     | Name                                                 | Description                                                                                                                                                                         | URL                                                                                                         |
+|---------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| 🟢 2022-05-02 | Earth on Hell:<br> Paths Through Forgotten Dimension | Nether-based modpack adding lush, survival experience to this dimension. **Minecraft 1.16**                                                                                         | [CurseForge](https://www.curseforge.com/minecraft/modpacks/earth-on-hell-paths-through-forgotten-dimension) |
+| 🔵 2022-02-27 | Refuse To Forget                                     | Nostalgic modpack on **Minecraft 1.12**, adding "best of" mods in my opinion                                                                                                        | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               | 
+| 🔵 2022-02-27 | Constellation of Ancient Cities                      | **Minecraft 1.16** modpack for my beloved world, trying to be "best of builder/exploring" vanilla+ modpack                                                                          | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               | 
+| 🔵 2022-02-27 | The Deep Awakening                                   | Modpack on **Minecraft 1.15** mods, a bit chaotic, but very enjoyable group of exploring-aimed MCreator mods                                                                        | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               | 
+| 🔵 2022-02-27 | Insanity                                             | Full-chaos modpack on **Minecraft 1.16** which is made for extreme fun and testing tech mods such as IE and Create, as well as storing some amazing mods not fitting other modpacks | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               | 
+| 🔵 2022-02-27 | Everlasting                                          | Adventure-aimed **Minecraft 1.16** modpack with a lot of non-vanilla mods, being a bit of "I don't care about building" CoAC variant                                                | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               |
+| 🔵 2022-02-27 | Cliffied and Cavified                                | **Minecraft 1.18** modpack for testing 1.18 version. Just bunch of interesting mods and a bit of testing ground for me back in the days. Features some magic mods, for example.     | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               |
+
+### 🎬 VIDEOS
+There was a time I thought of becoming YouTuber, so there is still my [YouTube account](https://www.youtube.com/channel/UCbb_Yt86DlOHDPYIJCrJDmw)
+for this purpose. I've recorded few let's play episodes for it:
+
+| Date       | Name                                                   |  Playlist  | Link                                    |
+|------------|--------------------------------------------------------|:----------:|-----------------------------------------|
+| 2021-08-03 | #1 - The Journey           | ⚜️ Atheris | [YouTube](https://youtu.be/7CHwYHhfwSg) |
+| 2021-08-18 | #2 - Into the Mineshaft!   | ⚜️ Atheris | [YouTube](https://youtu.be/R-pA5YBCO9c) |
+| 2021-09-11 | #3 - Forge Expansion       | ⚜️ Atheris | [YouTube](https://youtu.be/sgGVaQL8R4E)|
+| 2021-09-24 | #4 - Pillar Up To The Sky! | ⚜️ Atheris | [YouTube](https://youtu.be/e9-mttuTZtc)|
+
+### 🎭 COLLABORATIONS
+Despite me being lone wolf as a creator, I have made attempts to contribute to some projects, or even
+were a part of a teams during those times.
+
+```
+TAGS:
+--------------
+📿 MOD
+```
+
+| Time of collab    | Tag | Name    | What is the project                                                                                            |               My role                |                                  URL                                  |
+|-------------------|:---:|---------|----------------------------------------------------------------------------------------------------------------|:------------------------------------:|:---------------------------------------------------------------------:|
+| 2021-12 🔹 2022-03 | 📿  | Desolat | Mod around desert dimension, Desolat. Eventually made a reference to it in Baedoor universe (Aji'n multiverse) | **Collaborator**<br>Made small fixes | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedesolat) |
+
+---
+### 📰 BLOG
+Aside of all writing projects, I also used to write a blog called **Rat 41**, which you can find under **[this link](http://toma400.blogspot.com/)**.  
+It was, unfortunately, written in Polish, but even then, you can still probably understand my AOTY
+series which are still maintained and try to put best music albums of the year.  
+I can, someday, rewrite those into separate PDF files, since I'm always worried about web-exclusive
+content.
+
+```
+TAGS:
+--------------
+🎵 MUSIC
+🎶 AOTY SERIES
+🎲 GAMES
+```
+
+|    Date    | No. | Tag | Name                                                     | Link                                                                                       |
+|:----------:|:---:|:---:|:---------------------------------------------------------|:-------------------------------------------------------------------------------------------|
+| 2016-05-15 |  1  | 🎵  | Nokturnal Mortum - Істина (Verity)                       | [Blogspot](http://toma400.blogspot.com/2017/05/nokturnal-mortum-verity.html)               | 
+| 2016-05-16 |  2  | 🎵  | Danger Incorporated - Are You Afraid of the Danger Boys? | [Blogspot](http://toma400.blogspot.com/2017/05/danger-incorporated-are-you-afraid-of.html) | 
+| 2016-05-18 |  3  | 🎵  | Amebix - Sonic Mass                                      | [Blogspot](http://toma400.blogspot.com/2017/05/amebix-sonic-mass.html)                     | 
+| 2016-05-27 |  4  | 🎵  | Dødsengel - Interequinox                                 | [Blogspot](http://toma400.blogspot.com/2017/05/ddsengel-interequinox.html)                 | 
+| 2017-05-28 |  5  | 🎵  | Grave Upheaval - Untitled                                | [Blogspot](http://toma400.blogspot.com/2017/05/grave-upheaval-untitled.html)               | 
+| 2017-06-27 |  6  | 🎵  | Dying Fetus - Wrong One To Fuck With                     | [Blogspot](http://toma400.blogspot.com/2017/06/dying-fetus-wrong-one-to-fuck-with.html)    | 
+| 2017-06-29 |  7  | 🎵  | Forgotten Tomb - Negative Megalomania                    | [Blogspot](http://toma400.blogspot.com/2017/06/forgotten-tomb-negative-megalomania.html)   | 
+| 2017-07-22 |  8  | 🎲  | Zeno Clash                                               | [Blogspot](http://toma400.blogspot.com/2017/07/zeno-clash.html)                            | 
+| 2017-11-09 |  9  | 🎵  | Desolation - Eternity of Hell                            | [Blogspot](http://toma400.blogspot.com/2017/11/desolation-eternity-of-hell.html)           | 
+| 2017-12-31 | 10  | 🎶  | 2017 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2017/12/2017-aotys.html)                            | 
+| 2018-03-14 | 11  | 🎵  | nothing,nowhere. - Reaper                                | [Blogspot](http://toma400.blogspot.com/2018/03/nothingnowhere-reaper.html)                 | 
+| 2018-12-24 | 12  | 🎶  | 2018 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2018/12/2018-aotys.html)                            | 
+| 2019-12-24 | 13  | 🎶  | 2019 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2019/12/2019-aotys.html)                            | 
+| 2020-05-28 | 14  | 🎵  | Biesy - Transsatanizm                                    | [Blogspot](http://toma400.blogspot.com/2020/05/biesy-transsatanizm.html)                   | 
+| 2020-07-02 | 15  | 🎵  | Rat Kru - Rok Szczura                                    | [Blogspot](http://toma400.blogspot.com/2020/07/rat-kru-rok-szczura.html)                   | 
+| 2020-12-30 | 16  | 🎶  | 2020 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2020/12/2020-aotys.html)                            | 
+| 2021-12-30 | 17  | 🎶  | 2021 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2021/12/2021-aotys.html)                            | 
+
+---
+### ☠️ LOST AND FOUND
+All stuff outside of anything official, but still worth nothing just for cataloguing purposes.
+
+| Date of creation | Name                                        | Description                                                                                                                                                                       | URL                                                                                           |
+|------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| 2019-07-31       | Forgotten Journeys Through Waste Years      | Compilation of all stuff I've made from 2018 to 2020. This compilation is making me pretty ashamed on how terrible quality songs it have - they still are songs I've made, though | [Drive](https://drive.google.com/drive/folders/1kY9XS2D34mE2QbO5YcZpcbSzRHgD_zct?usp=sharing) |
+| 2019-08-30       | A Lonely Violinist (The Book of Seth Remix) | Remix under **The Book of Seth** name for my father's single                                                                                                                      | [Bandcamp](https://ghostofsunset.bandcamp.com/album/a-lonely-violinist)                       |
+
+Although **Forgotten Journeys Through Waste Years** is pretty bad compilation, I've spent over a
+month to handdraw the cover art for it, and then, reshape it in GIMP. And even though it's nowhere
+close to be good cover art, I have some big nostalgia for it - maybe because the cover art itself
+uses so many symbols being close to my heart, who knows?
+
+<img alt="Cover Art" height="936" src="/Assets/old_compilation.png" width="930"/>
+
+For the context, knowledge on ancient greek and Baedoor lore is pretty required to understand all
+weird symbols put. General symbolical knowledge (including niches such as native african symbols) is
+also highly recommended to have full context.

@@ -2,10 +2,10 @@
 
 ---
 ### 🌌 [Mechaniki świata](World_Mechanics.md)
-### 🎎️ Historia
+### 🎎️ [Historia](History.md)
 ### 📖 Literatura
 ### 🌏 Geografia
-### 🌿 Natura
+### 🍂 [Natura](Nature.md)
 ### 💮 Rasy
 ### ☸️ Języki
 ### 🕌 Religie

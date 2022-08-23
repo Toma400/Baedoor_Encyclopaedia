@@ -17,6 +17,7 @@
 #### Łuki
 #### Kusze
 #### Rzucane
+#### Noże na łańcuchu
 
 ### 🔥 Broń palna
 #### [Rewolwery](Revolvers.md)

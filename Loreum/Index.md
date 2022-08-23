@@ -15,3 +15,6 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 
 ### W
 - [Wszechwers](Topics/World_Mechanics/Oververse.md)
+
+### Z
+- [Zakon Mieczowy](Topics/Guilds/List/Order_of_the_Sword.md)

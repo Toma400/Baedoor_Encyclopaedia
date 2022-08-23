@@ -21,6 +21,14 @@ trijczyków wobec bronii palnej.
 ### STATYSTYKI
 #### 🚂 Wastelands of Baedoor
 ```
+ZNALEZIENIE:
+|  🦋 STEROWIEC BANDYTÓW
+|  🦋 STEROWIEC HANDLOWY
+|  🧨 HISTORIA
+├───────────────────────┘
+PRODUKCJA:                
+|  ❄️ BRAK PRZEPISÓW
+├───────────────────────┘
 BAZOWE STATYSTYKI:
 │  ⚪️ ODPORNOŚĆ               ││ 280             ││
 │  ⚫️ SIŁA * OBRAŻENIA        ││ 6 * 1 (6)       ││
