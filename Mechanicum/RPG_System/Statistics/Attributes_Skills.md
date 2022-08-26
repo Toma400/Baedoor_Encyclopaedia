@@ -18,26 +18,28 @@ By default, all attributes are at level 8.
 **SKILLS**
 - Handfight¹
 - Shortswords¹
-- Longswords¹
+- Longswords
+- Polearms
 - Archery¹
-- Firearms¹
-- Castspelling
+- Firearms
+- Spellcasting
 - Restoration Magic
 - Transformation Magic
 - Destruction Magic
 - Necromancy
-- Connection Magic²
+- Connection Bond²
 - Trade¹
 - Persuasion¹
 - Repair
 - Healing
 - Lockpicking
+- Sneaking
 - Stealing
-- Traps Designing
-- Trapspotting
-- Musicality
 - Pickpocketing
-- Material Processing
+- Traps Designing
+- Traps Spotting
+- Musicality
+- Resource Processing
 - Tools
 - Smithing
 - Herbalism
@@ -53,8 +55,8 @@ Not expandable, once-gatherable (with race, class or by learning).
 - Vehicles Driving
 - Berserk
 - Assassin's Hit
-- Walking on Water
-- Flying Priest
+- Stepping on Water
+- Flying Monk
 - Toxin Immunity
 - Undead
 - Stheyr
@@ -62,6 +64,8 @@ Not expandable, once-gatherable (with race, class or by learning).
 - Animal Training
 - Vampirism
 - Body Harvesting
+- Ritual Tongues
+- Ancient Architects' Tongue
 
 ---
 
