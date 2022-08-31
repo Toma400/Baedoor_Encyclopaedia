@@ -39,4 +39,5 @@ Original BSaL game takes place in 216 NE, when Ansur were still more of a transi
 island. Although earning a lot by this practice alone, it lacked stronger hand to benefit.
 
 ---
-♜♢✥ + add name to name list + 326 NE into **history** + add link to BSaL walkthrough
+♜♢✥ + add name to name list + 326 NE into **history** + add link to BSaL walkthrough  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)

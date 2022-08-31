@@ -1,7 +1,7 @@
 # 🌆 Evros
 
 ---
-<span style="color:#107C23">**cities**</span> [✦](/Loreum/Tags.md#-universe)  
+<span style="color:#107C23">**cities**</span> [✦](/Loreum/Tags.md#-cities)  
 
 ---
 Medium-sized harbour town located on [**Ansur Isle**](/Loreum/Topics/Geography/East_Moon/Ansur.md), 
@@ -21,4 +21,5 @@ In the other hand, governor holds his position in Town's Hall.
 
 ---
 ♢: guilds (FotB is Mage Guild, but exclusive to Ansur and it's one of those rare ones which like
-inputting magic into wands, which is rather unusual for Baedoor magic, but explains BSaL mage)
+inputting magic into wands, which is rather unusual for Baedoor magic, but explains BSaL mage)  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)

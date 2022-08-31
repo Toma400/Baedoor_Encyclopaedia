@@ -15,7 +15,7 @@
 
 ## Small games
 
-### 🏹 Between Shadows and Light
+### 🏹 [Between Shadows and Light](Walkthroughs/BSaL/BSaL.md)
 
 ## Mods
 

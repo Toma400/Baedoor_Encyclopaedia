@@ -19,4 +19,5 @@ civilisations living before times**.
 🔲  Nferth Isle (Isle of Demons)
 
 ---
-♜♢✥
+♜♢✥  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)
