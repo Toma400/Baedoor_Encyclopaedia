@@ -6,7 +6,7 @@ Encyklopedia jest napisana dla trzeciej edycji systemu.
 
 **♟️STATYSTYKI**
 - [Podstawowe modyfikatory](Statistics/Basic_Modifiers.md)
-- [Atrybuty i umiejętności](Statistics/Abilities_Skills.md)
+- [Atrybuty i umiejętności](Statistics/Attributes_Skills.md)
 - [Rasy](Statistics/Races.md)
 - [Klasy](Statistics/Classes.md)
 - [Indeks perswazji](Statistics/Persuasion.md)

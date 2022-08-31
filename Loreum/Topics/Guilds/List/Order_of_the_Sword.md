@@ -1,4 +1,4 @@
-# 🎇 Order of the Sword
+# 🎇 Zakon Mieczowy
 
 ---
 **Order of the Sword** is guild established in Old Era, precisely in 272 OE. It was made as an Order

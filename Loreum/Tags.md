@@ -12,6 +12,6 @@ na szukanie elementów z indeksu przez ich tematykę.
 </span>
 
 * [Gwiazdounosiciele](Topics/Guilds/List/Starshifters.md)
-* [Wszechwers](Topics/World_Mechanics/Oververse.md)
 * [Si Avani](Topics/Characters/List/Si_Avani.md)
+* [Wszechwers](Topics/World_Mechanics/Oververse.md)
 * [Xaine](Topics/Characters/List/Xaine.md)
