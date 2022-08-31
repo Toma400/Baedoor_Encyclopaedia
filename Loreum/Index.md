@@ -4,6 +4,9 @@
 You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ---
+### A
+- [Ansur](Topics/Geography/East_Moon/Ansur.md)
+
 ### E
 - [East Moon](Topics/Geography/East_Moon.md)
 

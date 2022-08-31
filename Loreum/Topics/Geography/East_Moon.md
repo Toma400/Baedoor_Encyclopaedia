@@ -1,4 +1,4 @@
-# 🌄 EAST MOON
+# 🌄 East Moon
 East Moon is part of **Moon Continent**, on the east side of **the Scarp**.
 
 ### GEOGRAPHY
