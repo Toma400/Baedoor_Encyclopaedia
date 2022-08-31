@@ -1,7 +1,7 @@
 # 🌆 Ansur Isle
-<img alt="Ansur Map" height="520" src="/Assets/map_ansur.jpg" width="390"/>
+<img alt="Ansur Map" height="390" src="/Assets/map_ansur.jpg" width="520"/>
 
-<h1 style="font-size:1.5vw">Simplified map of Ansur Isle as of 920 NE</h1>
+<p style="font-size:11px">Simplified map of Ansur Isle as of 920 NE</p>
 
 **Isle of Ansur** is small island positioned pretty much in between old **Baedoor city** and **New Baedoor**,
 being also one of the better places to stay during longer journey to any of those places.
