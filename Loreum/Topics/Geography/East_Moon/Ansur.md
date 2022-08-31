@@ -1,14 +1,14 @@
-# 🌆 Ansur Isle
+# 🏞️ Ansur Isle
 <img alt="Ansur Map" height="390" src="/Assets/map_ansur.jpg" width="520"/>
 
-<p style="font-size:11px">Simplified map of Ansur Isle as of 920 NE</p>
+``Simplified map of Ansur Isle as of 920 NE``
 
 **Isle of Ansur** is small island positioned pretty much in between old **Baedoor city** and **New Baedoor**,
 being also one of the better places to stay during longer journey to any of those places.
 Since third decade of New Era, it became known for its wine.
 
 ### 📜 HISTORY  
-Ansur was not colonised before New Era, so when during Exodus sailors saw the island instead of 
+Ansur was not colonised before New Era, so during Exodus, when sailors saw the island instead of 
 what their tales told them, they were not only surprised, but intrigued. Crew of two such ships
 decided to settle in this place, while others went further west (eventually reaching East Moon).
 
@@ -26,7 +26,7 @@ In 917 NE, governor **Heimlig Naevos** recommended building of airship port, whi
 be finished in year 925 NE.
 
 **PLACES**
-- Evros
+- [Evros](Cities/Evros.md)
 - Waine
 
 **POINTS**

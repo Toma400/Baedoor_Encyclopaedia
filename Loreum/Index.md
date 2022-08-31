@@ -9,6 +9,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### E
 - [East Moon](Topics/Geography/East_Moon.md)
+- [Evros](Topics/Geography/East_Moon/Cities/Evros.md)
 
 ### O
 - [Order of the Sword](Topics/Guilds/List/Order_of_the_Sword.md)
