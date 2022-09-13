@@ -35,9 +35,9 @@ be finished in year 925 NE.
 
 ---
 ### 📿 Between Shadows and Light
-Original BSaL game takes place in 216 NE, when Ansur were still more of a transit place than real
+Original BSaL game takes place in 216 NE, when Ansur was still more of a transit place than real
 island. Although earning a lot by this practice alone, it lacked stronger hand to benefit.
 
 ---
-♜♢✥ + add name to name list + 326 NE into **history** + add link to BSaL walkthrough  
+♜♢✥ + add name to name list + 326 NE into **history** + add link to BSaL walkthrough + links to locations and people  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)
