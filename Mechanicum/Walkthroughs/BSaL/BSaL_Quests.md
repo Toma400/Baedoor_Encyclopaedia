@@ -1,6 +1,7 @@
 # 📯 Quests
 
 ### Summary:
+- [Get Parchment in Evros](BSaL_Quests.md#get-parchment-in-evros) ♻️
 - [Herbalist Mission](BSaL_Quests.md#herbalist-mission) ♻️
 - [Work on Evros Farm](BSaL_Quests.md#work-on-evros-farm) ♻️♨️
 
@@ -11,6 +12,12 @@ LEGEND:
 ♨️ - bugged
 ```
 ---
+#### Get Parchment in Evros
+This quests is given by mage in Evros Docks, if you enter his shop, after asking if he needs any help.
+It simply requires you to go further to Evros, to shop with general goods, and ask for parchment.
+After completing the quest, mage will increase your spellcasting skill by 1.  
+As this quest is redoable, you can easily cheese the system and boost your skill to high levels.
+
 #### Herbalist Mission
 This quest is not listed in journal with specific name, but it is the only truly redoable quest you
 can get to earn money daily.  

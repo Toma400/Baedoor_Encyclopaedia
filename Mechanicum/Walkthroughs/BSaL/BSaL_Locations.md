@@ -2,9 +2,15 @@
 
 ### Summary:
 - [Evros](BSaL_Locations.md#evros)
+- [Evros Docks](BSaL_Locations.md#evros-docks)
 - [Evros Fields](BSaL_Locations.md#evros-fields)
 
 ---
+#### Evros Docks
+Starting point of free-roaming mode of the game, after tutorial part. Here you can get your first
+quests, as well as go further into Evros city. In docks you can visit tavern, mage shop, as well
+as look at warehouse.
+
 #### Evros
 Main place for services offered in game. It contains general shop, alchemical shop, smith, bank,
 and also newspaper boy from who you can buy magazine on local news.

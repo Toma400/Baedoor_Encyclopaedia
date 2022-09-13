@@ -21,6 +21,7 @@ or just if you would like to look at cultural differences between civilisations.
 
 | Name    | Localisation                  | Description                                         |
 |---------|-------------------------------|-----------------------------------------------------|
+| Dominic | Whole Baedoor                 | Common name                                         |
 | Heim    | Whole Baedoor                 | Common name, originated from Baedoor Northern Coast | 
 | Heimlig | Ansur, Baedoor Northern Coast | Probably mix of **Heim** and nordwinian suffix      |
 | Norran  | Whole Baedoor                 | Quite regular baedoorian name                       |
@@ -59,11 +60,13 @@ or just if you would like to look at cultural differences between civilisations.
 ---
 
 ### Baedoorian Surnames
-| Surname | Localisation          | Description                                                        |
-|---------|-----------------------|--------------------------------------------------------------------|
-| Gorth   | Whole Baedoor         | Common surname                                                     |
-| Naevos  | Ansur                 | Surname coming from trish Nai and arennian-baedoorian Vos families |
-| Vos     | Arennan, West Baedoor | Rare surname connected with Arennan naming                         |
+| Surname   | Localisation          | Description                                                        |
+|-----------|-----------------------|--------------------------------------------------------------------|
+| Gorth     | Whole Baedoor         | Common surname                                                     |
+| Naevos    | Ansur                 | Surname coming from trish Nai and arennian-baedoorian Vos families |
+| Velga, le | East Baedoor          | Aristocratic surname, of Isuga heritage                            |
+| Vos       | Arennan, West Baedoor | Rare surname connected with Arennan naming                         |
+| Winfleton | West Baedoor          | Aristocratic name, nowadays recognised with **Heim Winfleton**     |
 
 ---
 ### Tri Surnames
