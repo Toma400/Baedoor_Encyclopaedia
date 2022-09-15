@@ -27,42 +27,51 @@ old jitadish → old baedoorish → baedoorish
 
 ### Baedoorish pronunciation
 
-| Key  | Sound  | Rule / Example in English to follow                         |
-|:----:|:------:|-------------------------------------------------------------|
-| e... |   :    | if `e` is first, it is silent, unless it is `ev`            |
-| ...e |   e:   | Sometimes                                                   |
-|  ev  |   ef   | as in `effigy`                                              |
-|  e   |   e↓   | weak, taking most of next letter, as in "extend**e**d" word |
-|  ae  |   e    | classic `e`, as in `energy`                                 |
-|  oe  |   e    | classic `e`, as in `energy`                                 |
-| o... | o / y↓ | either `o` or weak `y`                                      |
-| y... |   ji   | if first, pronounced as `ye` in `yeet`ᵍ                     |
-|  y   | y / i  | either `y` or `i`                                           |
- |  v   | f ~ v  | subtle mix of `v` and `f`                                   |                                              
-|  w   |   w↑   | as `v` in `vengeance`                                       |
+|  Key  | Sound  | Rule / Example in English to follow                         |
+|:-----:|:------:|-------------------------------------------------------------|
+| e...  |   :    | if `e` is first, it is silent, unless it is `ev`            |
+| ...e  |   e:   | Sometimes                                                   |
+|  ev   |   ef   | as in `effigy`                                              |
+|   e   |   e↓   | weak, taking most of next letter, as in "extend**e**d" word |
+|  ae   |   e    | classic `e`, as in `energy`                                 |
+|  oe   |   e    | classic `e`, as in `energy`                                 |
+| o...  | o / y↓ | either `o` or weak `y`                                      |
+| y...  |   ji   | if first, pronounced as `ye` in `yeet`ᵍ                     |
+|   y   | y / i  | either `y` or `i`                                           |
+ |   v   | f ~ v  | subtle mix of `v` and `f`                                   | 
+| vo... |  w↓o   | in many dialects, `vo` at the start is slightly heavier     |                                             
+|   w   |   w↑   | as `v` in `vengeance`                                       |
 ᵍ - ghloddish language influence  
 
 ### Jitadish vocabulary
-|    Word     | Translation                          | Pronunciation |    Etymology    |
-|:-----------:|--------------------------------------|---------------|:---------------:|
-|    aine     | nautical, related to sea             | ai-ne:        |        -        | 
-|     ane     | sea                                  | a-ne:         |        -        |
-|    enfre    | flower, blossoming                   | :nfre         |   jit. "enfr"   | 
-|    equa     | howl, squal, weep, sound during pain | :qua          |   jit. "equa"   |
-|     er      | one                                  | :r            |   jit. "aer"    |
-|     ern     | first                                | :rn           |   jit. "aern"   |
-|    evros    | fertile, able to grow                | efvros        |  jit. "evoros"  |
-|    evos     | fields                               | efos          |   jit. "evos"   |
-|     hoi     | forward (shout)                      | hoi           |   jit. "hoi"    |
-|     isi     | shelter, oasis                       | i-si          |   jit. "isi"    |
-|   oestae    | wind                                 | este          |  jit. "oestae"  |
-|  ostaequa   | wind howl, name for wolf-fox being   | y↓stequa      | jit. "ostaequa" |
-|     ros     | abundant, rich                       | ros           |   jit. "ros"    |
-|    vein     | road, trail                          | fe↓in         |   jit. "vein"   |
-|     wan     | anchor                               | wan           |   jit. "wan"    |
-|   wainesi   | harbour                              | wai-nesi      | jit. "wainesi"  |
-| wald, weld¹ | forest                               | wald, we↓ld¹  |   jit. "weld"   |
-|     wes     | governor                             | we↓s          |        -        |
+|    Word     | Translation                          | Pronunciation |      Etymology      |
+|:-----------:|--------------------------------------|---------------|:-------------------:|
+|    aine     | nautical, related to sea             | ai-ne:        |     jit. "aine"     |
+|    ainsi    | terrestrial, related to land         | ai-nsi        |    jit. "aines"     |
+|     ane     | sea                                  | a-ne:         |     jit. "ane"      |
+|     ans     | land                                 | ans           |     jit. "anes"     |
+|    enfre    | flower, blossoming                   | :nfre         |     jit. "enfr"     | 
+|    equa     | howl, squal, weep, sound during pain | :qua          |     jit. "equa"     |
+|     er      | one                                  | :r            |     jit. "aer"      |
+|     ern     | first                                | :rn           |     jit. "aern"     |
+|    evros    | fertile, able to grow                | efvros        |    jit. "evoros"    |
+|    evos     | fields                               | efos          |     jit. "evos"     |
+|     hoi     | forward (shout)                      | hoi           |     jit. "hoi"      |
+|     nes     | hard, difficult to move              | nes           |     jit. "nes"      |
+|     isi     | shelter, oasis                       | i-si          |     jit. "isi"      |
+|   oestae    | wind                                 | este          |    jit. "oestae"    |
+|  ostaequa   | wind howl, name for wolf-fox being   | y↓stequa      |   jit. "ostaequa"   |
+|     ros     | abundant, rich                       | ros           |     jit. "ros"      |
+|     sur     | star / hope, solitude                | sur           | jit. "sur"/"vosur"  |
+|    suri     | hopeful, alone                       | suri          |    adj. of "sur"    |
+|    vein     | road, trail                          | fe↓in         |     jit. "vein"     |
+|     vos     | horizon                              | wos           |     jit. "vos"      |                     
+|    vosur    | hope, solitude                       | wosur         |    jit. "vosur"     |
+|   vosuri    | hopeful, alone                       | wosuri        |    jit. "vosuri"    |
+|     wan     | anchor                               | wan           |     jit. "wan"      |
+|   wainesi   | harbour                              | wai-nesi      |   jit. "wainesi"    |
+| wald, weld¹ | forest                               | wald, we↓ld¹  |     jit. "weld"     |
+|     wes     | governor                             | we↓s          |    nomth. "wešš"    |
 ¹ - only in old baedoorish
 
 ### Grammar rules
@@ -72,10 +81,25 @@ the object, usually with additional chain letter. Hence, if you want to say "fir
 do need to use reverse system than in English - "flower-is-first". Below is table of chain letters
 used:
 
-| Letter | Rule                                     | Example use                            |
-|:------:|------------------------------------------|----------------------------------------|
-| **t**  | Used after letters `e`, `s`              | Enfretern (enfre-t-ern) ✤ First flower |
-|  None  | After letter `r` if next letter is vowel |                                        |
+| Letter | Rule                                           | Example use                            |
+|:------:|------------------------------------------------|----------------------------------------|
+| **t**  | Used after ending letters `e`, `s`             | Enfretern (enfre-t-ern) ✤ First flower |
+|  None  | Default if there's no contradictory rule above | Anssuri (ans-suri) ✤ Hopeful land      |
+
+**Adjectives from nouns**
+Creating adjectives from nouns varies heavily, and sometimes it doesn't even happen (meaning noun
+is both noun and adjective, as happens with `equa`, for example).
+
+| Change                     | Rule | Examples                |
+|----------------------------|------|-------------------------|
+| `n` at the end of the word |      | aer*n* - first          |
+| `i` before first consonant |      | a*i*ne - nautical       |
+| `i` at the end             |      | sur*i* - hopeful, alone |
+
+**"of"**
+Similarly to ghloddish, to express aspect of being "of" something, it is enough to merge two nouns,
+treating second noun as being adjective-like. Therefore "Ans Sur" is "Land of Hope", similarly how
+"Anssuri" would mean "hopeful land".
 
 ---
 ♢: loreum

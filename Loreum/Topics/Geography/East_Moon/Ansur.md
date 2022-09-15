@@ -3,9 +3,9 @@
 
 ``Simplified map of Ansur Isle as of 920 NE``
 
-**Isle of Ansur** is small island positioned pretty much in between old **Baedoor city** and **New Baedoor**,
-being also one of the better places to stay during longer journey to any of those places.
-Since third decade of New Era, it became known for its wine.
+**Isle of Ansur** (bae. *Ans Sur*, "land of hope") is small island positioned pretty much in between 
+old **Baedoor city** and **New Baedoor**, being also one of the better places to stay during longer 
+journey to any of those places. Since third decade of New Era, it became known for its wine.
 
 ### 📜 HISTORY  
 Ansur was not colonised before New Era, so during Exodus, when sailors saw the island instead of 

@@ -28,46 +28,55 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 ### Jitadish pronunciation
 <center><b>Old jitadish - modern jitadish period</b></center>
 
-| Key  |  Sound  | Rule / Example in English to follow                         |
-|:----:|:-------:|-------------------------------------------------------------|
-| e... |    :    | if `e` is first, it is silent, unless it is `ev` or `ei`¹ᐞ  |
-| ...e |   e:    | Sometimes                                                   |
-|  ev  |   ef    | as in `effigy`                                              |
- |  ei  |  e↓ i↑  | as `a` in `tape`¹ᐞ                                          |
-|  e   |   e↓    | weak, taking most of next letter, as in "extend**e**d" word |
-|  ae  | ae↓, e¹ | classic `e`, as in `energy`¹ᐪ                               |
-|  oe  |  -, e¹  | classic `e`, as in `energy`¹ᐪ                               |
-| o... | o / y↓  | either `o` or weak `y`                                      |
-| y... |   ji    | if first, pronounced as `ye` in `yeet`ᵍ                     |
-|  y   |  y / i  | either `y` or `i`                                           |
- |  v   |  f ~ v  | subtle mix of `v` and `f`                                   |                                              
-|  w   |   w↑    | as `v` in `vengeance`                                       |
+|  Key  |  Sound  | Rule / Example in English to follow                         |
+|:-----:|:-------:|-------------------------------------------------------------|
+| e...  |    :    | if `e` is first, it is silent, unless it is `ev` or `ei`¹ᐞ  |
+| ...e  |   e:    | Sometimes                                                   |
+|  ev   |   ef    | as in `effigy`                                              |
+ |  ei   |  e↓ i↑  | as `a` in `tape`¹ᐞ                                          |
+|   e   |   e↓    | weak, taking most of next letter, as in "extend**e**d" word |
+|  ae   | ae↓, e¹ | classic `e`, as in `energy`¹ᐪ                               |
+|  oe   |  -, e¹  | classic `e`, as in `energy`¹ᐪ                               |
+| o...  | o / y↓  | either `o` or weak `y`                                      |
+| y...  |   ji    | if first, pronounced as `ye` in `yeet`ᵍ                     |
+|   y   |  y / i  | either `y` or `i`                                           |
+ |   v   |  f ~ v  | subtle mix of `v` and `f`                                   |
+| vo... |   w↓o   | in many dialects, `vo` at the start is slightly heavier     |
+|   w   |   w↑    | as `v` in `vengeance`                                       |
 ᐞ - trish language influence  
 ᐪ - baedoorish language influence  
 ᵍ - ghloddish language influence  
 ¹ - only in modern jitadish
 
 ### Jitadish vocabulary
-|   Word   | Translation                          | Pronunciation |    Etymology     |
-|:--------:|--------------------------------------|---------------|:----------------:|
-|   aer    | one                                  | ae↓r          |        -         | 
-|   aern   | first                                | ae↓rn         |     aer + -n     |
-|   aine   | nautical, related to sea             | ai-ne:        |        -         | 
-|   ane    | sea                                  | a-ne:         |        -         |        
-|   enfr   | flower, blossoming                   | :nfr          |        -         | 
-|   equa   | howl, squal, weep, sound during pain | :qua          |        -         |
-|  evoros  | fertile, able to grow                | efvoros       |    evos + ros    |
-|   evos   | fields                               | efos          |        -         |
-|   hoi    | forward (shout)                      | hoi           |        -         |
-|   isi    | shelter, oasis                       | i-si          |        -         |
-|  oestae  | wind                                 | :stae↓, este¹ |        -         |
-| ostaequa | howly wind, name for wolf-fox being  | y↓stae↓qua    |  oestae + equa   |
-|   ros    | abundant, rich                       | ros           |        -         |
-|   vein   | road, trail                          | fe↓i↑n        |        -         |
-|   wan    | anchor                               | wan           |        -         |
-| wainesi  | harbour                              | wai-nesi      | wan + aine + isi |
-|   weld   | forest                               | we↓ld         |        -         |
+|       Word       | Translation                                | Pronunciation    |     Etymology     |
+|:----------------:|--------------------------------------------|------------------|:-----------------:|
+|       aer        | one                                        | ae↓r             |         -         | 
+|       aern       | first                                      | ae↓rn            |     aer + -n      |
+|       aine       | nautical, related to sea                   | ai-ne:           |   adj. of "ane"   | 
+|      aines       | terrestrial, related to land               | ai-nes↑          |  adj. of "anes"   |
+|       ane        | sea                                        | a-ne:            |         -         | 
+|       anes       | land                                       | anes             |     ane + nes     |
+|       enfr       | flower, blossoming                         | :nfr             |         -         | 
+|       equa       | howl, squal, weep, sound during pain       | :qua             |         -         |
+|      evoros      | fertile, able to grow                      | efvoros          |    evos + ros     |
+|       evos       | fields                                     | efos             |         -         |
+|       hoi        | forward (shout)                            | hoi              |         -         |
+|       nes        | hard, difficult to move                    | nes              |         -         |
+|       isi        | shelter, oasis                             | i-si             |         -         |
+|      oestae      | wind                                       | :stae↓, este¹    |         -         |
+|     ostaequa     | howly wind, name for wolf-fox being        | y↓stae↓qua       |   oestae + equa   |
+|       ros        | abundant, rich                             | ros              |         -         |
+|       sur        | star                                       | sur              |         -         |                             
+|       vein       | road, trail                                | fe↓i↑n           |         -         |
+|       vos        | horizon                                    | wos              |         -         |                     
+|  vosur, vossur²  | hope, solitude, "lone star in the horizon" | wosur, wossur²   |     vos + sur     |
+| vosuri, vossuri² | hopeful, alone                             | wosuri, wossuri² |  adj. of "vosur"  | 
+|       wan        | anchor                                     | wan              |         -         |
+|     wainesi      | harbour                                    | wai-nesi         | wan + aine + isi  |
+|       weld       | forest                                     | we↓ld            |         -         |
 ¹ - only in modern jitadish
+² - old jitadish
 
 ### Grammar rules
 **Appending qualities/adjectives to an item**
@@ -75,18 +84,19 @@ Jitadish places qualities at the end of the object, usually with additional chai
 Hence, if you want to say "first flower", you do need to use reverse system than in 
 English - "flower-is-first". Below is table of chain letters used:
 
-| Letter | Rule                                     | Example use                         |
-|:------:|------------------------------------------|-------------------------------------|
-|  None  | After letter `r` if next letter is vowel | Enfraern (enfr-aern) ✤ First flower |
+| Letter | Rule                                           | Example use                         |
+|:------:|------------------------------------------------|-------------------------------------|
+|  None  | Default if there's no contradictory rule above | Enfraern (enfr-aern) ✤ First flower |
 
 **Adjectives from nouns**
 Creating adjectives from nouns varies heavily, and sometimes it doesn't even happen (meaning noun
 is both noun and adjective, as happens with `equa`, for example).
 
-| Change                     | Rule | Examples          |
-|----------------------------|------|-------------------|
-| `n` at the end of the word |      | aer*n* - first    |
-| `i` before first consonant |      | a*i*ne - nautical |
+| Change                     | Rule | Examples                  |
+|----------------------------|------|---------------------------|
+| `n` at the end of the word |      | aer*n* - first            |
+| `i` before first consonant |      | a*i*ne - nautical         |
+| `i` at the end             |      | vosur*i* - hopeful, alone |
 
 ---
 ♢: loreum

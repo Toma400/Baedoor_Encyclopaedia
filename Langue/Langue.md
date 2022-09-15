@@ -16,5 +16,7 @@ dictionaries and walkthrough through languages logic.
 ---
 <center><h2>Ancient languages</h2></center>
 
+### [🪔 Nomathian](Ancient/Nomathian.md)
+
 ---
 <center><h2>Ritual languages</h2></center>
