@@ -6,6 +6,11 @@
 - [Evros Fields](BSaL_Locations.md#evros-fields)
 
 ---
+#### "Arennan" Ship
+Tutorial location on which game started. You can do your first quest there, as well as learn
+how to navigate and fight. After first fight, ship docks in Evros port, allowing you to
+go elsewhere.
+
 #### Evros Docks
 Starting point of free-roaming mode of the game, after tutorial part. Here you can get your first
 quests, as well as go further into Evros city. In docks you can visit tavern, mage shop, as well

@@ -12,6 +12,3 @@ knowledge about the universe.
 
 ---
 ### 📖 [Abbreviations](Abbrevs.md)
-
----
-✥
