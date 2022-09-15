@@ -1,43 +1,24 @@
-# 🏞️ Ansur Isle
-<img alt="Ansur Map" height="390" src="/Assets/map_ansur.jpg" width="520"/>
+# 🏞️ Nferth Isle
+<img alt="Nferth Map" height="390" src="/Assets/map_ansur.jpg" width="219"/>
 
-``Simplified map of Ansur Isle as of 920 NE``
+``Simplified map of Nferth Isle``
 
-**Isle of Ansur** (bae. *Ans Sur*, "land of hope") is small island positioned pretty much in between 
-old **Baedoor city** and **New Baedoor**, being also one of the better places to stay during longer 
-journey to any of those places. Since third decade of New Era, it became known for its wine.
+**Nferth** (called also "Isle of Demons") is lone island located at far south of East Moon. 
+Despite having lighthouse build, it is avoided with superstitious fear. Lighthouse itself is called
+as "haunted", as it is always lit, despite noone living in the building.  
 
-### 📜 HISTORY  
-Ansur was not colonised before New Era, so during Exodus, when sailors saw the island instead of 
-what their tales told them, they were not only surprised, but intrigued. Crew of two such ships
-decided to settle in this place, while others went further west (eventually reaching East Moon).
-
-Being exactly in half between two most important cities of early New Era made Ansur slowly 
-growing in importance. They became important point of exchange during those times, connecting two
-parts of Empire.  
-The main change, though, came with new laws introduced in 326 NE by governor **Norran Gorth**, 
-benefitting from **Baedoor Empire** collapse and stating independency, as well as adding several 
-taxes to those who dock in Ansur, but do not plan to stay longer.  
-This brought not only enough money for the island to expand, but also solidify their export and
-create bigger infrastructure. This also lead to Evros getting city walls and small fort on top of the hill, as governor 
-residence and additiona fortification.  
-
-In 917 NE, governor **Heimlig Naevos** recommended building of airship port, which is estimated to
-be finished in year 925 NE.
+Nferth is wastelandic island, full of semi-dead trees, in which three ruins are crucial points - 
+Assirnetomel on the northern-east side, Affaitelvaneissi near the coast, and Telvyanyevalyashi in
+southern-west side. All of those are shrine ruins, being main reason of fear towards this island.  
+Their creation time, builders, name origins or purpose is unknown. There is also not really anything 
+in Baedoor universe reminding shapes or alphabet to what is found on Nferth.
 
 **PLACES**
-- [Evros](Cities/Evros.md)
-- Waine
-
-**POINTS**
-- Gorthal Stronghold
-- Fields
+- Edrasur Lighthouse
+- Assirnetomel Shrine
+- Affaitelvaneissi Shrine
+- Telvyanyevalyashi Shrine
 
 ---
-### 📿 Between Shadows and Light
-Original BSaL game takes place in 216 NE, when Ansur was still more of a transit place than real
-island. Although earning a lot by this practice alone, it lacked stronger hand to benefit.
-
----
-♜♢✥ + add name to name list + 326 NE into **history** + add link to BSaL walkthrough + links to locations and people  
+♜♢✥
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)

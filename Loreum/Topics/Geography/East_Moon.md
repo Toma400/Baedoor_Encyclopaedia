@@ -16,7 +16,7 @@ civilisations living before times**.
 🔲  Continental Side  
 🔲  [Ansur Isle](East_Moon/Ansur.md)  
 🔲  Agoi Archipelago  
-🔲  Nferth Isle (Isle of Demons)
+🔲  [Nferth Isle](East_Moon/Nferth.md) (Isle of Demons)
 
 ---
 ♜♢✥  

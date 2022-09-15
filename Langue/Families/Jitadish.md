@@ -31,7 +31,7 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |  Key  |  Sound  | Rule / Example in English to follow                         |
 |:-----:|:-------:|-------------------------------------------------------------|
 | e...  |    :    | if `e` is first, it is silent, unless it is `ev` or `ei`¹ᐞ  |
-| ...e  |   e:    | Sometimes                                                   |
+| ...e  |   e:    | sometimes                                                   |
 |  ev   |   ef    | as in `effigy`                                              |
  |  ei   |  e↓ i↑  | as `a` in `tape`¹ᐞ                                          |
 |   e   |   e↓    | weak, taking most of next letter, as in "extend**e**d" word |
@@ -49,32 +49,34 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 ¹ - only in modern jitadish
 
 ### Jitadish vocabulary
-|       Word       | Translation                                | Pronunciation    |     Etymology     |
-|:----------------:|--------------------------------------------|------------------|:-----------------:|
-|       aer        | one                                        | ae↓r             |         -         | 
-|       aern       | first                                      | ae↓rn            |     aer + -n      |
-|       aine       | nautical, related to sea                   | ai-ne:           |   adj. of "ane"   | 
-|      aines       | terrestrial, related to land               | ai-nes↑          |  adj. of "anes"   |
-|       ane        | sea                                        | a-ne:            |         -         | 
-|       anes       | land                                       | anes             |     ane + nes     |
-|       enfr       | flower, blossoming                         | :nfr             |         -         | 
-|       equa       | howl, squal, weep, sound during pain       | :qua             |         -         |
-|      evoros      | fertile, able to grow                      | efvoros          |    evos + ros     |
-|       evos       | fields                                     | efos             |         -         |
-|       hoi        | forward (shout)                            | hoi              |         -         |
-|       nes        | hard, difficult to move                    | nes              |         -         |
-|       isi        | shelter, oasis                             | i-si             |         -         |
-|      oestae      | wind                                       | :stae↓, este¹    |         -         |
-|     ostaequa     | howly wind, name for wolf-fox being        | y↓stae↓qua       |   oestae + equa   |
-|       ros        | abundant, rich                             | ros              |         -         |
-|       sur        | star                                       | sur              |         -         |                             
-|       vein       | road, trail                                | fe↓i↑n           |         -         |
-|       vos        | horizon                                    | wos              |         -         |                     
-|  vosur, vossur²  | hope, solitude, "lone star in the horizon" | wosur, wossur²   |     vos + sur     |
-| vosuri, vossuri² | hopeful, alone                             | wosuri, wossuri² |  adj. of "vosur"  | 
-|       wan        | anchor                                     | wan              |         -         |
-|     wainesi      | harbour                                    | wai-nesi         | wan + aine + isi  |
-|       weld       | forest                                     | we↓ld            |         -         |
+|       Word       | Translation                                | Pronunciation    |    Etymology     |
+|:----------------:|--------------------------------------------|------------------|:----------------:|
+|       aer        | one                                        | ae↓r             |        -         | 
+|       aern       | first                                      | ae↓rn            |     aer + -n     |
+|       aine       | nautical, related to sea                   | ai-ne:           |  adj. of "ane"   | 
+|      aines       | terrestrial, related to land               | ai-nes↑          |  adj. of "anes"  |
+|       ane        | sea                                        | a-ne:            |        -         | 
+|       anes       | land                                       | anes             |    ane + nes     |
+|       edra       | south                                      | :dra             |        -         |
+|       enda       | north                                      | :nda             |        -         | 
+|       enfr       | flower, blossoming                         | :nfr             |        -         | 
+|       equa       | howl, squal, weep, sound during pain       | :qua             |        -         |
+|      evoros      | fertile, able to grow                      | efvoros          |    evos + ros    |
+|       evos       | fields                                     | efos             |        -         |
+|       hoi        | forward (shout)                            | hoi              |        -         |
+|       nes        | hard, difficult to move                    | nes              |        -         |
+|       isi        | shelter, oasis                             | i-si             |        -         |
+|      oestae      | wind                                       | :stae↓, este¹    |        -         |
+|     ostaequa     | howly wind, name for wolf-fox being        | y↓stae↓qua       |  oestae + equa   |
+|       ros        | abundant, rich                             | ros              |        -         |
+|       sur        | star                                       | sur              |        -         |                             
+|       vein       | road, trail                                | fe↓i↑n           |        -         |
+|       vos        | horizon                                    | wos              |        -         |                     
+|  vosur, vossur²  | hope, solitude, "lone star in the horizon" | wosur, wossur²   |    vos + sur     |
+| vosuri, vossuri² | hopeful, alone                             | wosuri, wossuri² | adj. of "vosur"  | 
+|       wan        | anchor                                     | wan              |        -         |
+|     wainesi      | harbour                                    | wai-nesi         | wan + aine + isi |
+|       weld       | forest                                     | we↓ld            |        -         |
 ¹ - only in modern jitadish
 ² - old jitadish
 
