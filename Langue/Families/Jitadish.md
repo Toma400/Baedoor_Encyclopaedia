@@ -49,6 +49,8 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 ### Jitadish vocabulary
 |   word   | translation                          | pronunciation |   etymology   |
 |:--------:|--------------------------------------|---------------|:-------------:|
+|   aer    | one                                  | ae↓r          |       -       | 
+|   aern   | first                                | ae↓rn         |   aer + -n    |
 |   enfr   | flower, blossoming                   | :nfr          |       -       | 
 |   equa   | howl, squal, weep, sound during pain | :qua          |       -       |
 |   hoi    | forward (shout)                      | hoi           |       -       |
@@ -58,6 +60,16 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |   vein   | road, trail                          | fe↓i↑n        |       -       |
 |   weld   | forest                               | we↓ld         |       -       |
 ¹ - only in modern jitadish
+
+### Grammar rules
+**Appending qualities/adjectives to an item**
+Jitadish places qualities at the end of the object, usually with additional chain letter. 
+Hence, if you want to say "first flower", you do need to use reverse system than in 
+English - "flower-is-first". Below is table of chain letters used:
+
+| Letter | Rule                                     | Example use                         |
+|:------:|------------------------------------------|-------------------------------------|
+|  None  | After letter `r` if next letter is vowel | Enfraern (enfr-aern) ✤ First flower |
 
 ---
 ♢: loreum
