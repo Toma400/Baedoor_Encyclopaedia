@@ -4,7 +4,7 @@
 <span style="color:#107C23">**cities**</span> [✦](/Loreum/Tags.md#-cities)  
 
 ---
-Medium-sized harbour town located on [**Ansur Isle**](/Loreum/Topics/Geography/East_Moon/Ansur.md), 
+**Evros** (bae. *Evros*, "strongly growing") is medium-sized harbour town located on [**Ansur Isle**](/Loreum/Topics/Geography/East_Moon/Ansur.md), 
 being main transit place for anyone sailing from Baedoor Continent to East Moon and reversely.  
 Since **Norran Gorth** decree, it extended heavily throughout later years.
 

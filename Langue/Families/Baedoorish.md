@@ -27,9 +27,10 @@ old jitadish → old baedoorish → baedoorish
 
 ### Baedoorish pronunciation
 
-| Key  | Sound  | Example in English to follow                                |
+| Key  | Sound  | Rule / Example in English to follow                         |
 |:----:|:------:|-------------------------------------------------------------|
 | e... |   :    | if `e` is first, it is silent, unless it is `ev`            |
+| ...e |   e:   | Sometimes                                                   |
 |  ev  |   ef   | as in `effigy`                                              |
 |  e   |   e↓   | weak, taking most of next letter, as in "extend**e**d" word |
 |  ae  |   e    | classic `e`, as in `energy`                                 |
@@ -44,15 +45,22 @@ old jitadish → old baedoorish → baedoorish
 ### Jitadish vocabulary
 |    Word     | Translation                          | Pronunciation |    Etymology    |
 |:-----------:|--------------------------------------|---------------|:---------------:|
+|    aine     | nautical, related to sea             | ai-ne:        |        -        | 
+|     ane     | sea                                  | a-ne:         |        -        |
 |    enfre    | flower, blossoming                   | :nfre         |   jit. "enfr"   | 
 |    equa     | howl, squal, weep, sound during pain | :qua          |   jit. "equa"   |
 |     er      | one                                  | :r            |   jit. "aer"    |
 |     ern     | first                                | :rn           |   jit. "aern"   |
+|    evros    | fertile, able to grow                | efvros        |  jit. "evoros"  |
+|    evos     | fields                               | efos          |   jit. "evos"   |
 |     hoi     | forward (shout)                      | hoi           |   jit. "hoi"    |
 |     isi     | shelter, oasis                       | i-si          |   jit. "isi"    |
 |   oestae    | wind                                 | este          |  jit. "oestae"  |
 |  ostaequa   | wind howl, name for wolf-fox being   | y↓stequa      | jit. "ostaequa" |
+|     ros     | abundant, rich                       | ros           |   jit. "ros"    |
 |    vein     | road, trail                          | fe↓in         |   jit. "vein"   |
+|     wan     | anchor                               | wan           |   jit. "wan"    |
+|   wainesi   | harbour                              | wai-nesi      | jit. "wainesi"  |
 | wald, weld¹ | forest                               | wald, we↓ld¹  |   jit. "weld"   |
 |     wes     | governor                             | we↓s          |        -        |
 ¹ - only in old baedoorish
