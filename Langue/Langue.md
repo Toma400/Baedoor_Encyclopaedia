@@ -9,6 +9,7 @@ dictionaries and walkthrough through languages logic.
 
 ### [⛩️ Baedoorish](Families/Baedoorish.md)
 ### [⛩️ Jitadish](Families/Jitadish.md)
+### [⛩️ Trish](Families/Trish.md)
 
 ---
 <center><h2>Regular languages</h2></center>
