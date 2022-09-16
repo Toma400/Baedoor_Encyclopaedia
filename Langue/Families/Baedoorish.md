@@ -1,10 +1,10 @@
 # ⛩️ Baedoorish
 Baedoorish (sometimes also called baedoorian) is language shaped throughout first centuries of Old
 Era, when jitadish travellers settled in land later called as Baedoor. A lot of aspects of this
-language is derived from original jitadish, yet baedoorish still appears to have its distinct soul.
+language is derived from original Jitadish, yet Baedoorish still appears to have its distinct soul.
 
 ### Baedoorish history
-Jitadish travellers conquering nomathian lands of Baedoor were speaking mostly jitadish language.  
+Jitadian travellers conquering nomathian lands of Baedoor were speaking mostly jitadish language.  
 Time of meeting nomathian, especially on the long term, appeared to change some phonetic aspects of 
 it, allowing to create distinct dialect by the time.  
 Eventually, it could be precised as separate language, which became **Old Baedoorish**. 

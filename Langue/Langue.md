@@ -17,6 +17,7 @@ dictionaries and walkthrough through languages logic.
 ---
 <center><h2>Ancient languages</h2></center>
 
+### [🪔 Ehric](Ancient/Ehric.md)
 ### [🪔 Nomathian](Ancient/Nomathian.md)
 
 ---
