@@ -204,7 +204,7 @@ and who knows, maybe we will meet across the road someday?
 * [2004] Lands `not official`
 * [2005] Other Lands `not official`
 * [2008] Baedoor `not official`
-* [2018] Between Shadows and Lights `not official`
+* [2018] Between Shadows and Light `not official`
 * [2021] [Wastelands of Baedoor](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor)
 ---
 ### Upcoming

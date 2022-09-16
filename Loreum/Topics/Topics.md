@@ -4,7 +4,7 @@
 ### 🌌 [World Mechanics](World_Mechanics.md)
 ### 🎎️ [History](History.md)
 ### 📖 Literature
-### 🌏 Geography
+### 🌏 [Geography](Geography.md)
 ### 🍂 [Nature](Nature.md)
 ### 💮 Races
 ### ☸️ Languages

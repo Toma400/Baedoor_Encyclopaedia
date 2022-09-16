@@ -47,8 +47,7 @@ the decision on how to contact me are pretty endless.
 My journey started with Baedoor universe, which history is explained [in its own section](Baedoor.md).  
 List of strictly Baedoor-related works are listed there.  
 If you'd prefer to see all my creations 
-though, here you have complete list of what I did by far, excluding some less official works mentioned
-in Baedoor section:
+though, here you have complete list of what I did by far:
 
 ### 📿 MODS
 I started my modding journey from small Battle for Wesnoth mod made in around 2012. Since it uses original
