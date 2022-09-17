@@ -1,7 +1,7 @@
-# 🎇 Starshifters
+# 🎇 Gwiazdounosiciele
 
 ---
-<span style="color:#8F3DA5">**universe**</span> [✦](/Loreum/Tags.md#-universe)  
+<span style="color:#8F3DA5">**uniwersum**</span> [✦](/Loreum/Tags.md#-universe)  
 
 ---
 **Starshifters** is secret magical organisation established in **Jitado** by [Xaine](/Loreum/Topics/Characters/List/Xaine.md)

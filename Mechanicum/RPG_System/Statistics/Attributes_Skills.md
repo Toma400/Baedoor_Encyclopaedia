@@ -1,76 +1,77 @@
-# ♟️ Secondary modifiers
+# ♟️ Modyfikatory poboczne
 
-Attributes are passive traits giving background to your basic modifiers. 
-They can also rarily serve as bonus or modifier for some of your actions.
+Cechy są głównym elementem wpływającym na podstawowe modyfikatory.  
+Mogą one również czasami modyfikować rezultaty Twoich działań.
 
-Skills, in the other hand, are results of your own work - and, samely as in life, the more you train, the better outcome you get.
+Umiejętności natomiast są wynikiem Twojej pracy - i, podobnie jak w życiu,
+im bardziej trenujesz, tym lepszy w nich jesteś.
 
 ---
-**ATTRIBUTES**  
-By default, all attributes are at level 8.
+**CECHY**  
+Domyślnie wszystkie cechy są na poziomie 8.
 
-- STR (Strength)
-- AGI (Agility)
-- END (Endurance)
-- INT (Intelligence)
-- CHA (Charisma)
+- STR (Siła)
+- AGI (Zręczność)
+- END (Wytrzymałość)
+- INT (Inteligencja)
+- CHA (Charyzma)
 
-**SKILLS**
-- Handfight¹
-- Shortswords¹
-- Longswords
-- Polearms
-- Archery¹
-- Firearms
-- Spellcasting
-- Restoration Magic
-- Transformation Magic
-- Destruction Magic
-- Necromancy
-- Connection Bond²
-- Trade¹
-- Persuasion¹
-- Repair
-- Healing
-- Lockpicking
-- Sneaking
-- Stealing
-- Pickpocketing
-- Traps Designing
-- Traps Spotting
-- Musicality
-- Resource Processing
-- Tools
-- Smithing
-- Herbalism
-- Alchemy
-- Cooking
-- Toughness
-- Survival
+**UMIEJĘTNOŚCI**
+- Walka wręcz¹
+- Broń krótka¹
+- Broń długa
+- Broń drzewcowa
+- Łucznictwo¹
+- Broń palna
+- Rzucanie zaklęć
+- Magia odnowy
+- Magia transformacji
+- Magia destrukcji
+- Nekromancja
+- Magia zjednoczenia²
+- Handel¹
+- Perswazja¹
+- Naprawa
+- Leczenie
+- Otwieranie zamków
+- Skradanie się
+- Kradzież
+- Kieszonkostwo
+- Tworzenie pułapek
+- Rozpoznawanie pułapek
+- Muzykalność
+- Przetwarzanie surowców
+- Narzędzia
+- Kowalstwo
+- Zielarstwo
+- Alchemia
+- Gotowanie
+- Twardość
+- Przetrwanie
 
-**PERKS**  
-Not expandable, once-gatherable (with race, class or by learning).
+**PERKI**  
+Nierozwijalne, zdobywalne raz (wraz z rasą, klasą, bądź wyuczalne).
 
-- Trader Sight
-- Vehicles Driving
-- Berserk
-- Assassin's Hit
-- Stepping on Water
-- Flying Monk
-- Toxin Immunity
-- Undead
+- Wzrok Kupca
+- Kierowanie Pojazdami
+- Berserker
+- Zabójczy Cios
+- Kroczący Po Wodzie
+- Latający Kapłan
+- Odporność na Toksyny
+- Nieumarły
 - Stheyr
-- Friend of Animals
-- Animal Training
-- Vampirism
-- Body Harvesting
-- Ritual Tongues
-- Ancient Architects' Tongue
+- Przyjaciel Zwierząt
+- Trener Zwierząt
+- Wampiryzm
+- Pożeranie Ciał
+- Języki Rytualne
+- Język Starożytnych Architektów
 
 ---
 
-¹ - one point guaranteed by default  
-² - available for characters having positive connection alignment
+¹ - jeden punkt gwarantowany domyślnie  
+² - dostępny jedynie postaciom z chociaż jednym punktem Siły Zjednoczenia
 
 ---
 [💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)

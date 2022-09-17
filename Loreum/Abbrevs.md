@@ -1,13 +1,13 @@
-# 📖 Abbreviations
+# 📖 Skróty
 
 ---
-Here you can find all abbreviations used by Encyclopaedia.
+Tutaj możesz znaleźć wszystkie skróty użyte w Encyklopedii.
 
 ---
-`bae.` - baedoorish (usually referred for translation in this language)
+`bae.` - baedoorski (zwykle używany podczas tłumaczeń)
 
-`ghl.` - ghloddish (usually referred for translation in this language)
+`ghl.` - głoddyjski (zwykle używany podczas tłumaczeń)
 
-`nomth.` - nomathian (usually referred for translation in this language)
+`nomth.` - nomathijski (zwykle używany podczas tłumaczeń)
 
-`trl.` - transliteration (used mostly in context of clearing some misunderstandings of specific languages)
+`trl.` - transliteracja (używana zwykle do wyjaśniania złożonych konceptów języków)

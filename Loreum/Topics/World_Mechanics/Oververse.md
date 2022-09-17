@@ -1,154 +1,172 @@
-# 🎆 Oververse
+# 🎆 Wszechwers
 
 ---
-<span style="color:#8F3DA5">**universe**</span> [✦](/Loreum/Tags.md#-universe)  
+<span style="color:#8F3DA5">**uniwersum**</span> [✦](/Loreum/Tags.md#-universe)  
 
 ---
-### 🔆 CONCEPT
-Oververse is concept that expands the idea known in our world as "multiverse".
+### 🔆 IDEA
+Wszechwers jest konceptem, który rozwija ideę znaną w naszym świecie jako "multiwersum".
 
-Starshifters, being a word for oververse explorers, believe in set of systems that create what they
-call **Oververse**. It could be explained in Minecraft, being pretty amazing reference, contaning
-dimensions, which is not really possible in case of Earth.
+Gwiazdounosiciele, będący określeniem na odkrywców wszechwersu, wierzą w systemy tworzące
+to, co nazywają oni **Wszechwersem**. Najłatwiej wyjaśnić ten koncept na przykładzie
+Minecrafta, który jest o tyle świetny, że posiada wymiary, które nie są do tej pory
+odkryte w przypadku naszego świata.
 
-We can explain structure of oververse by going from smallest part to the biggest:
-1. **🌍 World** - which is just what we know as Earth, in Minecraft they know it as Overworld, 
-and in Baedoor it is known as simply "Baedoor" containing all the continents
-
-
-2. **💫 Universe** - which contains all *worlds* from previous part, sometimes called as *dimensions*.  
-You can travel between them using some techniques, but it isn't as easy as previously.  
-
-    - In case of Earth, it is unknown what are other worlds
-    - In Minecraft, those are Nether, End, Aether and other dimensions creating Minecraft universe
-    - In terms of Baedoor - it is mostly small semi-dimensions used by dream magicians to gain magical energy or make rituals
+Strukturę wszechwersu możemy wyjaśnić przez opisywanie jego elementów. Od
+najmniejszych części do największych, mamy:
+1. **🌍 Świat** - czyli to, co znamy jako Ziemia, w Minecrafcie natomiast ta przestrzeń
+nazywana jest Powierzchnią. W przypadku Baedooru, jest to po prostu cały tamtejszy
+świat, ze wszystkimi kontynentami.
 
 
-3. **✨ Multiverse** - which is name for what happens every second with every smallest atom getting 
-unknown state.  
-Baedoorians understand multiverse as not "worlds dependent on our 
-decisions", but rather <span style="color:#668c99">**worlds dependent on any choice, 
-by even the smallest aspects of the universe**</span>.  
-Therefore, universes multiply by billions in every millisecond, not by the rare choices, as you could
-see in some science-fiction narracy. Such multiverse idea is then different, but still apply to very
-"copy" of the same world.  
-Travel between those is one of the most difficult tasks you can do, but still possible in really rare 
-cases.
+2. **💫 Uniwersum** - który jest zbiorem wszystkich *światów* z poprzedniego punktu.
+Czasami światy te nazywane są *wymiarami*.  
+Możesz podróżować pomiędzy nimi używając pewnych sposobów, jednak nie jest to już tak
+łatwe jak w poprzednim przypadku.
+
+    - W przypadku naszego świata, nie do końca wiemy czym są inne światy
+    - W Minecrafcie, na uniwersum składają się wszystkie wymiary - Powierzchnia, Nether, Kres, Aether i inne
+    - W przypadku Baedoor - są to głównie małe quasi-wymiary używane przez magów snu żeby uzyskać energię i odbywać rytuały
 
 
-4. **🌌 Oververse** - which is a name for concept expanding multiverses. The choices of doing of any
-atom is only a part of the existence.  
-Metaphysical space is also the reality, and reality more real than you could expect.  
-If you wonder what are other "franchises", or more precisely, multiverses, such as Minecraft, 
-Harry Potter, Warhammer, DiscWorld, Marvel, and so on - they are exactly this, multiverses creating eventually
-what is known as oververse: the concept of the whole, all multiverses bound together.  
-<span style="color:#0099cc">**Oververse multiverses**</span> are created by the smallest impulse of
-will, which is why so many religions portray that process as "God creating the world through His will".  
-Exactly as in those stories, worlds are created by the thoughts, so if you imagine something, this
-thing already starts to exist.  
-This is why all so-called fictional worlds, are in fact a reality.  
-And if you are wondering what are dreams, the ones you cannot control, they are the only gates to the
-oververse concept: you can see through them to another multiverses and worlds, and sometimes, you
-can be inspired by those dreams (worlds) to create your own... or is it really to create, or just 
-showcase already existing one?
+3. **✨ Multiwersum** - które jest nazwą na to, co dzieje się każdej sekundy z 
+nawet najmniejszymi atomami osiągającymi nieznaną pozycję.  
+Baedoorczycy rozumieją multiwersum nie jako "światy zależne od naszych decyzji", a 
+raczej jako <span style="color:#668c99">**światy zależne od wszelkich wyborów, nawet tych najdrobniejszych aspektów uniwersum**</span>.  
+Tak więc, uniwersa rozdzielają się miliardami w każdej milisekundzie, nie tylko podczas
+rzadkich wyborów, jak można przeczytać w niektórych książkach science-fiction.
+Takie multiwersum jest więc konceptem zasadniczo różnym, jednak wciąż określającym
+"kopię" tego samego świata.  
+Podróż pomiędzy nimi jest jedną z najtrudniejszych rzeczy, jakie można uczynić, jednak
+jest to wciąż możliwe w bardzo rzadkich przypadkach.
 
-Due to such complexity as 4th section explains, travelling through worlds is increasingly harder with 
-each part: eventually, people cannot really travel through oververse other way than by dreaming, and
-this "travel" is more of a "visiting" than actual being.  
-There are only few who are known to travel physically through oververse, and those could be considered 
-as the wisest oneironauts.  
-The only such oneironaut known for Baedoor universe is [Xaine](/Loreum/Topics/Characters/List/Xaine.md).
+
+4. **🌌 Wszechwers** - będący nazwą na koncept rozszerzający pojęcie multiwersum.
+Wybory najmniejszych atomów są tylko częścią egzystencji.  
+Przestrzeń metafizyczna jest także rzeczywistością, i to bardziej realną niż można
+by się spodziewać.  
+Z pewnością znane są w naszym świecie franczyzy - czy ściślej, multiwersa - takie jak
+Minecraft, Harry Potter, Warhammer, Świat Dysku, Marvel, i tak dalej. Są to właśnie
+multiwersa tworzące ostatecznie to, co jest znane jako wszechwers: wszystkość, każde
+multiwersum, sprzężone ze wszystkimi innymi.  
+<span style="color:#0099cc">**Multiwersa składające się na wszechwers**</span> są
+tworzone przez najmniejszy impuls woli, co jest powodem dlaczego tak wiele religii
+opisuje ten proces jako "Boga tworzącego świat poprzez Jego wolę".  
+Dokładnie jak w mistycznych historiach, światy są tworzone przez myśli, więc gdy
+wyobrażasz sobie coś, to coś zaczyna już istnieć.  
+To też oznacza, że wszystkie tak zwane fikcjonalne światy, są tak naprawdę prawdziwe.  
+A jeśli zastanawiający może być fakt istnienia snów, zwłaszcza tych niekontrolowanych 
+przez Ciebie, to są to jedyne bramy do idei wszechwersu: możesz zobaczyć przez nie
+do innych multiwersów i światów, czasami zainspirować się tymi snami (światami) i
+stworzyć swój własny... czy może nie stworzyć, a po prostu ukazać już istniejący?
+
+Przez taką złożoność jak zostało to wyjaśnione w czwartym punkcie, podróżowanie między
+światami jest procesem szalenie złożonym, i coraz trudniejszym, im wyższy stopień
+rozważamy. Ostatecznie, nikt nie może tak naprawdę podróżować przez wszechwers inaczej
+niż poprzez sny, a i taka "podróż" to bardziej "odwiedzanie" niż faktycznie bycie.  
+Tylko małej garstce udało się fizycznie podróżować przez wszechwers, i byli to
+najwybitniejsi podróżnicy snów.  
+Jedynym takim oneironautą znanym w świecie Baedoor jest [Xaine](/Loreum/Topics/Characters/List/Xaine.md).
 
 ---
-### ♨️ HISTORY
-Concept of Oververse appeared in Baedoor world quite early, considering first discovery was made 
-by Si Avani yet in Pre-Era. By the following time, more multiverses were discovered by next
-starshifters, resulting even in creating several academias focused solely on concept of starshifting.
+### ♨️ HISTORIA
+Koncept Wszechwersu pojawił się w Baedoor dość wcześnie, gdyż pierwsze odkrycie
+datuje się już na Czas Przederowe. W następnych stuleciach, coraz więcej multiwersów
+było odkrywanych przez gwiazdounosicieli, ostatecznie rozbudzając spore zainteresowanie
+również ruchów uniwersyteckich.
 
-Map below showcases all currently known multiverses, drawn as galaxy, since Baedoorians believe
-oververse is similar to the concept of cosmos, just expanded on different plane of reality. The
-placement is, though, way more arbitrary:
+Mapa poniżej ukazuje wszystkie dotychczas znane multiwersa, rozrysowane jako galaktyka,
+gdyż baedoorczycy wierzą, że wszechwers jest konceptem podobnym do kosmosu - po prostu
+rozszerzonym o inne spektrum rzeczywistości. Położenie multiwersów jest jednak dalece
+bardziej arbitralne:
 
 <img alt="Oververse Sketch" height="422" src="/Assets/oververse_sketch.jpg" width="520"/>
 
-Multiverses were discovered in such chronology as the table below showcases:
 
-| Date of discovery | Multiverse | Explorer                                               | Possible Earth-understanding                 |
-|-------------------|------------|--------------------------------------------------------|----------------------------------------------|
- | 655 PE            | Tamariel   | [Si Avani](/Loreum/Topics/Characters/List/Si_Avani.md) | Tamriel, Elder Scrolls universe              |
- | 272 PE            | Uru'ai     |                                                        | Myst / Uru universe                          |
- | 463 OE            | Osde'in    |                                                        | DiscWorld universe                           |
- | 431 NE            | Ins'in     | Tehom Aranai                                           | Nalqiwatya                                   |
- | 637 NE            | Eis'in     |                                                        | End's Phantasm                               |
- | 638 NE            | Ne'rin     |                                                        | Minecraft universe                           |
- | 654 NE            | Ne'n       |                                                        | Breach dimensions between Ne'rin and Baedoor |
- | 654 NE            | Aji'n      |                                                        | Desolat and Deeper Undergrowth breaches      |
+Multiwersa były odkrywane w takiej oto chronologii:
 
-<span style="color:#0099cc">**THE RIFT OUTBREAK**</span>  
-Important event which is needed to be mentioned happened in **494 NE**, being called as <span style="color:#0099cc">**The Rift 
-Outbreak**</span>.  
-It is understood nowadays that this event opened quickly The Rift, structure
-making breach between multiverses, letting them connect for brief amount of time.  
+| Data odkrycia | Multiwersum | Odkrywca                                               | Prawdopodobna nazwa w naszym świecie                               |
+|---------------|-------------|--------------------------------------------------------|--------------------------------------------------------------------|
+ | 655 CP        | Tamariel    | [Si Avani](/Loreum/Topics/Characters/List/Si_Avani.md) | Tamriel, uniwersum Elder Scrolls                                   |
+ | 272 CP        | Uru'ai      |                                                        | Uniwersum Myst / Uru                                               |
+ | 463 SE        | Osde'in     |                                                        | Świat Dysku                                                        |
+ | 431 NE        | Ins'in      | Tehom Aranai                                           | Nalqiwatya                                                         |
+ | 637 NE        | Eis'in      |                                                        | End's Phantasm                                                     |
+ | 638 NE        | Ne'rin      |                                                        | Uniwersum Minecrafta                                               |
+ | 654 NE        | Ne'n        |                                                        | Wymiar-wyłom pomiędzy Ne'rin a Baedoor                             |
+ | 654 NE        | Aji'n       |                                                        | Konstelacja wymiarów-wyłomów o nazwie Desolat i Deeper Undergrowth |
 
-In normal circumstances, this wouldn't be possible, but baedoorian starshifters explain it as a result
-of what they call to be on "the outer ring of reality", which is concept popularised by Ins'in
-ghloddish-saphtri explorer, **Tehom Aranai**.  
+<span style="color:#0099cc">**ROZSZCZELNIENIE**</span>  
+Ważnym wydarzeniem, które powinno być wspomniane, było <span style="color:#0099cc">
+**Rozszczelnienie**</span>, powstałe w roku **494 NE**.  
+W obecnych czasach rozumiane jest ono jako krótkie otwarcie Szczeliny, struktury
+która powoduje wyłomy pomiędzy multiwersami, pozwalając im połączyć się przez krótki
+moment. 
 
-In short, this idea consider Baedoor multiverse to exist on one of "rings", being sort of metaphysical
-states of the multiverses that bounds them directly with **The Void**.  
-According to theorists, positioning the multiverse in such ring makes it way less predictable 
-in universal laws and anomalies are more probable to be found.  
-This is not the case of multiverses placed further from the ring - such as Earth, experiencing 
-anomalies extremely rarely.
+W normalnych warunkach nie byłoby to możliwe, jednak gwiazdounosiciele tłumaczą to
+faktem bycia na "zewnętrznym pierścieniu rzeczywistości", co jest konceptem
+spopularyzowanym przez głoddyjsko-saphtrijskiego odkrywcę Ins'in, **Tehom Aranaia**.  
 
-<span style="color:#0099cc">**STARSHIFTERS**</span>  
-First voyagers of dreams, oneironauts of the oververse, were calling themselves as **Starshifters**,
-being a secret organisation established by [Xaine](/Loreum/Topics/Characters/List/Xaine.md), the 
-first and the only physical oneironaut known to Baedoor universe by far.  
-He cared a lot about spreading information on true structure of reality, so Starshifters are known to
-be precisely selected people, wise enough to read and expand notes left by Xaine before he left Baedoor
-universe again.
+W skrócie, idea ta zakłada, iż multiwersum Baedoor istnieje na jednym z "pierścieni",
+będących określeniem metafizycznego stanu multiwersum wobec **Pustki**, wiążącego go z nią.  
+Według teoretyków, taka pozycja multiwersum czyni je mniej przewidywalnym i bardziej
+podatnym na anomalie.  
+W przypadku multiwersów położonych dalej od pierścieni - jak chociażby nasz 
+świat - takie sytuacje są skrajnie rzadkie.
 
-Although oververse concept is nowadays no longer Starshifters exclusive knowledge, their organisation
-is still considered as the most knowledgeable about the topic, since all multiverse discoveries were
-made by starshifters. After establishing of **International Council of Oververse Exploration**,
-starshifters decided to reveal few their members as emissaries, to communicate with the Council and
-share the knowledge.
+<span style="color:#0099cc">**GWIAZDOUNOSICIELE**</span>  
+Pierwsi podróżnicy snów, oneironauci wszechwersu, nazywali siebie **Gwiazdounosicielami**,
+przyjmując nazwę sekretnej organizacji założonej przez [Xaine](/Loreum/Topics/Characters/List/Xaine.md), jedynego fizycznego
+podróżnika wszechwersu jakiego to uniwersum zna do tej pory.  
+Dbał on bardzo, by dzielić się informacjami dotyczącymi prawdziwej struktury
+rzeczywistości, więc Gwiazdounosiciele byli precyzyjnie wybraną grupą ludzi, dostatecznie
+mądrych, by czytać i poszerzać notatki zostawione przez Xaine zanim opuścił on
+uniwersum Baedoor.
 
-<span style="color:#0099cc">**OVERVERSE UNIVERSITIES**</span>  
-Oververse concept were known to mages and mystics of Baedoor universes for thousands of years, but
-for huge part of time it was more of a theory, usually split into countless variants and lots of 
-believers arguing about details.  
-This resulted on decision - firstly made by ghlodds - to create some universities focused on studying
-what is beyond the mere universe. By the time of Pre-Era, **Ghloddish Universe Observatories** were
-built in 220 PE, being in fact just complex of universities bound to Ghloddish Temple. It was partly
-inspired by the discovery of Uru'ai half of century ago, which was the knowledge starshifters shared
-poorly with several scientists.
+Chociaż wiedza na temat wszechwersu nie jest dzisiaj już jedynie ekskluzywna dla
+organizacji Gwiazdounosicieli, są oni wciąż uznawani za grupę o największej wiedzy na
+jego temat, gdyż wszystkie odkrycia zostały dokonane przez jej członków. Gdy
+została założona **Międzynarodowa Rada Eksploracji Wszechwersu**, gwiazdounosiciele
+zdecydowali się ujawnić tożsamość kilku członków jako emisariuszy, by komunikować się
+z Radą i przekazać jej swoją wiedzę.
 
-In following centuries, new scientific sections of universities were being made: 
+<span style="color:#0099cc">**UNIWERSYTETY POŚWIĘCONE IDEI WSZECHWERSU**</span>  
+Koncept wszechwersu był znany magom i mistykom przez tysiące lat, jednak sporą część
+tego czasu był traktowany jako hipoteza, zwykle również bez konkretnej definicji, przez
+co wyobrażenia na jego temat różniły się znacząco.  
+Z tego też powodu brać akademicka zainteresowana tematem zdecydowała założyć
+oddzielne skrzydła uniwersytetów poświęcone badanion nad strukturą rzeczywistości.
+Pierwszą taką inicjatywą były, już w czasach przederowych, **Głoddyjskie Obserwatoria
+Uniwersów**, zbudowane w 220 CP. Był to tak naprawdę kompleks uniwersytecki związany
+ze Świątynią Głoddyjską. Ważnym impulsem do zbudowania go było odkrycie Uru'ai pół
+wieku wcześniej - gwiazdounosiciele podzielili się tą wiedzą ze światem, udostępniając
+niektóre dokumenty z tego odkrycia.
 
-| Year   | University or organisation                    | Place of build      | Council? |
-|--------|-----------------------------------------------|---------------------|----------|
- | 976 PE | Starshifters                                  | Jitado              | 🟠       |
- | 220 PE | Ghloddish Universe Observatories              | Seiteh              | 🟢       |
- | 55 PE  | Trish Starexploring Association               | West Moon Continent | 🟢       |
- | 466 SE | Metagalactical Wing of Oe'os University       | Oe'os               | 🟢       |
- | 922 SE | Adiana's Crystal                              | Septei              | 🟣       |
- | 112 NE | Black University                              | Rossevette          | 🟣       |
- | 655 NE | University on Oververse Study in West Baedoor | West Baedoor        | 🟢       |
- | 690 NE | Jitadish Observatory of Universes             | Jitado              | 🟢       |
+W następnym wiekach, powstawały nowe sekcje uniwersytetów poświęcone wszechwersowi:
+
+| Rok    | Uniwersytet lub organizacja                            | Miejsce powstania | Rada |
+|--------|--------------------------------------------------------|-------------------|------|
+ | 976 CP | Gwiazdounosiciele                                      | Jitado            | 🟠   |
+ | 220 CP | Głoddyjskie Obserwatoria Uniwersów                     | Seiteh            | 🟢   |
+ | 55 CP  | Trijskie Stowarzyszenie Gwiezdne                       | Zachodni Księżyc  | 🟢   |
+ | 466 SE | Metagalaktyczne Skrzydło Uniwersytetu Oe'os            | Oe'os             | 🟢   |
+ | 922 SE | Kryształ Adiany                                        | Septei            | 🟣   |
+ | 112 NE | Czarny Uniwersytet                                     | Rossevette        | 🟣   |
+ | 655 NE | Uniwersytet Badań nt. Wszechwersum w Zachodnim Baedoor | Zachodnie Baedoor | 🟢   |
+ | 690 NE | Jitadzkie Obserwatorium Uniwersów                      | Jitado            | 🟢   |
 
 
-This increased attention given to multiverses resulted in creating what is known as <span style="color:#0099cc">
-**International Council of Oververse Exploration**</span>. This Council were made in 695 NE, to ease 
-communication and knowledge exchange between universities. At the same time, Starshifters decided to
-partly reveal their identities, to help upcoming Council establish properly.
+Wzrastające zainteresowanie wobec multiwersów poskutkowało powstaniem <span style="color:#0099cc">
+**Międzynarodowej Rady Eksploracji Wszechwersu**</span>. Rada ta powstała w 695 NE,
+by ułatwić komunikację i wymianę wiedzy pomiędzy uniwersytami. W tym samym czasie,
+gwiazdounosiciele częściowo ujawnili swoje tożsamości, by pomóc Radzie zorganizować
+wiedzę.
 
 ``` 
- TABLE LEGEND:
- 🟠 not part of Council  
- 🟣 honorary member  
- 🟢 regular member
+ LEGENDA:
+ 🟠 poza Radą  
+ 🟣 honorowy członek Rady  
+ 🟢 członek Rady
 ```
 
 ---
