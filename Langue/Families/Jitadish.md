@@ -28,21 +28,25 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 ### Jitadish pronunciation
 <center><b>Old jitadish - modern jitadish period</b></center>
 
-|  Key  |  Sound  | Rule / Example in English to follow                         |
-|:-----:|:-------:|-------------------------------------------------------------|
-| e...  |    :    | if `e` is first, it is silent, unless it is `ev` or `ei`¹ᐞ  |
-| ...e  |   e:    | sometimes                                                   |
-|  ev   |   ef    | as in `effigy`                                              |
- |  ei   |  e↓ i↑  | as `a` in `tape`¹ᐞ                                          |
-|   e   |   e↓    | weak, taking most of next letter, as in "extend**e**d" word |
-|  ae   | ae↓, e¹ | classic `e`, as in `energy`¹ᐪ                               |
-|  oe   |  -, e¹  | classic `e`, as in `energy`¹ᐪ                               |
-| o...  | o / y↓  | either `o` or weak `y`                                      |
-| y...  |   ji    | if first, pronounced as `ye` in `yeet`ᵍ                     |
-|   y   |  y / i  | either `y` or `i`                                           |
- |   v   |  f ~ v  | subtle mix of `v` and `f`                                   |
-| vo... |   w↓o   | in many dialects, `vo` at the start is slightly heavier     |
-|   w   |   w↑    | as `v` in `vengeance`                                       |
+|  Key   |   Sound    | Rule / Example in English to follow                         |
+|:------:|:----------:|-------------------------------------------------------------|
+|   cu   |     su     | as in `support`                                             |
+|  e...  |     :      | if `e` is first, it is silent, unless it is `ev` or `ei`¹ᐞ  |
+|  ...e  |     e:     | sometimes                                                   |
+ |   ei   |   e↓ i↑    | as `a` in `tape`¹ᐞ                                          |
+| ...ena |    ena:    |                                                             |
+|   ev   |     ef     | as in `effigy`                                              |
+|   e    |     e↓     | weak, taking most of next letter, as in "extend**e**d" word |
+|   ae   |  ae↓, e¹   | classic `e`, as in `energy`¹ᐪ                               |
+|   oe   |   -, e¹    | classic `e`, as in `energy`¹ᐪ                               |
+|  o...  |   o / y↓   | either `o` or weak `y`                                      |
+|  y...  |     ji     | if first, pronounced as `ye` in `yeet`ᵍ                     |
+|   y    |   y / i    | either `y` or `i`                                           |
+ |   v    |   f ~ v    | subtle mix of `v` and `f`                                   |
+|  vae   | w↓ae, w↓e¹ | `ae` changes `v` to be slightly heavier                     |
+| ..ve.. |    w↓e     | `e` changes `v` to be slightly heavier, if inside the word  |
+| vo...  |    w↓o     | in many dialects, `vo` at the start is slightly heavier     |
+|   w    |     w↑     | as `v` in `vengeance`                                       |
 ᐞ - trish language influence  
 ᐪ - baedoorish language influence  
 ᵍ - ghloddish language influence  
@@ -57,6 +61,8 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |      aines       | terrestrial, related to land               | ai-nes↑          |  adj. of "anes"  |
 |       ane        | sea                                        | a-ne:            |        -         | 
 |       anes       | land                                       | anes             |    ane + nes     |
+|       cuer       | valley                                     | su-er            |        -         |
+|       dena       | vast                                       | dena:            |        -         |
 |       edra       | south                                      | :dra             |        -         |
 |       enda       | north                                      | :nda             |        -         | 
 |       enfr       | flower, blossoming                         | :nfr             |        -         | 
@@ -69,8 +75,10 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |      oestae      | wind                                       | :stae↓, este¹    |        -         |
 |     ostaequa     | howly wind, name for wolf-fox being        | y↓stae↓qua       |  oestae + equa   |
 |       ros        | abundant, rich                             | ros              |        -         |
-|       sur        | star                                       | sur              |        -         |                             
+|       sur        | star                                       | sur              |        -         |
+|       vaer       | void, wasteland, anxiety                   | waer, wer¹       |        -         |
 |       vein       | road, trail                                | fe↓i↑n           |        -         |
+|       vene       | dense, warm, safe                          | fvene:           |        -         |
 |       vos        | horizon                                    | wos              |        -         |                     
 |  vosur, vossur²  | hope, solitude, "lone star in the horizon" | wosur, wossur²   |    vos + sur     |
 | vosuri, vossuri² | hopeful, alone                             | wosuri, wossuri² | adj. of "vosur"  | 

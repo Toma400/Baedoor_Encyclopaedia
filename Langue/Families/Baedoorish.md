@@ -27,53 +27,61 @@ old jitadish → old baedoorish → baedoorish
 
 ### Baedoorish pronunciation
 
-|  Key  | Sound  | Rule / Example in English to follow                         |
-|:-----:|:------:|-------------------------------------------------------------|
-| e...  |   :    | if `e` is first, it is silent, unless it is `ev`            |
-| ...e  |   e:   | sometimes                                                   |
-|  ev   |   ef   | as in `effigy`                                              |
-|   e   |   e↓   | weak, taking most of next letter, as in "extend**e**d" word |
-|  ae   |   e    | classic `e`, as in `energy`                                 |
-|  oe   |   e    | classic `e`, as in `energy`                                 |
-| o...  | o / y↓ | either `o` or weak `y`                                      |
-| y...  |   ji   | if first, pronounced as `ye` in `yeet`ᵍ                     |
-|   y   | y / i  | either `y` or `i`                                           |
- |   v   | f ~ v  | subtle mix of `v` and `f`                                   | 
-| vo... |  w↓o   | in many dialects, `vo` at the start is slightly heavier     |                                             
-|   w   |   w↑   | as `v` in `vengeance`                                       |
+|  Key   | Sound  | Rule / Example in English to follow                         |
+|:------:|:------:|-------------------------------------------------------------|
+|   cu   |   ku   | as in `cube`, but without `j` element                       |
+|  e...  |   :    | if `e` is first, it is silent, unless it is `ev`            |
+|  ...e  |   e:   | sometimes                                                   |
+| ...ena |  ena:  |                                                             |
+|   ev   |   ef   | as in `effigy`                                              |
+|   e    |   e↓   | weak, taking most of next letter, as in "extend**e**d" word |
+|   ae   |   e    | classic `e`, as in `energy`                                 |
+|   oe   |   e    | classic `e`, as in `energy`                                 |
+|  o...  | o / y↓ | either `o` or weak `y`                                      |
+|  y...  |   ji   | if first, pronounced as `ye` in `yeet`ᵍ                     |
+|   y    | y / i  | either `y` or `i`                                           |
+ |   v    | f ~ v  | subtle mix of `v` and `f`                                   | 
+|  vae   |  w↓e   | as in `vector`                                              |
+| ..ve.. |  w↓e   | as in `vector`                                              |
+| vo...  |  w↓o   | in many dialects, `vo` at the start is slightly heavier     |                                             
+|   w    |   w↑   | as `v` in `vengeance`                                       |
 ᵍ - ghloddish language influence  
 
 ### Baedoorish vocabulary
-|      Word       | Translation                          | Pronunciation |     Etymology      |
-|:---------------:|--------------------------------------|---------------|:------------------:|
-|      aine       | nautical, related to sea             | ai-ne:        |    jit. "aine"     |
-|      ainsi      | terrestrial, related to land         | ai-nsi        |    jit. "aines"    |
-|       ane       | sea                                  | a-ne:         |     jit. "ane"     |
-|       ans       | land                                 | ans           |    jit. "anes"     |
-|      edra       | south                                | :dra          |    jit. "edra"     |
-|      enda       | north                                | :nda          |    jit. "enda"     | 
-|      enfre      | flower, blossoming                   | :nfre         |    jit. "enfr"     | 
-|      equa       | howl, squal, weep, sound during pain | :qua          |    jit. "equa"     |
-|       er        | one                                  | :r            |     jit. "aer"     |
-|       ern       | first                                | :rn           |    jit. "aern"     |
-|      evros      | fertile, able to grow                | efvros        |   jit. "evoros"    |
-|      evos       | fields                               | efos          |    jit. "evos"     |
-|       hoi       | forward (shout)                      | hoi           |     jit. "hoi"     |
-|       nes       | hard, difficult to move              | nes           |     jit. "nes"     |
-|       isi       | shelter, oasis                       | i-si          |     jit. "isi"     |
-|     oestae      | wind                                 | este          |   jit. "oestae"    |
-|    ostaequa     | wind howl, name for wolf-fox being   | y↓stequa      |  jit. "ostaequa"   |
-|       ros       | abundant, rich                       | ros           |     jit. "ros"     |
-|       sur       | star / hope, solitude                | sur           | jit. "sur"/"vosur" |
-|      suri       | hopeful, alone                       | suri          |   adj. of "sur"    |
-|      vein       | road, trail                          | fe↓in         |    jit. "vein"     |
-|       vos       | horizon                              | wos           |     jit. "vos"     |                     
-|      vosur      | hope, solitude                       | wosur         |    jit. "vosur"    |
-|     vosuri      | hopeful, alone                       | wosuri        |   jit. "vosuri"    |
-|       wan       | anchor                               | wan           |     jit. "wan"     |
-|     wainesi     | harbour                              | wai-nesi      |   jit. "wainesi"   |
-|   wald, weld¹   | forest                               | wald, we↓ld¹  |    jit. "weld"     |
-|       wes       | governor                             | we↓s          |   nomth. "wešš"    |
+|    Word     | Translation                          | Pronunciation |     Etymology      |
+|:-----------:|--------------------------------------|---------------|:------------------:|
+|    aine     | nautical, related to sea             | ai-ne:        |    jit. "aine"     |
+|    ainsi    | terrestrial, related to land         | ai-nsi        |    jit. "aines"    |
+|     ane     | sea                                  | a-ne:         |     jit. "ane"     |
+|     ans     | land                                 | ans           |    jit. "anes"     |
+|    cuer     | valley                               | ku-er         |    jit. "cuer"     |
+|    dena     | vast                                 | dena:         |    jit. "dena"     |
+|    edra     | south                                | :dra          |    jit. "edra"     |
+|    enda     | north                                | :nda          |    jit. "enda"     | 
+|    enfre    | flower, blossoming                   | :nfre         |    jit. "enfr"     | 
+|    equa     | howl, squal, weep, sound during pain | :qua          |    jit. "equa"     |
+|     er      | one                                  | :r            |     jit. "aer"     |
+|     ern     | first                                | :rn           |    jit. "aern"     |
+|    evros    | fertile, able to grow                | efvros        |   jit. "evoros"    |
+|    evos     | fields                               | efos          |    jit. "evos"     |
+|     hoi     | forward (shout)                      | hoi           |     jit. "hoi"     |
+|     nes     | hard, difficult to move              | nes           |     jit. "nes"     |
+|     isi     | shelter, oasis                       | i-si          |     jit. "isi"     |
+|   oestae    | wind                                 | este          |   jit. "oestae"    |
+|  ostaequa   | wind howl, name for wolf-fox being   | y↓stequa      |  jit. "ostaequa"   |
+|     ros     | abundant, rich                       | ros           |     jit. "ros"     |
+|     sur     | star / hope, solitude                | sur           | jit. "sur"/"vosur" |
+|    suri     | hopeful, alone                       | suri          |   adj. of "sur"    |
+|    vaer     | void, wasteland, anxiety             | wer           |    jit. "vaer"     |
+|    vein     | road, trail                          | fe↓in         |    jit. "vein"     |
+|     ven     | dense, warm, safe                    | fven          |    jit. "vene"     |
+|     vos     | horizon                              | wos           |     jit. "vos"     |                     
+|    vosur    | hope, solitude                       | wosur         |    jit. "vosur"    |
+|   vosuri    | hopeful, alone                       | wosuri        |   jit. "vosuri"    |
+|     wan     | anchor                               | wan           |     jit. "wan"     |
+|   wainesi   | harbour                              | wai-nesi      |   jit. "wainesi"   |
+| wald, weld¹ | forest                               | wald, we↓ld¹  |    jit. "weld"     |
+|     wes     | governor                             | we↓s          |   nomth. "wešš"    |
 ¹ - only in old baedoorish
 
 ### Grammar rules
