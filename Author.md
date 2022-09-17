@@ -1,175 +1,184 @@
-## ⚓️ Who Am I?
-### Hello!
-My name is Tomasz Stępień (usually translated to Tom Stępień in English).  
-You can also know me for my [Toma400](https://linktr.ee/toma400) nickname, which I use most widely, or, in specific cases, 
-Shadow or Zil ones.
+## ⚓️ Kim jestem?
+### Witajcie!
+Z tej strony Tomasz Stępień, choć zapewne znasz mnie z nicku  [Toma400](https://linktr.ee/toma400)
+którego używam najczęściej - czasami występuję również jako Shadow albo Zil.
 
-I am - for the time I write that - 24 years old guy from South Poland, who just makes lots of 
-(let's call it "artistic") things, imagining thousand times more.  
+Jestem - w momencie, w którym to piszę - 24-letnim geekiem z południa Polski, który
+tworzy mnóstwo nazwijmy-to-artystycznych rzeczy, próbując w ten sposób uspokoić
+swój umysł, wymyślający tysiąc razy więcej w tym samym czasie.
 
-I have already made my own universe - the reason why you are here - as well as poems, stories, music, 
-games and mods.  
-All of them aren't really anything original or breathtaking, since I'm still an amateur 
-loving art in all its variants, wanting to just contribute my visions into this beloved phenomenon.
+Stworzyłem swoje uniwersum - które jest prawdopodobnie powodem, dlaczego tu jesteś - ale
+również i wiersze, opowiadania, muzykę, gry i mody.  
+Wszystkie z nich nie są najpewniej niczym genialnym czy oryginalnym, jako że wciąż jestem
+amatorem, chcącym dołożyć swoją cegiełkę do tego pięknego świata kultury.
 
-### But who I really am?
-If you are curious who am I aside from my "portfolio", then feel free to message me to talk 
-about anything. I can be busy sometimes, but I always love great discussion.  
+### Ale kim jestem naprawdę?
+Jeśli jesteś ciekawy, kim jestem poza swoim "portfolio", to... napisz o czymkolwiek!
+Bywam zajęty, jednak zawsze chętnie porozmawiam, jeśli mam czas.
 
-And if you prefer to just know my viewpoints on stuff, I will probably put some document being 
-general summary of my beliefs, trying to sum up everything I find valuable in my opinions. This is
-still only an idea, though.
+A jeśli jesteś zainteresowany moimi poglądami, prawdopodobnie w którymś momencie stworzę
+plik podsumowujący to, co uważam za wartościowe w moich poglądach. Niemniej, to póki co
+jedynie idea.
 
-And if you really need shelves for me, then here you are:  
-- romanticist
-- existentialist 
-- industrialist 
-- goth
+Jeżeli natomiast potrzebujesz szufladek, to proszę:
+- człowiek romantycyzmu (epoki)
+- egzystencjalista
+- industrialista
+- got
 
-Those subcultures / thought movements are the only safe "alignments" I can put myself into - 
-and if you know them deeply, you know how beautifully non-precise they are.  
+Te subkultury / prądy myślowe są jedynymi bezpiecznymi "skojarzeniami", w które mogę
+się włożyć - a jeśli znasz je od środka, będziesz wiedzieć, jak cudownie nieprecyzyjne
+są.
 
-No other alignments with any movements / political agendas, please don't ever try to put me in them.
+Proszę mnie również nie wpisywać do żadnych innych ruchów / grup politycznych, jako że
+nie utożsamiam się z żadną poza tymi wymienionymi wyżej.
 
-### How to contact me?
-Well, there are plenty of options:
-- [Join my Discord!](https://discord.gg/GbTw9KqnrE) We have pretty amazing community there!
-- Contact me via e-mail! ``thomasso_calgori@o2.pl``
-- Find me on [Last.fm](https://www.last.fm/user/Toma400)!
-- Contact me via [Twitter](https://twitter.com/TheTrueToma400)!
+### Jak się ze mną skontaktować?
+Och, jest bardzo dużo opcji:
+- [Dołącz do Discorda!](https://discord.gg/GbTw9KqnrE) Mamy tam naprawdę fajną społeczność!
+- Skontaktuj się ze mną przez e-mail! ``thomasso_calgori@o2.pl``
+- Znajdź mnie na [Last.fm](https://www.last.fm/user/Toma400)!
+- Napisz na [Twitterze](https://twitter.com/TheTrueToma400)!
 
-In general, you can find most of my social media on my [Linktree](https://linktr.ee/toma400) as well, so
-the decision on how to contact me are pretty endless. 
-
----
-## ⚓️ My creations
-
-My journey started with Baedoor universe, which history is explained [in its own section](Baedoor.md).  
-List of strictly Baedoor-related works are listed there.  
-If you'd prefer to see all my creations 
-though, here you have complete list of what I did by far, excluding some less official works mentioned
-in Baedoor section:
-
-### 📿 MODS
-I started my modding journey from small Battle for Wesnoth mod made in around 2012. Since it uses original
-images from World of Tanks, I upload it privately, as I can't do it officially due to copyrights.
-
-Wrench means status of support - if the mod is still maintained.
-
-| 🔧 | Name                     | Original game      | Description                                                                                                 | Download                                                                                      |
-|---|--------------------------|--------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 🔴 | WW2                      | Battle for Wesnoth | Mod adding tanks taken from World of Tanks franchise to BfW game.                                           | [Drive](https://drive.google.com/drive/folders/1m3oUjRsJYbZFAKsvOHOwTwrik9WIvMrJ?usp=sharing) |
-|🟢| Wastelands of Baedoor    | Minecraft          | Steampunk-aimed mod adding airships and firearms.                                                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor)              |
-|🟢| Civilisations of Baedoor | Minecraft          | Mod focused on building an empire and beautiful dimensions - as well as showcasing Baedoor universe itself. | [Discord](https://discord.gg/GbTw9KqnrE)                                                      |
+Generalnie, możesz znaleźć większość moich social mediów na [Linktree](https://linktr.ee/toma400)
+więc miejsc do wyboru jest naprawdę dużo. 
 
 ---
+## ⚓️ Moja twórczość
 
-### 🏯 GAMES
+Moja podróż rozpoczęła się od uniwersum Baedoor, którego historia jest opisana w [swojej własnej sekcji](Baedoor.md).  
+Lista dzieł związanych z tym uniwersum jest tam również wypisana.  
+Jednak, jeśli chcesz zobaczyć wszystko, co stworzyłem, tutaj możesz znaleźć listę
+wszystkiego co zrobiłem do tej pory:
 
-Wrench means status of support - if the game is still maintained.
+### 📿 MODY
+Rozpocząłem swoją modderską podróż od małego moda do Battle for Wesnoth, około roku 2012. 
+Jako, że używał on oryginalnych tekstur z World of Tanks, publikuję go tutaj prywatnie,
+jako że przed oficjalną publikacją powstrzymują mnie prawa autorskie.
 
-**🎎 True Games**
+Klucz symbolizuje status wsparcia.
 
-| 🔧  | Date       | Name                | Description                                                                                          | Download                                                 |
-|----|------------|---------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
-| 🟢 | 2021-09-27 | The Isle of Ansur   | Remake of Between Shadows and Light, this time made with more experience and better modding support. | [GitHub](https://github.com/Toma400/The_Isle_of_Ansur)   |
-
-**🔨 Learning projects**
-
-| 🔧  | Date       | Name                      | Description                                                                              | Download                                                                                                                                                                      |
-|-----|------------|---------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 🔴  | 2018-03-12 | WarCards                  | Simple cardgame made in Python.                                                          | [Replit](https://replit.com/@Toma400/WarCards#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                         |
-| 🔴  | 2018-03-20 | Temple Settlers           | Simple strategy made in Python, with resources gathering and building an empire.         | [Replit](https://replit.com/@Toma400/Temple-Settlers#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                  |
-| 🔴  | 2018-07-29 | Between Shadows and Light | Full-blown text RPG made in Python, yet buggy and with extremely small location to play. | [Replit](https://replit.com/@Toma400/Between-Shadows-and-Light-rework#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing) |
+| 🔧  | Nazwa                    | Oryginalna gra     | Opis                                                                                                                            | Link                                                                                          |
+|-----|--------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| 🔴  | WW2                      | Battle for Wesnoth | Mod dodający czołgi z World of Tanks do Battle for Wesnoth.                                                                     | [Drive](https://drive.google.com/drive/folders/1m3oUjRsJYbZFAKsvOHOwTwrik9WIvMrJ?usp=sharing) |
+| 🟢  | Wastelands of Baedoor    | Minecraft          | Mod w stylu steampunkowym dodający sterowce i broń palną.                                                                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor)              |
+| 🟢  | Civilisations of Baedoor | Minecraft          | Mod skupiony na budowie własnego imperium oraz nowych wymiarach do zwiedzania - pozwalając również poznać lepiej świat Baedoor. | [Discord](https://discord.gg/GbTw9KqnrE)                                                      |
 
 ---
 
-### ⚗️ SOFTWARE
+### 🏯 GRY
 
-Wrench means status of support - if the program is still maintained.
+Klucz symbolizuje status wsparcia.
 
-| 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                 |
-|----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-| 🟢 | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE) |
+**🎎 Faktyczne Gry**
+
+| 🔧  | Data       | Nazwa             | Opis                                                                                        | Link                                                   |
+|-----|------------|-------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| 🟢  | 2021-09-27 | The Isle of Ansur | Remake gry Between Shadows and Light, tym razem w lepszej jakości i ze wsparciem dla modów. | [GitHub](https://github.com/Toma400/The_Isle_of_Ansur) |
+
+**🔨 Projekty do nauki**
+
+| 🔧  | Data       | Nazwa                     | Opis                                                                                    | Link                                                                                                                                                                          |
+|-----|------------|---------------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🔴  | 2018-03-12 | WarCards                  | Prosta gra karciana zrobiona w Pythonie.                                                | [Replit](https://replit.com/@Toma400/WarCards#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                         |
+| 🔴  | 2018-03-20 | Temple Settlers           | Prosta strategia zrobiona w Pythonie, opierająca się głównie na zbieraniu surowców.     | [Replit](https://replit.com/@Toma400/Temple-Settlers#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                  |
+| 🔴  | 2018-07-29 | Between Shadows and Light | Pełnoprawny tekstowy erpeg, jednak cierpiący na sporą ilość bugów i mały obszar do gry. | [Replit](https://replit.com/@Toma400/Between-Shadows-and-Light-rework#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing) |
 
 ---
 
-### 📖 STORIES  
-**Lang** section will transfer you to the story in selected language.
+### ⚗️ PROGRAMY
 
-| Date of creation | Name | Lang                                                                                    | Baedoor? | Description                                                                    |
-|------------------| ---- |-----------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|
-| 2019-11-31       | Wilk | [🇵🇱](https://drive.google.com/file/d/106niTiZQi02gYJxKcMFzsnEQ54Ii7yng/view?usp=sharing) | 🟢       | Experimental story on bandit gunslinger being  <br/> caught by bounty hunters. |
+Klucz symbolizuje status wsparcia.
+
+| 🔧  | Data       | Nazwa     | Opis                                                                                                                                                                                                            | Link                                     |
+|-----|------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+| 🟢  | 2022-04-08 | Librerian | Program do tworzenia katalogów książek, filmów, gier, anime i innych, podobnie do GoodReads, IMDB i innych, jednak będących lokalną bazą danych.<br> Może otrzymać również integrację z API stron tego rodzaju. | [Discord](https://discord.gg/GbTw9KqnrE) |
 
 ---
 
-### 🎻 MUSIC  
-Music is separated via projects. **Tags** section is to sum up some small, important info you could
-find useful. Below legend explaining the meaning of all symbols.
+### 📖 OPOWIADANIA  
+Sekcja **lang** przeniesie Cię do opowiadania w wybranym języku.
+
+| Data powstania | Nazwa | Lang                                                                                       | Baedoor? | Opis                                                                 |
+|----------------|-------|--------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------|
+| 2019-11-31     | Wilk  | [🇵🇱](https://drive.google.com/file/d/106niTiZQi02gYJxKcMFzsnEQ54Ii7yng/view?usp=sharing) | 🟢       | Eksperymentalne opowiadanie o bandycie złapanym przez łowców nagród. |
+
+---
+
+### 🎻 MUZYKA 
+Muzyka jest podzielona na projekty. Sekcja **tagów** pozwala na określenie małych, choć
+istotnych aspektów nagrań. Legenda poniżej wyjaśnia znaczenie symboli.
 ```
-BAEDOOR RELATIONS:
+ZWIĄZEK Z BAEDOOR:
 
-🟢 - related to Baedoor
-🔴 - not related to Baedoor
+🟢 - związane z Baedoor
+🔴 - nie związane z Baedoor
 ----
-TYPE OF RECORDING:
-🟩 - full length (LP)
-🟦 - extended play (EP)
-🔷 - single
-🟪 - compilation
+TYP NAGRANIA:
+🟩 - długograj (LP)
+🟦 - EPka (EP)
+🔷 - singiel
+🟪 - kompilacja
 🔘️ - demo
-🔳 - other
+🔳 - inne
 ```
 
 <span style="color:#668c99">**🌒 DRGANIE**  
-Drganie is my earliest music project, which currently can be considered on temporal hiatus.  
-It was meant to be **darkwave** project taking inspirations from Project Pitchfork, Clan of Xymox and other goth
-legends, but turned out to be just my first playground.  
-I will, someday, come back to it, when I am
-skilled enough to really achieve darkwave sound.
+Drganie jest moim najwcześniejszym projektem muzycznym, który obecnie może być uznawany
+za tymczasowo zawieszony.  
+Gatunkowo miał być on **darkwave'em**, inspirowanym zespołami takimi jak Project Pitchfork,
+Clan of Xymox i innymi legendami gotyku, jednak ostatecznie stał się po prostu moim
+pierwszym miejscem nauki.  
+Z pewnością jednak wrócę do tego projektu, jednak dopiero gdy będzie on w stanie sprostać
+mojej wizji.
 </span>
 
-| Date of creation | Album name | Tags  | Description                                                             | URL                                                      |
-| ---------------- | ---------- |-------|-------------------------------------------------------------------------|----------------------------------------------------------|
-|2018-6-6          | Demo 2018  | 🔴🔘🟦 | First ever creation of mine, being **dark ambient** semi-concept album. | [Bandcamp](https://drganie.bandcamp.com/album/demo-2018) |
+| Data powstania | Nazwa albumu | Tagi   | Opis                                                                               | URL                                                      |
+|----------------|--------------|--------|------------------------------------------------------------------------------------|----------------------------------------------------------|
+| 2018-6-6       | Demo 2018    | 🔴🔘🟦 | Mój pierwszy album ogółem, próbując być **dark ambientowym** albumem koncepcyjnym. | [Bandcamp](https://drganie.bandcamp.com/album/demo-2018) |
 
 <span style="color:#668c99">**🪔 THE BOOK OF SETH**  
-The Book of Seth is my third (or, in fact, fourth) musical project, in which I decided to experiment
-with musical styles and learn.  
-I made this decision after realising that without publishing music, I cannot really create anything - yet, I didn't
-want to create under aliases I cared about. Hence this project began, as sort of trashbin for all my ideas.</span>
+The Book of Seth jest moim trzecim (lub, raczej, czwartym) projektem muzycznym, na którym
+zdecydowałem się otwarcie eksperymentować ze stylami i uczyć.  
+Podjąłem tę decyzję po zrealizowaniu, że bez publikowania muzyki nie jestem w stanie
+zasadniczo tworzyć - jednak, nie chciałem tworzyć pod aliasami, które były mi bliskie.
+Stąd też, ten projekt powstał, będąc niejako "śmietnikiem" moich idei.  
 
-<span style="color:#668c99">Some of those albums will not have links provided, due to their absolutely trash quality.  
-If you really insist on getting those, please message me directly.
+<span style="color:#668c99"> Niektóre albumy nie będą posiadały linków do albumów,
+gdyż były one zwyczajnie zbyt słabe. Jeśli ktoś by naciskał, że musi je mieć, to
+proszę się ze mną skontaktować bezpośrednio.
 </span>
 
-| Date of creation | Album name                              | Tags  | Description                                                                            | URL                                                                                                                                                             |
-|------------------|-----------------------------------------|-------|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2019-10-20       | Night Sessions: Light Becoming Darkness | 🔴️🔳 | First one-day improvisation from **Night Sessions** series. In general, pretty trashy. | No.                                                                                                                                                             |
-| 2020-4-30        | Will Under Love                         | 🔴🔷  | Song reversing famous Aleister Crowley quote, which was my counterstatement for love.  | No.                                                                                                                                                             |
-| 2020-5-15        | Night Sessions: Oingo                   | 🔴️🔳 | Second **Night Sessions** improvisation. Similar quality.                              | No.                                                                                                                                                             |
-| 2020-5-22        | Oneironaut                              | 🔴🔷  | First a bit quality song, inspired by egyptian theme of Cubfan135.                     | [Drive](https://drive.google.com/drive/folders/1akNYaTypxw5-6kJqRy34RAT1H9kTn8FS?usp=sharing)                                                                   |
-| 2020-6-14        | Νεκρόω                                  | 🔴🔷  | Some old recorded song I found, with pretty haunting atmosphere                        | [Drive](https://drive.google.com/drive/folders/1Fo9btnqHH7qmrhioLu0myIrr2u-2d38n?usp=sharing)                                                                   |
-| 2020-9-07        | Burning Babylon                         | 🔴🔷  | Industrial-sque maxi-single, on which I'm pretty proud of.                             | [Drive](https://drive.google.com/drive/folders/1nXKfJvXKI3YS6BAN3N-WbExuyuLLHnPa?usp=sharing)  [Bandcamp](https://zileffect.bandcamp.com/album/burning-babylon) |
-| 2020-9-12        | Sigillum Animarum                       | 🔴🔷  | Follow-up to Burning Babylon with one outtake and some weird instrumental              | [Drive](https://drive.google.com/drive/folders/1-dnwkdHeQmK-pVM3VbfoZHvbHl8gdHhQ?usp=sharing)                                                                   |
-| 2021-2-27        | Εἰκών                                   | 🔴🔷  | Some random single                                                                     | [Drive](https://drive.google.com/drive/folders/11EiUtVQYNpZLN6u3IKZHNvs0C0_tBKqy?usp=sharing)                                                                   |
-| 2021-10-24       | Night Sessions: Towards White Cold      | 🔴️🔳 | Third **Night Sessions** improvisation, finally quality one.                           | [Drive](https://drive.google.com/drive/folders/1hShLuXoTkOyyztUZS2V9Vk-q5xx5y1uA?usp=sharing)                                                                   |
+| Data powstania | Nazwa albumu                            | Tagi  | Opis                                                                                          | URL                                                                                                                                                             |
+|----------------|-----------------------------------------|-------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2019-10-20     | Night Sessions: Light Becoming Darkness | 🔴️🔳 | Pierwsza jednodniowa improwizacja z cyklu **Night Sessions**. O jakości lepiej nie mówić.     | Nie.                                                                                                                                                            |
+| 2020-4-30      | Will Under Love                         | 🔴🔷  | Singiel będący grą na słynnym cytacie Aleistera Crowleya, będąc swoistą kontrtezą wobec niej. | Nie.                                                                                                                                                            |
+| 2020-5-15      | Night Sessions: Oingo                   | 🔴️🔳 | Druga improwizacja z cyklu **Night Sessions**. Jakość tożsama.                                | Nie.                                                                                                                                                            |
+| 2020-5-22      | Oneironaut                              | 🔴🔷  | Pierwszy względnie jakościowy utwór, inspirowany motywem egipskim Cubfana135 z sezonu 7.      | [Drive](https://drive.google.com/drive/folders/1akNYaTypxw5-6kJqRy34RAT1H9kTn8FS?usp=sharing)                                                                   |
+| 2020-6-14      | Νεκρόω                                  | 🔴🔷  | Stary utwór, który znalazłem, z dość creepy atmosferą                                         | [Drive](https://drive.google.com/drive/folders/1Fo9btnqHH7qmrhioLu0myIrr2u-2d38n?usp=sharing)                                                                   |
+| 2020-9-07      | Burning Babylon                         | 🔴🔷  | Maxi-singiel industrialny, z którego jestem nawet zadowolony.                                 | [Drive](https://drive.google.com/drive/folders/1nXKfJvXKI3YS6BAN3N-WbExuyuLLHnPa?usp=sharing)  [Bandcamp](https://zileffect.bandcamp.com/album/burning-babylon) |
+| 2020-9-12      | Sigillum Animarum                       | 🔴🔷  | Follow-up do Burning Babylon, z odrzutem z sesji, oraz dziwnym instrumentalem                 | [Drive](https://drive.google.com/drive/folders/1-dnwkdHeQmK-pVM3VbfoZHvbHl8gdHhQ?usp=sharing)                                                                   |
+| 2021-2-27      | Εἰκών                                   | 🔴🔷  | Losowy singielek                                                                              | [Drive](https://drive.google.com/drive/folders/11EiUtVQYNpZLN6u3IKZHNvs0C0_tBKqy?usp=sharing)                                                                   |
+| 2021-10-24     | Night Sessions: Towards White Cold      | 🔴️🔳 | Trzecia improwizacja **Night Sessions**, tym razem o dziwo dobra.                             | [Drive](https://drive.google.com/drive/folders/1hShLuXoTkOyyztUZS2V9Vk-q5xx5y1uA?usp=sharing)                                                                   |
 
 <span style="color:#668c99">**🌆 SUN TRIBE**  
-Sun Tribe is trance project in which I wanted to capture my love to the sound of legends such as ATB, Armin van
-Buuren and other talented trance creators. I never made any album for it, at least by far, but when I had such
-plan, there was created one specific song for this project.
+Sun Tribe to projekt z gatunku trance, w którym chciałem ująć swoją miłość do dźwięku
+takich legend jak ATB, Armin van Buuren i innych. Nigdy nie stworzyłem albumu pod tym
+aliasem, przynajmniej do tej pory, lecz gdy miałem taki zamiar, jeden utwór został
+stworzony.
 </span>
 
-[Listen to Sun Tribe - The Dawn of the New Sun](https://drive.google.com/file/d/199DxOups18StnC4Qas7WskkeDYCgbS5x/view?usp=sharing)
+[Posłuchaj Sun Tribe - The Dawn of the New Sun](https://drive.google.com/file/d/199DxOups18StnC4Qas7WskkeDYCgbS5x/view?usp=sharing)
 
 ---
 
-### 📜 POEMS
-**Lang** section will transfer you to the poem in selected language. Poems without links were meant to either be private (marked with *), or were too weak to be published.  
-Poems with 💠 symbol have some Baedoor references.
+### 📜 WIERSZE
+Sekcja **lang** przeniesie Cię do wiersza w odpowiednim języku. 
+Wiersze bez linków są albo prywatne (oznaczone gwiazdką), 
+lub były zbyt złe do publikacji.  
+Wiersze z symbolem 💠 mają jakieś nawiązanie do uniwersum Baedoor.
 
-| No. | Date of creation | Name                                                  | Lang                                                                                                                                                                                                                                                                               |
+| No. | Data powstania   | Nazwa                                                 | Lang                                                                                                                                                                                                                                                                               |
 |-----|------------------|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 0   | ---              | (...)                                                 | [🇵🇱](https://drive.google.com/file/d/1REop9JX8FLl4pJcQUbQE0SIyeGe7GtX_/view?usp=sharing)                                                                                                                                                                                         | 
 | 1   | 2015-04-14       | The Loneliness                                        | 🇬🇧                                                                                                                                                                                                                                                                               | 
@@ -265,86 +274,84 @@ Poems with 💠 symbol have some Baedoor references.
 | 91  | 2022-07-28       | W Bibliotekach Miłości                                | [🇵🇱](https://drive.google.com/file/d/1ADBd0xXLom8nqQT88ucS2CbYgaHF3aUn/view?usp=sharing), [🇬🇧](https://drive.google.com/file/d/1SsVA0L9bEMt_LKX79x1y20NSy_kz7OBZ/view?usp=sharing)                                                                                             |
 
 ---
-### 🧮️ COLLECTIONS  
-All things from previous sections which try to collect several stuff of mine.  
-**Lang** section will transfer you to the collection in selected language.
+### 🧮️ KOLEKCJE  
+Wszystkie rzeczy z poprzednich sekcji, które próbowały jakkolwiek zebrać moje dzieła.  
+Sekcja **lang** przeniesie Cię do kolekcji w wybranym języku.
 
-| Date of creation | Name                 | Lang                                                                                    | Description                                           |
-|------------------|----------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------|
-| 2021-01-08       | Duch Nieskończoności | [🇵🇱](https://drive.google.com/file/d/1KgrlGnznHZ3pDogHoa1O0RFGHPC3_Rqq/view?usp=sharing) | Collection of scenes (short texts without true story) |
-| 2021-01-25       | Przez Pustynie Serca | [🇵🇱](https://drive.google.com/file/d/1kdLMS0IhLfuX401W0jzTA20jQ8zQOha3/view?usp=sharing) | Collection of 42 poems, with small corrections        |
+| Data powstania | Nazwa                | Lang                                                                                    | Opis                                        |
+|----------------|----------------------|-----------------------------------------------------------------------------------------|---------------------------------------------|
+| 2021-01-08     | Duch Nieskończoności | [🇵🇱](https://drive.google.com/file/d/1KgrlGnznHZ3pDogHoa1O0RFGHPC3_Rqq/view?usp=sharing) | Kolekcja scen (krótkich tekstów bez fabuły) |
+| 2021-01-25     | Przez Pustynie Serca | [🇵🇱](https://drive.google.com/file/d/1kdLMS0IhLfuX401W0jzTA20jQ8zQOha3/view?usp=sharing) | Kolekcja 42 wierszy, z małymi korektami     |
 
-### 🍁️ ️️SMALLER MODDING PROJECTS
-Aside from mods, I also created some projects related to modding, but not being mods in their strict
-sense.
+### 🍁️ ️️MNIEJSZE PROJEKTY MODDERSKIE
+Poza modami, tworzyłem również projekty związane z modowaniem, jednak nie będące
+modami w sensie stricte.
 
-<span style="color:#668c99">**🔥️ ADDONS**  
-Addons are mods which depend on other mods, because they usually create just some additional content
-related to the parent mod.
+<span style="color:#668c99">**🔥️ ADDONY**  
+Addony to mody powiązane z innymi modami, rozwijające już istniejące funkcjonalności.
 </span>
 
-| Published  | Name     | Description                                                                                                                   | URL                                                                                                     |
-|------------|----------|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| 2022-01-07 | Woodpact | Mod adding compatibility between **Wastelands of Baedoor** and **Oh The Biomes You'll Go** mods, adding WoB variants of wood. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor-oh-the-biomes-youll-go) |
+| Opublikowano | Nazwa    | Opis                                                                                                                        | URL                                                                                                     |
+|--------------|----------|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 2022-01-07   | Woodpact | Mod dodający kompatybilność pomiędzy **Wastelands of Baedoor** a **Oh The Biomes You'll Go**, dodając nowe warianty drewna. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor-oh-the-biomes-youll-go) |
 
-<span style="color:#668c99">**❄️ MODPACKS**  
-Modpacks are names for collection of mods which serve some specific purpose - usually gameplay-wise.
-This is kinda popular way for regular players to get in touch with modded experience without
-sacrificing lots of hours on searching for mods and testing incompatibilities.
+<span style="color:#668c99">**❄️ MODPACKI**  
+Modpack to nazwa na kolekcję modów, które służą jakiejś funkcji - zwykle względem
+gameplayu. Jest to dość popularna metoda dla niedzielnych graczy, by poznać scenę modderską
+bez poświęcania godzin na szukanie modów i testowanie błędów.
 </span>
 
-| Published     | Name                                                 | Description                                                                                                                                                                         | URL                                                                                                         |
-|---------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| 🟢 2022-05-02 | Earth on Hell:<br> Paths Through Forgotten Dimension | Nether-based modpack adding lush, survival experience to this dimension. **Minecraft 1.16**                                                                                         | [CurseForge](https://www.curseforge.com/minecraft/modpacks/earth-on-hell-paths-through-forgotten-dimension) |
-| 🔵 2022-02-27 | Refuse To Forget                                     | Nostalgic modpack on **Minecraft 1.12**, adding "best of" mods in my opinion                                                                                                        | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               | 
-| 🔵 2022-02-27 | Constellation of Ancient Cities                      | **Minecraft 1.16** modpack for my beloved world, trying to be "best of builder/exploring" vanilla+ modpack                                                                          | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               | 
-| 🔵 2022-02-27 | The Deep Awakening                                   | Modpack on **Minecraft 1.15** mods, a bit chaotic, but very enjoyable group of exploring-aimed MCreator mods                                                                        | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               | 
-| 🔵 2022-02-27 | Insanity                                             | Full-chaos modpack on **Minecraft 1.16** which is made for extreme fun and testing tech mods such as IE and Create, as well as storing some amazing mods not fitting other modpacks | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               | 
-| 🔵 2022-02-27 | Everlasting                                          | Adventure-aimed **Minecraft 1.16** modpack with a lot of non-vanilla mods, being a bit of "I don't care about building" CoAC variant                                                | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               |
-| 🔵 2022-02-27 | Cliffied and Cavified                                | **Minecraft 1.18** modpack for testing 1.18 version. Just bunch of interesting mods and a bit of testing ground for me back in the days. Features some magic mods, for example.     | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               |
+| Opublikowano  | Nazwa                                                | Opis                                                                                                                                                                                                          | URL                                                                                                         |
+|---------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| 🟢 2022-05-02 | Earth on Hell:<br> Paths Through Forgotten Dimension | Oparty na Netherze modpack, dodający bardzo nietypowy, bujny styl do survivalu w tym tylko wymiarze. **Minecraft 1.16**                                                                                       | [CurseForge](https://www.curseforge.com/minecraft/modpacks/earth-on-hell-paths-through-forgotten-dimension) |
+| 🔵 2022-02-27 | Refuse To Forget                                     | Nostalgiczny modpack dla **Minecraft 1.12**, dodający najlepsze mody z mojej kolekcji                                                                                                                         | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               | 
+| 🔵 2022-02-27 | Constellation of Ancient Cities                      | Modpack dla **Minecrafta 1.16** będący zbiorem najlepszych modów budowniczo-eksploracyjnych. Stworzony dla mojego ukochanego świata.                                                                          | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               | 
+| 🔵 2022-02-27 | The Deep Awakening                                   | Modpack dla **Minecrafta 1.15**. Nieco chaotyczny, jednak bardzo przyjemny w grze zbiór modów o eksploracji                                                                                                   | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               | 
+| 🔵 2022-02-27 | Insanity                                             | Całkowicie anarchistyczny modpack dla **Minecrafta 1.16** dający pełną swobodę mi jako kreatorowi modpacków - zbiera on pewne testowe mody techniczne, jak i również te nie wpisujące się w żaden inny klimat | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               | 
+| 🔵 2022-02-27 | Everlasting                                          | Modpack podróżniczy dla **Minecrafta 1.16** będący zasadniczo kontrtezą modpacka CoAC                                                                                                                         | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               |
+| 🔵 2022-02-27 | Cliffied and Cavified                                | Modpack dla **Minecrafta 1.18** będący po prostu zbiorem przyjemnych modów dla tej wersji, z kilkoma eksperymentalnymi, dodającymi m.in. magię.                                                               | [Drive](https://drive.google.com/drive/folders/1slnVd9lZ8GdNOyVpQbLZW1kSwya9kqa6?usp=sharing)               |
 
-### 🎬 VIDEOS
-There was a time I thought of becoming YouTuber, so there is still my [YouTube account](https://www.youtube.com/channel/UCbb_Yt86DlOHDPYIJCrJDmw)
-for this purpose. I've recorded few let's play episodes for it:
+### 🎬 FILMY
+Był taki moment, gdy myślałem o zostaniu youtuberem, więc wciąż można znaleźć moje [konto](https://www.youtube.com/channel/UCbb_Yt86DlOHDPYIJCrJDmw)
+zrobione do tego celu. Nagrałem na nim kilka let's playów:
 
-| Date       | Name                                                   |  Playlist  | Link                                    |
-|------------|--------------------------------------------------------|:----------:|-----------------------------------------|
+| Data       | Nazwa                      | Playlista  | Link                                    |
+|------------|----------------------------|:----------:|-----------------------------------------|
 | 2021-08-03 | #1 - The Journey           | ⚜️ Atheris | [YouTube](https://youtu.be/7CHwYHhfwSg) |
 | 2021-08-18 | #2 - Into the Mineshaft!   | ⚜️ Atheris | [YouTube](https://youtu.be/R-pA5YBCO9c) |
 | 2021-09-11 | #3 - Forge Expansion       | ⚜️ Atheris | [YouTube](https://youtu.be/sgGVaQL8R4E)|
 | 2021-09-24 | #4 - Pillar Up To The Sky! | ⚜️ Atheris | [YouTube](https://youtu.be/e9-mttuTZtc)|
 
-### 🎭 COLLABORATIONS
-Despite me being lone wolf as a creator, I have made attempts to contribute to some projects, or even
-were a part of a teams during those times.
+### 🎭 WSPÓŁPRACE
+Mimo mojego charakteru będącego głównie samotniczym, miałem sytuację współpracy i
+kontrybucji do projektów różnych osób, a nawet bycia w teamie.
 
 ```
-TAGS:
+TAGI:
 --------------
 📿 MOD
 ```
 
-| Time of collab    | Tag | Name    | What is the project                                                                                            |               My role                |                                  URL                                  |
-|-------------------|:---:|---------|----------------------------------------------------------------------------------------------------------------|:------------------------------------:|:---------------------------------------------------------------------:|
-| 2021-12 🔹 2022-03 | 📿  | Desolat | Mod around desert dimension, Desolat. Eventually made a reference to it in Baedoor universe (Aji'n multiverse) | **Collaborator**<br>Made small fixes | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedesolat) |
+| Czas współpracy    | Tag | Nazwa   | Czym jest projekt                                                                                                       |                      Moja rola                       |                                  URL                                  |
+|--------------------|:---:|---------|-------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------:|:---------------------------------------------------------------------:|
+| 2021-12 🔹 2022-03 | 📿  | Desolat | Mod dodający nowy wymiar, Desolat. Ostatecznie, uczyniłem referencję do niego w uniwersum Baedoor (multiwersum Aji'n)   | **Kontrybucja**<br>Poprawienie pewnych aspektów moda | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedesolat) |
 
 ---
 ### 📰 BLOG
-Aside of all writing projects, I also used to write a blog called **Rat 41**, which you can find under **[this link](http://toma400.blogspot.com/)**.  
-It was, unfortunately, written in Polish, but even then, you can still probably understand my AOTY
-series which are still maintained and try to put best music albums of the year.  
-I can, someday, rewrite those into separate PDF files, since I'm always worried about web-exclusive
-content.
+Poza wszystkimi innymi projektami pisarskimi, pisałem również blog o nazwie **Rat 41**,
+który możecie znaleźć **[pod tym linkiem](http://toma400.blogspot.com/)**.  
+Jest szansa, że zostanie on przepisany któregoś dnia na bardziej lokalną formę, gdyż
+zawsze obawiam się o materiały ekskluzywnie zostawione w sieci.
 
 ```
-TAGS:
+TAGI:
 --------------
-🎵 MUSIC
-🎶 AOTY SERIES
-🎲 GAMES
+🎵 MUZYKA
+🎶 SERIA AOTY
+🎲 GRY
 ```
 
-|    Date    | No. | Tag | Name                                                     | Link                                                                                       |
+|    Data    | No. | Tag | Nazwa                                                    | Link                                                                                       |
 |:----------:|:---:|:---:|:---------------------------------------------------------|:-------------------------------------------------------------------------------------------|
 | 2016-05-15 |  1  | 🎵  | Nokturnal Mortum - Істина (Verity)                       | [Blogspot](http://toma400.blogspot.com/2017/05/nokturnal-mortum-verity.html)               | 
 | 2016-05-16 |  2  | 🎵  | Danger Incorporated - Are You Afraid of the Danger Boys? | [Blogspot](http://toma400.blogspot.com/2017/05/danger-incorporated-are-you-afraid-of.html) | 
@@ -365,21 +372,22 @@ TAGS:
 | 2021-12-30 | 17  | 🎶  | 2021 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2021/12/2021-aotys.html)                            | 
 
 ---
-### ☠️ LOST AND FOUND
-All stuff outside of anything official, but still worth nothing just for cataloguing purposes.
+### ☠️ ZGUBIONE I ZNALEZIONE
+Wszystko co nie do końca oficjalne, ale wciąż warte odnotowania dla czysto katalogowych
+celów.
 
-| Date of creation | Name                                        | Description                                                                                                                                                                       | URL                                                                                           |
-|------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 2019-07-31       | Forgotten Journeys Through Waste Years      | Compilation of all stuff I've made from 2018 to 2020. This compilation is making me pretty ashamed on how terrible quality songs it have - they still are songs I've made, though | [Drive](https://drive.google.com/drive/folders/1kY9XS2D34mE2QbO5YcZpcbSzRHgD_zct?usp=sharing) |
-| 2019-08-30       | A Lonely Violinist (The Book of Seth Remix) | Remix under **The Book of Seth** name for my father's single                                                                                                                      | [Bandcamp](https://ghostofsunset.bandcamp.com/album/a-lonely-violinist)                       |
+| Data stworzenia | Nazwa                                       | Opis                                                                                                                                      | URL                                                                                           |
+|-----------------|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| 2019-07-31      | Forgotten Journeys Through Waste Years      | Kompilacja wszystkich utworów, które zrobiłem w latach 2018-2020. Jest ona koszmarna technicznie, jednak wciąż jest czymś, co stworzyłem. | [Drive](https://drive.google.com/drive/folders/1kY9XS2D34mE2QbO5YcZpcbSzRHgD_zct?usp=sharing) |
+| 2019-08-30      | A Lonely Violinist (The Book of Seth Remix) | Remix pod aliasem **The Book of Seth** na singiel mojego taty.                                                                            | [Bandcamp](https://ghostofsunset.bandcamp.com/album/a-lonely-violinist)                       |
 
-Although **Forgotten Journeys Through Waste Years** is pretty bad compilation, I've spent over a
-month to handdraw the cover art for it, and then, reshape it in GIMP. And even though it's nowhere
-close to be good cover art, I have some big nostalgia for it - maybe because the cover art itself
-uses so many symbols being close to my heart, who knows?
+Chociaż **Forgotten Journeys Through Waste Years** jest dość złą kompilacją, spędziłem
+ponad miesiąc rysując cover dla niej, by później poprawić ją jeszcze w GIMPie. I choć
+nie jest nawet bliska do bycia dobrym cover artem, mam sporą nostalgię do tej okładki - 
+być może przez to, że jest ona nasączona tak bogatą symboliką bliską mojemu sercu, kto wie?
 
 <img alt="Cover Art" height="936" src="/Assets/old_compilation.png" width="930"/>
 
-For the context, knowledge on ancient greek and Baedoor lore is pretty required to understand all
-weird symbols put. General symbolical knowledge (including niches such as native african symbols) is
-also highly recommended to have full context.
+Dla kontekstu, znajomość starożytnej greki i uniwersum Baedoor jest wymagana by zrozumieć
+symbole na obrazie. Ogólna wiedza o symbolice (wraz z niszowymi dziedzinami, jak
+symbolika rdzennych ludów Afryki) jest też wysoce wskazana dla pełnego kontekstu.
