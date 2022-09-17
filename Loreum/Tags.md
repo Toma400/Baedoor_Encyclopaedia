@@ -5,6 +5,14 @@ Tagi są dodatkową formą szukania wprowadzoną do obecnej Encyklopedii, pozwal
 na szukanie elementów z indeksu przez ich tematykę.
 
 ---
+<span style="color:#107C23">
+
+### 🌆 CITIES
+
+</span>
+
+* [Evros](Topics/Geography/East_Moon/Cities/Evros.md)
+
 <span style="color:#8F3DA5">
 
 ### 💫 UNIWERSUM

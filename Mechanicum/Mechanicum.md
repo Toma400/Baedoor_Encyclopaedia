@@ -6,7 +6,4 @@ oraz innym technicznym aspektom uniwersum.
 ---
 ### 🎲 [System RPG](RPG_System/RPG_System.md)
 ### 🌀 [Właściwości i statystyki przedmiotów](Items.md)
-### 🗝️ Przewodniki po grach
-
----
-✥
+### 🗝️ [Przewodniki po grach](Walkthroughs.md)

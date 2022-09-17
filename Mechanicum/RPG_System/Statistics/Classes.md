@@ -109,14 +109,14 @@ it is mostly bonus to some skills.
    🌸 Connection (-5)  
    ⛏️ Destruction Magic (+2), Castspelling (+2), Firearms (-2), Toughness (-1)
    
-**FLYING PRIEST**  
+**FLYING MONK**  
    📜 Erd  
-   ♦️ Flying Priest  
+   ♦️ Flying Monk  
    ⛏️ Transformation (+2), Toughness (-1)
    
 **STEPPING ON WATER**  
    📜 Erd  
-   ♦️ Walking on water  
+   ♦️ Stepping on water  
    ⛏️ Transformation (+2), Toughness (-1)
 
 ---

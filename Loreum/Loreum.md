@@ -12,6 +12,3 @@ wszystkich informacji na temat tego świata.
 
 ---
 ### 📖 [Skróty](Abbrevs.md)
-
----
-✥

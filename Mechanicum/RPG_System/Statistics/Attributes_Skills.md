@@ -19,9 +19,10 @@ Domyślnie wszystkie cechy są na poziomie 8.
 **UMIEJĘTNOŚCI**
 - Walka wręcz¹
 - Broń krótka¹
-- Broń długa¹
+- Broń długa
+- Broń drzewcowa
 - Łucznictwo¹
-- Broń palna¹
+- Broń palna
 - Rzucanie zaklęć
 - Magia odnowy
 - Magia transformacji
@@ -33,11 +34,12 @@ Domyślnie wszystkie cechy są na poziomie 8.
 - Naprawa
 - Leczenie
 - Otwieranie zamków
+- Skradanie się
 - Kradzież
+- Kieszonkostwo
 - Tworzenie pułapek
 - Rozpoznawanie pułapek
 - Muzykalność
-- Kieszonkostwo
 - Przetwarzanie surowców
 - Narzędzia
 - Kowalstwo
@@ -63,6 +65,8 @@ Nierozwijalne, zdobywalne raz (wraz z rasą, klasą, bądź wyuczalne).
 - Trener Zwierząt
 - Wampiryzm
 - Pożeranie Ciał
+- Języki Rytualne
+- Język Starożytnych Architektów
 
 ---
 
