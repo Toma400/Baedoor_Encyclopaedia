@@ -9,4 +9,4 @@ Continental side of East Moon is huge landmass, separated from the rest of Moon 
 
 ---
 ✥♜  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/East_Moon.md)

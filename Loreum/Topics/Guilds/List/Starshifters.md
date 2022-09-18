@@ -16,4 +16,4 @@ Their identities are unknown for public except for few messengers revealed durin
 **International Council of Oververse Exploration**.
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Guilds.md)

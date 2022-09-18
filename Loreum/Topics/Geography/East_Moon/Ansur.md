@@ -25,13 +25,16 @@ residence and additiona fortification.
 In 917 NE, governor **Heimlig Naevos** recommended building of airship port, which is estimated to
 be finished in year 925 NE.
 
-**PLACES**
+**TOWNS**
 - [Evros](Cities/Evros.md)
 - Waine
 
-**POINTS**
+**PLACES**
 - Gorthal Stronghold
 - Fields
+
+**CALENDARIUM**
+- [Calendarium of Ansur Isle](/Loreum/Topics/History/New_Era_Ansur.md)
 
 ---
 ### 📿 Between Shadows and Light
@@ -40,4 +43,4 @@ island. Although earning a lot by this practice alone, it lacked stronger hand t
 
 ---
 ♜♢✥ + add name to name list + 326 NE into **history** + add link to BSaL walkthrough + links to locations and people  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/East_Moon.md)

@@ -29,4 +29,5 @@ It came through two iterations. Encyclopaedia is written for third edition of a 
 - [Upcoming changes](Statistics/4th_System.md)
 
 ---
-✥
+✥  
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)

@@ -22,4 +22,4 @@ In the other hand, governor holds his position in Town's Hall.
 ---
 ♢: guilds (FotB is Mage Guild, but exclusive to Ansur and it's one of those rare ones which like
 inputting magic into wands, which is rather unusual for Baedoor magic, but explains BSaL mage)  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/East_Moon.md)

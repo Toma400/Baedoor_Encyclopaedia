@@ -120,4 +120,4 @@ it is mostly bonus to some skills.
    ⛏️ Transformation (+2), Toughness (-1)
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🎲](/Mechanicum/RPG_System/RPG_System.md)

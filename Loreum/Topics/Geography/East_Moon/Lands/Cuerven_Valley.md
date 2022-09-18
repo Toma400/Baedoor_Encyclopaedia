@@ -9,4 +9,4 @@ In New Era, valley were conquered by baedoorians who created **West Baedoor** th
 
 ---
 ✥♜  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/East_Moon.md)

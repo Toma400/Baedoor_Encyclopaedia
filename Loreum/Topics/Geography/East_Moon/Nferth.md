@@ -21,4 +21,4 @@ in Baedoor universe reminding shapes or alphabet to what is found on Nferth.
 
 ---
 ♜♢✥
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/East_Moon.md)

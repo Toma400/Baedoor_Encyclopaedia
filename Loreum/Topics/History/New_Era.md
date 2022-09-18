@@ -1,12 +1,13 @@
-# 🍁 Old Era Timetable
-List of all events that have happened in Old Era.
+# 🍁 New Era Timetable
+List of all events that have happened in New Era.
 
 ### General Timetable
+312 - Fall of Baedoor Empire
 
 ---
 ### Timetable by civilisation
 
-#### 🔹 [Evývind History](Old_Era_Evývind.md)
+#### 🔹 [Ansur History](New_Era_Ansur.md)
 
 ---
 ♜  
