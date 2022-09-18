@@ -10,7 +10,7 @@ Jednocześnie, Stara Era wyznaczyła nowy okres w rozwoju technologii, poszerzaj
 wpływ z Jitado i Seiteh na całe uniwersum, dając początek steampunkowej rewolucji.
 
 ---
-#### Historia Starej Ery
+#### [Historia Starej Ery](/Loreum/Topics/History/Old_Era.md)
 #### Stronnictwa Starej Ery
 #### Postacie Starej Ery
 

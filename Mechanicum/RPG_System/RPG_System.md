@@ -30,4 +30,5 @@ Encyklopedia jest napisana dla trzeciej edycji systemu.
 - [Zapowiedziane zmiany](Statistics/4th_System.md)
 
 ---
-✥
+✥  
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)

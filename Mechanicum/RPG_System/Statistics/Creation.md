@@ -1,37 +1,37 @@
-# 🏹 Character creation
+# 🏹 Tworzenie postaci
 
-When you enter new game, you need to create your in-game persona which will be avatar 
-of your own actions.
+Kiedy rozpoczynasz nową grę, pierwszym co należy zrobić to stworzyć swoją postać.
 
-Creating the character has several steps:
+Tworzenie postaci opiera się na kilku krokach:
 
-## 1. Basic informations
+## 1. Podstawowe informacje
 
-Such as your **name** and **gender**. It does not have any impact on your statistics, 
-but gender choice can affect your dialogue options rarely.
+Takie jak **imię** i **płeć**. Nie mają one dużego znaczenia wobec statystyk, jednak
+wybór płci czasami może wpłynąć na opcje dialogowe.
 
-## 2. Race
+## 2. Rasa
 
-Race is first really serious choice. Not only it also affects dialogues due to bias 
-(and usually in more serious manner than gender), but it also put quite big impact on your statistics.  
-Some races have additionally subraces which you need to select to precise 
-land from where your character comes from.
+Rasa jest pierwszym poważnym wyborem. Nie tylko wpływa ona na dialogi ze względu na uprzedzenia
+(i zwykle bardziej niż płeć), ale również ma ona duży wpływ na Twoje statystyki.  
+Niektóre rasy mają dodatkowo subrasy, pozwalając na doprecyzowanie konkretnego miejsca, z którego
+Twoja postać pochodzi.
 
-## 3. Class
+## 3. Klasa
 
-Class is sort of profession for your character. It does not need to be considered strict, 
-but it gives you some helpful starting points for skills, and sometimes some long-term features.
+Klasa jest swego rodzaju profesją dla Twojej postaci. Nie musi być określana dokładnie,
+jednak daje Ci pewną pomocną garść punktów do umiejętności, czasami również pozwalając
+na pewne ekskluzywne perki.
 
-## 4. Custom points
+## 4. Własne punkty
 
-After deciding about all the above, you will be able to spend two attribute points and two 
-skill points on elements you find the most useful for yourself.
+Po wyborze wszystkiego co wyżej, następuje moment, w którym samodzielnie możesz rozdysponować
+dwa punkty cech i dwa punkty umiejętności.
 
-## 5. Finishing touches
+## 5. Kończenie kreacji
 
-Whether you play table RPG or any game offering you visual experience, you can end 
-creating process by drawing or choosing image of your persona.  
-After that, all is done. Have fun travelling roads of Baedoor universe!
+Niezależnie, czy grasz w papierowego RPGa, czy grę oferującą Ci wizualne doświadczenia,
+możesz zakończyć proces tworzenia poprzez narysowanie czy wybranie obrazu postaci.  
+Gdy to zrobisz, gotowe! Miłego podróżowania po uniwersum Baedoor!
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🎲](/Mechanicum/RPG_System/RPG_System.md)

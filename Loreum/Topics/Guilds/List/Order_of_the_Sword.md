@@ -21,6 +21,6 @@ Therefore, Order of the Sword regained big part of their legacy and became again
 over the island.
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Guilds.md)
 
 ♜: tags, ♢: Skand, Tarskigg, events bolded out
