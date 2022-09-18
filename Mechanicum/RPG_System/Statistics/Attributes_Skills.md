@@ -56,8 +56,8 @@ Nierozwijalne, zdobywalne raz (wraz z rasą, klasą, bądź wyuczalne).
 - Kierowanie Pojazdami
 - Berserker
 - Zabójczy Cios
-- Kroczący Po Wodzie
-- Latający Kapłan
+- Chodzący Po Wodzie
+- Latający Mnich
 - Odporność na Toksyny
 - Nieumarły
 - Stheyr

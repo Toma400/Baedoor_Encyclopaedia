@@ -1,37 +1,37 @@
-# 🌏 GEOGRAPHY
-All what creates the oververse, but mostly on Baedoor itself
+# 🌏 GEOGRAFIA
+Wszystko co tworzy wszechwers, lecz głównie Baedoor samo w sobie.
 
 ---
-## 🌌 BAEDOOR MULTIVERSE
+## 🌌 MULTIWERSUM BAEDOOR
 ### 🪐 AVEIS
 #### 🔷 Baedoor
-#####     🔹 Northern Islands
+#####     🔹 Północne Wyspy
 #####     🔹 Baedoor
-#####     🔹 Rossevette Islands
+#####     🔹 Wyspy Rossevette
 #####     🔹 Kaer
 #####     🔹 Arennan
-#### 🔷 Moon Continent
-#####     🔹 West Moon
-#####     🔹 Moon Islands
-#####     🔹 Central Moon
-#####     🔹 [East Moon](Geography/East_Moon.md)
-#### 🔷 Old Continent
+#### 🔷 Księżyc
+#####     🔹 Zachodni Księżyc
+#####     🔹 Wyspy Księżyca
+#####     🔹 Kraje Księżycowe
+#####     🔹 [Wschodni Księżyc](Geography/East_Moon.md)
+#### 🔷 Starożytny Kontynent
 #####     🔹 Mes Inpea
 #####     🔹 Jitado
 #####     🔹 Eimr
 #### 🔷 Seiteh
-#### 🔷 The Azure Archipelago
+#### 🔷 Archipelag Błękitny
 #####     🔹 Oe'os
 #####     🔹 Septei
 #####     🔹 Vartee
-#### 🔷 The Grand Southern Permafrost
-#####     🔹 Vaos Archipelago
-#####     🔹 Aragonian Library
+#### 🔷 Wielka Południowa Zmarzlina
+#####     🔹 Archipelag Vaos
+#####     🔹 Biblioteka Aragońska
 
-### 💫 DIMENSIONS
+### 💫 WYMIARY
 
 ---
-## 🎆 OTHER KNOWN MULTIVERSES
+## 🎆 INNE ZNANE MULTIWERSA
 #### 🔷 Tamariel
 #### 🔷 Uru'ai
 #### 🔷 Osde'in
@@ -41,11 +41,11 @@ All what creates the oververse, but mostly on Baedoor itself
 #### 🔷 Ne'n
 #### 🔷 Aji'n
 
-### 🎇 BEYOND SPECTRUM
-#### 🔷 Lands of the Dead
-#### 🔷 Crossing
-#### 🔷 The Void
-#### 🔷 The Library of Worlds
+### 🎇 POZA SPEKTRUM
+#### 🔷 Światy Umarłych
+#### 🔷 Przejście
+#### 🔷 Pustka
+#### 🔷 Biblioteka Światów
 
 ---
 ✥
