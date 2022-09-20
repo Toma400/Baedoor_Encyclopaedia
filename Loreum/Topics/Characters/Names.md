@@ -1,75 +1,75 @@
-# ⚜️ Names
-Here you will have all names used by Baedoor characters. It may be useful during character creation,
-or just if you would like to look at cultural differences between civilisations.
+# ⚜️ Imiona
+Tutaj znajdują się wszystkie imiona używane przez postacie Baedoor. Mogą być one użyteczne
+podczas tworzenia postaci czy do zauważenia różnic kulturowych pomiędzy cywilizacjami.
 
-## Table of contents:
-**Names [🔱](Names.md#centernamescenter)**
-- [Baedoorian Names](Names.md#baedoorian-names)
-- [Tri Names](Names.md#tri-names)
+## Spis treści:
+**Imiona [🔱](Names.md#centernamescenter)**
+- [Imiona Baedoorskie](Names.md#baedoorian-names)
+- [Imiona Tri](Names.md#tri-names)
 
-**Surnames [🔱](Names.md#centersurnamescenter)**
-- [Baedoorian Surnames](Names.md#baedoorian-surnames)
-- [Tri Surnames](Names.md#tri-surnames)
-
-<hr style="border:2px solid gray">
-
-## <center>Names</center>
-
----
-### Baedoorian Names
-<center><span style="color:#668c99"><b>Male names</b></span></center>
-
-| Name    | Localisation                  | Description                                         |
-|---------|-------------------------------|-----------------------------------------------------|
-| Dominic | Whole Baedoor                 | Common name                                         |
-| Heim    | Whole Baedoor                 | Common name, originated from Baedoor Northern Coast | 
-| Heimlig | Ansur, Baedoor Northern Coast | Probably mix of **Heim** and nordwinian suffix      |
-| Norran  | Whole Baedoor                 | Quite regular baedoorian name                       |
-
-<center><span style="color:#668c99"><b>Female names</b></span></center>
-
-| Name     | Localisation  | Description                                                 |
-|----------|---------------|-------------------------------------------------------------|
-| Veronica | Whole Baedoor | Commonly used, especially among lower aristocratic families |
-
----
-### Tri Names
-<center><span style="color:#668c99"><b>Male names</b></span></center>
-
-| Name   | Localisation                 | Description                                                                                        |
-|--------|------------------------------|----------------------------------------------------------------------------------------------------|
-| Ain    | West Moon                    | Semi-common tri name among all classes                                                             |
-| Ainji  | Whole Baedoor, Moon, Arennan | Common derivation of **Ain** appearing in New Era                                                  |
-| Asaai  | Arennan                      | Rare saphtri name                                                                                  |
-| Heiyn  | Whole Baedoor, Rossevette    | Variant of **Heyn** name                                                                           |
-| Hes    | Arennan, rarely outside      | Rare saphtri name, may be impacted by ormath culture, as it does not appear natively anywhere else |
-| Heyn   | Whole Baedoor, Rossevette    | Baedoorised name, closest to be mix of **Heim** and **Ain** names                                  |
-| Riyell | Whole Baedoor, Rossevette    | Baedoorised variant of common tri names                                                            |
-
-<center><span style="color:#668c99"><b>Female names</b></span></center>
-
-| Name     | Localisation              | Description                                  |
-|----------|---------------------------|----------------------------------------------|
-| Vei      | Arennan, rarely outside   | Saphtri name                                 |
-| Veronica | Whole Baedoor, Rossevette | Inherited directly from Baedoor, rarely used |
+**Nazwiska [🔱](Names.md#centersurnamescenter)**
+- [Nazwiska Baedoorskie](Names.md#baedoorian-surnames)
+- [Nazwiska Tri](Names.md#tri-surnames)
 
 <hr style="border:2px solid gray">
 
-## <center>Surnames</center>
+## <center>Imiona</center>
+
+---
+### Imiona Baedoorskie
+<center><span style="color:#668c99"><b>Imiona męskie</b></span></center>
+
+| Imię    | Występowanie                     | Opis                                                               |
+|---------|----------------------------------|--------------------------------------------------------------------|
+| Dominic | Całe Baedoor                     | Typowe imię                                                        |
+| Heim    | Całe Baedoor                     | Typowe imię, powstałe na Północnym Wybrzeżu Baedoor                | 
+| Heimlig | Ansur, Północne Wybrzeże Baedoor | Prawdopodobnie połączenie imienia **Heim** i nordwińskiego sufiksa |
+| Norran  | Całe Baedoor                     | Dość zwyczajowe baedoorskie imię                                   |
+
+<center><span style="color:#668c99"><b>Imiona kobiece</b></span></center>
+
+| Imię     | Występowanie | Opis                                                          |
+|----------|--------------|---------------------------------------------------------------|
+| Veronica | Całe Baedoor | Typowe imię, szczególnie wśród niższej klasy arystokratycznej |
+
+---
+### Imiona Tri
+<center><span style="color:#668c99"><b>Imiona męskie</b></span></center>
+
+| Imię   | Występowanie                   | Opis                                                                                     |
+|--------|--------------------------------|------------------------------------------------------------------------------------------|
+| Ain    | Zachodni Księżyc               | Umiarkowanie częste imię wśród wszystkich klas                                           |
+| Ainji  | Całe Baedoor, Księżyc, Arennan | Popularna derywacja od **Ain** w okresie Nowej Ery                                       |
+| Asaai  | Arennan                        | Rzadkie imię saphtri                                                                     |
+| Heiyn  | Całe Baedoor, Rossevette       | Wariant imienia **Heyn**                                                                 |
+| Hes    | Arennan, rzadko na zewnątrz    | Rzadkie imię saphtri, może mieć wpływy ormackie, jako że nie pojawia się nigdzie indziej |
+| Heyn   | Całe Baedoor, Rossevette       | Baedoorski wariant, najbliższy połączeniu imion **Heim** i **Ain**                       |
+| Riyell | Całe Baedoor, Rossevette       | Baedoorski wariant kilku imion tri                                                       |
+
+<center><span style="color:#668c99"><b>Imiona kobiece</b></span></center>
+
+| Imię     | Występowanie                | Opis                                      |
+|----------|-----------------------------|-------------------------------------------|
+| Vei      | Arennan, rzadko na zewnątrz | Imię saphtrijskie                         |
+| Veronica | Całe Baedoor, Rossevette    | Rzadko używane, przejęte od baedoorczyków |
+
+<hr style="border:2px solid gray">
+
+## <center>Nazwiska</center>
 
 ---
 
-### Baedoorian Surnames
-| Surname   | Localisation          | Description                                                        |
-|-----------|-----------------------|--------------------------------------------------------------------|
-| Gorth     | Whole Baedoor         | Common surname                                                     |
-| Naevos    | Ansur                 | Surname coming from trish Nai and arennian-baedoorian Vos families |
-| Velga, le | East Baedoor          | Aristocratic surname, of Isuga heritage                            |
-| Vos       | Arennan, West Baedoor | Rare surname connected with Arennan naming                         |
-| Winfleton | West Baedoor          | Aristocratic name, nowadays recognised with **Heim Winfleton**     |
+### Nazwiska Baedoorskie
+| Nazwisko  | Występowanie               | Opis                                                                                |
+|-----------|----------------------------|-------------------------------------------------------------------------------------|
+| Gorth     | Całe Baedoor               | Typowe nazwisko                                                                     |
+| Naevos    | Ansur                      | Nazwisko pochodzące od trijskiej rodziny Nai i arennianśko-baedoorskiej rodziny Vos |
+| Velga, le | Wschodnie Baedoor          | Arystokratyczne nazwisko pochodzące z Isugi                                         |
+| Vos       | Arennan, Zachodnie Baedoor | Rzadkie nazwisko powiązane z nazewnictwem Arennan                                   |
+| Winfleton | Zachodnie Baedoor          | Arystokratyczne imię, obecnie kojarzone z **Heimem Winfletonem**                    |
 
 ---
-### Tri Surnames
-| Surname | Localisation          | Description                                                   |
-|---------|-----------------------|---------------------------------------------------------------|
-| Nai     | West Moon, Rossevette | Rare surname, sometimes bound to lower  aristocratic families |
+### Nazwiska Tri
+| Nazwisko | Występowanie                  | Opis                                                              |
+|----------|-------------------------------|-------------------------------------------------------------------|
+| Nai      | Zachodni Księżyc, Rossevette  | Rzadkie nazwisko, czasami wiązane z niższymi klasami arystokratów |

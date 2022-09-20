@@ -1,12 +1,12 @@
-# 🍁 Old Era History
-List of all events that have happened in Old Era.
+# 🍁 Kalendarium Starej Ery
+Lista wszystkich wydarzeń, które odbyły się w trakcie Starej Ery.
 
-### General History
+### Ogólne kalendarium
 
 ---
-### History by civilisation
+### Kalendarium przez cywilizację
 
-#### 🔹 [Evývind History](Old_Era_Evývind.md)
+#### 🔹 [Kalendarium Evývind](Old_Era_Evývind.md)
 
 ---
 ♜

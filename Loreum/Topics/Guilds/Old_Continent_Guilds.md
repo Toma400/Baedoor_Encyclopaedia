@@ -1,4 +1,4 @@
-# 🕌 Gildie Starego Kontynentu
+# 🕌 Gildie Starożytnego Kontynentu
 
 ---
 ### 🏯 JITADO
