@@ -5,10 +5,12 @@ or just if you would like to look at cultural differences between civilisations.
 ## Table of contents:
 **Names [🔱](Names.md#centernamescenter)**
 - [Baedoorian Names](Names.md#baedoorian-names)
+- [Jitadian Names](Names.md#jitadian-names)
 - [Tri Names](Names.md#tri-names)
 
 **Surnames [🔱](Names.md#centersurnamescenter)**
 - [Baedoorian Surnames](Names.md#baedoorian-surnames)
+- [Jitadian Surnames](Names.md#jitadian-surnames)
 - [Tri Surnames](Names.md#tri-surnames)
 
 <hr style="border:2px solid gray">
@@ -31,6 +33,16 @@ or just if you would like to look at cultural differences between civilisations.
 | Name     | Localisation  | Description                                                 |
 |----------|---------------|-------------------------------------------------------------|
 | Veronica | Whole Baedoor | Commonly used, especially among lower aristocratic families |
+
+---
+### Jitadian Names
+<center><span style="color:#668c99"><b>Male names</b></span></center>
+
+| Name    | Localisation | Description                               |
+|---------|--------------|-------------------------------------------|
+| Jiro    | Jitado       | Rare name                                 |
+| Sin     | Jitado       | Common name                               |
+| Sjiniro | Jitado       | Obscure combination of Sin and Jiro names |
 
 ---
 ### Tri Names
@@ -67,6 +79,13 @@ or just if you would like to look at cultural differences between civilisations.
 | Velga, le | East Baedoor          | Aristocratic surname, of Isuga heritage                            |
 | Vos       | Arennan, West Baedoor | Rare surname connected with Arennan naming                         |
 | Winfleton | West Baedoor          | Aristocratic name, nowadays recognised with **Heim Winfleton**     |
+
+---
+### Jitadian Surnames
+
+| Name      | Localisation | Description                     |
+|-----------|--------------|---------------------------------|
+| Itahmutsi | Jitado       | Very rare surname, from Adelaie |
 
 ---
 ### Tri Surnames

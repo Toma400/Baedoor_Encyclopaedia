@@ -12,3 +12,4 @@ Baedoor languages. Everything about them can be found here.
 |  x-x   | Short break between letters                               |         |
 |  x...  | First letter of the word                                  |         |
 |  ...x  | Last letter of the word                                   |         |
+| ..x..  | Between letters                                           |         |

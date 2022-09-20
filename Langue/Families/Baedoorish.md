@@ -45,6 +45,7 @@ old jitadish → old baedoorish → baedoorish
 | ..ve.. |  w↓e   | as in `vector`                                              |
 | vo...  |  w↓o   | in many dialects, `vo` at the start is slightly heavier     |                                             
 |   w    |   w↑   | as `v` in `vengeance`                                       |
+
 ᵍ - ghloddish language influence  
 
 ### Baedoorish vocabulary
@@ -82,10 +83,11 @@ old jitadish → old baedoorish → baedoorish
 |   wainesi   | harbour                              | wai-nesi      |   jit. "wainesi"   |
 | wald, weld¹ | forest                               | wald, we↓ld¹  |    jit. "weld"     |
 |     wes     | governor                             | we↓s          |   nomth. "wešš"    |
+
 ¹ - only in old baedoorish
 
 ### Grammar rules
-**Appending qualities/adjectives to an item**
+**Appending qualities/adjectives to an item**  
 Contrary to our expectations, baedoorian derived from jitadish qualities placement at the end of
 the object, usually with additional chain letter. Hence, if you want to say "first flower", you
 do need to use reverse system than in English - "flower-is-first". Below is table of chain letters
@@ -96,7 +98,7 @@ used:
 | **t**  | Used after ending letters `e`, `s`             | Enfretern (enfre-t-ern) ✤ First flower |
 |  None  | Default if there's no contradictory rule above | Anssuri (ans-suri) ✤ Hopeful land      |
 
-**Adjectives from nouns**
+**Adjectives from nouns**  
 Creating adjectives from nouns varies heavily, and sometimes it doesn't even happen (meaning noun
 is both noun and adjective, as happens with `equa`, for example).
 
@@ -106,7 +108,7 @@ is both noun and adjective, as happens with `equa`, for example).
 | `i` before first consonant |      | a*i*ne - nautical       |
 | `i` at the end             |      | sur*i* - hopeful, alone |
 
-**"of"**
+**"of"**  
 Similarly to ghloddish, to express aspect of being "of" something, it is enough to merge two nouns,
 treating second noun as being adjective-like. Therefore "Ans Sur" is "Land of Hope", similarly how
 "Anssuri" would mean "hopeful land".

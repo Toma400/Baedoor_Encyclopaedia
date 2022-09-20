@@ -47,6 +47,7 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 | ..ve.. |    w↓e     | `e` changes `v` to be slightly heavier, if inside the word  |
 | vo...  |    w↓o     | in many dialects, `vo` at the start is slightly heavier     |
 |   w    |     w↑     | as `v` in `vengeance`                                       |
+
 ᐞ - trish language influence  
 ᐪ - baedoorish language influence  
 ᵍ - ghloddish language influence  
@@ -85,11 +86,12 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |       wan        | anchor                                     | wan              |        -         |
 |     wainesi      | harbour                                    | wai-nesi         | wan + aine + isi |
 |       weld       | forest                                     | we↓ld            |        -         |
+
 ¹ - only in modern jitadish
 ² - old jitadish
 
 ### Grammar rules
-**Appending qualities/adjectives to an item**
+**Appending qualities/adjectives to an item**  
 Jitadish places qualities at the end of the object, usually with additional chain letter. 
 Hence, if you want to say "first flower", you do need to use reverse system than in 
 English - "flower-is-first". Below is table of chain letters used:
@@ -98,7 +100,7 @@ English - "flower-is-first". Below is table of chain letters used:
 |:------:|------------------------------------------------|-------------------------------------|
 |  None  | Default if there's no contradictory rule above | Enfraern (enfr-aern) ✤ First flower |
 
-**Adjectives from nouns**
+**Adjectives from nouns**  
 Creating adjectives from nouns varies heavily, and sometimes it doesn't even happen (meaning noun
 is both noun and adjective, as happens with `equa`, for example).
 
