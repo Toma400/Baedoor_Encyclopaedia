@@ -24,18 +24,22 @@ less than new era for ghloddish language.
 
 ### Ghloddish sections
 
-#### 📜️ First Era
+#### [🈳 Alphabet](/Langue/List/Ghloddish_General/Alphabet.md)
 
-- [Vocabulary](/Langue/Old/Ghloddish_I/Vocabulary.md)
-
-#### 📜 Second Era
-
-- [Vocabulary](/Langue/Old/Ghloddish_II/Vocabulary.md)
-
-#### 📜 Third Era
-
-- [Vocabulary](/Langue/Old/Ghloddish_III/Vocabulary.md)
+### By Evolution
 
 #### 📜 Fourth Era
 
-- [Vocabulary](/Langue/Old/Ghloddish_IV/Vocabulary.md)
+- [Vocabulary](/Langue/List/Ghloddish_IV/Vocabulary.md)
+
+#### 📜 Third Era
+
+- [Vocabulary](/Langue/List/Ghloddish_III/Vocabulary.md)
+
+#### 📜 Second Era
+
+- [Vocabulary](/Langue/List/Ghloddish_II/Vocabulary.md)
+
+#### 📜️ First Era
+
+- [Vocabulary](/Langue/List/Ghloddish_I/Vocabulary.md)
