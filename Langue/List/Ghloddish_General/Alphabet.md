@@ -5,7 +5,7 @@ using ghloddish glyphs.
 For glyph writing, each ghloddish vocabulary has separate section, **Letters**, explaining glyphs
 creating the word.
 
-<img alt="Ghloddish Alphabet" height="400" src="/Assets/ghloddish_alphabet.png" width="400"/>
+<img alt="Ghloddish Alphabet" height="500" src="/Assets/ghloddish_alphabet.png" width="500"/>
 
 The table here contains all non-apostrophed glyphs present throughout ghloddish history. Most of them
 are currently used in Fourth Era.

@@ -13,6 +13,7 @@ If this section becomes too big, it can be split into linked sections in the fut
 </span>
 
 * [Evros](Topics/Geography/East_Moon/Cities/Evros.md)
+* [Menerun](Topics/Geography/Jitado/Cities/Menerun.md)
 
 <span style="color:#8F3DA5">
 

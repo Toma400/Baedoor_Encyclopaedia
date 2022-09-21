@@ -17,7 +17,7 @@ All what creates the oververse, but mostly on Baedoor itself
 #####     🔹 [East Moon](Geography/East_Moon.md)
 #### 🔷 Old Continent
 #####     🔹 Mes Inpea
-#####     🔹 Jitado
+#####     🔹 [Jitado](Geography/Jitado.md)
 #####     🔹 Eimr
 #### 🔷 Seiteh
 #### 🔷 The Azure Archipelago

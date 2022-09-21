@@ -12,7 +12,17 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### E
 - [East Moon](Topics/Geography/East_Moon.md)
+- [Enfrvein](Topics/Geography/Jitado/Cities/Places/Enfrvein.md)
 - [Evros](Topics/Geography/East_Moon/Cities/Evros.md)
+
+### F
+- [Flower Street](Topics/Geography/Jitado/Cities/Places/Enfrvein.md)
+
+### J
+- [Jitado](Topics/Geography/Jitado.md) (island)
+
+### M
+- [Menerun](Topics/Geography/Jitado/Cities/Menerun.md)
 
 ### N
 - [Nferth](Topics/Geography/East_Moon/Nferth.md)

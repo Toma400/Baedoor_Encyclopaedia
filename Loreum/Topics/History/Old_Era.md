@@ -6,7 +6,7 @@ List of all events that have happened in Old Era.
 ---
 ### Timetable by civilisation
 
-#### 🔹 [Evývind History](Old_Era_Evývind.md)
+#### 🔹 [Evývind Timetable](Old_Era_Evývind.md)
 
 ---
 ♜  
