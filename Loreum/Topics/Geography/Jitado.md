@@ -3,11 +3,14 @@ Jitado is one of the islands creating Old Continent, in which from oldest notabl
 country had place.
 
 ### TOWNS
-#### Altauar Region:
+#### [Altauar Region](Jitado/Regions/Altauar.md):
 - [Menerun](Jitado/Cities/Menerun.md)
 - Raliun
 - Ino Anor
 - Adelaie
+
+### LANDSCAPES
+- Altauar Mountains
 
 ---
 ♜♢✥ / separate into country and island  

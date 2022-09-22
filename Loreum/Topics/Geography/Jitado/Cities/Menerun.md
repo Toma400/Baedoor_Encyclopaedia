@@ -5,11 +5,14 @@
 
 ---
 **Menerun** (old jit. *thought-having*) is city within Jitado island. It wields authority over
-Altauar region, being the most powerful place there.
+Altauar region, being the most powerful city of this area.
 
 Menerun is the most notable example of Jitado's importance raising over the centuries, as every epoch
 had its significant mark on it. There are all types of districts in there - poorer, wooden **Curt Kurtque**,
 artisan **Selesas**, build from bricks and stone, finally aristocratic **Ayeras** and **Evrun**.
+
+Menerun name origin is considered to be based on high appreciation towards mages of local citizens.  
+After all, modern Menerun is home for several universities and magic guilds.
 
 ### PLACES
 #### Evrun

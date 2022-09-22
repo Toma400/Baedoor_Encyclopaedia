@@ -17,19 +17,20 @@
 ## Ghloddish → English
 [Pronunciation Helper](/Langue/Pronunciation.md)
 
-| Word  | Translation               | Pronunciation | Letters  |                            Etymology                             |
-|:-----:|---------------------------|---------------|----------|:----------------------------------------------------------------:|
-|  a'-  | higher, feminine (prefix) | a:            | a'       | Descriptive-wise, letter goes down, then up, pointing at the sun |
-| a'ana | up, top (of something)    | a:ana         | a'-a-n-a |                             a' + ana                             |
-| a'ya  | lady                      | a:ijja        | a'-ya    |                            a' + y'ya                             |
-|  ana  | destination               | ana           | a-n-a    |                                -                                 |
-|  ara  | to be                     | ara           | a-r-a    |            probably from `ar` word of unknown meaning            |
-| asa'  | (related to) me, I        | asa:          | a-s-a'   |                                -                                 | 
-|  aur  | moon                      | aur           | a-u-r    |                some I era `'` got softened to `u`                |
-|  s'   | and                       | s:            | s'       |                                -                                 |
-|  s'-  | masculine (prefix)        | ss            | s'       |                                -                                 |
-| s'ya  | man                       | ssijja        | s'-ya    |                            s' + y'ya                             |
-| y'ya  | guide, master             | ijja          | y'-ya    |                         from I era `e'e`                         | 
+| Word  | Translation               | Pronunciation | Letters  |                                                       Etymology                                                        |
+|:-----:|---------------------------|---------------|----------|:----------------------------------------------------------------------------------------------------------------------:|
+|  a'-  | higher, feminine (prefix) | a:            | a'       |                            Descriptive-wise, letter goes down, then up, pointing at the sun                            |
+| a'ana | up, top (of something)    | a:ana         | a'-a-n-a |                                                        a' + ana                                                        |
+| a'ya  | lady                      | a:ijja        | a'-ya    |                                                       a' + y'ya                                                        |
+|  ana  | destination               | ana           | a-n-a    |                                                           -                                                            |
+|  ara  | to be                     | ara           | a-r-a    |                                       probably from `ar` word of unknown meaning                                       |
+| asa'  | (related to) me, I        | asa:          | a-s-a'   |                                                           -                                                            | 
+|  aur  | moon                      | aur           | a-u-r    |                                           some I era `'` got softened to `u`                                           |
+|  oe'  | land, world, island       | oe:           | oe'      | sometimes portrayed as ehric-influenced `eh`, but this is usually debunked, as `oe'` existed before Ghlodds left caves |
+|  s'   | and                       | s:            | s'       |                                                           -                                                            |
+|  s'-  | masculine (prefix)        | ss            | s'       |                                                           -                                                            |
+| s'ya  | man                       | ssijja        | s'-ya    |                                                       s' + y'ya                                                        |
+| y'ya  | guide, master             | ijja          | y'-ya    |                                                    from I era `e'e`                                                    | 
 
 ---
 ## English → Ghloddish

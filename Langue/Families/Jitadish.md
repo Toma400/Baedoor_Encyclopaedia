@@ -31,7 +31,7 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |  Key   |   Sound    | Rule / Example in English to follow                         |
 |:------:|:----------:|-------------------------------------------------------------|
 |  ..as  |    as↑     | quite often `as` ending is accented                         |
-|   cu   |     su     | as in `support`                                             |
+|   cu   |     su     | as in british `support`                                     |
 |  e...  |     :      | if `e` is first, it is silent, unless it is `ev` or `ei`¹ᐞ  |
 |  ...e  |     e:     | sometimes                                                   |
  |   ei   |   e↓ i↑    | as `a` in `tape`¹ᐞ                                          |
@@ -66,11 +66,13 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |       ana        | entity, being                                          | ana              |        -         |
 |      anaine      | water being                                            | anai-ne:         |    ana + aine    |
 |     anairun      | landlord                                               | anai-run         |    ana + irun    |
-|       ane        | sea                                                    | a-ne:            |        -         | 
+|       ane        | sea                                                    | a-ne:            |        -         |
+|     aneines      | coast                                                  | a-ne-ines        |   ane + aines    |
 |       anes       | land                                                   | anes             |    ane + nes     |
 |       ayer       | bandit                                                 | ai:e↓r / ai:r    |        -         |
 |      ayeras      | guard, protector                                       | ai:e↓ras↑        |   ayer + iras    |
 |       cuer       | valley                                                 | su-er            |        -         |
+|       curd       | district, long road with many branches                 | surd             |        -         |
 |       dena       | vast                                                   | dena:            |        -         |
 |       edra       | south                                                  | :dra             |        -         |
 |       enda       | north                                                  | :nda             |        -         | 
@@ -84,6 +86,7 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |       iru        | to have                                                | iru              |        -         |
 |       irun       | having                                                 | irun             |  adj. of "iru"   |
 |       isi        | shelter, oasis                                         | i-si             |        -         |
+|     kurtque      | dusty                                                  | kurt-kue:        |        -         |
 |      lesas       | wise, deep, "it needs wise to reach depths of the sea" | le↓sas↑          |        -         |
 |   maene, mene²   | thought                                                | mene:, me↓ne:    |        -         |
 |      oestae      | wind                                                   | :stae↓, este¹    |        -         |
@@ -92,8 +95,8 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |       ros        | abundant, rich                                         | ros              |        -         |
 |       sev        | scales, to measure, to divide                          | sefv             |        -         |
 |       sur        | star                                                   | sur              |        -         |
-|       uar        | mountain                                               | u↓ar             |        -         |
-|       vaer       | void, wasteland, anxiety                               | waer, wer¹       |        -         |
+|       uar        | mountain                                               | u↑ar             |        -         |
+|       vaer       | void, wasteland, anxiety related to nothingness        | waer, wer¹       |        -         |
 |       vein       | road, trail                                            | fe↓i↑n           |        -         |
 |       vene       | dense, warm, safe                                      | fvene:           |        -         |
 |       vos        | horizon                                                | wos              |        -         |                     
@@ -127,11 +130,26 @@ is both noun and adjective, as happens with `equa`, for example).
 | `i` at the end             |      | vosur*i* - hopeful, alone |
 
 **"of"**  
-Jitadish creates "of" by creating adjective-like word, but instead of using adjective, connected
-letter is "the derivator" and first letter becomes attribute.   
+Jitadish creates "of" by creating adjective-like word, but instead of using adjective, connected is
+noun called "the derivator" and first noun becomes attribute.   
 Let's analyse on well-known place in Jitado:  
 `Enfrvein` is `Enfr + vein`, so "flower" and "street". This makes it work like that:  `Flower <- of <- Street`.
-This way, we can say `enfrvein` as `street of flower(s)`, or even `flower street`.
+This way, we can say `enfrvein` as `street of flower(s)`, or even `flower street`.  
+It is rarely used form in jitadish though, as it is usually easier to simply use adjective. Of-words
+are usually old and remain mostly in names of places.
+
+**Apostrophed**  
+Apostrophes are old part of jitadish language, and they are used to change letter happening after it,
+creating sort-of double letter instead. Those are used often on already existing words, to accent
+some meaning.
+
+| Letter | Pronunciation | Possible use                            | Example of meaning |
+|:------:|:-------------:|-----------------------------------------|--------------------|
+|   's   |      ʂs       | When there's wovel before and after `s` | Isi → I'si         |
+|   '*   |      u:*      | After any `oe` letter                   | Murloen → Murl'n   |
+
+Those are used nowadays mostly in poetic language, as for most part, adjectives are considered
+equally verbal alternative, and easier to spot for foreigners.
 
 ---
 ♢: loreum

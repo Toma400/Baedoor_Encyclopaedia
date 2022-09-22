@@ -111,3 +111,6 @@ containing `ta-ah-r`, with only third era allowing `t-a-ah-r` writing) but relie
 used to writing in this particular language.
 
 ## Understanding the glyphs
+
+---
+♜: understanding the glyphs
