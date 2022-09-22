@@ -12,6 +12,7 @@ If this section becomes too big, it can be split into linked sections in the fut
 
 </span>
 
+* [Adelaie](Topics/Geography/Jitado/Cities/Adelaie.md)
 * [Evros](Topics/Geography/East_Moon/Cities/Evros.md)
 * [Menerun](Topics/Geography/Jitado/Cities/Menerun.md)
 

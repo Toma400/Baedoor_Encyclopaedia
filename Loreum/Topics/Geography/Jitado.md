@@ -7,7 +7,7 @@ country had place.
 - [Menerun](Jitado/Cities/Menerun.md)
 - Raliun
 - Ino Anor
-- Adelaie
+- [Adelaie](Jitado/Cities/Adelaie.md)
 
 ### LANDSCAPES
 - Altauar Mountains

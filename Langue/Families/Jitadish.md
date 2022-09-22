@@ -30,6 +30,8 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 
 |  Key   |   Sound    | Rule / Example in English to follow                         |
 |:------:|:----------:|-------------------------------------------------------------|
+|   ae   |  ae↓, e¹   | classic `e`, as in `energy`¹ᐪ                               |
+| ae...  |    ae↓     | exception for `ae` in modern jitadish                       |
 |  ..as  |    as↑     | quite often `as` ending is accented                         |
 |   cu   |     su     | as in british `support`                                     |
 |  e...  |     :      | if `e` is first, it is silent, unless it is `ev` or `ei`¹ᐞ  |
@@ -38,7 +40,6 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 | ...ena |    ena:    |                                                             |
 |   ev   |     ef     | as in `effigy`                                              |
 |   e    |     e↓     | weak, taking most of next letter, as in "extend**e**d" word |
-|   ae   |  ae↓, e¹   | classic `e`, as in `energy`¹ᐪ                               |
 |   oe   |   -, e¹    | classic `e`, as in `energy`¹ᐪ                               |
 |  o...  |   o / y↓   | either `o` or weak `y`                                      |
 |  y...  |     ji     | if first, pronounced as `ye` in `yeet`ᵍ                     |
@@ -56,55 +57,62 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 ¹ - only in modern jitadish
 
 ### Jitadish vocabulary
-|       Word       | Translation                                            | Pronunciation    |    Etymology     |
-|:----------------:|--------------------------------------------------------|------------------|:----------------:|
-|       aer        | one                                                    | ae↓r             |        -         | 
-|       aern       | first                                                  | ae↓rn            |     aer + -n     |
-|       aine       | nautical, related to sea                               | ai-ne:           |  adj. of "ane"   | 
-|      aines       | terrestrial, related to land                           | ai-nes↑          |  adj. of "anes"  |
-|       ald        | boar                                                   | ald↑             |        -         |
-|       ana        | entity, being                                          | ana              |        -         |
-|      anaine      | water being                                            | anai-ne:         |    ana + aine    |
-|     anairun      | landlord                                               | anai-run         |    ana + irun    |
-|       ane        | sea                                                    | a-ne:            |        -         |
-|     aneines      | coast                                                  | a-ne-ines        |   ane + aines    |
-|       anes       | land                                                   | anes             |    ane + nes     |
-|       ayer       | bandit                                                 | ai:e↓r / ai:r    |        -         |
-|      ayeras      | guard, protector                                       | ai:e↓ras↑        |   ayer + iras    |
-|       cuer       | valley                                                 | su-er            |        -         |
-|       curd       | district, long road with many branches                 | surd             |        -         |
-|       dena       | vast                                                   | dena:            |        -         |
-|       edra       | south                                                  | :dra             |        -         |
-|       enda       | north                                                  | :nda             |        -         | 
-|       enfr       | flower, blossoming                                     | :nfr             |        -         | 
-|       equa       | howl, squal, weep, sound during pain                   | :qua             |        -         |
-|      evoros      | fertile, able to grow                                  | efvoros          |    evos + ros    |
-|       evos       | fields                                                 | efos             |        -         |
-|       hoi        | forward (shout)                                        | hoi              |        -         |
-|       nes        | hard, difficult to move                                | nes              |        -         |
-|       iras       | killing lawfully                                       | iras↑            |  adj. of "ras"   |
-|       iru        | to have                                                | iru              |        -         |
-|       irun       | having                                                 | irun             |  adj. of "iru"   |
-|       isi        | shelter, oasis                                         | i-si             |        -         |
-|     kurtque      | dusty                                                  | kurt-kue:        |        -         |
-|      lesas       | wise, deep, "it needs wise to reach depths of the sea" | le↓sas↑          |        -         |
-|   maene, mene²   | thought                                                | mene:, me↓ne:    |        -         |
-|      oestae      | wind                                                   | :stae↓, este¹    |        -         |
-|     ostaequa     | howly wind, name for wolf-fox being                    | y↓stae↓qua       |  oestae + equa   |
-|       ras        | lawfull murder, to kill lawfully                       | ras↑             |        -         |
-|       ros        | abundant, rich                                         | ros              |        -         |
-|       sev        | scales, to measure, to divide                          | sefv             |        -         |
-|       sur        | star                                                   | sur              |        -         |
-|       uar        | mountain                                               | u↑ar             |        -         |
-|       vaer       | void, wasteland, anxiety related to nothingness        | waer, wer¹       |        -         |
-|       vein       | road, trail                                            | fe↓i↑n           |        -         |
-|       vene       | dense, warm, safe                                      | fvene:           |        -         |
-|       vos        | horizon                                                | wos              |        -         |                     
-|  vosur, vossur²  | hope, solitude, "lone star in the horizon"             | wosur, wossur²   |    vos + sur     |
-| vosuri, vossuri² | hopeful, alone                                         | wosuri, wossuri² | adj. of "vosur"  | 
-|       wan        | anchor                                                 | wan              |        -         |
-|     wainesi      | harbour                                                | wai-nesi         | wan + aine + isi |
-|       weld       | forest                                                 | we↓ld            |        -         |
+|       Word       | Translation                                            | Pronunciation    |     Etymology      |
+|:----------------:|--------------------------------------------------------|------------------|:------------------:|
+|       ade        | sky                                                    | ade:             |         -          |
+|       aer        | one                                                    | ae↓r             |         -          | 
+|       aern       | first                                                  | ae↓rn            |      aer + -n      |
+|       aide       | aerial, related to sky                                 | ai-de:           |   adj. of "ade"    |
+|       aine       | nautical, related to sea                               | ai-ne:           |   adj. of "ane"    | 
+|      aines       | terrestrial, related to land                           | ai-nes↑          |   adj. of "anes"   |
+|       ald        | boar                                                   | ald↑             |         -          |
+|       ana        | entity, being                                          | ana              |         -          |
+|      anaine      | water being                                            | anai-ne:         |     ana + aine     |
+|     anairun      | landlord                                               | anai-run         |     ana + irun     |
+|       ane        | sea                                                    | a-ne:            |         -          |
+|     aneines      | coast                                                  | a-ne-ines        |    ane + aines     |
+|       anes       | land                                                   | anes             |     ane + nes      |
+|       ayer       | bandit                                                 | ai:e↓r / ai:r    |         -          |
+|      ayeras      | guard, protector                                       | ai:e↓ras↑        |    ayer + iras     |
+|       cuer       | valley                                                 | su-er            |         -          |
+|       curd       | district, long road with many branches                 | surd             |         -          |
+|       dena       | vast                                                   | dena:            |         -          |
+|       edra       | south                                                  | :dra             |         -          |
+|       enda       | north                                                  | :nda             |         -          | 
+|       enfr       | flower, blossoming                                     | :nfr             |         -          | 
+|       equa       | howl, squal, weep, sound during pain                   | :qua             |         -          |
+|      evoros      | fertile, able to grow                                  | efvoros          |     evos + ros     |
+|       evos       | fields                                                 | efos             |         -          |
+|       hoi        | forward (shout)                                        | hoi              |         -          |
+|       nes        | hard, difficult to move                                | nes              |         -          |
+|       iras       | killing lawfully                                       | iras↑            |   adj. of "ras"    |
+|       iru        | to have                                                | iru              |         -          |
+|       irun       | having                                                 | irun             |   adj. of "iru"    |
+|       isi        | shelter, oasis                                         | i-si             |         -          |
+|       i'si       | shelter of all shelters (accented form of *isi*)       | i-ʂsi            |   accented "isi"   |
+|     kurtque      | dusty                                                  | kurt-kue:        |         -          |
+|      lesas       | wise, deep, "it needs wise to reach depths of the sea" | le↓sas↑          |         -          |
+|   maene, mene²   | thought                                                | mene:, me↓ne:    |         -          |
+|     murloen      | stranger, foreigner                                    | murl-n, murle↓n¹ |         -          |
+|      murl'n      | strangest man (accented form of *murloen*)             | murlu:n          | accented "murloen" |
+|      oestae      | wind                                                   | :stae↓, este¹    |         -          |
+|     ostaequa     | howly wind, name for wolf-fox being                    | y↓stae↓qua       |   oestae + equa    |
+|       ras        | lawfull murder, to kill lawfully                       | ras↑             |         -          |
+|       ros        | abundant, rich                                         | ros              |         -          |
+|       sev        | scales, to measure, to divide                          | sefv             |         -          |
+|       sur        | star                                                   | sur              |         -          |
+|       uar        | mountain                                               | u↑ar             |         -          |
+|       vaer       | void, wasteland, anxiety related to nothingness        | waer, wer¹       |         -          |
+|       vein       | road, trail                                            | fve↓i↑n          |         -          |
+|      velae       | night                                                  | fvelae↓, fvele¹  |         -          |
+|      velaie      | nightly, in night                                      | fvelaie:         |  adj. of "velae"   |
+|       vene       | dense, warm, safe                                      | fvene:           |         -          |
+|       vos        | horizon                                                | wos              |         -          |                     
+|  vosur, vossur²  | hope, solitude, "lone star in the horizon"             | wosur, wossur²   |     vos + sur      |
+| vosuri, vossuri² | hopeful, alone                                         | wosuri, wossuri² |  adj. of "vosur"   | 
+|       wan        | anchor                                                 | wan              |         -          |
+|     wainesi      | harbour                                                | wai-nesi         |  wan + aine + isi  |
+|       weld       | forest                                                 | we↓ld            |         -          |
 
 ¹ - only in modern jitadish
 ² - old jitadish

@@ -5,6 +5,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ---
 ### A
+- [Adelaie](Topics/Geography/Jitado/Cities/Adelaie.md)
 - [Ansur](Topics/Geography/East_Moon/Ansur.md)
 
 ### C
@@ -17,6 +18,9 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### F
 - [Flower Street](Topics/Geography/Jitado/Cities/Places/Enfrvein.md)
+
+### I
+- [I'si](Topics/Religions/Small/Temple_of_I'si.md) (Temple of I'si)
 
 ### J
 - [Jitado](Topics/Geography/Jitado.md) (island)
@@ -34,6 +38,9 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### S
 - [Si Avani](Topics/Characters/List/Si_Avani.md)
 - [Starshifters](Topics/Guilds/List/Starshifters.md)
+
+### T
+- [Temple of I'si](Topics/Religions/Small/Temple_of_I'si.md)
 
 ### V
 - [Vaerdena](Topics/Geography/East_Moon/Lands/Vaerdena.md)

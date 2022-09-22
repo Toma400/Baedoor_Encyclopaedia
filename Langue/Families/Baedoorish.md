@@ -52,6 +52,8 @@ old jitadish → old baedoorish → baedoorish
 ### Baedoorish vocabulary
 |    Word     | Translation                                            | Pronunciation |                   Etymology                   |
 |:-----------:|--------------------------------------------------------|---------------|:---------------------------------------------:|
+|     ade     | sky                                                    | ade:          |                  jit. "ade"                   |
+|    aide     | aerial, related to sky                                 | ai-de:        |                  jit. "aide"                  |
 |    aine     | nautical, related to sea                               | ai-ne:        |                  jit. "aine"                  |
 |    ainsi    | terrestrial, related to land                           | ai-nsi        |                 jit. "aines"                  |
 |     ald     | boar                                                   | ald↑          |                  jit. "ald"                   |
@@ -65,7 +67,7 @@ old jitadish → old baedoorish → baedoorish
 |    ayer     | bandit                                                 | ai:r          |                  jit. "ayer"                  |
 |    ayras    | guard, protector                                       | ai:ras↑       |                 jit. "ayeras"                 |
 |    cuer     | valley                                                 | ku-er         |                  jit. "cuer"                  |
-|    curd     | district, long road with many branches                 | kurd          |                       -                       |
+|    curd     | district, long road with many branches                 | kurd          |                  jit. "curd"                  |
 |    dena     | vast                                                   | dena:         |                  jit. "dena"                  |
 |    edra     | south                                                  | :dra          |                  jit. "edra"                  |
 |    enda     | north                                                  | :nda          |                  jit. "enda"                  | 
@@ -81,9 +83,10 @@ old jitadish → old baedoorish → baedoorish
 |     iru     | to have                                                | iru           |                  jit. "iru"                   |
 |    irun     | having                                                 | irun          |                  jit. "irun"                  |
 |     isi     | shelter, oasis                                         | i-si          |                  jit. "isi"                   |
-|   kurtque   | dusty                                                  | kurt-kue:     |                       -                       |
+|   oertque   | dusty                                                  | ert-kue:      |                jit. "kurtque"                 |
 |    lesas    | wise, deep, "it needs wise to reach depths of the sea" | le↓sas↑       |                 jit. "lesas"                  |
 |    mene     | thought                                                | me↓ne:        |                  jit. "mene"                  |
+|  moerloen   | stranger, foreigner                                    | merlen        |                jit. "murloen"                 |
 |   oestae    | wind                                                   | este          |                 jit. "oestae"                 |
 |  ostaequa   | wind howl, name for wolf-fox being                     | y↓ste-kua     |                jit. "ostaequa"                |
 |     ras     | lawfull murder, to kill lawfully                       | ras↑          |                  jit. "ras"                   |
@@ -93,7 +96,9 @@ old jitadish → old baedoorish → baedoorish
 |     var     | mountain (less common, look also: `anvar`)             | fvar          |                  jit. "uar"                   |
 |    suri     | hopeful, alone                                         | suri          |                 adj. of "sur"                 |
 |    vaer     | void, wasteland, anxiety related to nothingness        | wer           |                  jit. "vaer"                  |
-|    vein     | road, trail                                            | fe↓in         |                  jit. "vein"                  |
+|    vein     | road, trail                                            | fve↓in        |                  jit. "vein"                  |
+|    velae    | night                                                  | fvele:        |                 jit. "velae"                  |
+|   velaie    | nightly, in night                                      | fvelaie:      |                 jit. "velaie"                 | 
 |     ven     | dense, warm, safe                                      | fven          |                  jit. "vene"                  |
 |     vos     | horizon                                                | wos           |                  jit. "vos"                   |                     
 |    vosur    | hope, solitude                                         | wosur         |                 jit. "vosur"                  |
