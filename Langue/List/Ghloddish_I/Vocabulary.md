@@ -12,25 +12,28 @@
 ## Ghloddish → English
 [Pronunciation Helper](/Langue/Pronunciation.md)
 
-| Word  | Translation                 | Pronunciation | Letters  |                                                       Etymology                                                        |
-|:-----:|-----------------------------|---------------|----------|:----------------------------------------------------------------------------------------------------------------------:|
-|  a'-  | higher, feminine (prefix)   | a:            | a'       |                            descriptive-wise, letter goes down, then up, pointing at the sun                            |
-| a'ana | up, top (of something)      | a:ana         | a'-a-n-a |                                                        a' + ana                                                        |
-| a'e'e | lady                        | a:e:e         | a'-e'-e  |                                                        a' + e'e                                                        |
-| a'oe' | highland                    | a:oe:         | a'-oe'   |                                                        a' + oe'                                                        |
-|  a'r  | moon                        | a:r           | a'-r     |                                      `a'` tells about feminine aspect of goddess                                       |
-| ae'a  | water                       | ae:a          | a-e'-a   |                                    descriptive-wise, it does look like water waves                                     |
-|  ana  | destination                 | ana           | a-n-a    |                                                           -                                                            |
-|  ara  | to be                       | ara           | a-r-a    |                                       probably from `ar` word of unknown meaning                                       |
-| asa'  | (related to) me, I          | asa:          | a-s-a'   |                                                           -                                                            |
-|  e'-  | lower (prefix)              | e:            | e'       |                          descriptive-wise, letter goes up, then down, pointing at the ground                           |
-| e'ana | down, bottom (of something) | e:ana         | e'-a-n-a |                                                        e' + ana                                                        |
-|  e'e  | guide, master               | e:e           | e'-e     |                                                           -                                                            |
-| e'oe' | valley                      | e:oe:         | e'-oe'   |                                                        e' + oe'                                                        |
-|  oe'  | land, world                 | oe:           | oe'      | sometimes portrayed as ehric-influenced `eh`, but this is usually debunked, as `oe'` existed before Ghlodds left caves |
-|  s'   | and                         | s:            | s'       |                                                           -                                                            |
-|  s'-  | masculine (prefix)          | ss            | s'       |                                                           -                                                            |
-| s'e'e | man                         | sse:e         | s'-e'-e  |                                                        s' + e'e                                                        |
+|  Word  | Translation                 | Pronunciation | Letters  |                                                       Etymology                                                        |
+|:------:|-----------------------------|---------------|----------|:----------------------------------------------------------------------------------------------------------------------:|
+|  a'-   | higher, feminine (prefix)   | a:            | a'       |                            descriptive-wise, letter goes down, then up, pointing at the sun                            |
+| a'ana  | up, top (of something)      | a:ana         | a'-a-n-a |                                                        a' + ana                                                        |
+| a'e'e  | lady                        | a:e:e         | a'-e'-e  |                                                        a' + e'e                                                        |
+| a'oe'  | highland                    | a:oe:         | a'-oe'   |                                                        a' + oe'                                                        |
+|  a'r   | moon                        | a:r           | a'-r     |                                      `a'` tells about feminine aspect of goddess                                       |
+|  ae'a  | water                       | ae:a          | a-e'-a   |                                    descriptive-wise, it does look like water waves                                     |
+|  ah'r  | power, magical power        | ahhr          | ah'-r    |                                                           -                                                            |
+|  ana   | destination                 | ana           | a-n-a    |                                                           -                                                            |
+|  ara   | to be                       | ara           | a-r-a    |                                       probably from `ar` word of unknown meaning                                       |
+| ar'e'  | word                        | arre:         | ar'-e'   |                                                           -                                                            |
+| ar'ne' | letter                      | arrne:        | ar'-n-e' |                                                           -                                                            |                  
+|  asa'  | (related to) me, I          | asa:          | a-s-a'   |                                                           -                                                            |
+|  e'-   | lower (prefix)              | e:            | e'       |                          descriptive-wise, letter goes up, then down, pointing at the ground                           |
+| e'ana  | down, bottom (of something) | e:ana         | e'-a-n-a |                                                        e' + ana                                                        |
+|  e'e   | guide, master               | e:e           | e'-e     |                                                           -                                                            |
+| e'oe'  | valley                      | e:oe:         | e'-oe'   |                                                        e' + oe'                                                        |
+|  oe'   | land, world                 | oe:           | oe'      | sometimes portrayed as ehric-influenced `eh`, but this is usually debunked, as `oe'` existed before Ghlodds left caves |
+|   s'   | and                         | s:            | s'       |                                                           -                                                            |
+|  s'-   | masculine (prefix)          | ss            | s'       |                                                           -                                                            |
+| s'e'e  | man                         | sse:e         | s'-e'-e  |                                                        s' + e'e                                                        |
 
 ---
 ## English → Ghloddish
@@ -50,16 +53,19 @@
  |      I      | asa'         | asa:          | a-s-a'   |
 |    lady     | a'e'e        | a:e:e         | a'-e'-e  |
 |    land     | oe'          | oe:           | oe'      |
+|   letter    | ar'ne'       | arrne:        | ar'-n-e' |
 |    lower    | e'- (prefix) | e:            | e'       |
 |     man     | s'e'e        | sse:e         | s'-e'-e  |
 |  masculine  | s'- (prefix) | s:            | s'       |
 |   master    | e'e          | e:e           | e'-e     |
  |     me      | asa'         | asa:          | a-s-a'   |
 |    moon     | a'r          | a:r           | a'-r     |
+|    power    | ah'r         | ahhr          | ah'-r    |
 |     top     | a'ana        | a:ana         | a'-a-n-a |
 |     up      | a'ana        | a:ana         | a'-a-n-a |
 |   valley    | e'oe'        | e:oe:         | e'-oe'   |
 |    water    | ae'a         | ae:a          | a-e'-a   |
+|    word     | ar'e'        | arre:         | ar'-e'   |
 |    world    | oe'          | oe:           | oe'      |
 
 ---

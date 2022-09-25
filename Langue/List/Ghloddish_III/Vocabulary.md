@@ -18,13 +18,16 @@
 
 | Word  | Translation                 | Pronunciation | Letters  |                                                       Etymology                                                        |
 |:-----:|-----------------------------|---------------|----------|:----------------------------------------------------------------------------------------------------------------------:|
-|  a'-  | higher, feminine (prefix)   | a:            | a'       |                            Descriptive-wise, letter goes down, then up, pointing at the sun                            |
+|  a'-  | higher, feminine (prefix)   | a:            | a'       |                            descriptive-wise, letter goes down, then up, pointing at the sun                            |
 | a'ana | up, top (of something)      | a:ana         | a'-a-n-a |                                                        a' + ana                                                        |
+| a'ne' | letter                      | a:ne:         | a'-n-e'  |                                            shortened from previous "ar'ne'"                                            |
 | a'oe' | highland                    | a:oe:         | a'-oe'   |                                                        a' + oe'                                                        |
+|  a'r  | power, magical power        | a:r           | a'-r     |                                                           -                                                            |
 | a'y'  | lady                        | a:i:          | a'-y'    |                                                        a' + y'                                                         |
 | ae'a  | water                       | ae:a          | a-e'-a   |                                    descriptive-wise, it does look like water waves                                     |
 |  ana  | destination                 | ana           | a-n-a    |                                                           -                                                            |
 |  ara  | to be                       | ara           | a-r-a    |                                       probably from `ar` word of unknown meaning                                       |
+| ar'e' | word                        | arre:         | ar'-e'   |                                                           -                                                            |
 | asa'  | (related to) me, I          | asa:          | a-s-a'   |                                                           -                                                            | 
 |  aur  | moon                        | aur           | a-u-r    |                                           some I era `'` got softened to `u`                                           |
 |  e'-  | lower (prefix)              | e:            | e'       |                          Descriptive-wise, letter goes up, then down, pointing at the ground                           |
@@ -54,16 +57,19 @@
  |      I      | asa'         | asa:          | a-s-a'   |
 |    lady     | a'y'         | a:i:          | a'-y'    |
 |    land     | oe'          | oe:           | oe'      |
+|   letter    | a'ne'        | a:ne:         | a'-n-e'  |
 |    lower    | e'- (prefix) | e:            | e'       |
 |     man     | s'y'         | ssi:          | s'-y'    |
 |  masculine  | s'- (prefix) | s:            | s'       |
 |   master    | y'           | i:            | y'       |
  |     me      | asa'         | asa:          | a-s-a'   |
 |    moon     | aur          | aur           | a-u-r    |
+|    power    | a'r          | a:r           | a'-r     |
 |     top     | a'ana        | a:ana         | a'-a-n-a |
 |     up      | a'ana        | a:ana         | a'-a-n-a |
 |   valley    | e'oe'        | e:oe:         | e'-oe'   |
 |    water    | ae'a         | ae:a          | a-e'-a   |
+|    word     | ar'e'        | arre:         | ar'-e'   |
 |    world    | oe'          | oe:           | oe'      |
 
 ---

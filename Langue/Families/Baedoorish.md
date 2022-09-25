@@ -29,6 +29,7 @@ old jitadish → old baedoorish → baedoorish
 
 |  Key   | Sound  | Rule / Example in English to follow                         |
 |:------:|:------:|-------------------------------------------------------------|
+|   ae   |   e    | classic `e`, as in `energy`                                 |
 |  ..as  |  as↑   | quite often `as` ending is accented                         |
 |   cu   |   ku   | as in `cube`, but without `j` element                       |
 |  e...  |   :    | if `e` is first, it is silent, unless it is `ev`            |
@@ -36,8 +37,9 @@ old jitadish → old baedoorish → baedoorish
 | ...ena |  ena:  |                                                             |
 |   ev   |   ef   | as in `effigy`                                              |
 |   e    |   e↓   | weak, taking most of next letter, as in "extend**e**d" word |
-|   ae   |   e    | classic `e`, as in `energy`                                 |
+|   g    |   :    | mostly silent                                               |
 |   oe   |   e    | classic `e`, as in `energy`                                 |
+|   oo   |   u    |                                                             |
 |  o...  | o / y↓ | either `o` or weak `y`                                      |
 |  y...  |   ji   | if first, pronounced as `ye` in `yeet`ᵍ                     |
 |   y    | y / i  | either `y` or `i`                                           |
@@ -63,6 +65,8 @@ old jitadish → old baedoorish → baedoorish
 |    anvar    | mountain (more common for `var`)                       | anfvar        |                   ans + var                   |
 |     ane     | sea                                                    | a-ne:         |                  jit. "ane"                   |
 |   aneinsi   | coast                                                  | ane-insi:     | jit. "aneines" with trish phonetic influences |
+|    anor     | mansion, house                                         | anor          |                  jit. "anor"                  |
+|   anorsi    | home                                                   | anorsi        |                  anor + isi                   |
 |     ans     | land                                                   | ans           |                  jit. "anes"                  |
 |    ayer     | bandit                                                 | ai:r          |                  jit. "ayer"                  |
 |    ayras    | guard, protector                                       | ai:ras↑       |                 jit. "ayeras"                 |
@@ -77,19 +81,26 @@ old jitadish → old baedoorish → baedoorish
 |     ern     | first                                                  | :rn           |                  jit. "aern"                  |
 |    evros    | fertile, able to grow                                  | efvros        |                 jit. "evoros"                 |
 |    evos     | fields                                                 | efos          |                  jit. "evos"                  |
+|     gur     | anxiety related to death                               | :ur           |                  jit. "gur"                   |
 |     hoi     | forward (shout)                                        | hoi           |                  jit. "hoi"                   |
 |     nes     | hard, difficult to move                                | nes           |                  jit. "nes"                   |
 |    iras     | killing lawfully                                       | iras↑         |                  jit. "iras"                  |
 |     iru     | to have                                                | iru           |                  jit. "iru"                   |
 |    irun     | having                                                 | irun          |                  jit. "irun"                  |
 |     isi     | shelter, oasis                                         | i-si          |                  jit. "isi"                   |
+|  ivhevren   | faithfully, trustworthly                               | ifvhefvren    |               adj. of "vhevren"               |
 |   oertque   | dusty                                                  | ert-kue:      |                jit. "kurtque"                 |
 |    lesas    | wise, deep, "it needs wise to reach depths of the sea" | le↓sas↑       |                 jit. "lesas"                  |
 |    mene     | thought                                                | me↓ne:        |                  jit. "mene"                  |
 |  moerloen   | stranger, foreigner                                    | merlen        |                jit. "murloen"                 |
+|     odu     | valley                                                 | odu           |                  jit. "odu"                   |
 |   oestae    | wind                                                   | este          |                 jit. "oestae"                 |
 |  ostaequa   | wind howl, name for wolf-fox being                     | y↓ste-kua     |                jit. "ostaequa"                |
+|    raael    | victory                                                | rae↓l         |                  jit. "rael"                  |
 |     ras     | lawfull murder, to kill lawfully                       | ras↑          |                  jit. "ras"                   |
+|    rioen    | slow                                                   | ri-e↓n        |                     rioe                      |
+|    rioe     | period, time running slow                              | ri-e          |                  jit. "rioe"                  |
+|    rioun    | long (time)                                            | rio-un        |                     rioe                      |
 |     ros     | abundant, rich                                         | ros           |                  jit. "ros"                   |
 |     sev     | scales, to measure, to divide                          | sefv          |                  jit. "sev"                   |
 |     sur     | star, hope, solitude                                   | sur           |              jit. "sur"/"vosur"               |
@@ -98,8 +109,10 @@ old jitadish → old baedoorish → baedoorish
 |    vaer     | void, wasteland, anxiety related to nothingness        | wer           |                  jit. "vaer"                  |
 |    vein     | road, trail                                            | fve↓in        |                  jit. "vein"                  |
 |    velae    | night                                                  | fvele:        |                 jit. "velae"                  |
-|   velaie    | nightly, in night                                      | fvelaie:      |                 jit. "velaie"                 | 
+|   velaie    | nightly, in night                                      | fvelaie:      |                 jit. "velaie"                 |
+|     veh     | duty, important matter                                 | fve↓h         |                ghloddish "ghe"                |
 |     ven     | dense, warm, safe                                      | fven          |                  jit. "vene"                  |
+|   vhevren   | faithful, trustworthy                                  | fvhefvren     |          jit. "pheren" & "vhepheren"          |
 |     vos     | horizon                                                | wos           |                  jit. "vos"                   |                     
 |    vosur    | hope, solitude                                         | wosur         |                 jit. "vosur"                  |
 |   vosuri    | hopeful, alone                                         | wosuri        |                 jit. "vosuri"                 |

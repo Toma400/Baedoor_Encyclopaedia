@@ -41,6 +41,7 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |   ev   |     ef     | as in `effigy`                                              |
 |   e    |     e↓     | weak, taking most of next letter, as in "extend**e**d" word |
 |   oe   |   -, e¹    | classic `e`, as in `energy`¹ᐪ                               |
+|   oo   |     ou     |                                                             |
 |  o...  |   o / y↓   | either `o` or weak `y`                                      |
 |  y...  |     ji     | if first, pronounced as `ye` in `yeet`ᵍ                     |
 |   y    |   y / i    | either `y` or `i`                                           |
@@ -72,6 +73,8 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |        ane         | sea                                                    | a-ne:             |           -           |
 |      aneines       | coast                                                  | a-ne-ines         |      ane + aines      |
 |        anes        | land                                                   | anes              |       ane + nes       |
+|        anor        | mansion, house                                         | anor              |           -           |
+|  anorsi, anorisi   | home                                                   | anorsi, anorisi   |      anor + isi       |
 |        ayer        | bandit                                                 | ai:e↓r / ai:r     |           -           |
 |       ayeras       | guard, protector                                       | ai:e↓ras↑         |      ayer + iras      |
 |        cuer        | valley                                                 | su-er             |           -           |
@@ -83,6 +86,7 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |        equa        | howl, squal, weep, sound during pain                   | :qua              |           -           |
 |       evoros       | fertile, able to grow                                  | efvoros           |      evos + ros       |
 |        evos        | fields                                                 | efos              |           -           |
+|        gur         | anxiety related to death                               | kgur              |           -           |
 |        hoi         | forward (shout)                                        | hoi               |           -           |
 |        nes         | hard, difficult to move                                | nes               |           -           |
 |    inaevpheren²    | trustworthness                                         | nae↓fvphe↓re↓n    | adj. of "naevpheren"  |
@@ -101,11 +105,16 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |       murl'n       | strangest man (accented form of *murloen*)             | murlu:n           |  accented "murloen"   |
 |       naev²        | duty, important matter (archaic)                       | naefv             |           -           |
 |    naevpheren²     | trustworthy, faithful to the duty                      | naefvphe↓re↓n     |     naev + pheren     |
+|        odu         | valley                                                 | odu               |           -           |
 |       oestae       | wind                                                   | :stae↓, este¹     |           -           |
 |      ostaequa      | howly wind, name for wolf-fox being                    | y↓stae↓qua        |     oestae + equa     |
 |       phaere       | to look after sick, to stay with the weak              | phae↓re:, phere:¹ |           -           |
 |       pheren       | faithful                                               | phe↓-re↓n         |        phaere         |
+|        rael        | victory                                                | rael, re↓l¹       |           -           |
 |        ras         | lawfull murder, to kill lawfully                       | ras↑              |           -           |
+|    rien, rioen²    | slow                                                   | rie↓n             |         rioe          |
+|        rioe        | period, time running slow                              | ri, ri-e¹         |           -           |
+|   riun, rioeun²    | long (time)                                            | riun, ri-eun²     |         rioe          |
 |        ros         | abundant, rich                                         | ros               |           -           |
 |        sev         | scales, to measure, to divide                          | sefv              |           -           |
 |        sur         | star                                                   | sur               |           -           |
