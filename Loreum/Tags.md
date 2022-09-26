@@ -13,8 +13,13 @@ If this section becomes too big, it can be split into linked sections in the fut
 </span>
 
 * [Adelaie](Topics/Geography/Jitado/Cities/Adelaie.md)
+* [Baedoor](Topics/Geography/Baedoor/Cities/Baedoor.md)
 * [Evros](Topics/Geography/East_Moon/Cities/Evros.md)
+* [Ino Anor](Topics/Geography/Jitado/Cities/Ino_Anor.md)
+* [Isuga](Topics/Geography/Baedoor/Cities/Isuga.md)
 * [Menerun](Topics/Geography/Jitado/Cities/Menerun.md)
+* [Raliun](Topics/Geography/Jitado/Cities/Raliun.md)
+* [Skirran](Topics/Geography/Baedoor/Cities/Skirran.md)
 
 <span style="color:#8F3DA5">
 

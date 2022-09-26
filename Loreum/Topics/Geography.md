@@ -6,7 +6,7 @@ All what creates the oververse, but mostly on Baedoor itself
 ### 🪐 AVEIS
 #### 🔷 Baedoor
 #####     🔹 Northern Islands
-#####     🔹 Baedoor
+#####     🔹 [Baedoor](Geography/Baedoor.md)
 #####     🔹 Rossevette Islands
 #####     🔹 Kaer
 #####     🔹 Arennan

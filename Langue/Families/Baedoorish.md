@@ -88,6 +88,7 @@ old jitadish → old baedoorish → baedoorish
 |     iru     | to have                                                | iru           |                  jit. "iru"                   |
 |    irun     | having                                                 | irun          |                  jit. "irun"                  |
 |     isi     | shelter, oasis                                         | i-si          |                  jit. "isi"                   |
+|    isuga    | resistant, persistant                                  | i-suga        |                adj. of "suga"                 |
 |  ivhevren   | faithfully, trustworthly                               | ifvhefvren    |               adj. of "vhevren"               |
 |   oertque   | dusty                                                  | ert-kue:      |                jit. "kurtque"                 |
 |    lesas    | wise, deep, "it needs wise to reach depths of the sea" | le↓sas↑       |                 jit. "lesas"                  |
@@ -103,6 +104,7 @@ old jitadish → old baedoorish → baedoorish
 |    rioun    | long (time)                                            | rio-un        |                     rioe                      |
 |     ros     | abundant, rich                                         | ros           |                  jit. "ros"                   |
 |     sev     | scales, to measure, to divide                          | sefv          |                  jit. "sev"                   |
+|    suga     | resistance, persistence                                | suga          |                 jit. "saeva"                  |
 |     sur     | star, hope, solitude                                   | sur           |              jit. "sur"/"vosur"               |
 |     var     | mountain (less common, look also: `anvar`)             | fvar          |                  jit. "uar"                   |
 |    suri     | hopeful, alone                                         | suri          |                 adj. of "sur"                 |

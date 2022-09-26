@@ -21,18 +21,23 @@ or just if you would like to look at cultural differences between civilisations.
 ### Baedoorian Names
 <center><span style="color:#668c99"><b>Male names</b></span></center>
 
-| Name    | Localisation                  | Description                                         |
-|---------|-------------------------------|-----------------------------------------------------|
-| Dominic | Whole Baedoor                 | Common name                                         |
-| Heim    | Whole Baedoor                 | Common name, originated from Baedoor Northern Coast | 
-| Heimlig | Ansur, Baedoor Northern Coast | Probably mix of **Heim** and nordwinian suffix      |
-| Norran  | Whole Baedoor                 | Quite regular baedoorian name                       |
+| Name    | Localisation                  | Description                                                 |
+|---------|-------------------------------|-------------------------------------------------------------|
+| Dominic | Whole Baedoor                 | Common name                                                 |
+| Heim    | Whole Baedoor                 | Common name, originated from Baedoor Northern Coast         | 
+| Heimlig | Ansur, Baedoor Northern Coast | Probably mix of **Heim** and nordwinian suffix              |
+| Marvin  | Whole Baedoor                 | Common name                                                 |
+| Norran  | Whole Baedoor                 | Quite regular baedoorian name                               |
+| Ovlan   | Whole Baedoor                 | Common name, usually more frequently found on Rakonnd Coast |
+| Tom     | Whole Baedoor                 | Common name                                                 |
 
 <center><span style="color:#668c99"><b>Female names</b></span></center>
 
-| Name     | Localisation  | Description                                                 |
-|----------|---------------|-------------------------------------------------------------|
-| Veronica | Whole Baedoor | Commonly used, especially among lower aristocratic families |
+| Name      | Localisation           | Description                                                 |
+|-----------|------------------------|-------------------------------------------------------------|
+| Neerhe    | Isuga and surroundings | Old Isuga-related house, without aristocratic roots         | 
+| Varteford | Baedoor city           | Aristocratical name                                         |
+| Veronica  | Whole Baedoor          | Commonly used, especially among lower aristocratic families |
 
 ---
 ### Jitadian Names
