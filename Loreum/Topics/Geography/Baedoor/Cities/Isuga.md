@@ -13,3 +13,6 @@ first purpose was to maintain defense.
 ### PLACES
 - Architectural University
 - [Golden Lighthouse of Baedoor](/Loreum/Topics/Geography/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
+
+---
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Baedoor.md)

@@ -5,6 +5,7 @@ nomathian culture disappeared.
 Their language is known for rustly sound, which was often point of baedoorian jokes.
 
 ### Nomathian vocabulary
-|  Word  | Translation                                          | Pronunciation |     Etymology     |
-|:------:|------------------------------------------------------|---------------|:-----------------:|
-|  wešš  | word used at jitadish governors and army, pejorative | weš↑:         |         -         |
+| Word  | Translation                                          | Pronunciation | Etymology |
+|:-----:|------------------------------------------------------|---------------|:---------:|
+| skirr | cold coast                                           | ʃ:kirr        |     -     |
+| wešš  | word used at jitadish governors and army, pejorative | weʃ↑:         |     -     |

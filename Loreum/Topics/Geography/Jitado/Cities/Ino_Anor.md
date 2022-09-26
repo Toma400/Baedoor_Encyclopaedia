@@ -12,3 +12,6 @@ point over anything below it.
 
 Being an underground city, Ino Anor culture is highly influenced by mining culture. Each city's district
 is based on tunnel networks.
+
+---
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Jitado.md)

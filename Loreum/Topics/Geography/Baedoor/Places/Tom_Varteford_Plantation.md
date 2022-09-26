@@ -6,4 +6,5 @@ Supervision over the plantation was made by person called Ovlan. He left after t
 resulting on this place becoming abandoned.
 
 ---
-♢
+♢  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Baedoor.md)

@@ -15,4 +15,5 @@ During expansion of the city, [Ino Anor](Ino_Anor.md) were built on Altauar slop
 
 ---
 ♢: Gurdu street ("Anxiety of death alley", not really translateable), Murl'n Inn ("Strangest of
-Stranger")
+Stranger")  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Jitado.md)

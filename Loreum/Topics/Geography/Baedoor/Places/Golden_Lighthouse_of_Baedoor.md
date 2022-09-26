@@ -12,4 +12,5 @@ Lighthouse build started in 988 SE and took two years. Its first shape were crea
 `Golden Lighthouse of Baedoor portrayed in paper RPG`
 
 ---
-♢
+♢  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Baedoor.md)

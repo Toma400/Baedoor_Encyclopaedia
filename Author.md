@@ -364,6 +364,14 @@ TAGS:
 | 2021-12-30 | 17  | 🎶  | 2021 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2021/12/2021-aotys.html)                            | 
 
 ---
+### 🈁 FONTS
+As weirdly as it may sound, I even were creating fonts, usually for Baedoor universe.
+
+| Name                | Purpose                   | License                                        | Link                                                                                        |
+|---------------------|---------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Ghloddish Universal | Use of ghloddish alphabet | Free for non-commercial use related to Baedoor | [Drive](https://drive.google.com/file/d/1RZWHZTH8N5n-1uzn4mSEcLsvttTbLYwd/view?usp=sharing) |
+
+---
 ### ☠️ LOST AND FOUND
 All stuff outside of anything official, but still worth nothing just for cataloguing purposes.
 
