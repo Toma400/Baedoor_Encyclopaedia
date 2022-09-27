@@ -217,4 +217,4 @@ and who knows, maybe we will meet across the road someday?
 * [ ` ? ` ] Baedoor Travels
 
 *This list examines only games related to the universe. For stories, poems and music, refer to
-[this](Author.md) page.*
+[this](Author.md) page. For lore aspects of those games, head on to [this page](Mechanicum/Walkthroughs.md)*.

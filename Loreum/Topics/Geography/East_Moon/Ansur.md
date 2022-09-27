@@ -33,13 +33,11 @@ be finished in year 925 NE.
 - Gorthal Stronghold
 - Fields
 
-**CALENDARIUM**
-- [Calendarium of Ansur Isle](/Loreum/Topics/History/New_Era_Ansur.md)
+**TIMETABLE**
+- [Timetable of Ansur Isle](/Loreum/Topics/History/New_Era_Ansur.md)
 
 ---
-### 📿 Between Shadows and Light
-Original BSaL game takes place in 216 NE, when Ansur was still more of a transit place than real
-island. Although earning a lot by this practice alone, it lacked stronger hand to benefit.
+[📿 Between Shadows and Light](/Mechanicum/Walkthroughs/BSaL/BSaL_Lore.md#ansur)
 
 ---
 ♜♢✥ + add name to name list + 326 NE into **history** + add link to BSaL walkthrough + links to locations and people  

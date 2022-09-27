@@ -1,0 +1,35 @@
+========================================================================
+: NOTEBOOK SOURCES :
+========================================================================
+This place is served as official (and last) list of notes and notebooks
+on lore. It is tool for organising sources via codes, so it is clear
+which source adds to which part of lore, and how accurate it is.
+------------------------------------------------------------------------
+NAMING:
+                        [t][q].[ac].[nm]_[dg]
+
+[t] | type of source
+    |-----------------|-----------------|
+    |[N] - notebook   |[P] - paper      |
+
+[q] | quality of source
+    |----------------------|-----------------------|
+    |[^] - well preserved  |[v] - badly preserved  |[None] - in between
+
+[ac]| accuracy of source
+    |-----------------|-----------|----------------|
+    |[1] - accurate   |[2] - low  |[?] - disputed  |[x] - not friendly
+
+[nm]| number of the source (three digits)
+
+[dg]| 3-letter name of lore aspect shown in the source
+    |-------------------|-----------------|
+    |[lnd] - land, game |[map] - map      |
+========================================================================
+LIST:
+
+                                                      Accurate sources:
+N.1.001_lnd
+                                             Accuracy disputed sources:
+                                                  Low accuracy sources:
+                                                     Not lore friendly:

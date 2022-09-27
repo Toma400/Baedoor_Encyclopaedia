@@ -15,4 +15,7 @@ first purpose was to maintain defense.
 - [Golden Lighthouse of Baedoor](/Loreum/Topics/Geography/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
 
 ---
+📿 [Baedoor Classic](/Mechanicum/Walkthroughs/Baedoor_Classic/Lore/BaeCL_Isuga.md)
+
+---
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Baedoor.md)

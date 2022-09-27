@@ -12,14 +12,14 @@ Baedoor city changed a lot during whole time of it existing - its rise and expan
 several events happening, and only in last centuries of Old Era, it became big to the extent it is
 known today.
 
-In first five centuries, Baedoor were fairly middle-sized city, with Isuga competing on size. It
-was due to extensive Empire expansion which allow Baedoor gather more attention, and respectively,
+In first five centuries, Baedoor was fairly middle-sized city, with Isuga competing on size. It
+was due to extensive Empire expansion which allowed Baedoor to gather more attention, and respectively,
 expand upon trading with conquered lands. A lot of governing places, previously spread, got moved
 into Baedoor at the time.
 
 <img alt="Baedoor City Map" height="408" src="/Assets/map_baedoor_city_early_se.jpg" width="520"/>
 
-``Map of early SE Baedoor, approximately 400-500 OE``
+``Map of early OE Baedoor, approximately 400-500 OE``
 
 Late Old Era Baedoor were totally different: huge victorian-styled city, with thousands of people
 visiting it everyday, and districts and subdistricts dividing it, allowing certain classes to never
@@ -38,7 +38,10 @@ around.
 
 <img alt="Baedoor, High District" height="520" src="/Assets/high_district.jpg" width="390"/>
 
-`House in High District, early SE`
+`House in High District, early OE`
+
+---
+📿 [Baedoor Classic](/Mechanicum/Walkthroughs/Baedoor_Classic/Lore/BaeCL_Baedoor.md)
 
 ---
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Baedoor.md)

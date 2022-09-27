@@ -25,6 +25,7 @@ less than new era for ghloddish language.
 ### Ghloddish sections
 
 #### [🈳 Alphabet](/Langue/List/Ghloddish_General/Alphabet.md)
+#### [🔢 Numbers](/Langue/List/Ghloddish_General/Numbers.md)
 
 ### By Evolution
 

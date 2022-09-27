@@ -36,6 +36,8 @@
 |    s'    | and                         | s:            | s'          |                                                           -                                                            |
 |   s'-    | masculine (prefix)          | ss            | s'          |                                                           -                                                            |
 |  s'e'e   | man                         | sse:e         | s'-e'-e     |                                                        s' + e'e                                                        |
+|  th'se'  | destruction, extinction     | thhse:        | th'-s-e'    |                                                           -                                                            |
+|   thar   | yes                         | thar          | th-ar       |                                                           -                                                            |
 
 ---
 ## English → Ghloddish
@@ -48,7 +50,9 @@
 |      book       | a'ar'ne'     | aa:r:ne:      | a'-ar'-n-e' |
 |     bottom      | e'ana        | e:ana         | e'-a-n-a    |
 |   destination   | ana          | ana           | a-n-a       |
+|   destruction   | th'se'       | thhse:        | th'-s-e'    |
 |      down       | e'ana        | e:ana         | e'-a-n-a    |
+|   extinction    | th'se'       | thhse:        | th'-s-e'    |
 |      guide      | e'e          | e:e           | e'-e        |
 |    feminine     | a'- (prefix) | a:            | a'          |
 |     higher      | a'- (prefix) | a:            | a'          |
@@ -71,6 +75,7 @@
 |      water      | ae'a         | ae:a          | a-e'-a      |
 |      word       | ar'e'        | arre:         | ar'-e'      |
 |      world      | oe'          | oe:           | oe'         |
+|       yes       | thar         | thar          | th-ar       |
 
 ---
 ## Non-translative Words

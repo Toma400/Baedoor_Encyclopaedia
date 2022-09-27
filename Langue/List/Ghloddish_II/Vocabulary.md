@@ -42,6 +42,8 @@ Between **First Era** and **Second Era**, some elements of the language changed.
 |    s'    | and                         | s:            | s'          |                                                           -                                                            |
 |   s'-    | masculine (prefix)          | ss            | s'          |                                                           -                                                            |
 |   s'y'   | man                         | ssi:          | s'-y'       |                                                        s' + y'                                                         |
+|  th're'  | destruction, extinction     | thhre:        | th'-r-e'    |                                    changed to be more harsh from original `th'se'`                                     |                                    |
+|   thar   | yes                         | thar          | th-ar       |                                                           -                                                            |
 |    y'    | guide, master               | i:            | y'          |                                                    from I era `e'e`                                                    |
 
 ---
@@ -55,7 +57,9 @@ Between **First Era** and **Second Era**, some elements of the language changed.
 |      book       | a'ar'ne'     | aa:r:ne:      | a'-ar'-n-e' |
 |     bottom      | e'ana        | e:ana         | e'-a-n-a    |
 |   destination   | ana          | ana           | a-n-a       |
+|   destruction   | th're'       | thhre:        | th'-r-e'    |
 |      down       | e'ana        | e:ana         | e'-a-n-a    |
+|   extinction    | th're'       | thhre:        | th'-r-e'    |
 |      guide      | y'           | i:            | y'          |
 |    feminine     | a'- (prefix) | a:            | a'          |
 |     higher      | a'- (prefix) | a:            | a'          |
@@ -78,6 +82,7 @@ Between **First Era** and **Second Era**, some elements of the language changed.
 |      water      | ae'a         | ae:a          | a-e'-a      |
 |      word       | ar'e'        | arre:         | ar'-e'      |
 |      world      | oe'          | oe:           | oe'         |
+|       yes       | thar         | thar          | th-ar       |
 
 ---
 ## Non-translative Words

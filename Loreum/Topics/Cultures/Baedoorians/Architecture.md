@@ -5,7 +5,7 @@ time.
 ### Early style
 Early baedoorian architecture incarnation was heavily influenced by jitadian architecture, being simple,
 yet elegant brick buildings, quite often in white colour. Not so many ornaments were used, and additions
-(such as balconies) were rarely used.
+(such as balconies) were rare.
 
 <img alt="Baedoor, High District" height="520" src="/Assets/high_district.jpg" width="390"/>
 
