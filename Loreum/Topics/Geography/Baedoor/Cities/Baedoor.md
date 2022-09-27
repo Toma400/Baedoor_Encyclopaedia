@@ -12,6 +12,21 @@ Baedoor city changed a lot during whole time of it existing - its rise and expan
 several events happening, and only in last centuries of Old Era, it became big to the extent it is
 known today.
 
+Baedoor was built in 92 OE, and was planned in typical districted form as most of jitadian cities
+were at the time. This allowed more organised placements of buildings than it was with village-grown
+cities.
+
+<div class="row">
+  <div class="column">
+    <img alt="Baedoor Herb" height="266" src="/Assets/herb_baedoor_city_early_se.jpg" width="217"/>
+  </div>
+  <div class="column">
+    <img alt="Baedoor Flag" height="250" src="/Assets/flag_baedoor_city_early_se.jpg" width="312"/>
+  </div>
+</div>
+
+``Baedoor herb and flag in around 250 OE``
+
 In first five centuries, Baedoor was fairly middle-sized city, with Isuga competing on size. It
 was due to extensive Empire expansion which allowed Baedoor to gather more attention, and respectively,
 expand upon trading with conquered lands. A lot of governing places, previously spread, got moved
