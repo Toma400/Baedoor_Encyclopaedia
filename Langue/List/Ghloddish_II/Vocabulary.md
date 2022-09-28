@@ -43,6 +43,7 @@ Between **First Era** and **Second Era**, some elements of the language changed.
 |    s'     | and                         | s:            | s'            |                                                           -                                                            |
 |    s'-    | masculine (prefix)          | ss            | s'            |                                                           -                                                            |
 |   s'y'    | man                         | ssi:          | s'-y'         |                                                        s' + y'                                                         |
+|   ta'hr   | inside                      | taahr         | ta-ah-r       |                                                           -                                                            |
 |  ta'shr   | cover, disguise             | taashr        | ta'-sh-r      |                                                           -                                                            |
 | ta'shrghe | shadow                      | taashrghe     | ta'-sh-r-gh-e |                                                      ta'shr + ghe                                                      |
 |  th're'   | destruction, extinction     | thhre:        | th'-r-e'      |                                    changed to be more harsh from original `th'se'`                                     |                                    |
@@ -70,6 +71,7 @@ Between **First Era** and **Second Era**, some elements of the language changed.
 |     higher      | a'- (prefix) | a:            | a'            |
 |    highland     | a'oe'        | a:oe:         | a'-oe'        |
  |        I        | asa'         | asa:          | a-s-a'        |
+|     inside      | ta'hr        | taahr         | ta-ah-r       |
 |      lady       | a'y'         | a:i:          | a'-y'         |
 |      land       | oe'          | oe:           | oe'           |
 | letter (symbol) | ar'ne'       | arrne:        | ar'-n-e'      |

@@ -213,8 +213,9 @@ and who knows, maybe we will meet across the road someday?
 * [2022] Baedooria `indev`
 * [ ` ? ` ] Spires of Baedoor
 #### Far future?
-* [ ` ? ` ] Temple Settlers 2
+* [ ` ? ` ] Ancient Settlers
 * [ ` ? ` ] Baedoor Travels
+* [ ` ? ` ] Baedoor
 
 *This list examines only games related to the universe. For stories, poems and music, refer to
 [this](Author.md) page. For lore aspects of those games, head on to [this page](Mechanicum/Walkthroughs.md)*.

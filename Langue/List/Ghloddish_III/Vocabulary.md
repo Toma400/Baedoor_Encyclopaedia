@@ -42,6 +42,7 @@ Between **Second Era** and **Third Era**, some elements of the language changed.
 |    s'     | and                         | s:            | s'             |                                                           -                                                            |
 |    s'-    | masculine (prefix)          | ss            | s'             |                                                           -                                                            |
 |   s'y'    | man                         | ssi:          | s'-y'          |                                                        s' + y'                                                         |
+|   ta'hr   | inside                      | taahr         | t-a-ah-r       |                                                           -                                                            |
 |  ta'shr   | cover, disguise             | taashr        | t-a'-sh-r      |                                                           -                                                            |
 | ta'shrghe | shadow                      | taashrghe     | t-a'-sh-r-gh-e |                                                      ta'shr + ghe                                                      |
 |   thar    | yes                         | thar          | th-ar          |                                                           -                                                            |
@@ -69,6 +70,7 @@ Between **Second Era** and **Third Era**, some elements of the language changed.
 |     higher      | a'- (prefix) | a:            | a'             |
 |    highland     | a'oe'        | a:oe:         | a'-oe'         |
  |        I        | asa'         | asa:          | a-s-a'         |
+|     inside      | ta'hr        | taahr         | t-a-ah-r       |
 |      lady       | a'y'         | a:i:          | a'-y'          |
 |      land       | oe'          | oe:           | oe'            |
 | letter (symbol) | a'ane'       | aa:ne:        | a'-n-e'        |

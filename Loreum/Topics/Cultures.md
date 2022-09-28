@@ -23,5 +23,8 @@ LEGEND:
 ### Anahsahei
 - Baedoorians 🔹 [🏯](Cultures/Baedoorians/Architecture.md)
 
+### Seiteh
+- Ghlodds 🔹 [🏯](Cultures/Ghlodds/Architecture.md)
+
 ---
 ♜

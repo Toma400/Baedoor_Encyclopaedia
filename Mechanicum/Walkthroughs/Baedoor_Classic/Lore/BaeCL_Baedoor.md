@@ -7,6 +7,10 @@
 ###Baedoor Showcase
 
 <img alt="Baedoor Archives, Photo 1" height="307" src="/Assets/arv_baedoor_1.jpg" width="416"/>
+<img alt="Baedoor Archives, Photo 2" height="272" src="/Assets/arv_baedoor_2.jpg" width="416"/>
+<img alt="Baedoor Archives, Photo 3" height="278" src="/Assets/arv_baedoor_3.jpg" width="408"/>
+<img alt="Baedoor Archives, Photo 4" height="288" src="/Assets/arv_baedoor_4.jpg" width="401"/>
+<img alt="Baedoor Archives, Photo 5" height="276" src="/Assets/arv_baedoor_5.jpg" width="407"/>
 
 ---
 ### Lore accuracy

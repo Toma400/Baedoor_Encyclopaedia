@@ -41,6 +41,7 @@
 |    s'     | and                         | s:            | s'            |                                                           -                                                            |
 |    s'-    | masculine (prefix)          | ss            | s'            |                                                           -                                                            |
 |   s'ya    | man                         | ssijja        | s'-ya         |                                                       s' + y'ya                                                        |
+|   ta'hr   | inside                      | taahr         | ta-ah-r       |                                                           -                                                            |
 |  ta'shr   | cover, disguise             | taashr        | ta'-sh-r      |                                                           -                                                            |
 | ta'shrghe | shadow                      | taashrghe     | ta'-sh-r-gh-e |                                                      ta'shr + ghe                                                      |
 |   thar    | yes                         | thar          | th-ar         |                                                           -                                                            |
@@ -68,6 +69,7 @@
 |     higher      | a'- (prefix) | a:            | a'            |
 |    highland     | a'oe'        | a:oe:         | a'-oe'        |
  |        I        | asa'         | asa:          | a-s-a'        |
+|     inside      | ta'hr        | taahr         | ta-ah-r       |
 |      lady       | a'ya         | a:ijja        | a'-ya         |
 |      land       | oe'          | oe:           | oe'           |
 | letter (symbol) | a'ne'        | a:ne:         | a'-n-e'       |
