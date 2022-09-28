@@ -6,7 +6,6 @@
 ---
 ###Baedoor Showcase
 
-
 <img alt="Baedoor Archives, Photo 1" height="307" src="/Assets/arv_baedoor_1.jpg" width="416"/>
 <img alt="Baedoor Archives, Photo 2" height="272" src="/Assets/arv_baedoor_2.jpg" width="416"/>
 <img alt="Baedoor Archives, Photo 3" height="278" src="/Assets/arv_baedoor_3.jpg" width="408"/>

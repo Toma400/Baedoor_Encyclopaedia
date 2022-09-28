@@ -4,14 +4,14 @@
 Welcome in Encyclopaedia Langue in which stored is everything about Baedoor universe languages, including
 dictionaries and walkthrough through languages logic.
 
-- [Language Families](Langue.md#centerh2familiesh2center)
+- [Language Families](Langue.md#centerfamiliescenter)
 - Regular Languages
 - Old Languages
-- [Ancient Languages](Langue.md#centerh2ancient-languagesh2center)
+- [Ancient Languages](Langue.md#centerancient-languagescenter)
 - Ritual Languages
 
 ---
-####<center><h2>Families</h2></center>
+##<center>Families</center>
 
 ### [⛩️ Baedoorish](Families/Baedoorish.md)
 ### [⛩️ Ghloddish](Families/Ghloddish.md)
@@ -19,16 +19,16 @@ dictionaries and walkthrough through languages logic.
 ### [⛩️ Trish](Families/Trish.md)
 
 ---
-####<center><h2>Regular languages</h2></center>
+##<center>Regular languages</center>
 
 ---
-####<center><h2>Old languages</h2></center>
+##<center>Old languages</center>
 
 ---
-####<center><h2>Ancient languages</h2></center>
+##<center>Ancient languages</center>
 
 ### [🪔 Ehric](List/Ehric.md)
 ### [🪔 Nomathian](List/Nomathian.md)
 
 ---
-####<center><h2>Ritual languages</h2></center>
+##<center>Ritual languages</center>

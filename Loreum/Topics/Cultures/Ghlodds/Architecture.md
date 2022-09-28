@@ -29,7 +29,7 @@ for individual's heart.
 <img alt="Ghloddish House" height="312" src="/Assets/cult_ghloddish_house_1.jpg" width="244"/>
 <img alt="Ghloddish House" height="312" src="/Assets/cult_ghloddish_house_2.jpg" width="416"/>
 
-`example of ghloddish houses`
+`drawing of ghloddish houses`
 
 #### Religious buildings
 Religious buildings are different case in ghloddish architecture, as they serve the most important
@@ -43,7 +43,7 @@ creating mystical light mosaic inside, whenever sun or moon is shining through.
 
 <img alt="Ghloddish Chapel" height="312" src="/Assets/cult_ghloddish_chapel.jpg" width="416"/>
 
-`ghloddish chapel`
+`drawing of ghloddish chapel`
 
 Another religious building which is seen in ghloddish areas is observatorium, split into three
 constructions connected to each other. Similarly to housing levels, they all serve different purpose.  
@@ -58,7 +58,7 @@ but also helps protecting the knowledge from profanes.
 
 <img alt="Ghloddish Observatorium" height="312" src="/Assets/cult_ghloddish_observatorium.jpg" width="416"/>
 
-`ghloddish observatorium`
+`drawing of ghloddish observatorium`
 
 ---
 ♜  

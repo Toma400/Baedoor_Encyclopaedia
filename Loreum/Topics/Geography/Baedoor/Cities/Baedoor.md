@@ -19,7 +19,18 @@ cities.
 <img alt="Baedoor Herb" height="266" src="/Assets/herb_baedoor_city_early_se.jpg" width="217"/>
 <img alt="Baedoor Flag" height="250" src="/Assets/flag_baedoor_city_early_se.jpg" width="312"/>
 
-``Baedoor herb and flag in around 250 OE``
+``Baedoor herb and flag in around 250 OE, taken from Baedoor archives``
+
+<img alt="Baedoor Flag" height="250" src="/Assets/flag_baedoor_city_early_se.png" width="312"/>
+
+``digital reconstruction of Baedoor flag from 250 OE. Symbol on the far left were meant to be blades
+of two sabres, aiming in opposite directions - symbol of loyalty, brotherhood and honour. Star symbolises
+hope, while three moons represent three brother cities - Baedoor, Isuga and Skirran``
+
+<img alt="Baedoor Herb" height="266" src="/Assets/flag_baedoor_city_early_se.png" width="217"/>
+
+``digital reconstruction of Baedoor herb from 250 OE. Similarly to flag, it contains star, moon
+representing city itself, as well as double blades``
 
 In first five centuries, Baedoor was fairly middle-sized city, with Isuga competing on size. It
 was due to extensive Empire expansion which allowed Baedoor to gather more attention, and respectively,
