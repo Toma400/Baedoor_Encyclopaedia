@@ -3,7 +3,7 @@
 <center><h1>Welcome in Baedoor Encyclopaedia</h1></center>
 
 This is the place where you will be able to read everything on Baedoor universe, compressed into
-one enormous repository.
+one enormous repository. [Enter the Encyclopaedia](Entrance.md).
 
 #### Translations
 If you want to translate the entries, [contact me](https://linktr.ee/toma400) so I can either create

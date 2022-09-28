@@ -20,7 +20,7 @@ Location of Thieves Guild is not publicly known.
 In the other hand, governor holds his position in Town's Hall.
 
 ---
-[📿 Between Shadows and Light](/Mechanicum/Walkthroughs/BSaL/BSaL_Lore.md#evros)
+[📿 Between Shadows and Light](/Mechanicum/Walkthroughs/BSaL/Lore/BSaL_Evros.md)
 
 ---
 ♢: guilds (FotB is Mage Guild, but exclusive to Ansur and it's one of those rare ones which like

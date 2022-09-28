@@ -37,7 +37,7 @@ be finished in year 925 NE.
 - [Timetable of Ansur Isle](/Loreum/Topics/History/New_Era_Ansur.md)
 
 ---
-[📿 Between Shadows and Light](/Mechanicum/Walkthroughs/BSaL/BSaL_Lore.md#ansur)
+[📿 Between Shadows and Light](/Mechanicum/Walkthroughs/BSaL/Lore/BSaL_Ansur.md)
 
 ---
 ♜♢✥ + add name to name list + 326 NE into **history** + add link to BSaL walkthrough + links to locations and people  

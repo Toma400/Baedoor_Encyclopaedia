@@ -15,6 +15,7 @@ several conflicting aspects with proclaimed time period (1008-1011 OE), namely:
   said timeframe
 - Isuga being desert city, whereas it always stayed on grasslands
 
+But, in the same time, it is considered as core resource for lore exploration.  
 Hence, sources on Baedoor from **Baedoor Classic** are treated in specific scope:
 - Coherent aspects are used in lore
 - Incoherences related to historical events and climate are ignored (knowing my mindset from times of
