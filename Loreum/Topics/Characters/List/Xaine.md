@@ -1,16 +1,17 @@
 # 🎎 Xaine
 
 ---
-<span style="color:#8F3DA5">**universe**</span> [✦](/Loreum/Tags.md#-universe)  
+<span style="color:#8F3DA5">**uniwersum**</span> [✦](/Loreum/Tags.md#-uniwersum)  
 
 ---
-**Xaine** is mysterious oneironaut with unknown roots. His true name is also unknown, but *Xaine*
-were established due to him using this name for himself.  
-During his visiting of Baedoor universe, he lived in **Jitado**.  
-He is also considered as foundator of **Starshifters** organisation.
+**Xaine** to postać o nieznanym pochodzeniu. Imię tej postaci również jest nieznane, 
+jednak zwykło mówić się o niej jako Xaine, z racji, że według podań ta osoba zwykła 
+się o sobie odnosić. W momencie pojawienia się go na kartach historii, 
+zamieszkiwał **Jitado**.  
+Uznaje się go za założyciela starożytnej organizacji **Gwiazdounosicieli**.
 
-In public understanding, Xaine is understood as traveller from outside of Baedoor universe, who got
-there thanks to some form of breach, Rift or his own unknown knowledge.
+Według niektórych pogłosek, Xaine może być podróżnikiem spoza uniwersum Baedoor, 
+który dostał się do niego poprzez przerwy między wymiarami.
 
 ---
 ♜✥  

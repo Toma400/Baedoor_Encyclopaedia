@@ -1,7 +1,7 @@
-# 🎇 Index
+# 🎇 Indeks
 
 ---
-You can find all possible named entries of Encyclopaedia Loreum here listed.
+Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności alfabetycznej.
 
 ---
 ### A
@@ -9,30 +9,29 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Ansur](Topics/Geography/East_Moon/Ansur.md)
 
 ### B
-- [Baedoor](Topics/Geography/Baedoor/Cities/Baedoor.md) (city)
-- [Baedoor](Topics/Geography/Baedoor.md) (island)
+- [Baedoor](Topics/Geography/Baedoor/Cities/Baedoor.md) (miasto)
+- [Baedoor](Topics/Geography/Baedoor.md) (wyspa)
 
 ### C
-- [Cuerven Valley](Topics/Geography/East_Moon/Lands/Cuerven_Valley.md)
+- [Cuerven](Topics/Geography/East_Moon/Lands/Cuerven_Valley.md) (dolina)
 
 ### E
-- [East Moon](Topics/Geography/East_Moon.md)
 - [Enfrvein](Topics/Geography/Jitado/Cities/Places/Enfrvein.md)
 - [Evros](Topics/Geography/East_Moon/Cities/Evros.md)
 
-### F
-- [Flower Street](Topics/Geography/Jitado/Cities/Places/Enfrvein.md)
-
 ### G
-- [Golden Lighthouse of Baedoor](Topics/Geography/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
+- [Gwiazdounosiciele](Topics/Guilds/List/Starshifters.md)
 
 ### I
-- [I'si](Topics/Religions/Small/Temple_of_I'si.md) (Temple of I'si)
+- [I'si](Topics/Religions/Small/Temple_of_I'si.md) (Kościół I'si)
 - [Ino Anor](Topics/Geography/Jitado/Cities/Ino_Anor.md)
 - [Isuga](Topics/Geography/Baedoor/Cities/Isuga.md)
 
 ### J
 - [Jitado](Topics/Geography/Jitado.md) (island)
+
+### K
+- [Kościół I'si](Topics/Religions/Small/Temple_of_I'si.md)
 
 ### M
 - [Menerun](Topics/Geography/Jitado/Cities/Menerun.md)
@@ -40,9 +39,8 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### N
 - [Nferth](Topics/Geography/East_Moon/Nferth.md)
 
-### O
-- [Order of the Sword](Topics/Guilds/List/Order_of_the_Sword.md)
-- [Oververse](Topics/World_Mechanics/Oververse.md)
+### P
+- [Plantacja Toma Varteforda](Topics/Geography/Baedoor/Places/Tom_Varteford_Plantation.md)
 
 ### R
 - [Raliun](Topics/Geography/Jitado/Cities/Raliun.md)
@@ -50,14 +48,20 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### S
 - [Si Avani](Topics/Characters/List/Si_Avani.md)
 - [Skirran](Topics/Geography/Baedoor/Cities/Skirran.md)
-- [Starshifters](Topics/Guilds/List/Starshifters.md)
 
-### T
-- [Temple of I'si](Topics/Religions/Small/Temple_of_I'si.md)
-- [Tom Varteford's Plantation](Topics/Geography/Baedoor/Places/Tom_Varteford_Plantation.md)
+### U
+- [Ulica Kwiatów](Topics/Geography/Jitado/Cities/Places/Enfrvein.md)
 
 ### V
 - [Vaerdena](Topics/Geography/East_Moon/Lands/Vaerdena.md)
 
 ### X
 - [Xaine](Topics/Characters/List/Xaine.md)
+
+### W
+- [Wschodni Księżyc](Topics/Geography/East_Moon.md)
+- [Wszechwers](Topics/World_Mechanics/Oververse.md)
+
+### Z
+- [Zakon Mieczowy](Topics/Guilds/List/Order_of_the_Sword.md)
+- [Złota Latarnia Baedoor](Topics/Geography/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)

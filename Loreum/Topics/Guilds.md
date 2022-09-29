@@ -1,21 +1,21 @@
-# 🏯 Guilds
-Lists all guilds and organisations existing in Baedoor universe.
+# 🏯 Gildie
+Lista wszystkich gildii i organizacji istniejących w uniwersum Baedoor.
 
 ---
-### 🍁 BY ERAS
-#### 🔹 Pre Era Guilds
-#### 🔹 Old Era Guilds
-#### 🔹 New Era Guilds
+### 🍁 CHRONOLOGICZNIE
+#### 🔹 Gildie Przederowe
+#### 🔹 Gildie Starej Ery
+#### 🔹 Gildie Nowej Ery
 
-### 🕌 BY CONTINENT
-#### 🔹 [International](Guilds/International_Guilds.md)
-#### 🔹 [Old Continent Guilds](Guilds/Old_Continent_Guilds.md)
-#### 🔹 Seiteh Guilds
-#### 🔹 Moon Continent Guilds
-#### 🔹 [Baedoor Continent Guilds](Guilds/Baedoor_Continent_Guilds.md)
-#### 🔹 Guilds of Azure Archipelago
-#### 🔹 Guilds of Southern Grand Frost
-#### 🔹 Guilds of other lands
+### 🕌 POPRZEZ KONTYNENT
+#### 🔹 [Międzynarodowe](Guilds/International_Guilds.md)
+#### 🔹 [Gildie Starożytnego Kontynentu](Guilds/Old_Continent_Guilds.md)
+#### 🔹 Gildie Seiteh
+#### 🔹 Gildie Księżyca
+#### 🔹 [Gildie Kontynentu Baedoor](Guilds/Baedoor_Continent_Guilds.md)
+#### 🔹 Gildie Błękitnego Archipelagu
+#### 🔹 Gildie Wielkiej Południowej Zmarzliny
+#### 🔹 Gildie innych krain
 
 ---
 ✥

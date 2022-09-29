@@ -1,9 +1,9 @@
-# 🕌 International Guilds
-International guilds and organisations are the ones which crossed the limitations of specific country,
-land or continent, becoming power known to bigger group of people.
+# 🕌 Gildie międzynarodowe
+Gildie i organizacje międzynarodowe są tymi, które przekraczają granice konkretnych
+krajów i kontynentów, stając się siłą znaną całemu uniwersum.
 
 ---
-#### [Starshifters](List/Starshifters.md)
+#### [Gwiazdounosiciele](List/Starshifters.md)
 
 ---
 ✥♜: lots of guilds missing

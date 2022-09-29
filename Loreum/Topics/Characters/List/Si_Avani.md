@@ -1,12 +1,12 @@
 # 🎎 Si Avani
 
 ---
-<span style="color:#8F3DA5">**universe**</span> [✦](/Loreum/Tags.md#-universe)  
+<span style="color:#8F3DA5">**uniwersum**</span> [✦](/Loreum/Tags.md#-uniwersum)  
 
 ---
-**Si Avani** is sage considered to be Jitadian, living between 700 PE and 579 PE approximately.   
-It is widely known by his membership in **Starshifters** organisation and discovering first 
-multiverse known to Baedoor universe - **Tamariel**.
+**Si Avani** to mędrzec uznawany za Jitadczyka, żyjący w przybliżeniu między 700 CP 
+a 579 CP. Był członkiem Gwiazdounosicieli.  
+Jest on szeroko znany z odkrycia pierwszego multiwersum znanego Baedoor - **Tamariel**.
 
 ---
 ♜✥  

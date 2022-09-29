@@ -1,24 +1,24 @@
-# 🎇 Order of the Sword
+# 🎇 Zakon Mieczowy
 
 ---
-**Order of the Sword** is guild established in Old Era, precisely in 272 OE. It was made as an Order
-for swordsmen, fully devoted to the gods preached by nordwinians on **Evývind** isle.  
-They had their own residence, going north from **Skand**, in which they prayed and trained themselves.  
-During celebrations or Tarskigg, they were going back to Skand, to lead the ceremonies.
+**Zakon Mieczowy** ma swoje korzenie w początkach Starej Ery, dokładniej w roku 272. 
+Był on z początku stowarzyszeniem wojowników w pełni oddanych bogom wyznawanym przez 
+nordwińczyków na wyspie Evývind.  
+Posiadali oni własną siedzibę na północ od **Skand**, w której mieszkali i szkolili się w walce. 
+W przypadku świąt czy Tarskiggu, przerywali ćwiczenia, przewodnicząc miastowym uroczystościom.
 
-### History
-Everything changed after **Baedoor invasion made on Evývind**. They became leading opposing force, but
-unfortunately they lost. The ones who survived, ran away to the north, settling the fortress.  
-After signing peace treaty, Order of the Sword became mystic-military counterpart for local
-Baedoor garrisons, serving both the occupant and civilians.
+### Historia
+Wszystko zmieniło się wraz z **atakiem Imperium Baedoor** na wyspę. Wówczas stali się oni 
+głównym frontem wobec agresora.  
+Dość szybko zostali jednak rozbici, a upodlona garstka, która przetrwała, uciekła na północ, 
+zakładając twierdzę. Podpisując traktat pokojowy z Cesarstwem, stali się zakonem o 
+charakterze religijno-wojskowym, jednak w służbie na równi swoich pobratymców, jak i okupanta.
 
-Next part of the history is marked with **Baedoor Empire fall** which happened in 312 NE. This made
-their armies on occupied territories way weaker, giving most of the countries a way to revolt.  
-Evývind, though, revolted very conservatively: they didn't separate themselves from **East Baedoor**,
-but used this situation to consolidate their powers and create **Northern Union** between Evývind and
-Forewind.  
-Therefore, Order of the Sword regained big part of their legacy and became again, the leading power
-over the island.
+Następna część historii Zakonu datuje się na **upadek Imperium** w roku 312 NE. Wydarzenie to
+uczyniło armię Imperium słabszą, pozwalając większości poddanych krajów na rewoltę.  
+Evývind buntowało jednak się bardzo konserwatywnie: nie odseparowali się od **Wschodniego Baedoor**,
+lecz użyli tej sytuacji by połączyć siły z Forewind i utworzyć **Unię Północy**.  
+Tym samym, Zakon Mieczowy odzyskał sporą część swojej potęgi sprzed podboju.
 
 ---
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Guilds.md)

@@ -1,5 +1,5 @@
-# 🔍 Index
-All items listed alphabetically.
+# 🔍 Indeks
+Wszystkie przedmioty zebrane alfabetycznie.
 
 ---
 ### L

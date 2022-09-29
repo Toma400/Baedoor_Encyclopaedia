@@ -1,15 +1,15 @@
-#  ❄️ Evývind Timetable (Old Era)
-Evývind timetable on all events that happened during Old Era period.
+#  ❄️ Kalendarium Evývind (Stara Era)
+Kalendarium Evývind, pokrywające wszystkie wydarzenia czasu Starej Ery.
 
 ---
-<center><b> 📜 PRE-ERA 🔹 NEW ERA 📜 </b></center>
+<center><b> 📜 CZAS PRZEDEROWY 🔹 NOWA ERA 📜 </b></center>
 
 ---
 
-| Date | Event                                                                                       |
-|:----:|:--------------------------------------------------------------------------------------------|
-| 272  | Establishment of **[Order of the Sword](/Loreum/Topics/Guilds/List/Order_of_the_Sword.md)** |
-| 420  | Evývind is conquered by **Baedoor Empire**.                                                 |
+| Data | Wydarzenie                                                                           |
+|:----:|:-------------------------------------------------------------------------------------|
+| 272  | Utworzenie **[Zakonu Mieczowego](/Loreum/Topics/Guilds/List/Order of the Sword.md)** |
+| 420  | Podbicie Evývind przez **Imperium Baedoor**.                                  |
 
 ---
 ♢: pre-era/new-era, elements of events  

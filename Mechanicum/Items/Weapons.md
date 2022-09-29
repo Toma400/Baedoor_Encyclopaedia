@@ -1,29 +1,29 @@
-# 🔪 Weapons
+# 🔪 Bronie
 
 ---
-### ⚔️ Cold Steel
-#### Knives
-#### Swords
-#### Sabres
-#### Axes
-#### Battle Hammers
+### ⚔️ Broń biała
+#### Noże
+#### Miecze
+#### Szable
+#### Topory
+#### Młoty bojowe
 
-### 🤺 Polearms
-#### Spears
-#### Halberds
-#### Dagger-axes
+### 🤺 Broń drzewcowa
+#### Włócznie
+#### Halabardy
+#### Sztyleto-topory
 
-### 🏹 Ranged
-#### Bows
-#### Crossbows
-#### Throwables
-#### Chain Knives
+### 🏹 Broń zasięgowa
+#### Łuki
+#### Kusze
+#### Rzucane
+#### Noże na łańcuchu
 
-### 🔥 Firearms
-#### [Revolvers](Revolvers.md)
-#### Shotguns
-#### Rifles
-#### Other
+### 🔥 Broń palna
+#### [Rewolwery](Revolvers.md)
+#### Strzelby
+#### Karabiny
+#### Inne
 
 ---
 ✥

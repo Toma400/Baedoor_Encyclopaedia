@@ -1,22 +1,21 @@
-# 🌄 East Moon
-East Moon is part of **Moon Continent**, on the east side of **the Scarp**.
+# 🌄 Wschodni Księżyc
+Wschodni Księżyc jest częścią **Księżyca**, położoną na wschodniej stronie **Skarpy**.
 
-### GEOGRAPHY
+### GEOGRAFIA
 
 <img alt="East Moon Sketch" height="520" src="/Assets/map_east_moon.png" width="390"/>
 
-``Sketch of East Moon, with incorrectly shown Agoi Archipelago which should be positioned way higher``
+``Szkic Wschodniego Księżyca, z niepoprawnie zarysowanym archipelagiem Agoi, który powinien być położony wyżej``
 
-East Moon is only part of bigger continent, but it has its own distinct character, as it was torn
-from the rest in unnoted, ancient times, as tales explain, as a result of **battle between mages of
-civilisations living before times**.
+Wschodni Księżyc jest tylko częścią większego kontynentu, lecz ma swój unikalny charakter, będąc
+oddzielonym od głównej części lądu za sprawą **walka pomiędzy magami**, jak przekazują to legendy.
 
-<h1 style="font-size:2vw">East Moon can be separated into:</h1>
+<h1 style="font-size:2vw">Wschodni Księżyc może być podzielony na:</h1>
 
-🔲  [Continental Side](East_Moon/Continental_Side.md)  
-🔲  [Ansur Isle](East_Moon/Ansur.md)  
-🔲  Agoi Archipelago  
-🔲  [Nferth Isle](East_Moon/Nferth.md) (Isle of Demons)
+🔲  [Część Kontynentalną](East_Moon/Continental_Side.md)  
+🔲  [Wyspę Ansur](East_Moon/Ansur.md)  
+🔲  Archipelag Agoi  
+🔲  [Wyspę Nferth](East_Moon/Nferth.md) (Wyspę Demonów)
 
 ---
 ♜♢✥  

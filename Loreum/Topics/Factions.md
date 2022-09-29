@@ -1,19 +1,19 @@
-# ⚜️ Factions
+# ⚜️ Frakcje
 
 ---
-### 🍁 BY ERAS
-#### 🔹 Pre Era Factions
-#### 🔹 Old Era Factions
-#### 🔹 New Era Factions
+### 🍁 CHRONOLOGICZNIE
+#### 🔹 Frakcje Czasu Przederowego
+#### 🔹 Frakcje Starej Ery
+#### 🔹 Frakcje Nowej Ery
 
-### 🕌 BY CONTINENT
-#### 🔹 Old Continent Factions
-#### 🔹 Seiteh Factions
-#### 🔹 Moon Continent Factions
-#### 🔹 Baedoor Continent Factions
-#### 🔹 Factions of Azure Archipelago
-#### 🔹 Factions of Southern Grand Frost
-#### 🔹 Factions of other lands
+### 🕌 POPRZEZ KONTYNENT
+#### 🔹 Frakcje Starożytnego Kontynentu
+#### 🔹 Frakcje Seiteh
+#### 🔹 Frakcje Księżyca
+#### 🔹 Frakcje Kontynentu Baedoor
+#### 🔹 Frakcje Archipelagu Błękitnego
+#### 🔹 Frakcje Wielkiej Południowej Zmarzliny
+#### 🔹 Frakcje innych lądów
 
 ---
 ✥

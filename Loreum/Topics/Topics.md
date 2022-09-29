@@ -1,18 +1,18 @@
-# 🧭 Topics
+# 🧭 Tematy
 
 ---
-### 🌌 [World Mechanics](World_Mechanics.md)
-### 🎎️ [History](History.md)
-### 📖 Literature
-### 🌏 [Geography](Geography.md)
-### 🍂 [Nature](Nature.md)
-### 💮 Races
-### 🏺 [Cultures](Cultures.md)
-### 👘️ Languages
-### 🕌 [Religions](Religions.md)
-### 🏯 [Guilds](Guilds.md)
-### ⚜️ [Factions](Factions.md)
-### 🌸 [Characters](Characters.md)
+### 🌌 [Mechaniki świata](World_Mechanics.md)
+### 🎎️ [Historia](History.md)
+### 📖 Literatura
+### 🌏 [Geografia](Geography.md)
+### 🍂 [Natura](Nature.md)
+### 💮 Rasy
+### 🏺 [Kultury](Cultures.md)
+### 👘️ Języki
+### 🕌 [Religie](Religions.md)
+### 🏯 [Gildie](Guilds.md)
+### ⚜️ [Stronnictwa](Factions.md)
+### 🌸 [Postacie](Characters.md)
 
 ---
 ✥
