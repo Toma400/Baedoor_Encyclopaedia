@@ -9,10 +9,6 @@
 
 ### 🛕 The Isle of Ansur
 
-## Side games
-
-### 🕌 Uraquya Multiverse
-
 ## Small games
 
 ### 🏹 [Between Shadows and Light](Walkthroughs/BSaL/BSaL.md)
@@ -21,3 +17,11 @@
 
 ### 🏯 Wastelands of Baedoor
 ### 🏯 Civilisations of Baedoor
+
+## Classic
+
+### ⚒️ [Baedoor](Walkthroughs/Baedoor_Classic/BaeCL.md)
+
+## Side games
+
+### 🕌 Uraquya Multiverse

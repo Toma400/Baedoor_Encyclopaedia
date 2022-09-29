@@ -79,4 +79,4 @@ Initial character creation has predetermined values, so all alignments (increase
 Samely, MAGCK decrease in example wouldn't happen if race has lowering disabled.
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🎲](/Mechanicum/RPG_System/RPG_System.md)

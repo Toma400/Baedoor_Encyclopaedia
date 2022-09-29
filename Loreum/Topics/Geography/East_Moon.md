@@ -13,11 +13,11 @@ civilisations living before times**.
 
 <h1 style="font-size:2vw">East Moon can be separated into:</h1>
 
-🔲  Continental Side  
+🔲  [Continental Side](East_Moon/Continental_Side.md)  
 🔲  [Ansur Isle](East_Moon/Ansur.md)  
 🔲  Agoi Archipelago  
 🔲  [Nferth Isle](East_Moon/Nferth.md) (Isle of Demons)
 
 ---
 ♜♢✥  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md)

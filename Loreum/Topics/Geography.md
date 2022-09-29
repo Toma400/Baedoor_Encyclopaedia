@@ -4,9 +4,9 @@ All what creates the oververse, but mostly on Baedoor itself
 ---
 ## 🌌 BAEDOOR MULTIVERSE
 ### 🪐 AVEIS
-#### 🔷 Baedoor
+#### 🔷 Anahsahei
 #####     🔹 Northern Islands
-#####     🔹 Baedoor
+#####     🔹 [Baedoor](Geography/Baedoor.md)
 #####     🔹 Rossevette Islands
 #####     🔹 Kaer
 #####     🔹 Arennan
@@ -17,7 +17,7 @@ All what creates the oververse, but mostly on Baedoor itself
 #####     🔹 [East Moon](Geography/East_Moon.md)
 #### 🔷 Old Continent
 #####     🔹 Mes Inpea
-#####     🔹 Jitado
+#####     🔹 [Jitado](Geography/Jitado.md)
 #####     🔹 Eimr
 #### 🔷 Seiteh
 #### 🔷 The Azure Archipelago

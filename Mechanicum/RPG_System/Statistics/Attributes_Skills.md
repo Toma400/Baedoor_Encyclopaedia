@@ -73,4 +73,4 @@ Not expandable, once-gatherable (with race, class or by learning).
 ² - available for characters having positive connection alignment
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🎲](/Mechanicum/RPG_System/RPG_System.md)

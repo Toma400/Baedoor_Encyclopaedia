@@ -4,8 +4,9 @@
 ``Simplified map of Ansur Isle as of 920 NE``
 
 **Isle of Ansur** (bae. *Ans Sur*, "land of hope") is small island positioned pretty much in between 
-old **Baedoor city** and **New Baedoor**, being also one of the better places to stay during longer 
-journey to any of those places. Since third decade of New Era, it became known for its wine.
+old **[Baedoor city](/Loreum/Topics/Geography/Baedoor/Cities/Baedoor.md)** and **New Baedoor**, 
+being also one of the better places to stay during longer journey to any of those places. 
+Since third decade of New Era, it became known for its wine.
 
 ### 📜 HISTORY  
 Ansur was not colonised before New Era, so during Exodus, when sailors saw the island instead of 
@@ -25,19 +26,20 @@ residence and additiona fortification.
 In 917 NE, governor **Heimlig Naevos** recommended building of airship port, which is estimated to
 be finished in year 925 NE.
 
-**PLACES**
+**TOWNS**
 - [Evros](Cities/Evros.md)
 - Waine
 
-**POINTS**
+**PLACES**
 - Gorthal Stronghold
 - Fields
 
+**TIMETABLE**
+- [Timetable of Ansur Isle](/Loreum/Topics/History/New_Era_Ansur.md)
+
 ---
-### 📿 Between Shadows and Light
-Original BSaL game takes place in 216 NE, when Ansur was still more of a transit place than real
-island. Although earning a lot by this practice alone, it lacked stronger hand to benefit.
+[📿 Between Shadows and Light](/Mechanicum/Walkthroughs/BSaL/Lore/BSaL_Ansur.md)
 
 ---
 ♜♢✥ + add name to name list + 326 NE into **history** + add link to BSaL walkthrough + links to locations and people  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/East_Moon.md)

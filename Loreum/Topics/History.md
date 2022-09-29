@@ -2,10 +2,10 @@
 History of all events that happened, separated through eras, and further, through civilisations.
 
 ---
-### 🍁 BY ERAS
-#### 🔹 Pre Era History
-#### 🔹 [Old Era History](History/Old_Era.md)
-#### 🔹 New Era History
+### 🍁 TIMETABLES │ BY ERAS
+#### 🔹 Pre Era Timetable
+#### 🔹 [Old Era Timetable](History/Old_Era.md)
+#### 🔹 [New Era Timetable](History/New_Era.md)
 
 ---
 ✥

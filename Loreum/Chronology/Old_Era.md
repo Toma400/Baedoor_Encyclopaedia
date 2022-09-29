@@ -10,7 +10,7 @@ In the same time, Old Era is marked as time of expanding technology outside of J
 gave birth to steampunk revolution all around the world.
 
 ---
-#### Old Era History
+#### [Old Era History](/Loreum/Topics/History/Old_Era.md)
 #### Old Era Factions
 #### Old Era Characters
 

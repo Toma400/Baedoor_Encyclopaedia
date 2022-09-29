@@ -7,8 +7,9 @@
 ### 🌏 [Geography](Geography.md)
 ### 🍂 [Nature](Nature.md)
 ### 💮 Races
-### ☸️ Languages
-### 🕌 Religions
+### 🏺 [Cultures](Cultures.md)
+### 👘️ Languages
+### 🕌 [Religions](Religions.md)
 ### 🏯 [Guilds](Guilds.md)
 ### ⚜️ [Factions](Factions.md)
 ### 🌸 [Characters](Characters.md)

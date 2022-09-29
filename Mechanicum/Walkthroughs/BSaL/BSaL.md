@@ -19,7 +19,8 @@ After pirate attack, "Arennan" docks in Evron port, giving you full freedom on w
 story is set, but you can get some quests or jobs on the island.
 
 ### GUIDE
+- [Lore](BSaL_Lore.md)
 - [Locations](BSaL_Locations.md)
 - [Quests](BSaL_Quests.md)
 - [NPCs](BSaL_NPCs.md)
-- [Tips and tricks](BSAL_Tips.md)
+- [Tips and tricks](BSaL_Tips.md)

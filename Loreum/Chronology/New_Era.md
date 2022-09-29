@@ -13,7 +13,7 @@ Despite such rush to the power, times of New Era are considered as the most peac
 there happened to not be many bigger wars in this era yet. 
 
 ---
-#### New Era History
+#### [New Era History](/Loreum/Topics/History/New_Era.md)
 #### New Era Factions
 #### New Era Characters
 

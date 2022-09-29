@@ -1,12 +1,13 @@
-# 🍁 Old Era History
+# 🍁 Old Era Timetable
 List of all events that have happened in Old Era.
 
-### General History
+### General Timetable
 
 ---
-### History by civilisation
+### Timetable by civilisation
 
-#### 🔹 [Evývind History](Old_Era_Evývind.md)
+#### 🔹 [Evývind Timetable](Old_Era_Evývind.md)
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🎎️](/Loreum/Topics/History.md)

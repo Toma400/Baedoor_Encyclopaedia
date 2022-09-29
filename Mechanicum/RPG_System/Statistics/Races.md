@@ -210,4 +210,4 @@ Has subraces. All modifiers distribution depends on them.
 - ♈ - should be used for more advanced gameplay, since those races are pretty unbalanced
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🎲](/Mechanicum/RPG_System/RPG_System.md)

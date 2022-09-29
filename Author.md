@@ -55,11 +55,11 @@ images from World of Tanks, I upload it privately, as I can't do it officially d
 
 Wrench means status of support - if the mod is still maintained.
 
-| 🔧 | Name                     | Original game      | Description                                                                                                 | Download                                                                                      |
-|---|--------------------------|--------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 🔴 | WW2                      | Battle for Wesnoth | Mod adding tanks taken from World of Tanks franchise to BfW game.                                           | [Drive](https://drive.google.com/drive/folders/1m3oUjRsJYbZFAKsvOHOwTwrik9WIvMrJ?usp=sharing) |
-|🟢| Wastelands of Baedoor    | Minecraft          | Steampunk-aimed mod adding airships and firearms.                                                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor)              |
-|🟢| Civilisations of Baedoor | Minecraft          | Mod focused on building an empire and beautiful dimensions - as well as showcasing Baedoor universe itself. | [Discord](https://discord.gg/GbTw9KqnrE)                                                      |
+| 🔧  | Name                     | Original game      | Description                                                                                                 | Download                                                                                      |
+|-----|--------------------------|--------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| 🔴  | WW2                      | Battle for Wesnoth | Mod adding tanks taken from World of Tanks franchise to BfW game.                                           | [Drive](https://drive.google.com/drive/folders/1m3oUjRsJYbZFAKsvOHOwTwrik9WIvMrJ?usp=sharing) |
+| 🟢  | Wastelands of Baedoor    | Minecraft          | Steampunk-aimed mod adding airships and firearms.                                                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor)              |
+| 🟢  | Civilisations of Baedoor | Minecraft          | Mod focused on building an empire and beautiful dimensions - as well as showcasing Baedoor universe itself. | [Discord](https://discord.gg/GbTw9KqnrE)                                                      |
 
 ---
 
@@ -69,9 +69,9 @@ Wrench means status of support - if the game is still maintained.
 
 **🎎 True Games**
 
-| 🔧  | Date       | Name                | Description                                                                                          | Download                                                 |
-|----|------------|---------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
-| 🟢 | 2021-09-27 | The Isle of Ansur   | Remake of Between Shadows and Light, this time made with more experience and better modding support. | [GitHub](https://github.com/Toma400/The_Isle_of_Ansur)   |
+| 🔧  | Date       | Name              | Description                                                                                          | Download                                               |
+|-----|------------|-------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| 🟢  | 2021-09-27 | The Isle of Ansur | Remake of Between Shadows and Light, this time made with more experience and better modding support. | [GitHub](https://github.com/Toma400/The_Isle_of_Ansur) |
 
 **🔨 Learning projects**
 
@@ -88,16 +88,16 @@ Wrench means status of support - if the game is still maintained.
 Wrench means status of support - if the program is still maintained.
 
 | 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                 |
-|----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-| 🟢 | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE) |
+|-----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+| 🟢  | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE) |
 
 ---
 
 ### 📖 STORIES  
 **Lang** section will transfer you to the story in selected language.
 
-| Date of creation | Name | Lang                                                                                    | Baedoor? | Description                                                                    |
-|------------------| ---- |-----------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|
+| Date of creation | Name | Lang                                                                                       | Baedoor? | Description                                                                    |
+|------------------|------|--------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|
 | 2019-11-31       | Wilk | [🇵🇱](https://drive.google.com/file/d/106niTiZQi02gYJxKcMFzsnEQ54Ii7yng/view?usp=sharing) | 🟢       | Experimental story on bandit gunslinger being  <br/> caught by bounty hunters. |
 
 ---
@@ -128,9 +128,9 @@ I will, someday, come back to it, when I am
 skilled enough to really achieve darkwave sound.
 </span>
 
-| Date of creation | Album name | Tags  | Description                                                             | URL                                                      |
-| ---------------- | ---------- |-------|-------------------------------------------------------------------------|----------------------------------------------------------|
-|2018-6-6          | Demo 2018  | 🔴🔘🟦 | First ever creation of mine, being **dark ambient** semi-concept album. | [Bandcamp](https://drganie.bandcamp.com/album/demo-2018) |
+| Date of creation | Album name | Tags   | Description                                                             | URL                                                      |
+|------------------|------------|--------|-------------------------------------------------------------------------|----------------------------------------------------------|
+| 2018-6-6         | Demo 2018  | 🔴🔘🟦 | First ever creation of mine, being **dark ambient** semi-concept album. | [Bandcamp](https://drganie.bandcamp.com/album/demo-2018) |
 
 <span style="color:#668c99">**🪔 THE BOOK OF SETH**  
 The Book of Seth is my third (or, in fact, fourth) musical project, in which I decided to experiment
@@ -268,8 +268,8 @@ Poems with 💠 symbol have some Baedoor references.
 All things from previous sections which try to collect several stuff of mine.  
 **Lang** section will transfer you to the collection in selected language.
 
-| Date of creation | Name                 | Lang                                                                                    | Description                                           |
-|------------------|----------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------|
+| Date of creation | Name                 | Lang                                                                                       | Description                                           |
+|------------------|----------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------|
 | 2021-01-08       | Duch Nieskończoności | [🇵🇱](https://drive.google.com/file/d/1KgrlGnznHZ3pDogHoa1O0RFGHPC3_Rqq/view?usp=sharing) | Collection of scenes (short texts without true story) |
 | 2021-01-25       | Przez Pustynie Serca | [🇵🇱](https://drive.google.com/file/d/1kdLMS0IhLfuX401W0jzTA20jQ8zQOha3/view?usp=sharing) | Collection of 42 poems, with small corrections        |
 
@@ -306,12 +306,12 @@ sacrificing lots of hours on searching for mods and testing incompatibilities.
 There was a time I thought of becoming YouTuber, so there is still my [YouTube account](https://www.youtube.com/channel/UCbb_Yt86DlOHDPYIJCrJDmw)
 for this purpose. I've recorded few let's play episodes for it:
 
-| Date       | Name                                                   |  Playlist  | Link                                    |
-|------------|--------------------------------------------------------|:----------:|-----------------------------------------|
+| Date       | Name                       |  Playlist  | Link                                    |
+|------------|----------------------------|:----------:|-----------------------------------------|
 | 2021-08-03 | #1 - The Journey           | ⚜️ Atheris | [YouTube](https://youtu.be/7CHwYHhfwSg) |
 | 2021-08-18 | #2 - Into the Mineshaft!   | ⚜️ Atheris | [YouTube](https://youtu.be/R-pA5YBCO9c) |
-| 2021-09-11 | #3 - Forge Expansion       | ⚜️ Atheris | [YouTube](https://youtu.be/sgGVaQL8R4E)|
-| 2021-09-24 | #4 - Pillar Up To The Sky! | ⚜️ Atheris | [YouTube](https://youtu.be/e9-mttuTZtc)|
+| 2021-09-11 | #3 - Forge Expansion       | ⚜️ Atheris | [YouTube](https://youtu.be/sgGVaQL8R4E) |
+| 2021-09-24 | #4 - Pillar Up To The Sky! | ⚜️ Atheris | [YouTube](https://youtu.be/e9-mttuTZtc) |
 
 ### 🎭 COLLABORATIONS
 Despite me being lone wolf as a creator, I have made attempts to contribute to some projects, or even
@@ -323,9 +323,9 @@ TAGS:
 📿 MOD
 ```
 
-| Time of collab    | Tag | Name    | What is the project                                                                                            |               My role                |                                  URL                                  |
-|-------------------|:---:|---------|----------------------------------------------------------------------------------------------------------------|:------------------------------------:|:---------------------------------------------------------------------:|
-| 2021-12 🔹 2022-03 | 📿  | Desolat | Mod around desert dimension, Desolat. Eventually made a reference to it in Baedoor universe (Aji'n multiverse) | **Collaborator**<br>Made small fixes | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedesolat) |
+| Time of collab     | Tag | Name    | What is the project                                                                                            |               My role               |                                  URL                                  |
+|--------------------|:---:|---------|----------------------------------------------------------------------------------------------------------------|:-----------------------------------:|:---------------------------------------------------------------------:|
+| 2021-12 🔹 2022-03 | 📿  | Desolat | Mod around desert dimension, Desolat. Eventually made a reference to it in Baedoor universe (Aji'n multiverse) | **Contributor**<br>Made small fixes | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedesolat) |
 
 ---
 ### 📰 BLOG
@@ -362,6 +362,14 @@ TAGS:
 | 2020-07-02 | 15  | 🎵  | Rat Kru - Rok Szczura                                    | [Blogspot](http://toma400.blogspot.com/2020/07/rat-kru-rok-szczura.html)                   | 
 | 2020-12-30 | 16  | 🎶  | 2020 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2020/12/2020-aotys.html)                            | 
 | 2021-12-30 | 17  | 🎶  | 2021 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2021/12/2021-aotys.html)                            | 
+
+---
+### 🈁 FONTS
+As weirdly as it may sound, I even were creating fonts, usually for Baedoor universe.
+
+| Name                | Purpose                   | License                                        | Link                                                                                        |
+|---------------------|---------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Ghloddish Universal | Use of ghloddish alphabet | Free for non-commercial use related to Baedoor | [Drive](https://drive.google.com/file/d/1RZWHZTH8N5n-1uzn4mSEcLsvttTbLYwd/view?usp=sharing) |
 
 ---
 ### ☠️ LOST AND FOUND
