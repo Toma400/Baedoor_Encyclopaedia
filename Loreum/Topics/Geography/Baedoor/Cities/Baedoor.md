@@ -7,6 +7,11 @@
 **Baedoor** is capital city of **East Baedoor** and was so by whole time after baedoorians conquered
 whole Baedoor island. Over the time, it became highly separated by districts.
 
+- [History](Baedoor.md#history)
+- [Districts](Baedoor.md#districts)
+- [Emblems](Baedoor.md#emblems)
+
+---
 ### HISTORY
 Baedoor city changed a lot during whole time of it existing - its rise and expansion were product of
 several events happening, and only in last centuries of Old Era, it became big to the extent it is
@@ -15,22 +20,6 @@ known today.
 Baedoor was built in 92 OE, and was planned in typical districted form as most of jitadian cities
 were at the time. This allowed more organised placements of buildings than it was with village-grown
 cities.
-
-<img alt="Baedoor Herb" height="266" src="/Assets/herb_baedoor_city_early_se.jpg" width="217"/>
-<img alt="Baedoor Flag" height="250" src="/Assets/flag_baedoor_city_early_se.jpg" width="312"/>
-
-``Baedoor herb and flag in around 250 OE, taken from Baedoor archives``
-
-<img alt="Baedoor Flag" height="250" src="/Assets/flag_baedoor_city_early_se.png" width="312"/>
-
-``digital reconstruction of Baedoor flag from 250 OE. Symbol on the far left were meant to be blades
-of two sabres, aiming in opposite directions - symbol of loyalty, brotherhood and honour. Star symbolises
-hope, while three moons represent three brother cities - Baedoor, Isuga and Skirran``
-
-<img alt="Baedoor Herb" height="266" src="/Assets/flag_baedoor_city_early_se.png" width="217"/>
-
-``digital reconstruction of Baedoor herb from 250 OE. Similarly to flag, it contains star, moon
-representing city itself, as well as double blades``
 
 In first five centuries, Baedoor was fairly middle-sized city, with Isuga competing on size. It
 was due to extensive Empire expansion which allowed Baedoor to gather more attention, and respectively,
@@ -46,6 +35,7 @@ visiting it everyday, and districts and subdistricts dividing it, allowing certa
 meet another. Architecture style also changed, accenting the change in most visible way, as previous
 jitadian simple houses got changed into ornamented tenements.
 
+---
 ### DISTRICTS
 Even in earlier times, Baedoor was divided into districts, allowing people of different classes
 navigate more easily.
@@ -59,6 +49,39 @@ around.
 <img alt="Baedoor, High District" height="520" src="/Assets/high_district.jpg" width="390"/>
 
 `House in High District, early OE`
+
+---
+### EMBLEMS
+Baedoor symbolics changed throughout history, and they did quite often. There were always some topics
+lasting in every iteration, though, namely brotherhood and unity.
+
+#### EARLY ERA
+Early era of Baedoor city is accenting its belonging to so called "Empire Trinity", so three brother
+cities, being Baedoor, Isuga and Skirran.
+
+<img alt="Baedoor Flag" height="250" src="/Assets/flag_baedoor_city_early_se.png" width="312"/>
+
+``Digital reconstruction of Baedoor flag from 250 OE. Symbol on the far left were meant to be blades
+of two sabres, aiming in opposite directions - symbol of loyalty, brotherhood and honour. Star symbolises
+hope, while three moons represent three brother cities - Baedoor, Isuga and Skirran``
+
+<img alt="Baedoor Herb" height="266" src="/Assets/herb_baedoor_city_early_se.png" width="217"/>
+
+``Digital reconstruction of Baedoor herb from 250 OE. Similarly to flag, it contains star, moon
+representing city itself, as well as double blades``
+
+**Archive resources**
+
+<table>
+    <tr>
+        <th><img alt="Baedoor Herb" height="266" src="/Assets/herb_baedoor_city_early_se.jpg" width="217"/></th>
+        <th><img alt="Baedoor Flag" height="250" src="/Assets/flag_baedoor_city_early_se.jpg" width="312"/></th>
+    </tr>
+    <tr>
+        <td>Baedoor herb, around 250 OE, taken from Baedoor archives</td>
+        <td>Baedoor flag, around 250 OE, taken from Baedoor archives</td>
+    </tr>
+</table>
 
 ---
 📿 [Baedoor Classic](/Mechanicum/Walkthroughs/Baedoor_Classic/Lore/BaeCL_Baedoor.md)
