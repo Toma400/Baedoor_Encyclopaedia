@@ -210,4 +210,4 @@ Posiadają subrasy. Wszystkie modyfikatory są zależne od nich.
 - ♈ - rasa ta powinna być użyta przy bardziej zaawansowanej grze, gdyż jest niezbalansowana
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🎲](/Mechanicum/RPG_System/RPG_System.md)

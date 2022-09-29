@@ -5,10 +5,12 @@ podczas tworzenia postaci czy do zauważenia różnic kulturowych pomiędzy cywi
 ## Spis treści:
 **Imiona [🔱](Names.md#centernamescenter)**
 - [Imiona Baedoorskie](Names.md#baedoorian-names)
+- [Imiona Jitadzkie](Names.md#jitadian-names)
 - [Imiona Tri](Names.md#tri-names)
 
 **Nazwiska [🔱](Names.md#centersurnamescenter)**
 - [Nazwiska Baedoorskie](Names.md#baedoorian-surnames)
+- [Nazwiska Jitadzkie](Names.md#jitadian-surnames)
 - [Nazwiska Tri](Names.md#tri-surnames)
 
 <hr style="border:2px solid gray">
@@ -24,13 +26,26 @@ podczas tworzenia postaci czy do zauważenia różnic kulturowych pomiędzy cywi
 | Dominic | Całe Baedoor                     | Typowe imię                                                        |
 | Heim    | Całe Baedoor                     | Typowe imię, powstałe na Północnym Wybrzeżu Baedoor                | 
 | Heimlig | Ansur, Północne Wybrzeże Baedoor | Prawdopodobnie połączenie imienia **Heim** i nordwińskiego sufiksa |
+| Marvin  | Całe Baedoor                     | Typowe imię                                                        |
 | Norran  | Całe Baedoor                     | Dość zwyczajowe baedoorskie imię                                   |
+| Ovlan   | Całe Baedoor                     | Typowe imię, najczęściej spotykane na wybrzeżu Rakonnd             |
+| Tom     | Całe Baedoor                     | Typowe imię                                                        |
 
 <center><span style="color:#668c99"><b>Imiona kobiece</b></span></center>
 
 | Imię     | Występowanie | Opis                                                          |
 |----------|--------------|---------------------------------------------------------------|
 | Veronica | Całe Baedoor | Typowe imię, szczególnie wśród niższej klasy arystokratycznej |
+
+---
+### Imiona Jitadzkie
+<center><span style="color:#668c99"><b>Male names</b></span></center>
+
+| Imię    | Występowanie | Opis                                      |
+|---------|--------------|-------------------------------------------|
+| Jiro    | Jitado       | Rzadkie imię                              |
+| Sin     | Jitado       | Typowe imię                               |
+| Sjiniro | Jitado       | Dziwna kombinacja imion Jiro i Sin        |
 
 ---
 ### Imiona Tri
@@ -64,9 +79,18 @@ podczas tworzenia postaci czy do zauważenia różnic kulturowych pomiędzy cywi
 |-----------|----------------------------|-------------------------------------------------------------------------------------|
 | Gorth     | Całe Baedoor               | Typowe nazwisko                                                                     |
 | Naevos    | Ansur                      | Nazwisko pochodzące od trijskiej rodziny Nai i arennianśko-baedoorskiej rodziny Vos |
+| Neerhe    | Isuga i okolice            | Stary dom z Isugi, bez pochodzenia arystokratycznego                                | 
+| Varteford | Miasto Baedoor             | Nazwisko arystokratyczne                                                            |
 | Velga, le | Wschodnie Baedoor          | Arystokratyczne nazwisko pochodzące z Isugi                                         |
 | Vos       | Arennan, Zachodnie Baedoor | Rzadkie nazwisko powiązane z nazewnictwem Arennan                                   |
 | Winfleton | Zachodnie Baedoor          | Arystokratyczne imię, obecnie kojarzone z **Heimem Winfletonem**                    |
+
+---
+### Nazwiska Jitadzkie
+
+| Nazwisko  | Występowanie | Opis                              |
+|-----------|--------------|-----------------------------------|
+| Itahmutsi | Jitado       | Bardzo rzadkie nazwisko z Adelaie |
 
 ---
 ### Nazwiska Tri

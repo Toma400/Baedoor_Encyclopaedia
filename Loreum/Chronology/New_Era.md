@@ -13,7 +13,7 @@ Mimo tak wielu zainteresowanych dominacją, okres Nowej Ery jest jednym z najbar
 spokojnych dla uniwersum, nie obfitując w zbyt wiele globalnych konfliktów.
 
 ---
-#### Historia Nowej Ery
+#### [Historia Nowej Ery](/Loreum/Topics/History/New_Era.md)
 #### Stronnictwa Nowej Ery
 #### Postacie Nowej Ery
 

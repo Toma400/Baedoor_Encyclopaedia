@@ -12,11 +12,11 @@ oddzielonym od głównej części lądu za sprawą **walka pomiędzy magami**, j
 
 <h1 style="font-size:2vw">Wschodni Księżyc może być podzielony na:</h1>
 
-🔲  Część Kontynentalną  
+🔲  [Część Kontynentalną](East_Moon/Continental_Side.md)  
 🔲  [Wyspę Ansur](East_Moon/Ansur.md)  
 🔲  Archipelag Agoi  
 🔲  [Wyspę Nferth](East_Moon/Nferth.md) (Wyspę Demonów)
 
 ---
 ♜♢✥  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md)

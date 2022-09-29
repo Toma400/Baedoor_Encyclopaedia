@@ -13,4 +13,5 @@ Kalendarium Evývind, pokrywające wszystkie wydarzenia czasu Starej Ery.
 
 ---
 ♢: pre-era/new-era, elements of events  
-♜: more events
+♜: more events  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🎎️](/Loreum/Topics/History.md) 〰️ [🍁](/Loreum/Topics/History/Old_Era.md)

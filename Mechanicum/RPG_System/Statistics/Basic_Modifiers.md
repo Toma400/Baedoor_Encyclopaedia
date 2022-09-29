@@ -81,4 +81,4 @@ Obniżenie MAGCK nie nastąpiłoby oczywiście gdyby postać była rasy o wyłą
 obniżaniu tych sił.
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🎲](/Mechanicum/RPG_System/RPG_System.md)

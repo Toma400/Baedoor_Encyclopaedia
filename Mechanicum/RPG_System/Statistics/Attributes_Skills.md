@@ -74,4 +74,4 @@ Nierozwijalne, zdobywalne raz (wraz z rasą, klasą, bądź wyuczalne).
 ² - dostępny jedynie postaciom z chociaż jednym punktem Siły Zjednoczenia
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🎲](/Mechanicum/RPG_System/RPG_System.md)

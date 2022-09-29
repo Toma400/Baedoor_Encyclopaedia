@@ -319,8 +319,8 @@ zrobione do tego celu. Nagrałem na nim kilka let's playów:
 |------------|----------------------------|:----------:|-----------------------------------------|
 | 2021-08-03 | #1 - The Journey           | ⚜️ Atheris | [YouTube](https://youtu.be/7CHwYHhfwSg) |
 | 2021-08-18 | #2 - Into the Mineshaft!   | ⚜️ Atheris | [YouTube](https://youtu.be/R-pA5YBCO9c) |
-| 2021-09-11 | #3 - Forge Expansion       | ⚜️ Atheris | [YouTube](https://youtu.be/sgGVaQL8R4E)|
-| 2021-09-24 | #4 - Pillar Up To The Sky! | ⚜️ Atheris | [YouTube](https://youtu.be/e9-mttuTZtc)|
+| 2021-09-11 | #3 - Forge Expansion       | ⚜️ Atheris | [YouTube](https://youtu.be/sgGVaQL8R4E) |
+| 2021-09-24 | #4 - Pillar Up To The Sky! | ⚜️ Atheris | [YouTube](https://youtu.be/e9-mttuTZtc) |
 
 ### 🎭 WSPÓŁPRACE
 Mimo mojego charakteru będącego głównie samotniczym, miałem sytuację współpracy i
@@ -370,6 +370,14 @@ TAGI:
 | 2020-07-02 | 15  | 🎵  | Rat Kru - Rok Szczura                                    | [Blogspot](http://toma400.blogspot.com/2020/07/rat-kru-rok-szczura.html)                   | 
 | 2020-12-30 | 16  | 🎶  | 2020 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2020/12/2020-aotys.html)                            | 
 | 2021-12-30 | 17  | 🎶  | 2021 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2021/12/2021-aotys.html)                            | 
+
+---
+### 🈁 FONTS
+As weirdly as it may sound, I even were creating fonts, usually for Baedoor universe.
+
+| Nazwa               | Purpose                   | License                                        | Link                                                                                        |
+|---------------------|---------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Ghloddish Universal | Use of ghloddish alphabet | Free for non-commercial use related to Baedoor | [Drive](https://drive.google.com/file/d/1RZWHZTH8N5n-1uzn4mSEcLsvttTbLYwd/view?usp=sharing) |
 
 ---
 ### ☠️ ZGUBIONE I ZNALEZIONE

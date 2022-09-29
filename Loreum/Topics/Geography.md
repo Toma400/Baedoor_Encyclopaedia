@@ -4,9 +4,9 @@ Wszystko co tworzy wszechwers, lecz głównie Baedoor samo w sobie.
 ---
 ## 🌌 MULTIWERSUM BAEDOOR
 ### 🪐 AVEIS
-#### 🔷 Baedoor
+#### 🔷 Anahsahei
 #####     🔹 Północne Wyspy
-#####     🔹 Baedoor
+#####     🔹 [Baedoor](Geography/Baedoor.md)
 #####     🔹 Wyspy Rossevette
 #####     🔹 Kaer
 #####     🔹 Arennan
@@ -17,7 +17,7 @@ Wszystko co tworzy wszechwers, lecz głównie Baedoor samo w sobie.
 #####     🔹 [Wschodni Księżyc](Geography/East_Moon.md)
 #### 🔷 Starożytny Kontynent
 #####     🔹 Mes Inpea
-#####     🔹 Jitado
+#####     🔹 [Jitado](Geography/Jitado.md)
 #####     🔹 Eimr
 #### 🔷 Seiteh
 #### 🔷 Archipelag Błękitny
