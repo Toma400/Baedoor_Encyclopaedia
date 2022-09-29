@@ -7,7 +7,7 @@ na szukanie elementów z indeksu przez ich tematykę.
 ---
 <span style="color:#107C23">
 
-### 🌆 CITIES
+### 🌆 MIASTA
 
 </span>
 

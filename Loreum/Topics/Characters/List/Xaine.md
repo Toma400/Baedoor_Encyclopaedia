@@ -1,7 +1,7 @@
 # 🎎 Xaine
 
 ---
-<span style="color:#8F3DA5">**uniwersum**</span> [✦](/Loreum/Tags.md#-universe)  
+<span style="color:#8F3DA5">**uniwersum**</span> [✦](/Loreum/Tags.md#-uniwersum)  
 
 ---
 **Xaine** to postać o nieznanym pochodzeniu. Imię tej postaci również jest nieznane, 

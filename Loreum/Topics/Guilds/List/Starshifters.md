@@ -1,7 +1,7 @@
 # 🎇 Gwiazdounosiciele
 
 ---
-<span style="color:#8F3DA5">**uniwersum**</span> [✦](/Loreum/Tags.md#-universe)  
+<span style="color:#8F3DA5">**uniwersum**</span> [✦](/Loreum/Tags.md#-uniwersum)  
 
 ---
 **Gwiazdounosiciele** to sekretna magiczna organizacja utworzona w **Jitado** przez [Xaine](/Loreum/Topics/Characters/List/Xaine.md)

@@ -1,7 +1,7 @@
 # 🎎 Si Avani
 
 ---
-<span style="color:#8F3DA5">**uniwersum**</span> [✦](/Loreum/Tags.md#-universe)  
+<span style="color:#8F3DA5">**uniwersum**</span> [✦](/Loreum/Tags.md#-uniwersum)  
 
 ---
 **Si Avani** to mędrzec uznawany za Jitadczyka, żyjący w przybliżeniu między 700 CP 
