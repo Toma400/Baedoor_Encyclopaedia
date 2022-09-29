@@ -61,7 +61,7 @@ cities, being Baedoor, Isuga and Skirran.
 
 <table>
     <tr>
-        <th><img alt="Baedoor Flag" height="250" src="/Assets/flag_baedoor_city_early_se.png" width="380"/></th>
+        <td width="400"><img alt="Baedoor Flag" height="250" src="/Assets/flag_baedoor_city_early_se.png" width="380"/></td>
         <td>
             Digital reconstruction of Baedoor flag from 250 OE. Symbol on the far left were meant to be blades
             of two sabres, aiming in opposite directions - symbol of loyalty, brotherhood and honour. Star symbolises
