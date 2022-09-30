@@ -1,13 +1,13 @@
-# 🍁 New Era Timetable
-List of all events that have happened in New Era.
+# 🍁 Kalendarium Nowej Ery
+Lista wszystkich wydarzeń, które odbyły się w trakcie Nowej Ery.
 
-### General Timetable
-312 - Fall of Baedoor Empire
+### Ogólne kalendarium
+312 - Upadek Imperium Baedoor
 
 ---
-### Timetable by civilisation
+### Kalendarium przez cywilizację
 
-#### 🔹 [Ansur History](New_Era_Ansur.md)
+#### 🔹 [Kalendarium Ansur](New_Era_Ansur.md)
 
 ---
 ♜  

@@ -8,8 +8,8 @@ Kalendarium Evývind, pokrywające wszystkie wydarzenia czasu Starej Ery.
 
 | Data | Wydarzenie                                                                           |
 |:----:|:-------------------------------------------------------------------------------------|
-| 272  | Utworzenie **[Zakonu Mieczowego](/Loreum/Topics/Guilds/List/Order of the Sword.md)** |
-| 420  | Podbicie Evývind przez **Imperium Baedoor**.                                  |
+| 272  | Utworzenie **[Zakonu Mieczowego](/Loreum/Topics/Guilds/List/Order_of_the_Sword.md)** |
+| 420  | Podbicie Evývind przez **Imperium Baedoor**.                                         |
 
 ---
 ♢: pre-era/new-era, elements of events  
