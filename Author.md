@@ -372,12 +372,12 @@ TAGI:
 | 2021-12-30 | 17  | 🎶  | 2021 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2021/12/2021-aotys.html)                            | 
 
 ---
-### 🈁 FONTS
-As weirdly as it may sound, I even were creating fonts, usually for Baedoor universe.
+### 🈁 CZCIONKI
+Tworzę również czcionki, zwykle używane dla uniwersum Baedoor.
 
-| Nazwa               | Purpose                   | License                                        | Link                                                                                        |
-|---------------------|---------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------|
-| Ghloddish Universal | Use of ghloddish alphabet | Free for non-commercial use related to Baedoor | [Drive](https://drive.google.com/file/d/1RZWHZTH8N5n-1uzn4mSEcLsvttTbLYwd/view?usp=sharing) |
+| Nazwa               | Cel                           | Licencja                                                              | Link                                                                                        |
+|---------------------|-------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Ghloddish Universal | Użycie alfabetu głoddyjskiego | Darmowy dla projektów niekomercjalnych związanych z uniwersum Baedoor | [Drive](https://drive.google.com/file/d/1RZWHZTH8N5n-1uzn4mSEcLsvttTbLYwd/view?usp=sharing) |
 
 ---
 ### ☠️ ZGUBIONE I ZNALEZIONE

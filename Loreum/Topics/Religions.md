@@ -1,14 +1,14 @@
-# 🕌 Religions
-List of all religions in Baedoor universe.
+# 🕌 Religie
+Lista wszystkich religii w uniwersum Baedoor.
 
 ---
 
-### Main religions
+### Główne religie
 
-### Smaller religions
-- [Temple of I'si](Religions/Small/Temple_of_I'si.md)
+### Mniejsze religie
+- [Kościół I'si](Religions/Small/Temple_of_I'si.md)
 
-### Sects
+### Sekty
 
 ---
 ✥♜: ghloddish, ormath, saphtri, terten, creativistic, baedoor, i'sh'h, lasuri, vancuerto, elders,
