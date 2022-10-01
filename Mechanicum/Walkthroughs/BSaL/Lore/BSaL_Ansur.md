@@ -1,7 +1,7 @@
 # 📿 Ansur
 
 ---
-**🪔 The Isle of Ansur** (2018)
+**🪔 Between Shadows and Light** (2018)
 
 ---
 Original BSaL game takes place in 216 NE, when Ansur was still more of a transit place than real

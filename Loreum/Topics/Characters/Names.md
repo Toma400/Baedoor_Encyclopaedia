@@ -35,8 +35,6 @@ or just if you would like to look at cultural differences between civilisations.
 
 | Name      | Localisation           | Description                                                 |
 |-----------|------------------------|-------------------------------------------------------------|
-| Neerhe    | Isuga and surroundings | Old Isuga-related house, without aristocratic roots         | 
-| Varteford | Baedoor city           | Aristocratical name                                         |
 | Veronica  | Whole Baedoor          | Commonly used, especially among lower aristocratic families |
 
 ---
@@ -77,13 +75,15 @@ or just if you would like to look at cultural differences between civilisations.
 ---
 
 ### Baedoorian Surnames
-| Surname   | Localisation          | Description                                                        |
-|-----------|-----------------------|--------------------------------------------------------------------|
-| Gorth     | Whole Baedoor         | Common surname                                                     |
-| Naevos    | Ansur                 | Surname coming from trish Nai and arennian-baedoorian Vos families |
-| Velga, le | East Baedoor          | Aristocratic surname, of Isuga heritage                            |
-| Vos       | Arennan, West Baedoor | Rare surname connected with Arennan naming                         |
-| Winfleton | West Baedoor          | Aristocratic name, nowadays recognised with **Heim Winfleton**     |
+| Surname   | Localisation           | Description                                                        |
+|-----------|------------------------|--------------------------------------------------------------------|
+| Gorth     | Whole Baedoor          | Common surname                                                     |
+| Naevos    | Ansur                  | Surname coming from trish Nai and arennian-baedoorian Vos families |
+| Neerhe    | Isuga and surroundings | Old Isuga-related house, without aristocratic roots                | 
+| Varteford | Baedoor city           | Aristocratical surname                                             |
+| Velga, le | East Baedoor           | Aristocratic surname, of Isuga heritage                            |
+| Vos       | Arennan, West Baedoor  | Rare surname connected with Arennan naming                         |
+| Winfleton | West Baedoor           | Aristocratic name, nowadays recognised with **Heim Winfleton**     |
 
 ---
 ### Jitadian Surnames

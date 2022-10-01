@@ -1,6 +1,7 @@
 # 🏕️ Locations
 
 ### Summary:
+- ["Arennan" Ship](BSaL_Locations.md#arennan-ship)
 - [Evros](BSaL_Locations.md#evros)
 - [Evros Docks](BSaL_Locations.md#evros-docks)
 - [Evros Fields](BSaL_Locations.md#evros-fields)
