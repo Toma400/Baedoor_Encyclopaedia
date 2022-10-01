@@ -1,18 +1,18 @@
 # 📿 Evros
 
 ---
-**🪔 The Isle of Ansur** (2018)
+**🪔 Between Shadows and Light** (2018)
 
 ---
-Evros in BSaL is portrayed as small city, with tavern, bank and few shops. This isn't perfectly
-accurate vision of what was there at the time, but close enough considering game being simplified
-vision, focused more on gameplay than lore.
+Evros w grze BSaL jest ukazane jako małe miasto, z tawerną, bankiem i kilkoma sklepami. Nie jest
+to najbardziej precyzyjna wizja tego, co wówczas było, jednak dostatecznie precyzyjna, by
+wizja z BSaL była uznawana za poprawne źródło.
 
 ---
-### Lore accuracy
-**Between Shadows and Light** accuracy is high, as it does not touch many aspects of the lore, and
-also coherence of lore was already enough at the time. Everything written here is considered
-as valid source.
+### Zgodność ze światem
+**Between Shadows and Light** posiada wysoki stopień zgodności ze światem, jako że nie porusza
+wielu aspektów uniwersum, a również jego spójność była wówczas dość wysoka. Wszystko co tutaj
+zapisane jest uznawane za poprawne źródło.
 
 ---
 [💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [📿](/Mechanicum/Walkthroughs/BSaL/BSaL_Lore.md)

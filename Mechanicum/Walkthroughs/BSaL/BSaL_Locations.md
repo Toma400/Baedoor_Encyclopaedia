@@ -1,25 +1,27 @@
-# 🏕️ Locations
+# 🏕️ Lokacje
 
-### Summary:
+### Podsumowanie:
+- [Statek "Arennan"](BSaL_Locations.md#statek-arennan)
 - [Evros](BSaL_Locations.md#evros)
-- [Evros Docks](BSaL_Locations.md#evros-docks)
-- [Evros Fields](BSaL_Locations.md#evros-fields)
+- [Pola Evros](BSaL_Locations.md#pola-evros)
+- [Port Evros](BSaL_Locations.md#port-evros)
 
 ---
-#### "Arennan" Ship
-Tutorial location on which game started. You can do your first quest there, as well as learn
-how to navigate and fight. After first fight, ship docks in Evros port, allowing you to
-go elsewhere.
+#### Statek "Arennan"
+Lokacja tutorialowa. Możesz tam znaleźć pierwsze zadanie, jak i również nauczyć się nawigować
+w grze i walczyć. Po pierwszej walce, statek przybija do portu Evros, umożliwiając podróż
+na ląd.
 
-#### Evros Docks
-Starting point of free-roaming mode of the game, after tutorial part. Here you can get your first
-quests, as well as go further into Evros city. In docks you can visit tavern, mage shop, as well
-as look at warehouse.
+#### Port Evros
+Początkowe miejsce w grze, po zejściu ze statku "Arennan". Możesz tutaj znaleźć pierwsze
+zadania, jak i również przejść głębiej do wnętrza miasta Evros. W porcie możesz odwiedzić
+tawernę, sklep magiczny, jak i również podejść do magazynu.
 
 #### Evros
-Main place for services offered in game. It contains general shop, alchemical shop, smith, bank,
-and also newspaper boy from who you can buy magazine on local news.
+Główne miejsce usług w grze. Posiada sklep ogólny, sklep alchemiczny, kowala, bank, jak i
+również chłopca gazetowego, od którego możesz kupić gazetę mówiącą o lokalnych wydarzeniach.
 
-#### Evros Fields
-The furthest location in the game, depicting - at the time - wilderness of the city. It is also
-the most profitable area, as you can gather several resources which you can then sell back.
+#### Pola Evros
+Najdalej wysunięta lokacja w grze, ukazująca - wówczas - dzikie rejony na granicy miasta.
+Jest to też bardzo ważna lokacja ze względu na surowce, które możesz zdobyć i sprzedać
+później w mieście.

@@ -1,17 +1,17 @@
 # 📿 Ansur
 
 ---
-**🪔 The Isle of Ansur** (2018)
+**🪔 Between Shadows and Light** (2018)
 
 ---
-Original BSaL game takes place in 216 NE, when Ansur was still more of a transit place than real
-island. Although earning a lot by this practice alone, it lacked stronger hand to benefit.
+Oryginalna gra BSaL toczy się w roku 216 NE, gdy Ansur było wciąż bardziej miejscem tranzytowym,
+niż faktyczną wyspą z dużym znaczeniem politycznym.
 
 ---
-### Lore accuracy
-**Between Shadows and Light** accuracy is high, as it does not touch many aspects of the lore, and
-also coherence of lore was already enough at the time. Everything written here is considered
-as valid source.
+### Zgodność ze światem
+**Between Shadows and Light** posiada wysoki stopień zgodności ze światem, jako że nie porusza
+wielu aspektów uniwersum, a również jego spójność była wówczas dość wysoka. Wszystko co tutaj
+zapisane jest uznawane za poprawne źródło.
 
 ---
 [💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [📿](/Mechanicum/Walkthroughs/BSaL/BSaL_Lore.md)

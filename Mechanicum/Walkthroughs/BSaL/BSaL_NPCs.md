@@ -1,12 +1,13 @@
-# 🎎 NPCs
+# 🎎 NPCe
 
-### Summary:
+### Podsumowanie:
 - [Dominic le Velga](BSaL_NPCs.md#dominic-le-velga)
-- [Unnamed sailor](BSaL_NPCs.md#unnamed-sailor)
+- [Bezimienny żeglarz](BSaL_NPCs.md#bezimienny-eglarz)
 
 ---
 #### Dominic le Velga
-We can find him in Evros docks. He tries to supervise goods lading onto his father's ship.
+Można go znaleźć w porcie Evros. Próbuje on nadzorować załadunek towarów na statek swojego
+ojca.
 
-#### Unnamed sailor
-You can find him in Evros docks. He can tell you what you can find on Ansur isle.
+#### Bezimienny żeglarz
+Możesz go znaleźć w porcie Evros. Opowie Ci on, co można znaleźć na wyspie Ansur.

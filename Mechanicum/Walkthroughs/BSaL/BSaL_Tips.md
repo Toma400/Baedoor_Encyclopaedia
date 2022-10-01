@@ -1,15 +1,17 @@
-# 🔅 Quests
-In general, Between Shadows and Light does not require you to be at any way good player. Its difficulty
-is low and you should be able to easily get around most of the situations. However, there are some
-ways which can make your journey a bit more easy.
+# 🔅 Porady i triki
+Ogółem, Between Shadows and Light nie wymaga od gracza bycia dobrym. Trudność gry jest relatywnie
+niska i powinno być łatwo wybrnąć z większości sytuacji. Jednakże, są pewne opcje, które
+ułatwią rozgrywkę jeszcze bardziej.
 
-### Banking
-Getting your bank account started, as fast as possible, is very good way of earning income. Not only
-your money amount will raise, but in case of anything taking away a lot of money from you (let's be
-honest though: this will not happen) you can have safely stored money to withdraw.
+### Bankowość
+Założenie konta bankowego, zwłaszcza wczesne, jest bardzo dobrą formą zdobywania pieniędzy.
+Nie tylko pozwala to zarabiać, gdyż pieniądze w banku powoli wzrastają, ale również w sytuacji
+kryzysowej, gdy coś może odebrać Ci wszystkie pieniądze (bądźmy szczerzy, to niezbyt możliwe),
+będzie to dodatkowa rezerwa, siedząca bezpiecznie w skarbcu bankowym.
 
-### Gathering Hyerbitus
-On Evros fields, searching for herbs is extremely useful, especially as the only renewable noted
-quest is broken. With that, you can get hyerbitus from time to time, and it is useful for two reasons:
-- You can trade it off for 10 coins to herbalist in Evros
-- You can get water from trader and create cheaper small mixture of healing (for 9 coins instead of 12)
+### Zbieranie Hyerbitusa
+Na polach Evros, szukanie ziół jest bardzo użyteczny, zwłaszcza, że jedyne oficjalne powtarzające
+się zadanie jest zabugowane. Jednakże, zbieranie hyerbitusa od czasu do czasu pozwala niejako
+zrewanżować się w tej sytuacji:
+- Hyerbitusa możesz sprzedać za 10 monet w Evros, u zielarza
+- Możesz kupić wodę u handlarza i stworzyć tańszą miksturę leczenia (za 9 monet zamiast 12)
