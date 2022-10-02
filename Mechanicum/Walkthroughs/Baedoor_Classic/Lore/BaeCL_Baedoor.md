@@ -6,11 +6,80 @@
 ---
 ###Baedoor Showcase
 
-<img alt="Baedoor Archives, Photo 1" height="307" src="/Assets/arv_baedoor_1.jpg" width="416"/>
-<img alt="Baedoor Archives, Photo 2" height="272" src="/Assets/arv_baedoor_2.jpg" width="416"/>
-<img alt="Baedoor Archives, Photo 3" height="278" src="/Assets/arv_baedoor_3.jpg" width="408"/>
-<img alt="Baedoor Archives, Photo 4" height="288" src="/Assets/arv_baedoor_4.jpg" width="401"/>
-<img alt="Baedoor Archives, Photo 5" height="276" src="/Assets/arv_baedoor_5.jpg" width="407"/>
+<table>
+  <!--PHOTO 1-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 1" height="307" src="/Assets/arv_baedoor_1.jpg" width="416"/></td>
+    <th align="centre">Baedoor Gates</th>
+  </tr>
+  <tr>
+    <td>
+      First page visited us with city's gates, as well as typical early Baedoor shop selling various
+      herbs and vegetables.<br>
+      On this page, you were able to learn archery skills from archer on the walls, as well as get
+      your first mission in herbalist shop.
+    </td>
+  </tr>
+
+  <!--PHOTO 2-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 2" height="272" src="/Assets/arv_baedoor_2.jpg" width="416"/></td>
+    <th align="centre">Gneis's Inn</th>
+  </tr>
+  <tr>
+    <td>
+      Second page of Baedoor is showcasing <b>Gneis's Inn</b>, in which you were able to buy a room,
+      various drinks and meals, or get several quests. Or try luck with some dice gambling.
+    </td>
+  </tr>
+
+  <!--PHOTO 3-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 3" height="278" src="/Assets/arv_baedoor_3.jpg" width="408"/></td>
+    <th align="centre">Newspaper's Office</th>
+  </tr>
+  <tr>
+    <td>
+      Right near inn, there is Editorial Office for local newspaper. It featured both small quests for
+      player, as well as long-term job in which you would sell newspapers to citizens. 
+    </td>
+  </tr>
+
+  <!--PHOTO 4-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 4" height="288" src="/Assets/arv_baedoor_4.jpg" width="401"/></td>
+    <th align="centre">Town's Service Hall</th>
+  </tr>
+  <tr>
+    <td>
+      Fourth screen of notebook featured quite a service house, as building showcased on this page
+      served different functions:<br>
+      <ul>
+        <li><b>First floor</b> served as a small library in which you could borrow books</li>
+        <li><b>Second floor</b> were bank maintained by Falcur, in which you could deposit money
+            to withdraw them later with small interest rate</li>
+        <li>On <b>third floor</b> there is post office in which you could send letters and packages, 
+            as well as hire yourself as a postman to deliver those to others</li>
+      </ul>
+    </td>
+  </tr>
+
+  <!--PHOTO 5-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 5" height="276" src="/Assets/arv_baedoor_5.jpg" width="407"/></td>
+    <th align="centre">Worker's Guild</th>
+  </tr>
+  <tr>
+    <td>
+      Worker's Guild was built as a way for foreigners and citizens to get jobs from Town's Hall,
+      requiring a bit more specialisation. In there, you were able to be hired for jobs such as
+      telegraphing between cities or building a house with other workers.<br>
+      Additionally, Worker's Guild served as a way to monetize any rarer resources you could find,
+      such as ores, ingots and valuables.
+    </td>
+  </tr>
+
+</table>
 
 ---
 ### Lore accuracy
