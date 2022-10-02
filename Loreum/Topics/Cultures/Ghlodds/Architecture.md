@@ -7,7 +7,7 @@ Ghloddish architecture is combining cubes and spheres, usually using the latter 
 important buildings. The most important principle was that building need to be simple, yet connect
 to the environment.
 
-#### Housing
+#### 🧱 Housing
 Regular ghloddish houses are based on cuboid shape, containing - in most cases - three floors, and
 flat roof. Quite often there's also basement included, accessible from first floor's trapdoor.  
 Each of those levels have specific use:
@@ -36,7 +36,7 @@ for individual's heart.
   </tr>
 </table>
 
-#### Religious buildings
+#### 🕌 Religious buildings
 Religious buildings are different case in ghloddish architecture, as they serve the most important
 purpose of ghlodds culture - retelling the story of Gods' Union, praying and disputing the highest
 existential matters. As said at the top, religious architecture uses spheres, especially when it

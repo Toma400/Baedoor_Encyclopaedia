@@ -68,6 +68,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Ain    | West Moon                    | Semi-common tri name among all classes                                                             |
 | Ainji  | Whole Baedoor, Moon, Arennan | Common derivation of **Ain** appearing in New Era                                                  |
 | Asaai  | Arennan                      | Rare saphtri name                                                                                  |
+| Delai  | West Moon                    | Common tri name                                                                                    |
 | Heiyn  | Whole Baedoor, Rossevette    | Variant of **Heyn** name                                                                           |
 | Hes    | Arennan, rarely outside      | Rare saphtri name, may be impacted by ormath culture, as it does not appear natively anywhere else |
 | Heyn   | Whole Baedoor, Rossevette    | Baedoorised name, closest to be mix of **Heim** and **Ain** names                                  |
@@ -107,6 +108,7 @@ or just if you would like to look at cultural differences between civilisations.
 
 ---
 ### Tri Surnames
-| Surname | Localisation          | Description                                                   |
-|---------|-----------------------|---------------------------------------------------------------|
-| Nai     | West Moon, Rossevette | Rare surname, sometimes bound to lower  aristocratic families |
+| Surname | Localisation          | Description                                                        |
+|---------|-----------------------|--------------------------------------------------------------------|
+| Eir     | West Moon             | Common surname, usually of western and northern parts of continent |
+| Nai     | West Moon, Rossevette | Rare surname, sometimes bound to lower  aristocratic families      |

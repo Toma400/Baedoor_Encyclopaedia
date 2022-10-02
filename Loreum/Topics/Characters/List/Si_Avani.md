@@ -10,4 +10,4 @@ multiverse known to Baedoor universe - **Tamariel**.
 
 ---
 ♜✥  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](/Loreum/Topics/Characters/Jitadian_Characters.md)
