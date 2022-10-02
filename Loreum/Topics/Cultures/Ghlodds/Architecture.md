@@ -26,39 +26,57 @@ This separation of purposes help ghlodds to separate their worklife, social life
 life from each other, as those are placed in exact order: the higher the level, the closer it is
 for individual's heart.
 
-<img alt="Ghloddish House" height="312" src="/Assets/cult_ghloddish_house_1.jpg" width="244"/>
-<img alt="Ghloddish House" height="312" src="/Assets/cult_ghloddish_house_2.jpg" width="416"/>
-
-`drawing of ghloddish houses`
+<table>
+  <tr>
+    <td width="264"><img alt="Ghloddish House" height="312" src="/Assets/cult_ghloddish_house_1.jpg" width="244"/></td>
+    <td width="436"><img alt="Ghloddish House" height="312" src="/Assets/cult_ghloddish_house_2.jpg" width="416"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">Drawing of ghloddish houses</td>
+  </tr>
+</table>
 
 #### Religious buildings
 Religious buildings are different case in ghloddish architecture, as they serve the most important
 purpose of ghlodds culture - retelling the story of Gods' Union, praying and disputing the highest
 existential matters. As said at the top, religious architecture uses spheres, especially when it
-can serve some meaning.  
+can serve some meaning.
 
-Good representation of sphere use is **Ghloddish Chapel** building which is built commonly in cities.
-It does have towerish shape ended with half-sphere made entirely with glass layers put closely and
-creating mystical light mosaic inside, whenever sun or moon is shining through.
+<table>
+  <tr>
+    <th colspan="2" align="center">Ghloddish Chapel</th>
+  </tr>
+  <tr>
+    <td width="436"><img alt="Ghloddish Chapel" height="312" src="/Assets/cult_ghloddish_chapel.jpg" width="416"/></td>
+    <td>
+      Good representation of sphere use is <b>Ghloddish Chapel</b> building which is built commonly in 
+      cities.<br>
+      It does have towerish shape ended with half-sphere made entirely with glass layers put closely and
+      creating mystical light mosaic inside, whenever sun or moon is shining through.
+    </td>
+  </tr>
 
-<img alt="Ghloddish Chapel" height="312" src="/Assets/cult_ghloddish_chapel.jpg" width="416"/>
-
-`drawing of ghloddish chapel`
-
-Another religious building which is seen in ghloddish areas is observatorium, split into three
-constructions connected to each other. Similarly to housing levels, they all serve different purpose.  
-Square garden is entrypoint, which is available for all ghlodds to enter, though the guest should pray
-to gods when they are there. This part is used mostly for discussions and storing cheaper resources
-in aisle's rooms.
-The tower itself is used for astronomical observations, researching and storing books. The last part,
-room containing **ere'ete'ere**, The Sacred Circle, is place which only priests can go into. It
-officially serves as a praying place, but it also allows for entering catacombs below the tower.  
-Catacombs in general are just expansion allowing for studying and researching in quieter atmosphere,
-but also helps protecting the knowledge from profanes.
-
-<img alt="Ghloddish Observatorium" height="312" src="/Assets/cult_ghloddish_observatorium.jpg" width="416"/>
-
-`drawing of ghloddish observatorium`
+  <tr>
+    <th colspan="2" align="center">Ghloddish Observatorium</th>
+  </tr>
+  <tr>
+    <td width="436"><img alt="Ghloddish Observatorium" height="312" src="/Assets/cult_ghloddish_observatorium.jpg" width="416"/></td>
+    <td>
+      Another religious building which is seen in ghloddish areas is observatorium, split into three
+      constructions connected to each other. Similarly to housing levels, they all serve different 
+      purpose.<br><br>
+      Square garden is entrypoint, which is available for all ghlodds to enter, though the guest should 
+      pray to gods when they are there. This part is used mostly for discussions and storing cheaper 
+      resources in aisle's rooms.<br>
+      The tower itself is used for astronomical observations, researching and storing books. 
+      The last part, room containing <b>ere'ete'ere</b>, The Sacred Circle, is place which only priests
+      can go into. It officially serves as a praying place, but it also allows for entering catacombs 
+      below the tower.<br>  
+      Catacombs in general are just expansion allowing for studying and researching in quieter 
+      atmosphere, but also helps protecting the knowledge from profanes.
+    </td>
+  </tr>
+</table>
 
 ---
 ♜  
