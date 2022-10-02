@@ -5,6 +5,7 @@
 
 ---
 ###Baedoor Showcase
+City in **Baedoor Classic** is portrayed via notebook pages, as first chapter in there:
 
 <table>
   <!--PHOTO 1-->
