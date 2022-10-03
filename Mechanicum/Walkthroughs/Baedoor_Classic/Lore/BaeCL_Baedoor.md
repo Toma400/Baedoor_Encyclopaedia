@@ -79,6 +79,63 @@
     </td>
   </tr>
 
+  <!--PHOTO 6-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 6" height="278" src="/Assets/arv_baedoor_6.jpg" width="416"/></td>
+    <th align="centre">Guard's Tower & Smith</th>
+  </tr>
+  <tr>
+    <td>
+      This page of notebook showcases guard's tower and smith's house. Not only this was one of the
+      better place to visit if you needed some weapons, but also it showcased really interesting
+      twist of RPG system of the time: if you saved house from fire, you could go to guard's tower
+      and ask for reward - those were usually quite fair, such as 100 funts seen on photography.
+    </td>
+  </tr>
+
+  <!--PHOTO 7-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 7" height="276" src="/Assets/arv_baedoor_7.jpg" width="416"/></td>
+    <th align="centre">Alchemic's House</th>
+  </tr>
+  <tr>
+    <td>
+      Seventh page of Baedoor city showcases house of alchemic, Nelson, who has his own garden full
+      of various herbs. Very interesting part of this picture is that the features more round shape,
+      which can indicate sort of foreign inhabitant, as it resembles middle-era jitadian aristocratic
+      architecture.
+    </td>
+  </tr>
+
+  <!--PHOTO 8-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 8" height="192" src="/Assets/arv_baedoor_8.jpg" width="416"/></td>
+    <th align="centre">Barracks</th>
+  </tr>
+  <tr>
+    <td>
+      This screen is interesting, as it showcases how broadly RPG system at the time could go, as well
+      as showcases that notebook shows a lot of early Old Era elements: in barracks, player could
+      actually hire some soldiers, which was never a thing in later Old Era Baedoor, where you could
+      rather hire bandits or adventurers, but not in official town's barracks.<br>
+      Additionally, some of hired soldiers here are from lower races towards baedoorians, which was
+      also not a thing during later periods. Hence, this screen can showcase one of the earliest
+      times, when nomaths and native creature races were still pretty common.
+    </td>
+  </tr>
+
+  <!--PHOTO 9-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 9" height="280" src="/Assets/arv_baedoor_9.jpg" width="416"/></td>
+    <th align="centre">Hanyah's House and Small Public Square</th>
+  </tr>
+  <tr>
+    <td>
+      Ninth page of Baedoor city shows us house of Hanyah, seller of food, and also small public
+      square on which you could hire some musicians to play music.
+    </td>
+  </tr>
+
 </table>
 
 ---

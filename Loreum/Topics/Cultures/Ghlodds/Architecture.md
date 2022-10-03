@@ -44,7 +44,7 @@ can serve some meaning.
 
 <table>
   <tr>
-    <th colspan="2" align="center">Ghloddish Chapel</th>
+    <th colspan="2" align="right">Ghloddish Chapel</th>
   </tr>
   <tr>
     <td width="436"><img alt="Ghloddish Chapel" height="312" src="/Assets/cult_ghloddish_chapel.jpg" width="416"/></td>
@@ -57,7 +57,7 @@ can serve some meaning.
   </tr>
 
   <tr>
-    <th colspan="2" align="center">Ghloddish Observatorium</th>
+    <th colspan="2" align="right">Ghloddish Observatorium</th>
   </tr>
   <tr>
     <td width="436"><img alt="Ghloddish Observatorium" height="312" src="/Assets/cult_ghloddish_observatorium.jpg" width="416"/></td>

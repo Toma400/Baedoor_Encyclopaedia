@@ -23,6 +23,7 @@ or just if you would like to look at cultural differences between civilisations.
 
 | Name    | Localisation                  | Description                                                        |
 |---------|-------------------------------|--------------------------------------------------------------------|
+| Cryan   | East Baedoor                  | Rare name in early Old Era                                         |
 | Dominic | Whole Baedoor                 | Common name                                                        |
 | Entar   | Whole Baedoor                 | Common name originating from Jitado                                |
 | Entor   | Whole Baedoor                 | Baedoorised variant of *Entar*                                     |
@@ -30,10 +31,12 @@ or just if you would like to look at cultural differences between civilisations.
 | Falcur  | Baedoor city                  | Rare name with unknown origin, possibly baedoorised nomathian name |
 | Frode   | Whole Baedoor                 | Common old name                                                    |
 | Frodo   | Baedoor city                  | Rare variation of *Frode* name                                     |
+| Hanyah  | East Baedoor                  | Rare name                                                          |
 | Heim    | Whole Baedoor                 | Common name, originated from Baedoor Northern Coast                | 
 | Heimlig | Ansur, Baedoor Northern Coast | Probably mix of **Heim** and nordwinian suffix                     |
 | Indion  | Whole Baedoor                 | Rare name originating from Jitado                                  |
 | Marvin  | Whole Baedoor                 | Common name                                                        |
+| Nelson  | Whole Baedoor                 | Common name in Old Era, becoming rare in New Era                   |
 | Norran  | Whole Baedoor                 | Quite regular baedoorian name                                      |
 | Ovlan   | Whole Baedoor                 | Common name, usually more frequently found on Rakonnd Coast        |
 | Reduit  | Whole Baedoor                 | Common name of early Old Era                                       |
@@ -42,9 +45,12 @@ or just if you would like to look at cultural differences between civilisations.
 
 <center><span style="color:#668c99"><b>Female names</b></span></center>
 
-| Name      | Localisation           | Description                                                 |
-|-----------|------------------------|-------------------------------------------------------------|
-| Veronica  | Whole Baedoor          | Commonly used, especially among lower aristocratic families |
+| Name     | Localisation  | Description                                                         |
+|----------|---------------|---------------------------------------------------------------------|
+| Cryna    | East Baedoor  | Rare name used in Old Era, feminine variant of *Cryan*              |
+| Hanyah   | East Baedoor  | Rare name                                                           |
+| Veronica | Whole Baedoor | Commonly used, especially among lower aristocratic families         |
+| Wenyah   | East Baedoor  | Rare name used in Old Era, nomathian-influenced variant of *Hanyah* |
 
 ---
 ### Jitadian Names
@@ -52,6 +58,7 @@ or just if you would like to look at cultural differences between civilisations.
 
 | Name    | Localisation | Description                                  |
 |---------|--------------|----------------------------------------------|
+| Cryan   | Jitado       | Rare name used in harbour towns              |
 | Entar   | Jitado       | Common name                                  |
 | Frode   | Jitado       | Common name                                  |
 | Indion  | Jitado       | Rare name originating from jitadean language |
