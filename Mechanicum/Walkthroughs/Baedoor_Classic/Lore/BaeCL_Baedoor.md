@@ -4,9 +4,7 @@
 **🪔 Baedoor** (2008)
 
 ---
-
-###Baedoor Showcase
-City in **Baedoor Classic** is portrayed via notebook pages, as first chapter in there:
+### Baedoor Showcase
 
 <table>
   <!--PHOTO 1-->

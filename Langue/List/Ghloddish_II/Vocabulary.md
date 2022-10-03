@@ -27,6 +27,7 @@ Between **First Era** and **Second Era**, some elements of the language changed.
 | a'ar'ne'  | book                        | aa:r:ne:      | a'-ar'-n-e'   |                                                higher form of `ar'ne'`                                                 |
 |   a'oe'   | highland                    | a:oe:         | a'-oe'        |                                                        a' + oe'                                                        |
 |    a'r    | power, magical power        | a:r           | a'-r          |                                           got shortened from previous "ah'r"                                           |
+|   a'she   | woman                       | a:she         | a'-sh-e       |                                           a' + she (feminine prefix + being)                                           |
 |   a'y'    | lady                        | a:i:          | a'-y'         |                                                        a' + y'                                                         |
 |   ae'a    | water                       | ae:a          | a-e'-a        |                                    descriptive-wise, it does look like water waves                                     |
 |    ana    | destination                 | ana           | a-n-a         |                                                           -                                                            |
@@ -42,7 +43,10 @@ Between **First Era** and **Second Era**, some elements of the language changed.
 |    oe'    | land, world                 | oe:           | oe'           | sometimes portrayed as ehric-influenced `eh`, but this is usually debunked, as `oe'` existed before Ghlodds left caves |
 |    s'     | and                         | s:            | s'            |                                                           -                                                            |
 |    s'-    | masculine (prefix)          | ss            | s'            |                                                           -                                                            |
-|   s'y'    | man                         | ssi:          | s'-y'         |                                                        s' + y'                                                         |
+|   s'y'    | lord                        | ssi:          | s'-y'         |                                                        s' + y'                                                         |
+|   s'she   | man                         | s:she         | s'-sh-e       |                                          s' + she (masculine prefix + being)                                           |
+|    she    | entity, being               | she           | sh-e          |                                                           -                                                            |
+|    sur    | sun                         | sur           | s-u-r         |                                                           -                                                            |
 |   ta'hr   | inside                      | taahr         | ta-ah-r       |                                                           -                                                            |
 |  ta'shr   | cover, disguise             | taashr        | ta'-sh-r      |                                                           -                                                            |
 | ta'shrghe | shadow                      | taashrghe     | ta'-sh-r-gh-e |                                                      ta'shr + ghe                                                      |
@@ -58,6 +62,7 @@ Between **First Era** and **Second Era**, some elements of the language changed.
 |:---------------:|--------------|---------------|---------------|
 |       and       | s'           | s:            | s'            |
  |     (to) be     | ara          | ara           | a-r-a         |
+|      being      | she          | she           | sh-e          |
 |      book       | a'ar'ne'     | aa:r:ne:      | a'-ar'-n-e'   |
 |     bottom      | e'ana        | e:ana         | e'-a-n-a      |
 |      cover      | ta'shr       | taashr        | ta'-sh-r      |
@@ -65,6 +70,7 @@ Between **First Era** and **Second Era**, some elements of the language changed.
 |   destruction   | th're'       | thhre:        | th'-r-e'      |
 |    disguise     | ta'shr       | taashr        | ta'-sh-r      |
 |      down       | e'ana        | e:ana         | e'-a-n-a      |
+|     entity      | she          | she           | sh-e          |
 |   extinction    | th're'       | thhre:        | th'-r-e'      |
 |      guide      | y'           | i:            | y'            |
 |    feminine     | a'- (prefix) | a:            | a'            |
@@ -75,8 +81,9 @@ Between **First Era** and **Second Era**, some elements of the language changed.
 |      lady       | a'y'         | a:i:          | a'-y'         |
 |      land       | oe'          | oe:           | oe'           |
 | letter (symbol) | ar'ne'       | arrne:        | ar'-n-e'      |
+|      lord       | s'y'         | ssi:          | s'-y'         |
 |      lower      | e'- (prefix) | e:            | e'            |
-|       man       | s'y'         | ssi:          | s'-y'         |
+|       man       | s'she        | s:she         | s'-sh-e       |
 |    masculine    | s'- (prefix) | s:            | s'            |
 |     master      | y'           | i:            | y'            |
  |       me        | asa'         | asa:          | a-s-a'        |
@@ -86,10 +93,12 @@ Between **First Era** and **Second Era**, some elements of the language changed.
 |     shadow      | ta'shrghe    | taashrghe     | ta'-sh-r-gh-e |
 |      soul       | ghe          | ghe           | gh-e          |
 |     spirit      | ghe          | ghe           | gh-e          |
+|       sun       | sur          | sur           | s-u-r         |
 |       top       | a'ana        | a:ana         | a'-a-n-a      |
 |       up        | a'ana        | a:ana         | a'-a-n-a      |
 |     valley      | e'oe'        | e:oe:         | e'-oe'        |
 |      water      | ae'a         | ae:a          | a-e'-a        |
+|      woman      | a'she        | a:she         | a'-sh-e       |
 |      word       | ar'e'        | arre:         | ar'-e'        |
 |      world      | oe'          | oe:           | oe'           |
 |       yes       | thar         | thar          | th-ar         |

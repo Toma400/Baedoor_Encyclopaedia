@@ -21,6 +21,7 @@
 |   a'e'e   | lady                        | a:e:e         | a'-e'-e       |                                                        a' + e'e                                                        |
 |   a'oe'   | highland                    | a:oe:         | a'-oe'        |                                                        a' + oe'                                                        |
 |    a'r    | moon                        | a:r           | a'-r          |                                      `a'` tells about feminine aspect of goddess                                       |
+|   a'she   | woman                       | a:she         | a'-sh-e       |                                           a' + she (feminine prefix + being)                                           |
 |   ae'a    | water                       | ae:a          | a-e'-a        |                                    descriptive-wise, it does look like water waves                                     |
 |   ah'r    | power, magical power        | ahhr          | ah'-r         |                                                           -                                                            |
 |    ana    | destination                 | ana           | a-n-a         |                                                           -                                                            |
@@ -36,7 +37,10 @@
 |    oe'    | land, world                 | oe:           | oe'           | sometimes portrayed as ehric-influenced `eh`, but this is usually debunked, as `oe'` existed before Ghlodds left caves |
 |    s'     | and                         | s:            | s'            |                                                           -                                                            |
 |    s'-    | masculine (prefix)          | ss            | s'            |                                                           -                                                            |
-|   s'e'e   | man                         | sse:e         | s'-e'-e       |                                                        s' + e'e                                                        |
+|   s'e'e   | lord                        | sse:e         | s'-e'-e       |                                                        s' + e'e                                                        |
+|    s'r    | sun                         | s:r           | s'-r          |                                                           -                                                            |
+|   s'she   | man                         | s:she         | s'-sh-e       |                                          s' + she (masculine prefix + being)                                           |
+|    she    | entity, being               | she           | sh-e          |                                                           -                                                            |
 |   ta'hr   | inside                      | taahr         | ta-ah-r       |                                                           -                                                            |
 |  ta'shr   | cover, disguise             | taashr        | ta'-sh-r      |                                                           -                                                            |
 | ta'shrghe | shadow                      | taashrghe     | ta'-sh-r-gh-e |                                                      ta'shr + ghe                                                      |
@@ -51,6 +55,7 @@
 |:---------------:|--------------|---------------|---------------|
 |       and       | s'           | s:            | s'            |
  |     (to) be     | ara          | ara           | a-r-a         |
+|      being      | she          | she           | sh-e          |
 |      book       | a'ar'ne'     | aa:r:ne:      | a'-ar'-n-e'   |
 |     bottom      | e'ana        | e:ana         | e'-a-n-a      |
 |      cover      | ta'shr       | taashr        | ta'-sh-r      |
@@ -58,6 +63,7 @@
 |   destruction   | th'se'       | thhse:        | th'-s-e'      |
 |    disguise     | ta'shr       | taashr        | ta'-sh-r      |
 |      down       | e'ana        | e:ana         | e'-a-n-a      |
+|     entity      | she          | she           | sh-e          |
 |   extinction    | th'se'       | thhse:        | th'-s-e'      |
 |      guide      | e'e          | e:e           | e'-e          |
 |    feminine     | a'- (prefix) | a:            | a'            |
@@ -68,8 +74,9 @@
 |      lady       | a'e'e        | a:e:e         | a'-e'-e       |
 |      land       | oe'          | oe:           | oe'           |
 | letter (symbol) | ar'ne'       | arrne:        | ar'-n-e'      |
+|      lord       | s'e'e        | sse:e         | s'-e'-e       |
 |      lower      | e'- (prefix) | e:            | e'            |
-|       man       | s'e'e        | sse:e         | s'-e'-e       |
+|       man       | s'she        | s:she         | s'-sh-e       |
 |    masculine    | s'- (prefix) | s:            | s'            |
 |     master      | e'e          | e:e           | e'-e          |
  |       me        | asa'         | asa:          | a-s-a'        |
@@ -79,10 +86,12 @@
 |     shadow      | ta'shrghe    | taashrghe     | ta'-sh-r-gh-e |
 |      soul       | ghe          | ghe           | gh-e          |
 |     spirit      | ghe          | ghe           | gh-e          |
+|       sun       | s'r          | s:r           | s'-r          |
 |       top       | a'ana        | a:ana         | a'-a-n-a      |
 |       up        | a'ana        | a:ana         | a'-a-n-a      |
 |     valley      | e'oe'        | e:oe:         | e'-oe'        |
 |      water      | ae'a         | ae:a          | a-e'-a        |
+|      woman      | a'she        | a:she         | a'-sh-e       |
 |      word       | ar'e'        | arre:         | ar'-e'        |
 |      world      | oe'          | oe:           | oe'           |
 |       yes       | thar         | thar          | th-ar         |
