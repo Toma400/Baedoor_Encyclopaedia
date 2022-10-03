@@ -14,7 +14,7 @@
         <th>Timeframe</th>
         <td>Various</td>
         <td rowspan="2">
-            🕌 <a href="/Lore/BaeCL_Baedoor.md">Baedoor</a>
+            🕌 <a href="Lore/BaeCL_Baedoor.md">Baedoor</a>
         </td>
     </tr>
     <tr>

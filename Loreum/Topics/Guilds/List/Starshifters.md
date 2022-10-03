@@ -15,5 +15,10 @@ mages and scientists.
 Their identities are unknown for public except for few messengers revealed during establishment of
 **International Council of Oververse Exploration**.
 
+### Notable starshifters
+- [Esh Enahr](/Loreum/Topics/Characters/List/Esh_Enahr.md)
+- [Si Avani](/Loreum/Topics/Characters/List/Si_Avani.md)
+- [Xaine](/Loreum/Topics/Characters/List/Xaine.md)
+
 ---
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Guilds.md)

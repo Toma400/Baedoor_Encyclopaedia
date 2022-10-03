@@ -22,7 +22,9 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### E
 - [East Moon](Topics/Geography/East_Moon.md)
 - [Eir, Delai](Topics/Characters/List/Delai_Eir.md)
+- [Enahr, Esh](Topics/Characters/List/Esh_Enahr.md)
 - [Enfrvein](Topics/Geography/Jitado/Cities/Places/Enfrvein.md)
+- [Esh Enahr](Topics/Characters/List/Esh_Enahr.md)
 - [Evros](Topics/Geography/East_Moon/Cities/Evros.md)
 
 ### F

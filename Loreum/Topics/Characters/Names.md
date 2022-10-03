@@ -63,7 +63,8 @@ or just if you would like to look at cultural differences between civilisations.
 | Frode   | Jitado       | Common name                                  |
 | Indion  | Jitado       | Rare name originating from jitadean language |
 | Jiro    | Jitado       | Rare name                                    |
-| Sin     | Jitado       | Common name                                  |
+| Si      | Jitado       | Common name in Pre Era                       |
+| Sin     | Jitado       | Common name, may be evolution of *Si*        |
 | Sjiniro | Jitado       | Obscure combination of Sin and Jiro names    |
 
 ---
@@ -109,13 +110,15 @@ or just if you would like to look at cultural differences between civilisations.
 ---
 ### Jitadian Surnames
 
-| Name      | Localisation | Description                     |
-|-----------|--------------|---------------------------------|
-| Itahmutsi | Jitado       | Very rare surname, from Adelaie |
+| Name      | Localisation      | Description                     |
+|-----------|-------------------|---------------------------------|
+| Avani     | South-East Jitado | Trader house surname            |
+| Itahmutsi | Jitado            | Very rare surname, from Adelaie |
 
 ---
 ### Tri Surnames
-| Surname | Localisation          | Description                                                        |
-|---------|-----------------------|--------------------------------------------------------------------|
-| Eir     | West Moon             | Common surname, usually of western and northern parts of continent |
-| Nai     | West Moon, Rossevette | Rare surname, sometimes bound to lower  aristocratic families      |
+| Surname | Localisation                      | Description                                                        |
+|---------|-----------------------------------|--------------------------------------------------------------------|
+| Aranai  | Whole Baedoor, but mostly Arennan | Saphtri noble surname, sometimes taken as gods' patronage          |
+| Eir     | West Moon                         | Common surname, usually of western and northern parts of continent |
+| Nai     | West Moon, Rossevette             | Rare surname, sometimes bound to lower  aristocratic families      |

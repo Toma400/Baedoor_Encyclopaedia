@@ -59,6 +59,21 @@ There are only few who are known to travel physically through oververse, and tho
 as the wisest oneironauts.  
 The only such oneironaut known for Baedoor universe is [Xaine](/Loreum/Topics/Characters/List/Xaine.md).
 
+**DISPUTES**  
+Several oververse scientists believe in third and fourth systems to be reversed - so, metaphysical
+and oververses being affected by (higher) multiversal system, thus highest gods having their
+infinite variants, samely with some places (such as Void) being the same.  
+Those theories are though considered as less possible due to current theory having more coherency
+within itself, and separating metaphysical plane from multiverses (which are understood as still
+working on physical plane, just to exceptional precision).  
+Some more religious scientists also call those "lower oververse theory" as profane, since it does
+state that there's no absolute god, but all of them being ruled by physical power.
+
+A lot of this comes from interesting division, because theorists believing in oververse being on top of
+everything consider gods visiting all planes.  
+In the same time, those putting oververse lower tend to absolutify multiverse as sole system, without 
+anything added but mechanics. Therefore gods can exist only on lower planes in this concept.
+
 ---
 ### ♨️ HISTORY
 Concept of Oververse appeared in Baedoor world quite early, considering first discovery was made 
@@ -73,16 +88,16 @@ placement is, though, way more arbitrary:
 
 Multiverses were discovered in such chronology as the table below showcases:
 
-| Date of discovery | Multiverse | Explorer                                               | Possible Earth-understanding                 |
-|-------------------|------------|--------------------------------------------------------|----------------------------------------------|
- | 655 PE            | Tamariel   | [Si Avani](/Loreum/Topics/Characters/List/Si_Avani.md) | Tamriel, Elder Scrolls universe              |
- | 272 PE            | Uru'ai     |                                                        | Myst / Uru universe                          |
- | 463 OE            | Osde'in    |                                                        | DiscWorld universe                           |
- | 431 NE            | Ins'in     | Tehom Aranai                                           | Nalqiwatya                                   |
- | 637 NE            | Eis'in     |                                                        | End's Phantasm                               |
- | 638 NE            | Ne'rin     |                                                        | Minecraft universe                           |
- | 654 NE            | Ne'n       |                                                        | Breach dimensions between Ne'rin and Baedoor |
- | 654 NE            | Aji'n      |                                                        | Desolat and Deeper Undergrowth breaches      |
+| Date of discovery | Multiverse | Explorer                                                 | Possible Earth-understanding                 |
+|-------------------|------------|----------------------------------------------------------|----------------------------------------------|
+ | 655 PE            | Tamariel   | [Si Avani](/Loreum/Topics/Characters/List/Si_Avani.md)   | Tamriel, Elder Scrolls universe              |
+ | 272 PE            | Uru'ai     | [Esh Enahr](/Loreum/Topics/Characters/List/Esh_Enahr.md) | Myst / Uru universe                          |
+ | 463 OE            | Osde'in    |                                                          | DiscWorld universe                           |
+ | 431 NE            | Ins'in     | Tehom Aranai                                             | Nalqiwatya                                   |
+ | 637 NE            | Eis'in     |                                                          | End's Phantasm                               |
+ | 638 NE            | Ne'rin     |                                                          | Minecraft universe                           |
+ | 654 NE            | Ne'n       |                                                          | Breach dimensions between Ne'rin and Baedoor |
+ | 654 NE            | Aji'n      |                                                          | Desolat and Deeper Undergrowth breaches      |
 
 <span style="color:#0099cc">**THE RIFT OUTBREAK**</span>  
 Important event which is needed to be mentioned happened in **494 NE**, being called as <span style="color:#0099cc">**The Rift 
