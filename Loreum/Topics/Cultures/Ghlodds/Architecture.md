@@ -21,6 +21,7 @@ Each of those levels have specific use:
 - Roof is place where ghlodds spend their evenings with family, sometimes close friends, which is
   considered as almost ritualistic habit. The campfire is lit, and in case of rain, special tilt can
   be stretched to cover the roof, with material allowing rain to slip, and campfire smoke to go through.
+  It can be also useful in case of sun excess.
 
 This separation of purposes help ghlodds to separate their worklife, social life and private (family)
 life from each other, as those are placed in exact order: the higher the level, the closer it is
@@ -35,6 +36,9 @@ for individual's heart.
     <td colspan="2" align="center">Drawing of ghloddish houses</td>
   </tr>
 </table>
+
+This level system spread and influenced a lot of architecture styles in other cultures, most notably
+Jitado and Mes Inpea ones.
 
 #### 🕌 Religious buildings
 Religious buildings are different case in ghloddish architecture, as they serve the most important
