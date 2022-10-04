@@ -136,6 +136,96 @@
     </td>
   </tr>
 
+  <!--PHOTO 10-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 10" height="192" src="/Assets/arv_baedoor_10.jpg" width="410"/></td>
+    <th align="centre">Baedoor Court</th>
+  </tr>
+  <tr>
+    <td>
+      This page does contain only court and another small public square for this building.
+    </td>
+  </tr>
+
+  <!--PHOTO 11-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 11" height="225" src="/Assets/arv_baedoor_11.jpg" width="416"/></td>
+    <th align="centre">Jail and Guardhouse</th>
+  </tr>
+  <tr>
+    <td>
+      Eleventh page is complementary to tenth one, as it features jail and guardhouse, most likely
+      being close due to court nearby. Contrary to late jails, though, it is built as a small, standalone
+      place, while late OE Baedoor had jail as a bigger buildings. Additionally, Castle dungeons served
+      as a jail as well.
+    </td>
+  </tr>
+
+  <!--PHOTO 12-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 12" height="281" src="/Assets/arv_baedoor_12.jpg" width="416"/></td>
+    <th align="centre">Mill and Sewing House</th>
+  </tr>
+  <tr>
+    <td>
+      On this page, typical industrial districts of Baedoor continue, featuring sewing house and
+      mill. What is interesting is that near mill, there's flour storage made in shack-like style.
+    </td>
+  </tr>
+
+  <!--PHOTO 13-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 13" height="270" src="/Assets/arv_baedoor_13.jpg" width="416"/></td>
+    <th align="centre">Townhall</th>
+  </tr>
+  <tr>
+    <td>
+      Thirteenth page shows townhall, with current Baedoor administrator, Hastings, which gives a
+      feeling of very early period of Old Era, when this was main part of Baedoor city, before all
+      administrative tasks became governed by castle itself, leaving administrators only small part
+      of previous duties.
+    </td>
+  </tr>
+
+  <!--PHOTO 14-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 14" height="277" src="/Assets/arv_baedoor_14.jpg" width="416"/></td>
+    <th align="centre">Butcher</th>
+  </tr>
+  <tr>
+    <td>
+      This kinda unique part is butcher's house, but it is unusual to see it stuck between administrative
+      parts of the city, especially with building reminding village style.
+    </td>
+  </tr>
+
+  <!--PHOTO 15-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 15" height="289" src="/Assets/arv_baedoor_15.jpg" width="416"/></td>
+    <th align="centre">Mages Guild</th>
+  </tr>
+  <tr>
+    <td>
+      This page is ending part of Baedoor showcased in Classic notebooks, and it shows quite interesting
+      building of Mages Guild, inspired heavily by Vershaton architecture, which was rare encounter
+      in the world. It makes more sense though to portray it as early OE thing than late OE, as late
+      period unified architectural style a lot and such building could be built in early OE at some
+      point.
+    </td>
+  </tr>
+
+  <!--PHOTO 16-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 16" height="268" src="/Assets/arv_baedoor_16.jpg" width="416"/></td>
+    <th align="centre">Leaving Gates</th>
+  </tr>
+  <tr>
+    <td>
+      The precise position of those gates is unknown, as fields beyond them seem to point to eastern
+      gate, yet it may as well be northern one, considering high incoherency of this data.
+    </td>
+  </tr>
+
 </table>
 
 ---
