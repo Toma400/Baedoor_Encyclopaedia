@@ -3,7 +3,7 @@ East Moon is part of **Moon Continent**, on the east side of **the Scarp**.
 
 ### GEOGRAPHY
 
-<img alt="East Moon Sketch" height="520" src="/Assets/map_east_moon.png" width="390"/>
+<img alt="East Moon Sketch" height="520" src="/Assets/Maps/east_moon.png" width="390"/>
 
 ``Sketch of East Moon, with incorrectly shown Agoi Archipelago which should be positioned way higher``
 

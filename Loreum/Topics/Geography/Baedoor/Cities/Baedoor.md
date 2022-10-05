@@ -38,7 +38,7 @@ into Baedoor at the time.
             <b>6</b> 🔹 Cityguard headquarters (Northern Guardpost)<br>
             <b>7</b> 🔹 Slum Guardpost<br>
         </td>
-        <td width="525"><img alt="Baedoor City Map" height="408" src="/Assets/map_baedoor_city_early_se.jpg" width="520"/></td>
+        <td width="525"><img alt="Baedoor City Map" height="408" src="/Assets/Maps/baedoor_city_early_se.jpg" width="520"/></td>
     </tr>
 </table>
 
@@ -60,8 +60,8 @@ around.
 
 <table>
     <tr>
-        <td width="400"><img alt="Baedoor, High District" height="520" src="/Assets/high_district.jpg" width="390"/></td>
-        <td width="340"><img alt="Baedoor, High District" height="282" src="/Assets/map_baedoor_city_arist_district_early_se.jpg" width="334"/></td>
+        <td width="400"><img alt="Baedoor, High District" height="390" src="/Assets/high_district.jpg" width="295"/></td>
+        <td width="340"><img alt="Baedoor, High District Map" height="422" src="/Assets/Maps/baedoor_city_aristocr_district_early_se.jpg" width="499"/></td>
     </tr>
     <tr>
         <td>House in High District, early OE</td>

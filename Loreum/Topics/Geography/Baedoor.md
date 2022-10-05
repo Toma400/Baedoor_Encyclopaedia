@@ -1,6 +1,6 @@
 # 🌄 Baedoor
 
-<img alt="Baedoor Island map" height="342" src="/Assets/map_baedoor_island.jpg" width="520"/>
+<img alt="Baedoor Island map" height="342" src="/Assets/Maps/baedoor_island.jpg" width="520"/>
 
 Baedoor is the biggest island on Anahsahei Continent, containing three big lands inside - Baedoor,
 Rakonnd Coast and Vershaton.  

@@ -1,5 +1,5 @@
 # 🏞️ Ansur Isle
-<img alt="Ansur Map" height="390" src="/Assets/map_ansur.jpg" width="520"/>
+<img alt="Ansur Map" height="390" src="/Assets/Maps/ansur.jpg" width="520"/>
 
 ``Simplified map of Ansur Isle as of 920 NE``
 
