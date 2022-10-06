@@ -22,6 +22,8 @@ to decide whether to invest in one or another.
                   and magic handling
    - Traveller - class slightly supporting traveller skills, as well as giving you special 
                  prices in inns and taverns (mostly for sleepovers)
+- During character creation, new option to determine religious affiliation is added (which grants
+  additional bonuses, is used later in lore gameplay and for marriage)
 - Addition of new skills and activities (first edition parity):
    - Activities:
      - Fishing

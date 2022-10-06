@@ -10,6 +10,28 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
 
 ## MAIN RACES
 
+<table>
+    <tr align="center">
+        <td colspan="5"><p style="font-size:25px"><b>Human</b></p>✥ Has subraces ✥</td>
+    </tr>
+    <tr align="center">
+        <td>Avatar</td><td>Attributes</td><td>Skills</td><td>Modifiers</td><td>Description</td>
+    </tr>
+    <tr align="center">
+        <td width="300"><img alt="Human" height="300" src="/Assets/race_human.png" width="300"/></td>
+        <td align="left" width="100">
+            ✴️STR +1<br>
+            ☯️CHA +1<br>
+            💠INT +1
+        </td>
+        <td> Managed by subraces </td>
+        <td> None </td>
+        <td>
+            One of main races living in Baedoor universe. Their flexibility is their biggest strength,
+            allowing their existence on nearly every continent possible.
+        </td>
+    </tr>
+</table>
 
 **HUMAN**  
 Has subraces.  
