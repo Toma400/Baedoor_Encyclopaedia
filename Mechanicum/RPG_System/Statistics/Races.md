@@ -12,35 +12,71 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
 
 <table>
     <tr align="center">
-        <td colspan="5"><p style="font-size:25px"><b>Human</b></p>✥ Has subraces ✥</td>
+        <th colspan="5"><p style="font-size:25px"><b>Human</b></p>🗿 Has subraces</th>
     </tr>
     <tr align="center">
-        <td>Avatar</td><td>Attributes</td><td>Skills</td><td>Modifiers</td><td>Description</td>
+        <th>Avatar</th><th>Attributes</th><th>Skills</th><th>Modifiers</th><th>Description</th>
     </tr>
     <tr align="center">
-        <td width="300"><img alt="Human" height="300" src="/Assets/race_human.png" width="300"/></td>
-        <td align="left" width="100">
+        <td width="100"><img alt="Human" height="100" src="/Assets/race_human.png" width="100"/></td>
+        <td align="left" width="110">
             ✴️STR +1<br>
             ☯️CHA +1<br>
             💠INT +1
         </td>
-        <td> Managed by subraces </td>
-        <td> None </td>
+        <td width="110"> Managed by subraces </td>
+        <td width="110"> None </td>
         <td>
             One of main races living in Baedoor universe. Their flexibility is their biggest strength,
             allowing their existence on nearly every continent possible.
         </td>
     </tr>
+    <tr align="center">
+        <th colspan="5"> 🏵️ Subraces</th>
+    </tr>
+    <tr align="center">
+       <th>Subrace</th><th>Attributes</th><th>Skills</th><th>Modifiers</th><th>Description</th>
+    </tr>
+    <tr>
+        <td><img alt="Human" height="85" src="/Assets/race_human.png" width="85"/></td>
+        <td rowspan="2">
+            ☯️CHA +1<br>
+            🔱END -1
+        </td>
+        <td rowspan="2">
+            firearms (+1)<br>
+            persuasion (+1)
+        </td>
+        <td rowspan="2">
+            ⚙️TECH +3
+        </td>
+        <td rowspan="2">
+            Subrace of humans from Baedoor lands, being in fact jitadians who separated themselves
+            from their initial culture.
+        </td>
+    </tr>
+    <tr><td height="10">Baedoorian</td></tr>
+
 </table>
 
-**HUMAN**  
-Has subraces.  
->   ✴️STR +1  
->   ☯️CHA +1  
->   💠INT +1  
-
-**TRI**  
-Has subraces. All modifiers distribution depends on them.
+<table>
+    <tr align="center">
+        <td colspan="5"><p style="font-size:25px"><b>Tri</b></p>✥ Has subraces ✥</td>
+    </tr>
+    <tr align="center">
+        <td>Avatar</td><td>Attributes</td><td>Skills</td><td>Modifiers</td><td>Description</td>
+    </tr>
+    <tr align="center">
+        <td width="100"><img alt="Tri" height="100" src="/Assets/race_tri.png" width="100"/></td>
+        <td width="110"> Managed by subraces </td>
+        <td width="110"> Managed by subraces </td>
+        <td width="110"> Managed by subraces </td>
+        <td>
+            Proclaimed as one of the oldest, if not the oldest, race in Baedoor universe. Their origin
+            is not really known, except for some legends and religious explanations.
+        </td>
+    </tr>
+</table>
 
 **GHLOD'HYR (GHLOD) 🀄**
 >   ❇️AGI +2  
@@ -135,13 +171,6 @@ Has subraces. All modifiers distribution depends on them.
 ### HUMAN
 
 ---
-
-**BAEDOORIAN**
->   ☯️CHA +1  
->   🔱END -1
-   
->   ⚙️TECH +3  
->   ⛏️:firearms (+1), persuasion (+1)
 
 **JITADIAN**
 >   💠INT +1  
