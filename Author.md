@@ -153,6 +153,7 @@ If you really insist on getting those, please message me directly.
 | 2020-9-12        | Sigillum Animarum                       | 🔴🔷  | Follow-up to Burning Babylon with one outtake and some weird instrumental              | [Drive](https://drive.google.com/drive/folders/1-dnwkdHeQmK-pVM3VbfoZHvbHl8gdHhQ?usp=sharing)                                                                   |
 | 2021-2-27        | Εἰκών                                   | 🔴🔷  | Some random single                                                                     | [Drive](https://drive.google.com/drive/folders/11EiUtVQYNpZLN6u3IKZHNvs0C0_tBKqy?usp=sharing)                                                                   |
 | 2021-10-24       | Night Sessions: Towards White Cold      | 🔴️🔳 | Third **Night Sessions** improvisation, finally quality one.                           | [Drive](https://drive.google.com/drive/folders/1hShLuXoTkOyyztUZS2V9Vk-q5xx5y1uA?usp=sharing)                                                                   |
+| 2022-10-11       | The Battle of Sancre Tor                | 🔴️🔷 | Single on battle of Sancre Tor                                                         | [Drive](https://drive.google.com/drive/folders/1oAhidmVY_ckCJJbdVivZ_GklmtBz3viV?usp=sharing)                                                                   |
 
 <span style="color:#668c99">**🌆 SUN TRIBE**  
 Sun Tribe is trance project in which I wanted to capture my love to the sound of legends such as ATB, Armin van

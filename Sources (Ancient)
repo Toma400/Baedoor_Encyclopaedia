@@ -6,19 +6,23 @@ on lore. It is tool for organising sources via codes, so it is clear
 which source adds to which part of lore, and how accurate it is.
 ------------------------------------------------------------------------
 NAMING:
-                        [t][q].[ac].[nm]_[dg]
+                       [nm]_[dg] {[t][!][q].[ac]}
 
 [t] | type of source
     |-----------------|-----------------|
     |[N] - notebook   |[P] - paper      |
 
+[!] | value of source
+    |-----------------|-----------------|
+    |[M] - crucial    | [None] - regular
+
 [q] | quality of source
     |----------------------|-----------------------|
-    |[^] - well preserved  |[v] - badly preserved  |[None] - in between
+    |[^] - well preserved  |[v] - badly preserved  |[~] - in between
 
 [ac]| accuracy of source
     |-----------------|-----------|----------------|
-    |[1] - accurate   |[2] - low  |[?] - disputed  |[x] - not friendly
+    |[1] - accurate   |[2] - low  |[3] - disputed  |[x] - not friendly
 
 [nm]| number of the source (three digits)
 
@@ -28,8 +32,8 @@ NAMING:
 ========================================================================
 LIST:
 
-                                                      Accurate sources:
-N.1.001_lnd
-                                             Accuracy disputed sources:
-                                                  Low accuracy sources:
+                                                       Crucial sources:
+001_lnd [NM~.3]
+                                                       Regular sources:
+                                              Disputed regular sources:
                                                      Not lore friendly:

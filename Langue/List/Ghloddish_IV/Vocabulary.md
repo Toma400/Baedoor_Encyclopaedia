@@ -39,11 +39,13 @@
 |   e'oe'    | valley                      | e:oe:         | e'-oe'         |                                                                       e' + oe'                                                                        |
 |     er     | border                      | er            | e-r            |                                                                           -                                                                           |
 |    ghe     | soul, spirit                | ghe           | gh-e           |                                                                           -                                                                           |
+|   ne'se    | alive                       | ne:se         | n-e'-s-e       |                                                                       nar + se'                                                                       |
 |    oe'     | land, world, island         | oe:           | oe'            |                sometimes portrayed as ehric-influenced `eh`, but this is usually debunked, as `oe'` existed before Ghlodds left caves                 |
 |     s'     | and                         | s:            | s'             |                                                                           -                                                                           |
 |    s'-     | masculine (prefix)          | ss            | s'             |                                                                           -                                                                           |
 |   s'she    | man                         | s:she         | s'-sh-e        |                                                          s' + she (masculine prefix + being)                                                          |
 |    s'ya    | lord                        | ssijja        | s'-ya          |                                                                       s' + y'ya                                                                       |
+|    se'     | dead                        | se:           | s-e'           |                                                               possibly from ehric `ese`                                                               |
 |    sh'     | the beginning               | shh           | sh'            |                                                                           -                                                                           |
 |    she     | entity, being               | she           | sh-e           |                                                                           -                                                                           |
 |    sur     | sun                         | sur           | s-u-r          |                                                                           -                                                                           |
@@ -75,6 +77,7 @@
 |            Word             | Translation  | Pronunciation | Letters        |
 |:---------------------------:|--------------|---------------|----------------|
 |            alike            | ta'hrghe     | taahrghe      | ta-ah-r-gh-e   |
+|            alive            | ne'se        | ne:se         | n-e'-s-e       |
 |             and             | s'           | s:            | s'             |
  |           (to) be           | ara          | ara           | a-r-a          |
 |        the beginning        | sh'          | shh           | sh'            | 
@@ -87,6 +90,7 @@
 |            cover            | ta'shr       | taashr        | ta'-sh-r       |
 |         (to) cross          | ta'r'a'er    | taarra:er     | ta-ar'-a'-e-r  |
 |   day (opposed to night)    | tar'sur      | tar:sur       | t-ar-s-u-r     |
+|            dead             | se'          | se:           | s-e'           |
 |         destination         | ana          | ana           | a-n-a          |
 |         destruction         | th'ere'      | thhere:       | th'-e-r-e'     |
 |          disguise           | ta'shr       | taashr        | ta'-sh-r       |

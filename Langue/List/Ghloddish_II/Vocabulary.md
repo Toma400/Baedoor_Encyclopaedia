@@ -15,6 +15,8 @@ Between **First Era** and **Second Era**, some elements of the language changed.
 - Extending apostrophe `'` sometimes changed to soft letter, usually `u` (as in `a'r → aur`)
 - Some ambigious repeated lettering were turned into new letters (as in `e'e → y'`)
 
+Additionally, a lot of ehric influences became more apparent. 
+
 ---
 ## Ghloddish → English
 [Pronunciation Helper](/Langue/Pronunciation.md)
@@ -41,11 +43,13 @@ Between **First Era** and **Second Era**, some elements of the language changed.
 |    e'oe'    | valley                      | e:oe:         | e'-oe'            |                                                                       e' + oe'                                                                        |
 |     er      | border                      | er            | e-r               |                                                                           -                                                                           |
 |     ghe     | soul, spirit                | ghe           | gh-e              |                                                                           -                                                                           |
+|    ne'se    | alive                       | ne:se         | n-e'-s-e          |                                                                       nar + se'                                                                       |
 |     oe'     | land, world                 | oe:           | oe'               |                sometimes portrayed as ehric-influenced `eh`, but this is usually debunked, as `oe'` existed before Ghlodds left caves                 |
 |     s'      | and                         | s:            | s'                |                                                                           -                                                                           |
 |     s'-     | masculine (prefix)          | ss            | s'                |                                                                           -                                                                           |
-|    s'y'     | lord                        | ssi:          | s'-y'             |                                                                        s' + y'                                                                        |
 |    s'she    | man                         | s:she         | s'-sh-e           |                                                          s' + she (masculine prefix + being)                                                          |
+|    s'y'     | lord                        | ssi:          | s'-y'             |                                                                        s' + y'                                                                        |
+|     se'     | dead                        | se:           | s-e'              |                                                               possibly from ehric `ese`                                                               |
 |     sh'     | the beginning               | shh           | sh'               |                                                                           -                                                                           |
 |     she     | entity, being               | she           | sh-e              |                                                                           -                                                                           |
 |     sur     | sun                         | sur           | s-u-r             |                                                                           -                                                                           |
@@ -77,6 +81,7 @@ Between **First Era** and **Second Era**, some elements of the language changed.
 |            Word             | Translation  | Pronunciation | Letters           |
 |:---------------------------:|--------------|---------------|-------------------|
 |            alike            | ta'hrghe     | taahrghe      | ta-ah-r-gh-e      |
+|            alive            | ne'se        | ne:se         | n-e'-s-e          |
 |             and             | s'           | s:            | s'                |
  |           (to) be           | ara          | ara           | a-r-a             |
 |        the beginning        | sh'          | shh           | sh'               | 
@@ -89,6 +94,7 @@ Between **First Era** and **Second Era**, some elements of the language changed.
 |            cover            | ta'shr       | taashr        | ta'-sh-r          |
 |         (to) cross          | ta'r'a'er    | taarra:er     | ta-ar'-a'-e-r     |
 |   day (opposed to night)    | ta'resh'sur  | taarroeshhsur | ta-ar-e-sh'-s-u-r |
+|            dead             | se'          | se:           | s-e'              |
 |         destination         | ana          | ana           | a-n-a             |
 |         destruction         | th're'       | thhre:        | th'-r-e'          |
 |          disguise           | ta'shr       | taashr        | ta'-sh-r          |
@@ -146,5 +152,4 @@ Between **First Era** and **Second Era**, some elements of the language changed.
 [Pronunciation Helper](/Langue/Pronunciation.md)
 
 ---
-**To find, as from etymology**
-`ar` (`ara`, `ar'e'` and so on)
+[⛩️](/Langue/Families/Ghloddish.md)

@@ -35,12 +35,15 @@
 |     e'oe'     | valley                      | e:oe:         | e'-oe'             |                                                                       e' + oe'                                                                        |
 |      er       | border                      | er            | e-r                |                                                                           -                                                                           |
 |      ghe      | soul, spirit                | ghe           | gh-e               |                                                                           -                                                                           |
+|    nar'se     | alive                       | nar:se        | n-ar'-s-e          |                                   nar + se'; this form is somehow less popular and will be deprecated in second era                                   |
+|     ne'se     | alive                       | ne:se         | n-e'-s-e           |                                                                       nar + se'                                                                       |
 |      oe'      | land, world                 | oe:           | oe'                |                sometimes portrayed as ehric-influenced `eh`, but this is usually debunked, as `oe'` existed before Ghlodds left caves                 |
 |      s'       | and                         | s:            | s'                 |                                                                           -                                                                           |
 |      s'-      | masculine (prefix)          | ss            | s'                 |                                                                           -                                                                           |
 |     s'e'e     | lord                        | sse:e         | s'-e'-e            |                                                                       s' + e'e                                                                        |
 |      s'r      | sun                         | s:r           | s'-r               |                                                                           -                                                                           |
 |     s'she     | man                         | s:she         | s'-sh-e            |                                                          s' + she (masculine prefix + being)                                                          |
+|      se'      | dead                        | se:           | s-e'               |                                                               possibly from ehric `ese`                                                               |
 |      sh'      | the beginning               | shh           | sh'                |                                                                           -                                                                           |
 |      she      | entity, being               | she           | sh-e               |                                                                           -                                                                           |
 |     ta'hr     | inside                      | taahr         | ta-ah-r            |                                                                           -                                                                           |
@@ -67,76 +70,77 @@
 ## English → Ghloddish
 [Pronunciation Helper](/Langue/Pronunciation.md) ✤ For etymology, look at [higher section](Vocabulary.md#ghloddish--english)
 
-|            Word             | Translation   | Pronunciation | Letters            |
-|:---------------------------:|---------------|---------------|--------------------|
-|            alike            | ta'hrghe      | taahrghe      | ta-ah-r-gh-e       |
-|             and             | s'            | s:            | s'                 |
- |           (to) be           | ara           | ara           | a-r-a              |
-|        the beginning        | sh'           | shh           | sh'                | 
-|            being            | she           | she           | sh-e               |
-|            book             | a'ar'ne'      | aa:r:ne:      | a'-ar'-n-e'        |
-|           border            | er            | er            | e-r                |
-|           bottom            | e'ana         | e:ana         | e'-a-n-a           |
-|        close person         | ta'hrshe      | taahrshe      | ta-ah-r-sh-e       |
-|       close to heart        | ta'hrghe      | taahrghe      | ta-ah-r-gh-e       |
-|            cover            | ta'shr        | taashr        | ta'-sh-r           |
-|         (to) cross          | ta'r'a'er     | taarra:er     | ta-ar'-a'-e-r      |
-|   day (opposed to night)    | ta'r'oesh's'r | taarroeshhssr | ta-ar'-oe-sh'-s'-r |
-|         destination         | ana           | ana           | a-n-a              |
-|         destruction         | th'se'        | thhse:        | th'-s-e'           |
-|          disguise           | ta'shr        | taashr        | ta'-sh-r           |
-|            down             | e'ana         | e:ana         | e'-a-n-a           |
-|           entity            | she           | she           | sh-e               |
-|         extinction          | th'se'        | thhse:        | th'-s-e'           |
-|         fatherland          | ta'hroe'      | taahroe:      | ta-ah-r-oe'        |
-|          feminine           | a'- (prefix)  | a:            | a'                 |
-|           friend            | ta'hrshe      | taahrshe      | ta-ah-r-sh-e       |
-| (to) get to know (location) | ta'r'oeoe'    | taarroeoe     | ta-ar'-oe-oe'      |
-| (to) get to know (somebody) | ta'r'oeshe    | taarroeshe    | ta-ar'-oe-sh-e     |
-| (to) get to know (yourself) | ta'r'oeghe    | taarroeghe    | ta-ar'-oe-gh-e     |
-|           (to) go           | ta'r'a'       | taarra:       | ta-ar'-a'          |
-|            guide            | e'e           | e:e           | e'-e               |
-|           higher            | a'- (prefix)  | a:            | a'                 |
-|          highland           | a'oe'         | a:oe:         | a'-oe'             |
- |              I              | asa'          | asa:          | a-s-a'             |
-|           inside            | ta'hr         | taahr         | ta-ah-r            |
-|           journey           | ta'r'oesh     | taarroesh     | ta-ar'-oe-sh       |
-|            lady             | a'e'e         | a:e:e         | a'-e'-e            |
-|            land             | oe'           | oe:           | oe'                |
-|       letter (symbol)       | ar'ne'        | arrne:        | ar'-n-e'           |
-|            lord             | s'e'e         | sse:e         | s'-e'-e            |
-|            lower            | e'- (prefix)  | e:            | e'                 |
-|             man             | s'she         | s:she         | s'-sh-e            |
-|          masculine          | s'- (prefix)  | s:            | s'                 |
-|           master            | e'e           | e:e           | e'-e               |
- |             me              | asa'          | asa:          | a-s-a'             |
-|            moon             | a'r           | a:r           | a'-r               |
-|         motherland          | ta'hroe'      | taahroe:      | ta-ah-r-oe'        |
-|            night            | ta'r'oesh'a'r | taarroeshhaar | ta-ar'-oe-sh'-a'-r |
-|            poem             | a'ar'e'       | aa:r:e:       | a'-ar'-e'          |
-|            power            | ah'r          | ahhr          | ah'-r              |
-|            road             | ta'r'oe       | taarroe       | ta-ar'-oe          |
-|            rock             | ta'r          | taar          | ta-ar              |
-|           shadow            | ta'shrghe     | taashrghe     | ta'-sh-r-gh-e      |
-|            soul             | ghe           | ghe           | gh-e               |
-|           spirit            | ghe           | ghe           | gh-e               |
-|            stone            | ta'r          | taar          | ta-ar              |
-|             sun             | s'r           | s:r           | s'-r               |
-|             top             | a'ana         | a:ana         | a'-a-n-a           |
-|          traveller          | ta'r'a'she    | taarra:she    | ta-ar'-a'-sh-e     |
-|             up              | a'ana         | a:ana         | a'-a-n-a           |
-|           valley            | e'oe'         | e:oe:         | e'-oe'             |
-|          wanderer           | ta'r'a'she    | taarra:she    | ta-ar'-a'-sh-e     |
-|            water            | ae'a          | ae:a          | a-e'-a             |
-|            woman            | a'she         | a:she         | a'-sh-e            |
-|            word             | ar'e'         | arre:         | ar'-e'             |
-|            world            | oe'           | oe:           | oe'                |
-|             yes             | thar          | thar          | th-ar              |
+|            Word             | Translation              | Pronunciation | Letters             |
+|:---------------------------:|--------------------------|---------------|---------------------|
+|            alike            | ta'hrghe                 | taahrghe      | ta-ah-r-gh-e        |
+|            alive            | ne'se, nar'se (uncommon) | ne:se, nar:se | n-e'-s-e, n-ar'-s-e |
+|             and             | s'                       | s:            | s'                  |
+ |           (to) be           | ara                      | ara           | a-r-a               |
+|        the beginning        | sh'                      | shh           | sh'                 | 
+|            being            | she                      | she           | sh-e                |
+|            book             | a'ar'ne'                 | aa:r:ne:      | a'-ar'-n-e'         |
+|           border            | er                       | er            | e-r                 |
+|           bottom            | e'ana                    | e:ana         | e'-a-n-a            |
+|        close person         | ta'hrshe                 | taahrshe      | ta-ah-r-sh-e        |
+|       close to heart        | ta'hrghe                 | taahrghe      | ta-ah-r-gh-e        |
+|            cover            | ta'shr                   | taashr        | ta'-sh-r            |
+|         (to) cross          | ta'r'a'er                | taarra:er     | ta-ar'-a'-e-r       |
+|   day (opposed to night)    | ta'r'oesh's'r            | taarroeshhssr | ta-ar'-oe-sh'-s'-r  |
+|            dead             | se'                      | se:           | s-e'                |
+|         destination         | ana                      | ana           | a-n-a               |
+|         destruction         | th'se'                   | thhse:        | th'-s-e'            |
+|          disguise           | ta'shr                   | taashr        | ta'-sh-r            |
+|            down             | e'ana                    | e:ana         | e'-a-n-a            |
+|           entity            | she                      | she           | sh-e                |
+|         extinction          | th'se'                   | thhse:        | th'-s-e'            |
+|         fatherland          | ta'hroe'                 | taahroe:      | ta-ah-r-oe'         |
+|          feminine           | a'- (prefix)             | a:            | a'                  |
+|           friend            | ta'hrshe                 | taahrshe      | ta-ah-r-sh-e        |
+| (to) get to know (location) | ta'r'oeoe'               | taarroeoe     | ta-ar'-oe-oe'       |
+| (to) get to know (somebody) | ta'r'oeshe               | taarroeshe    | ta-ar'-oe-sh-e      |
+| (to) get to know (yourself) | ta'r'oeghe               | taarroeghe    | ta-ar'-oe-gh-e      |
+|           (to) go           | ta'r'a'                  | taarra:       | ta-ar'-a'           |
+|            guide            | e'e                      | e:e           | e'-e                |
+|           higher            | a'- (prefix)             | a:            | a'                  |
+|          highland           | a'oe'                    | a:oe:         | a'-oe'              |
+ |              I              | asa'                     | asa:          | a-s-a'              |
+|           inside            | ta'hr                    | taahr         | ta-ah-r             |
+|           journey           | ta'r'oesh                | taarroesh     | ta-ar'-oe-sh        |
+|            lady             | a'e'e                    | a:e:e         | a'-e'-e             |
+|            land             | oe'                      | oe:           | oe'                 |
+|       letter (symbol)       | ar'ne'                   | arrne:        | ar'-n-e'            |
+|            lord             | s'e'e                    | sse:e         | s'-e'-e             |
+|            lower            | e'- (prefix)             | e:            | e'                  |
+|             man             | s'she                    | s:she         | s'-sh-e             |
+|          masculine          | s'- (prefix)             | s:            | s'                  |
+|           master            | e'e                      | e:e           | e'-e                |
+ |             me              | asa'                     | asa:          | a-s-a'              |
+|            moon             | a'r                      | a:r           | a'-r                |
+|         motherland          | ta'hroe'                 | taahroe:      | ta-ah-r-oe'         |
+|            night            | ta'r'oesh'a'r            | taarroeshhaar | ta-ar'-oe-sh'-a'-r  |
+|            poem             | a'ar'e'                  | aa:r:e:       | a'-ar'-e'           |
+|            power            | ah'r                     | ahhr          | ah'-r               |
+|            road             | ta'r'oe                  | taarroe       | ta-ar'-oe           |
+|            rock             | ta'r                     | taar          | ta-ar               |
+|           shadow            | ta'shrghe                | taashrghe     | ta'-sh-r-gh-e       |
+|            soul             | ghe                      | ghe           | gh-e                |
+|           spirit            | ghe                      | ghe           | gh-e                |
+|            stone            | ta'r                     | taar          | ta-ar               |
+|             sun             | s'r                      | s:r           | s'-r                |
+|             top             | a'ana                    | a:ana         | a'-a-n-a            |
+|          traveller          | ta'r'a'she               | taarra:she    | ta-ar'-a'-sh-e      |
+|             up              | a'ana                    | a:ana         | a'-a-n-a            |
+|           valley            | e'oe'                    | e:oe:         | e'-oe'              |
+|          wanderer           | ta'r'a'she               | taarra:she    | ta-ar'-a'-sh-e      |
+|            water            | ae'a                     | ae:a          | a-e'-a              |
+|            woman            | a'she                    | a:she         | a'-sh-e             |
+|            word             | ar'e'                    | arre:         | ar'-e'              |
+|            world            | oe'                      | oe:           | oe'                 |
+|             yes             | thar                     | thar          | th-ar               |
 
 ---
 ## Non-translative Words
 [Pronunciation Helper](/Langue/Pronunciation.md)
 
 ---
-**To find, as from etymology**
-`ar` (`ara`, `ar'e'` and so on)
+[⛩️](/Langue/Families/Ghloddish.md)
