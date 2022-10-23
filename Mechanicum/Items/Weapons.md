@@ -1,29 +1,29 @@
-# 🔪 Weapons
+# 🔪 Fegyverek
 
 ---
-### ⚔️ Cold Steel
-#### Knives
-#### Swords
-#### Sabres
-#### Axes
-#### Battle Hammers
+### ⚔️ Hideg Acél
+#### Kések
+#### Kardok
+#### Szablyák
+#### Fejszék
+#### Csatakalapácsok
 
 ### 🤺 Polearms
-#### Spears
-#### Halberds
-#### Dagger-axes
+#### Lándzsák
+#### Alabárdok
+#### Tör-balták
 
-### 🏹 Ranged
-#### Bows
-#### Crossbows
-#### Throwables
-#### Chain Knives
+### 🏹 Távolsági
+#### Íjak
+#### Számszeríjak
+#### Dobófegyverek
+#### Láncos Kések
 
-### 🔥 Firearms
-#### [Revolvers](Revolvers.md)
-#### Shotguns
-#### Rifles
-#### Other
+### 🔥 Lőfegyverek
+#### [Revolverek](Revolvers.md)
+#### Sörétes Puskák
+#### Rohampuskák
+#### Egyéb
 
 ---
 ✥
