@@ -10,7 +10,7 @@
 
 ---
 ## Ghloddish → English
-[Pronunciation Helper](/Langue/Pronunciation.md)
+[Pronunciation Helper](/Langue/Pronunciation.md) ⚜️ [Phonetic Rules](Phonetics.md)
 
 |     Word      | Translation                 | Pronunciation | Letters            |                                                                       Etymology                                                                       |
 |:-------------:|-----------------------------|---------------|--------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -34,7 +34,8 @@
 |      e'e      | guide, master               | e:e           | e'-e               |                                                                           -                                                                           |
 |     e'oe'     | valley                      | e:oe:         | e'-oe'             |                                                                       e' + oe'                                                                        |
 |      er       | border                      | er            | e-r                |                                                                           -                                                                           |
-|      ghe      | soul, spirit                | ghe           | gh-e               |                                                                           -                                                                           |
+|      gh'      | become alive/be made        | ghh           | gh'                |                                                                           -                                                                           |
+|      ghe      | soul, spirit                | ghe           | gh-e               |                    possibly inherited from `gh'` as spirit is considered as first creation element of soul, and furthermore, being                    |
 |    nar'se     | alive                       | nar:se        | n-ar'-s-e          |                                   nar + se'; this form is somehow less popular and will be deprecated in second era                                   |
 |     ne'se     | alive                       | ne:se         | n-e'-s-e           |                                                                       nar + se'                                                                       |
 |      oe'      | land, world                 | oe:           | oe'                |                sometimes portrayed as ehric-influenced `eh`, but this is usually debunked, as `oe'` existed before Ghlodds left caves                 |
@@ -45,7 +46,7 @@
 |     s'she     | man                         | s:she         | s'-sh-e            |                                                          s' + she (masculine prefix + being)                                                          |
 |      se'      | dead                        | se:           | s-e'               |                                                               possibly from ehric `ese`                                                               |
 |      sh'      | the beginning               | shh           | sh'                |                                                                           -                                                                           |
-|      she      | entity, being               | she           | sh-e               |                                                                           -                                                                           |
+|      she      | entity, being               | she           | sh-e               |                                   may be inherited from `sh'` as entity being the beginning (be it "self" or "god")                                   |
 |     ta'hr     | inside                      | taahr         | ta-ah-r            |                                                                           -                                                                           |
 |   ta'hrghe    | alike, close to heart       | taahrghe      | ta-ah-r-gh-e       |                                                                      ta'hr + ghe                                                                      |
 |   ta'hroe'    | fatherland                  | taahroe:      | ta-ah-r-oe'        |                                                                      ta'hr + oe'                                                                      |
@@ -68,7 +69,7 @@
 
 ---
 ## English → Ghloddish
-[Pronunciation Helper](/Langue/Pronunciation.md) ✤ For etymology, look at [higher section](Vocabulary.md#ghloddish--english)
+[Pronunciation Helper](/Langue/Pronunciation.md) ⚜️ For etymology, look at [higher section](Vocabulary.md#ghloddish--english) ⚜️ [Phonetic Rules](Phonetics.md)
 
 |            Word             | Translation              | Pronunciation | Letters             |
 |:---------------------------:|--------------------------|---------------|---------------------|
@@ -76,6 +77,8 @@
 |            alive            | ne'se, nar'se (uncommon) | ne:se, nar:se | n-e'-s-e, n-ar'-s-e |
 |             and             | s'                       | s:            | s'                  |
  |           (to) be           | ara                      | ara           | a-r-a               |
+|        (to) be made         | gh'                      | ghh           | gh'                 |
+|      (to) become alive      | gh'                      | ghh           | gh'                 |
 |        the beginning        | sh'                      | shh           | sh'                 | 
 |            being            | she                      | she           | sh-e                |
 |            book             | a'ar'ne'                 | aa:r:ne:      | a'-ar'-n-e'         |

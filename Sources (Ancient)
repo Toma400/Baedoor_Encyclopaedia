@@ -6,34 +6,34 @@ on lore. It is tool for organising sources via codes, so it is clear
 which source adds to which part of lore, and how accurate it is.
 ------------------------------------------------------------------------
 NAMING:
-                       [nm]_[dg] {[t][!][q].[ac]}
+                       [nm]_[dg].[t][!][q][ac]}
 
 [t] | type of source
-    |-----------------|-----------------|
-    |[N] - notebook   |[P] - paper      |
+    |------------------|------------------|
+    |[Nb] - notebook   |[Pr] - paper      |
 
 [!] | value of source
-    |-----------------|-----------------|
-    |[M] - crucial    | [None] - regular
+    |------------------|------------------|
+    |[M] - crucial     | [None] - regular
 
 [q] | quality of source
     |----------------------|-----------------------|
-    |[^] - well preserved  |[v] - badly preserved  |[~] - in between
+    |[^] - well preserved  |[v] - badly preserved  |[*] - in between
 
 [ac]| accuracy of source
     |-----------------|-----------|----------------|
-    |[1] - accurate   |[2] - low  |[3] - disputed  |[x] - not friendly
+    |[1] - accurate   |[2] - low  |[0] - disputed  |[x] - not friendly
 
 [nm]| number of the source (three digits)
 
 [dg]| 3-letter name of lore aspect shown in the source
     |-------------------|-----------------|
-    |[lnd] - land, game |[map] - map      |
+    |[Lnd] - land, game |[Map] - map      |
 ========================================================================
 LIST:
 
                                                        Crucial sources:
-001_lnd [NM~.3]
+001_Lnd.NbM*0 | Baedoor
                                                        Regular sources:
                                               Disputed regular sources:
                                                      Not lore friendly:
