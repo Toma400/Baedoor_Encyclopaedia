@@ -18,6 +18,7 @@ whether they are coherent nowadays or not.
 "true lore".
 
 - [Lore Index](BaeCL_Lore.md)
+- [Sources](BaeCL_Sources.md)
 
 ---
 [💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)

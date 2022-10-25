@@ -2,6 +2,13 @@
 *ID: 001_Lnd.NbM\*0*
 
 ---
+### Table of contents
+- [Raw contents](001_Lnd__Baedoor_Contents.md)
+- [Source integration](001_Lnd__Baedoor.md#source-integration)
+- [Description](001_Lnd__Baedoor.md#description)
+- [Source lore accuracy](001_Lnd__Baedoor.md#source-lore-accuracy)
+
+---
 ### Source integration
 - [x] Names *(partly)*
 - [ ] Plants
@@ -32,7 +39,7 @@ The main culprit is incoherent dating at the time, which made Tom Varteford exis
 - extremely long conquest era (when no notebook aspects were changed to adjust from early OE to late OE)
 - originally stated year being absurdly late (when neither conquests nor Tom being adventurer could
   happen)
-- historical plane, stating Tom having adventures years before second plane, and living centuries after
+- roleplay context, stating Tom having adventures years before second plane, and living centuries after
   first one
 
 This makes this notebook yet extremely valuable, but historically broken, so to speak. To see further
@@ -56,3 +63,6 @@ Hence, sources on Baedoor from this notebook are treated in specific scope:
   drawing those lands)
 - Incoherences related to architecture are used in lore accordingly to timeframe (so if architecture
   follow 200 OE timeframe, it will be used as source for this period)
+
+---
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [📿](/Mechanicum/Walkthroughs/Baedoor_Classic/BaeCL_Sources.md)
