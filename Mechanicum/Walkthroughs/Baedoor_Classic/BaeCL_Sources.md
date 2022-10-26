@@ -11,7 +11,7 @@ Sources are categorised by the subject they bring to the Encyclopaedia.
     <tr>
         <th><span style="color:#31852B">Land</span></th>
         <td>Baedoor</td>
-        <td><a href="Sources/001_Lnd_Baedoor.md">N.1.001_lnd</a></td>
+        <td><a href="Sources/001_Lnd__Baedoor.md">N.1.001_lnd</a></td>
         <td align="center">Crucial notebook for this region</td>
     </tr>
 
