@@ -263,6 +263,7 @@ Poems with 💠 symbol have some Baedoor references.
 | 89  | 2022-06-17       | Po Swoich Krokach                                     | [🇵🇱](https://drive.google.com/file/d/1z_bRseX0UCaFFlOl0wBCPPQFNthODF9d/view?usp=sharing)                                                                                                                                                                                         | 
 | 90  | 2022-06-17       | Kwiaty Czarnej Doliny                                 | [🇵🇱](https://drive.google.com/file/d/1KrBvyz1EEbc_bzA8-DN7ZMVCDYGlSb98/view?usp=sharing)                                                                                                                                                                                         |
 | 91  | 2022-07-28       | W Bibliotekach Miłości                                | [🇵🇱](https://drive.google.com/file/d/1ADBd0xXLom8nqQT88ucS2CbYgaHF3aUn/view?usp=sharing), [🇬🇧](https://drive.google.com/file/d/1SsVA0L9bEMt_LKX79x1y20NSy_kz7OBZ/view?usp=sharing)                                                                                             |
+| 92  | 2022-11-12       | (...)                                                 | [🇵🇱](https://drive.google.com/file/d/1gqOY_sEzdILnY_Vm6QMM8hJmhf4MqSio/view?usp=sharing)                                                                                                                                                                                         |
 
 ---
 ### 🧮️ COLLECTIONS  

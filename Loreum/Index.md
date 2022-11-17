@@ -6,6 +6,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ---
 ### A
 - [Adelaie](Topics/Geography/Jitado/Cities/Adelaie.md)
+- [Altauar](Topics/Geography/Jitado/Regions/Altauar.md) (region)
 - [Ansur](Topics/Geography/East_Moon/Ansur.md)
 - [Avani, Si](Topics/Characters/List/Si_Avani.md)
 
