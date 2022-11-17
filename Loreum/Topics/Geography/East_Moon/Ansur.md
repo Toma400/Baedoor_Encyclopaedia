@@ -6,7 +6,7 @@
 **Wyspa Ansur** (bae. *Ans Sur*, "ląd nadziei") to mała wyspa położona mniej więcej pomiędzy
 starym **[miastem Baedoor](/Loreum/Topics/Geography/Baedoor/Cities/Baedoor.md)** a **Nowym
 Baedoor**, będąc również jednym z lepszych miejsc do zatrzymania się podczas dłuższej podróży
-do któregokolwiek z tych miejsc.  
+do któregokolwiek z tych celów.  
 Od trzeciej dekady Nowej Ery, stała się znana ze swojego wina.
 
 ### 📜 HISTORIA
@@ -15,13 +15,13 @@ wyspę zamiast tego, co opowiadały im legendy, byli zaskoczeni i zaintrygowani.
 statków postanowiła się osiedlić w tym miejscu, podczas gdy reszta popłynęła dalej na zachód
 (ostatecznie docierając do Wschodniego Księżyca).
 
-Będąc dokładnie pomiędzy dwoma najważniejszymi miastami wczesnej Nowej Ery, spowodowało, że
-Ansur stawało się powoli coraz to bardziej znaczące. Dzięki swojemu położeniu, port w Evros
-był ważnym punktem wymiany między dwoma częściami Imperium.  
+Będąc dokładnie pomiędzy dwoma najważniejszymi miastami wczesnej Nowej Ery, Ansur stawało się 
+powoli coraz to bardziej znaczące. Dzięki swojemu położeniu, port w Evros był ważnym punktem 
+wymiany między dwoma częściami Imperium.  
 Największa zmiana przyszła jednak z nowymi prawami nadanymi przez zarządcę **Norrana Gortha**
-w 326 NE, zyskującymi z upadku **Imperium Baedoor**. Nadały one niezależność wyspie, jak i
-również dodały szereg podatków dla tych dokujących w porcie, jeśli nie zamierzali zostawać
-na dłużej.  
+w 326 NE, wykorzystującymi upadek **Imperium Baedoor**. Nadały one niezależność wyspie, jak i
+również wprowadziły szereg podatków dla jednostek dokujących w porcie, które nie zamierzały
+zostawać na dłużej.  
 To przyniosło nie tylko wzrost wpływów, pozwalających Ansur się rozrosnąć, ale również wzmocniło
 eksport i stworzyło większą infrastrukturę. Dzięki temu również Evros zyskało mury miejskie
 oraz mały fort na szczycie wzgórza, będący siedzibą zarządcy i będący dodatkową fortyfikacją.

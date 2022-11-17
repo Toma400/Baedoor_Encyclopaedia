@@ -4,9 +4,9 @@
 <span style="color:#107C23">**miasta**</span> [✦](/Loreum/Tags.md#-miasta)  
 
 ---
-**Evros** (bae. *Evros*, "wzrastający") to średnie miasto portowe położone na [**Wyspie Ansur**](/Loreum/Topics/Geography/East_Moon/Ansur.md), 
-będąc głównym miejscem tranzytowym dla podróżujących z Anahsahei do Wschodniego Księżyca i w drugą
-stronę.  
+**Evros** (bae. *Evros*, "wzrastający") to średniej wielkości miasto portowe położone na 
+[**Wyspie Ansur**](/Loreum/Topics/Geography/East_Moon/Ansur.md), będąc głównym miejscem 
+tranzytowym dla podróżujących z Anahsahei do Wschodniego Księżyca i w drugą stronę.  
 Od czasu dekretu **Norrana Gortha**, miasto rozbudowało się znacznie w kolejnych latach.
 
 Politycznie patrząc, Evros jest siedzibą zarządcy i trzech gildii.
@@ -18,7 +18,7 @@ Politycznie patrząc, Evros jest siedzibą zarządcy i trzech gildii.
 
 Wszystkie te gildie znajdują się w centralnej części Evros, w dwóch dużych kamienicach. Lokalizacja
 Gildii Złodziei nie jest publicznie znana.  
-Zarządca natomiast zasiada w Radzie Miasta.
+Zarządca natomiast zasiada w Radzie Miasta, mającym swoją siedzibę w ratuszu.
 
 ---
 [📿 Between Shadows and Light](/Mechanicum/Walkthroughs/BSaL/Lore/BSaL_Evros.md)
