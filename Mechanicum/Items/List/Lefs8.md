@@ -4,11 +4,11 @@
 <table>
     <tr>
         <th width="180"><img alt="Lefs8" height="160" src="/Assets/Items/lefs8.png"  width="160" class="center"/></th>
-        <th width="180"><img alt="Lefs8" height="160" src="/Assets/Items/lefs8t.png" width="160" class="center"/></th>
+        <th width="170"><img alt="Lefs8" height="157" src="/Assets/Items/lefs8t.png" width="157" class="center"/></th>
     </tr>
     <tr>
         <td>✭ Visualisation of Lefs8 in <b>Wastelands of Baedoor</b> mod</td>
-        <td>✭ Concept art made by DylanVHS</td>
+        <td>✭ Lefs 8T concept art made by DylanVHS</td>
     </tr>
 </table>
 
