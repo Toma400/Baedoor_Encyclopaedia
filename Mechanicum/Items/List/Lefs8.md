@@ -7,7 +7,7 @@
         <th width="180"><img alt="Lefs8T" height="160" src="/Assets/Items/lefs8t.png" width="160" class="center"/></th>
     </tr>
     <tr>
-        <td>✭ Visualisation of Lefs8 in <b>Wastelands of Baedoor</b> mod</td>
+        <td>✭ Visualisation of Lefs 8 in <b>Wastelands of Baedoor</b> mod</td>
         <td>✭ Lefs 8T concept art made by Dylan v.h.s</td>
     </tr>
 </table>

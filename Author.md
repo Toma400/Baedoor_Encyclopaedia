@@ -364,6 +364,7 @@ TAGS:
 | 2020-07-02 | 15  | 🎵  | Rat Kru - Rok Szczura                                    | [Blogspot](http://toma400.blogspot.com/2020/07/rat-kru-rok-szczura.html)                   | 
 | 2020-12-30 | 16  | 🎶  | 2020 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2020/12/2020-aotys.html)                            | 
 | 2021-12-30 | 17  | 🎶  | 2021 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2021/12/2021-aotys.html)                            | 
+| 2021-12-30 | 18  | 🎶  | 2022 AOTYs                                               | [Blogspot](https://toma400.blogspot.com/2023/01/2022-aotys.html)                           |  
 
 ---
 ### 🈁 FONTS
@@ -372,6 +373,26 @@ As weirdly as it may sound, I even were creating fonts, usually for Baedoor univ
 | Name                | Purpose                   | License                                        | Link                                                                                        |
 |---------------------|---------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------|
 | Ghloddish Universal | Use of ghloddish alphabet | Free for non-commercial use related to Baedoor | [Drive](https://drive.google.com/file/d/1RZWHZTH8N5n-1uzn4mSEcLsvttTbLYwd/view?usp=sharing) |
+
+---
+### 🖼️ DRAWINGS
+This section will contain artworks I consider "official", as cataloguing all drawings would
+simply take too much time and be extremely chaotic.
+
+| Preview                                                                                                                                                    | No. | Date of creation |   Series   |                                 Name                                  | Description                                                                                                                                                                                                                             |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:----------:|:---------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img alt="PPWP" height="100" src="https://cdn.discordapp.com/attachments/849205834830315520/1062507959558619136/Cover_Art_Final_Edition.png" width="100"/> |  1  | 2019-09-28       |     -      | Podróż Poprzez Wody Pustki<br>(eng. *Journey Through Waters of Void*) | Drawing created for *Forgotten Journeys Through Waste Years* compilation. Drawn with pencil, scanned and later reconstructed via GIMP pixel-to-pixel rework. Took about two months to be fully done.                                    |
+| <img alt="PZNN" height="100" src="https://cdn.discordapp.com/attachments/849205834830315520/1062507959076278312/2._Poznanie.png" widght="100"/>            |  2  | 2020-02-23       |     -      |               Poznanie<br>(inaccurately eng. *knowing*)               | Conceptual art made to indicate the beauty of getting to know someone.<br>It tries to encompass idea of two separate worlds merging with each other, but also creating another state, in where "what is between us, is on the outside". |
+| <img alt="RD1"  height="100" src="https://pbs.twimg.com/media/Fln7kbEWQAI5y8R?format=jpg&name=4096x4096" width="100"/>                                     |  3  | 2023-01-04       | Redrawings |                                   -                                   | Redrawing of [NishantNeerajA1](https://twitter.com/NishantNeerajA1/status/1326532155137142784) render.                                                                                                                                  |
+
+---
+### 📷 PHOTOGRAPHY
+This section will contain photos I consider "official", as cataloguing all of them would
+simply take too much time and be extremely chaotic.
+
+| Preview                                                                                                                                              | No. | Date of creation | Series | Name | Description                                                                                                                                                                                                                                                                     |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:------:|:----:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img alt="PH1"  height="100" src="https://cdn.discordapp.com/attachments/849205834830315520/1062508279634329650/1._Dune_2021-01-24.png" width="70"/> |  1  | 2021-01-24       |   -    | Dune | Concept photo created for *Przez Pustynie Serca* (eng. *Through the Deserts of the Heart*) compilation. It is photo of my own hand which became reminiscent of desert dune in such way that it emphasises meaning of collection's name: it is desert, but of the heart (human). |
 
 ---
 ### ☠️ LOST AND FOUND
@@ -387,7 +408,7 @@ month to handdraw the cover art for it, and then, reshape it in GIMP. And even t
 close to be good cover art, I have some big nostalgia for it - maybe because the cover art itself
 uses so many symbols being close to my heart, who knows?
 
-<img alt="Cover Art" height="936" src="/Assets/old_compilation.png" width="930"/>
+<img alt="Cover Art" height="936" src="https://cdn.discordapp.com/attachments/849205834830315520/1062507959558619136/Cover_Art_Final_Edition.png" width="930"/>
 
 For the context, knowledge on ancient greek and Baedoor lore is pretty required to understand all
 weird symbols put. General symbolical knowledge (including niches such as native african symbols) is
