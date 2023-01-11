@@ -1,13 +1,19 @@
+<!-- CSS Code:
+<style>
+table, th, td {border: 1px solid; padding: 0 5px;}
+</style> 
+-->
+
 ## ⚓️ Who Am I?
 ### Hello!
 My name is Tomasz Stępień (usually translated to Tom Stępień in English).  
 You can also know me for my [Toma400](https://linktr.ee/toma400) nickname, which I use most widely, or, in specific cases, 
 Shadow or Zil ones.
 
-I am - for the time I write that - 24 years old guy from South Poland, who just makes lots of 
+I am - for the time I write that - 25 year old guy from South Poland, who just makes lots of 
 (let's call it "artistic") things, imagining thousand times more.  
 
-I have already made my own universe - the reason why you are here - as well as poems, stories, music, 
+I have already made my own universe, Baedoor - the reason why you are here - as well as poems, stories, music, 
 games and mods.  
 All of them aren't really anything original or breathtaking, since I'm still an amateur 
 loving art in all its variants, wanting to just contribute my visions into this beloved phenomenon.
@@ -34,7 +40,6 @@ No other alignments with any movements / political agendas, please don't ever tr
 ### How to contact me?
 Well, there are plenty of options:
 - [Join my Discord!](https://discord.gg/GbTw9KqnrE) We have pretty amazing community there!
-- Contact me via e-mail! ``thomasso_calgori@o2.pl``
 - Find me on [Last.fm](https://www.last.fm/user/Toma400)!
 - Contact me via [Twitter](https://twitter.com/TheTrueToma400)!
 
@@ -64,7 +69,6 @@ Wrench means status of support - if the mod is still maintained.
 ---
 
 ### 🏯 GAMES
-
 Wrench means status of support - if the game is still maintained.
 
 **🎎 True Games**
@@ -84,7 +88,6 @@ Wrench means status of support - if the game is still maintained.
 ---
 
 ### ⚗️ SOFTWARE
-
 Wrench means status of support - if the program is still maintained.
 
 | 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                 |
@@ -94,7 +97,8 @@ Wrench means status of support - if the program is still maintained.
 ---
 
 ### 📖 STORIES  
-**Lang** section will transfer you to the story in selected language.
+**Lang** section will transfer you to the story in selected language. Those count only full (longer)
+stories I could count as official.
 
 | Date of creation | Name | Lang                                                                                       | Baedoor? | Description                                                                    |
 |------------------|------|--------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|
@@ -379,20 +383,33 @@ As weirdly as it may sound, I even were creating fonts, usually for Baedoor univ
 This section will contain artworks I consider "official", as cataloguing all drawings would
 simply take too much time and be extremely chaotic.
 
-| Preview                                                                                                                                                    | No. | Date of creation |   Series   |                                 Name                                  | Description                                                                                                                                                                                                                             |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:----------:|:---------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img alt="PPWP" height="100" src="https://cdn.discordapp.com/attachments/849205834830315520/1062507959558619136/Cover_Art_Final_Edition.png" width="100"/> |  1  | 2019-09-28       |     -      | Podróż Poprzez Wody Pustki<br>(eng. *Journey Through Waters of Void*) | Drawing created for *Forgotten Journeys Through Waste Years* compilation. Drawn with pencil, scanned and later reconstructed via GIMP pixel-to-pixel rework. Took about two months to be fully done.                                    |
-| <img alt="PZNN" height="100" src="https://cdn.discordapp.com/attachments/849205834830315520/1062507959076278312/2._Poznanie.png" widght="100"/>            |  2  | 2020-02-23       |     -      |               Poznanie<br>(inaccurately eng. *knowing*)               | Conceptual art made to indicate the beauty of getting to know someone.<br>It tries to encompass idea of two separate worlds merging with each other, but also creating another state, in where "what is between us, is on the outside". |
-| <img alt="RD1"  height="100" src="https://pbs.twimg.com/media/Fln7kbEWQAI5y8R?format=jpg&name=4096x4096" width="100"/>                                     |  3  | 2023-01-04       | Redrawings |                                   -                                   | Redrawing of [NishantNeerajA1](https://twitter.com/NishantNeerajA1/status/1326532155137142784) render.                                                                                                                                  |
+🧿 **Pure Drawings**
+
+| Preview                                                                                                                                                                                                    | No. | Date of creation |   Series   |                                 Name                                  | Description                                                                                                                                                                                                                             |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:----------:|:---------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://pbs.twimg.com/media/Fln7kbEWQAI5y8R?format=jpg&name=4096x4096"><img alt="RD1"  height="100" src="https://pbs.twimg.com/media/Fln7kbEWQAI5y8R?format=jpg&name=4096x4096" width="110"/></a> |  1  | 2023-01-04       | Redrawings |                                   -                                   | Redrawing of [NishantNeerajA1](https://twitter.com/NishantNeerajA1/status/1326532155137142784) render.                                                                                                                                  |
+
+🧿 **Conceptual Arts**
+
+| Preview                                                                                                                                                                                                                                                     | No. | Date of creation |   Series   |                                 Name                                  | Description                                                                                                                                                                                                                             |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:----------:|:---------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://cdn.discordapp.com/attachments/849205834830315520/1062507959076278312/2._Poznanie.png"><img alt="PZNN" height="100" src="https://cdn.discordapp.com/attachments/849205834830315520/1062507959076278312/2._Poznanie.png" widght="100"/></a> |  1  | 2020-02-23       |     -      |               Poznanie<br>(inaccurately eng. *knowing*)               | Conceptual art made to indicate the beauty of getting to know someone.<br>It tries to encompass idea of two separate worlds merging with each other, but also creating another state, in where "what is between us, is on the outside". |
+
+🧿 **Archives**
+
+| Preview                                                                                                                                                                                                                                                                            | No. | Date of creation |   Series   |                                 Name                                  | Description                                                                                                                                                                                                                             |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:----------:|:---------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://cdn.discordapp.com/attachments/849205834830315520/1062507959558619136/Cover_Art_Final_Edition.png"><img alt="PPWP" height="100" src="https://cdn.discordapp.com/attachments/849205834830315520/1062507959558619136/Cover_Art_Final_Edition.png" width="100"/></a> |  1  | 2019-09-28       |     -      | Podróż Poprzez Wody Pustki<br>(eng. *Journey Through Waters of Void*) | Drawing created for *Forgotten Journeys Through Waste Years* compilation. Drawn with pencil, scanned and later reconstructed via GIMP pixel-to-pixel rework. Took about two months to be fully done.                                    |
+
 
 ---
 ### 📷 PHOTOGRAPHY
 This section will contain photos I consider "official", as cataloguing all of them would
 simply take too much time and be extremely chaotic.
 
-| Preview                                                                                                                                              | No. | Date of creation | Series | Name | Description                                                                                                                                                                                                                                                                     |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:------:|:----:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img alt="PH1"  height="100" src="https://cdn.discordapp.com/attachments/849205834830315520/1062508279634329650/1._Dune_2021-01-24.png" width="70"/> |  1  | 2021-01-24       |   -    | Dune | Concept photo created for *Przez Pustynie Serca* (eng. *Through the Deserts of the Heart*) compilation. It is photo of my own hand which became reminiscent of desert dune in such way that it emphasises meaning of collection's name: it is desert, but of the heart (human). |
+| Preview                                                                                                                                                                                                                                                                 | No. | Date of creation | Series | Name | Description                                                                                                                                                                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:------:|:----:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://cdn.discordapp.com/attachments/849205834830315520/1062508279634329650/1._Dune_2021-01-24.png"><img alt="PH1"  height="100" src="https://cdn.discordapp.com/attachments/849205834830315520/1062508279634329650/1._Dune_2021-01-24.png" width="70"/></a> |  1  | 2021-01-24       |   -    | Dune | Concept photo created for *Przez Pustynie Serca* (eng. *Through the Deserts of the Heart*) compilation. It is photo of my own hand which became reminiscent of desert dune in such way that it emphasises meaning of collection's name: it is desert, but of the heart (human). |
 
 ---
 ### ☠️ LOST AND FOUND
