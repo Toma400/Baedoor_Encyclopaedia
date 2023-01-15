@@ -51,8 +51,8 @@ the decision on how to contact me are pretty endless.
 
 My journey started with Baedoor universe, which history is explained [in its own section](Baedoor.md).  
 List of strictly Baedoor-related works are listed there.  
-If you'd prefer to see all my creations 
-though, here you have complete list of what I did by far:
+If you'd prefer to see all my creations though, here is complete list of what I did by far and 
+find worth cataloguing:
 
 ### 📿 MODS
 I started my modding journey from small Battle for Wesnoth mod made in around 2012. Since it uses original
@@ -146,18 +146,18 @@ want to create under aliases I cared about. Hence this project began, as sort of
 If you really insist on getting those, please message me directly.
 </span>
 
-| Date of creation | Album name                              | Tags  | Description                                                                            | URL                                                                                                                                                             |
-|------------------|-----------------------------------------|-------|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2019-10-20       | Night Sessions: Light Becoming Darkness | 🔴️🔳 | First one-day improvisation from **Night Sessions** series. In general, pretty trashy. | No.                                                                                                                                                             |
-| 2020-4-30        | Will Under Love                         | 🔴🔷  | Song reversing famous Aleister Crowley quote, which was my counterstatement for love.  | No.                                                                                                                                                             |
-| 2020-5-15        | Night Sessions: Oingo                   | 🔴️🔳 | Second **Night Sessions** improvisation. Similar quality.                              | No.                                                                                                                                                             |
-| 2020-5-22        | Oneironaut                              | 🔴🔷  | First a bit quality song, inspired by egyptian theme of Cubfan135.                     | [Drive](https://drive.google.com/drive/folders/1akNYaTypxw5-6kJqRy34RAT1H9kTn8FS?usp=sharing)                                                                   |
-| 2020-6-14        | Νεκρόω                                  | 🔴🔷  | Some old recorded song I found, with pretty haunting atmosphere                        | [Drive](https://drive.google.com/drive/folders/1Fo9btnqHH7qmrhioLu0myIrr2u-2d38n?usp=sharing)                                                                   |
-| 2020-9-07        | Burning Babylon                         | 🔴🔷  | Industrial-sque maxi-single, on which I'm pretty proud of.                             | [Drive](https://drive.google.com/drive/folders/1nXKfJvXKI3YS6BAN3N-WbExuyuLLHnPa?usp=sharing)  [Bandcamp](https://zileffect.bandcamp.com/album/burning-babylon) |
-| 2020-9-12        | Sigillum Animarum                       | 🔴🔷  | Follow-up to Burning Babylon with one outtake and some weird instrumental              | [Drive](https://drive.google.com/drive/folders/1-dnwkdHeQmK-pVM3VbfoZHvbHl8gdHhQ?usp=sharing)                                                                   |
-| 2021-2-27        | Εἰκών                                   | 🔴🔷  | Some random single                                                                     | [Drive](https://drive.google.com/drive/folders/11EiUtVQYNpZLN6u3IKZHNvs0C0_tBKqy?usp=sharing)                                                                   |
-| 2021-10-24       | Night Sessions: Towards White Cold      | 🔴️🔳 | Third **Night Sessions** improvisation, finally quality one.                           | [Drive](https://drive.google.com/drive/folders/1hShLuXoTkOyyztUZS2V9Vk-q5xx5y1uA?usp=sharing)                                                                   |
-| 2022-10-11       | The Battle of Sancre Tor                | 🔴️🔷 | Single on battle of Sancre Tor                                                         | [Drive](https://drive.google.com/drive/folders/1oAhidmVY_ckCJJbdVivZ_GklmtBz3viV?usp=sharing)                                                                   |
+| Date of creation | Album name                              | Tags  | Description                                                                            | URL                                                                                                                                                                      |
+|------------------|-----------------------------------------|-------|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2019-10-20       | Night Sessions: Light Becoming Darkness | 🔴️🔳 | First one-day improvisation from **Night Sessions** series. In general, pretty trashy. | No.                                                                                                                                                                      |
+| 2020-4-30        | Will Under Love                         | 🔴🔷  | Song reversing famous Aleister Crowley quote, which was my counterstatement for love.  | No.                                                                                                                                                                      |
+| 2020-5-15        | Night Sessions: Oingo                   | 🔴️🔳 | Second **Night Sessions** improvisation. Similar quality.                              | No.                                                                                                                                                                      |
+| 2020-5-22        | Oneironaut                              | 🔴🔷  | First a bit quality song, inspired by egyptian theme of Cubfan135.                     | [Drive](https://drive.google.com/drive/folders/1akNYaTypxw5-6kJqRy34RAT1H9kTn8FS?usp=sharing)                                                                            |
+| 2020-6-14        | Νεκρόω                                  | 🔴🔷  | Some old recorded song I found, with pretty haunting atmosphere                        | [Drive](https://drive.google.com/drive/folders/1Fo9btnqHH7qmrhioLu0myIrr2u-2d38n?usp=sharing)                                                                            |
+| 2020-9-07        | Burning Babylon                         | 🔴🔷  | Industrial-sque maxi-single, on which I'm pretty proud of.                             | [Drive](https://drive.google.com/drive/folders/1nXKfJvXKI3YS6BAN3N-WbExuyuLLHnPa?usp=sharing)  [Bandcamp](https://zileffect.bandcamp.com/album/burning-babylon)          |
+| 2020-9-12        | Sigillum Animarum                       | 🔴🔷  | Follow-up to Burning Babylon with one outtake and some weird instrumental              | [Drive](https://drive.google.com/drive/folders/1-dnwkdHeQmK-pVM3VbfoZHvbHl8gdHhQ?usp=sharing)                                                                            |
+| 2021-2-27        | Εἰκών                                   | 🔴🔷  | Some random single                                                                     | [Drive](https://drive.google.com/drive/folders/11EiUtVQYNpZLN6u3IKZHNvs0C0_tBKqy?usp=sharing)                                                                            |
+| 2021-10-24       | Night Sessions: Towards White Cold      | 🔴️🔳 | Third **Night Sessions** improvisation, finally quality one.                           | [Drive](https://drive.google.com/drive/folders/1hShLuXoTkOyyztUZS2V9Vk-q5xx5y1uA?usp=sharing)                                                                            |
+| 2022-10-11       | The Battle of Sancre Tor                | 🔴️🔷 | Single on battle of Sancre Tor                                                         | [Drive](https://drive.google.com/drive/folders/1oAhidmVY_ckCJJbdVivZ_GklmtBz3viV?usp=sharing)  [Bandcamp](https://zileffect.bandcamp.com/album/the-battle-of-sancre-tor) |
 
 <span style="color:#668c99">**🌆 SUN TRIBE**  
 Sun Tribe is trance project in which I wanted to capture my love to the sound of legends such as ATB, Armin van
@@ -368,7 +368,7 @@ TAGS:
 | 2020-07-02 | 15  | 🎵  | Rat Kru - Rok Szczura                                    | [Blogspot](http://toma400.blogspot.com/2020/07/rat-kru-rok-szczura.html)                   | 
 | 2020-12-30 | 16  | 🎶  | 2020 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2020/12/2020-aotys.html)                            | 
 | 2021-12-30 | 17  | 🎶  | 2021 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2021/12/2021-aotys.html)                            | 
-| 2021-12-30 | 18  | 🎶  | 2022 AOTYs                                               | [Blogspot](https://toma400.blogspot.com/2023/01/2022-aotys.html)                           |  
+| 2023-01-01 | 18  | 🎶  | 2022 AOTYs                                               | [Blogspot](https://toma400.blogspot.com/2023/01/2022-aotys.html)                           |  
 
 ---
 ### 🈁 FONTS
@@ -381,7 +381,8 @@ As weirdly as it may sound, I even were creating fonts, usually for Baedoor univ
 ---
 ### 🖼️ DRAWINGS
 This section will contain artworks I consider "official", as cataloguing all drawings would
-simply take too much time and be extremely chaotic.
+simply take too much time and be extremely chaotic.  
+Click on the picture for bigger resolution.
 
 🧿 **Pure Drawings**
 
@@ -405,7 +406,8 @@ simply take too much time and be extremely chaotic.
 ---
 ### 📷 PHOTOGRAPHY
 This section will contain photos I consider "official", as cataloguing all of them would
-simply take too much time and be extremely chaotic.
+simply take too much time and be extremely chaotic.  
+Click on the picture for bigger resolution.
 
 | Preview                                                                                                                                                                                                                                                                 | No. | Date of creation | Series | Name | Description                                                                                                                                                                                                                                                                     |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:------:|:----:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
