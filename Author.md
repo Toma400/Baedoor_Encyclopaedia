@@ -58,44 +58,43 @@ find worth cataloguing:
 I started my modding journey from small Battle for Wesnoth mod made in around 2012. Since it uses original
 images from World of Tanks, I upload it privately, as I can't do it officially due to copyrights.
 
-Wrench means status of support - if the mod is still maintained.
+Wrench means status of support - if the mod is still maintained. Lang+ means open form of language support.
 
-| 🔧  | Name                     | Original game      | Description                                                                                                 | Download                                                                                      |
-|-----|--------------------------|--------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 🔴  | WW2                      | Battle for Wesnoth | Mod adding tanks taken from World of Tanks franchise to BfW game.                                           | [Drive](https://drive.google.com/drive/folders/1m3oUjRsJYbZFAKsvOHOwTwrik9WIvMrJ?usp=sharing) |
-| 🟢  | Wastelands of Baedoor    | Minecraft          | Steampunk-aimed mod adding airships and firearms.                                                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor)              |
-| 🟢  | Civilisations of Baedoor | Minecraft          | Mod focused on building an empire and beautiful dimensions - as well as showcasing Baedoor universe itself. | [Discord](https://discord.gg/GbTw9KqnrE)                                                      |
+| 🔧  | Name                     | Original game      | Description                                                                                                 | Download                                                                                      |    Lang     |
+|-----|--------------------------|--------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|:-----------:|
+| 🔴  | WW2                      | Battle for Wesnoth | Mod adding tanks taken from World of Tanks franchise to BfW game.                                           | [Drive](https://drive.google.com/drive/folders/1m3oUjRsJYbZFAKsvOHOwTwrik9WIvMrJ?usp=sharing) |    🇵🇱     |
+| 🟢  | Wastelands of Baedoor    | Minecraft          | Steampunk-aimed mod adding airships and firearms.                                                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor)              | 🇬🇧 <br> + |
+| 🟢  | Civilisations of Baedoor | Minecraft          | Mod focused on building an empire and beautiful dimensions - as well as showcasing Baedoor universe itself. | [Discord](https://discord.gg/GbTw9KqnrE)                                                      | 🇬🇧 <br> + |
 
 ---
 
 ### 🏯 GAMES
-Wrench means status of support - if the game is still maintained.
+Wrench means status of support - if the game is still maintained. Lang+ means open form of language support.
 
 **🎎 True Games**
 
-| 🔧  | Date       | Name              | Description                                                                                          | Download                                               |
-|-----|------------|-------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| 🟢  | 2021-09-27 | The Isle of Ansur | Remake of Between Shadows and Light, this time made with more experience and better modding support. | [GitHub](https://github.com/Toma400/The_Isle_of_Ansur) |
+| 🔧  | Date       | Name              | Description                                                                                          | Download                                               |    Lang     |
+|-----|------------|-------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------|:-----------:|
+| 🟢  | 2021-09-27 | The Isle of Ansur | Remake of Between Shadows and Light, this time made with more experience and better modding support. | [GitHub](https://github.com/Toma400/The_Isle_of_Ansur) | 🇬🇧 <br> + |
 
 **🔨 Learning projects**
 
-| 🔧  | Date       | Name                      | Description                                                                              | Download                                                                                                                                                                      |
-|-----|------------|---------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 🔴  | 2018-03-12 | WarCards                  | Simple cardgame made in Python.                                                          | [Replit](https://replit.com/@Toma400/WarCards#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                         |
-| 🔴  | 2018-03-20 | Temple Settlers           | Simple strategy made in Python, with resources gathering and building an empire.         | [Replit](https://replit.com/@Toma400/Temple-Settlers?v=1)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                      |
-| 🔴  | 2018-07-29 | Between Shadows and Light | Full-blown text RPG made in Python, yet buggy and with extremely small location to play. | [Replit](https://replit.com/@Toma400/Between-Shadows-and-Light-rework#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing) |
+| 🔧  | Date       | Name                      | Description                                                                              | Download                                                                                                                                                                      | Lang |
+|-----|------------|---------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----:|
+| 🔴  | 2018-03-12 | WarCards                  | Simple cardgame made in Python.                                                          | [Replit](https://replit.com/@Toma400/WarCards#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                         | 🇵🇱 |
+| 🔴  | 2018-03-20 | Temple Settlers           | Simple strategy made in Python, with resources gathering and building an empire.         | [Replit](https://replit.com/@Toma400/Temple-Settlers?v=1)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                      | 🇵🇱 |
+| 🔴  | 2018-07-29 | Between Shadows and Light | Full-blown text RPG made in Python, yet buggy and with extremely small location to play. | [Replit](https://replit.com/@Toma400/Between-Shadows-and-Light-rework#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing) | 🇵🇱 |
 
 ---
 
 ### ⚗️ SOFTWARE
-Wrench means status of support - if the program is still maintained.
+Wrench means status of support - if the program is still maintained. Lang+ means open form of language support.
 
-| 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                 |
-|-----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-| 🟢  | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE) |
+| 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                 |    Lang     |
+|-----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|:-----------:|
+| 🟢  | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE) | 🇬🇧 <br> + |
 
 ---
-
 ### 📖 STORIES  
 **Lang** section will transfer you to the story in selected language. Those count only full (longer)
 stories I could count as official.
@@ -105,7 +104,6 @@ stories I could count as official.
 | 2019-11-31       | Wilk | [🇵🇱](https://drive.google.com/file/d/106niTiZQi02gYJxKcMFzsnEQ54Ii7yng/view?usp=sharing) | 🟢       | Experimental story on bandit gunslinger being  <br/> caught by bounty hunters. |
 
 ---
-
 ### 🎻 MUSIC  
 Music is separated via projects. **Tags** section is to sum up some small, important info you could
 find useful. Below legend explaining the meaning of all symbols.
@@ -412,6 +410,35 @@ Click on the picture for bigger resolution.
 | Preview                                                                                                                                                                                                                                                                 | No. | Date of creation | Series | Name | Description                                                                                                                                                                                                                                                                     |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:------:|:----:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <a href="https://cdn.discordapp.com/attachments/849205834830315520/1062508279634329650/1._Dune_2021-01-24.png"><img alt="PH1"  height="100" src="https://cdn.discordapp.com/attachments/849205834830315520/1062508279634329650/1._Dune_2021-01-24.png" width="70"/></a> |  1  | 2021-01-24       |   -    | Dune | Concept photo created for *Przez Pustynie Serca* (eng. *Through the Deserts of the Heart*) compilation. It is photo of my own hand which became reminiscent of desert dune in such way that it emphasises meaning of collection's name: it is desert, but of the heart (human). |
+
+---
+### 🌌 BAEDOOR ENCYCLOPAEDIA
+Considering Baedoor universe being life-long experience for myself, and also vastness of its world
+and history, I started doing project called **Baedoor Encyclopaedia** which will store whole lore
+of this universe in one place.
+
+Although not public yet, once it is done enough, it will be released for public with all its assets and
+information, for everyone to learn upon. Currently it is only accessible for those who voluntarily want
+to translate its entries to their own languages.
+
+---
+### 🗺️ RPG SYSTEM
+As you could expect, for RPG element of my games, I've created RPG System with all statistics and
+mechanics adding to the lore experience. It's called **Baedoor RPG System**, as it solely works upon
+this universe.
+
+| Version | Public? | Destination                                | Overview                                                                                                                              |
+|:-------:|:-------:|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+|  1.0+   |   🔴    | ⭐ Oldest Baedoor games                     | Loose system which rather guided the player than really made any boundaries for gameplay                                              |
+|   2.0   |    ⭕    | ⭐ Between Shadows and Light                | Poor reimplementation of 1.0 system into PC RPG environment                                                                           |
+|   3.0   |   🟢    | ⭐ The Isle of Ansur <br> ⭐ Tabletop gaming | First proper reimplementation of the system trying to be stable enough for tabletop play and also expand upon crucial features of BRS |
+
+---
+### 🦾 BOTS
+I also made Discord bot called **Airship Guard**, which purpose was to be guide for my server and all
+Baedoor lore/projects of mine.  
+As the time goes further, I also started adding general purpose features and now I'm trying to develop
+it in a way that it can be used on other servers.
 
 ---
 ### ☠️ LOST AND FOUND
