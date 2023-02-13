@@ -4,7 +4,7 @@
 <span style="color:#107C23">**cities**</span> [✦](/Loreum/Tags.md#-cities)  
 
 ---
-**Ino Anor** (jit. *nightly manor*) is underground city, carved into Altauar Mountains and being
+**Ino Anor** (jit. *silent manor*) is underground city, carved into Altauar Mountains and being
 in fact recognised as part of [Raliun city](Raliun.md).  
 Its name comes from manor which is entrypoint to the city, serving as a gateway, place for visitors
 to stay, and also as a defending point, as the manor itself has solid walls and is good observation

@@ -110,10 +110,12 @@ old jitadish → old baedoorish → baedoorish
 |    suri     | hopeful, alone                                         | suri          |                 adj. of "sur"                 |
 |    vaer     | void, wasteland, anxiety related to nothingness        | wer           |                  jit. "vaer"                  |
 |    vein     | road, trail                                            | fve↓in        |                  jit. "vein"                  |
+|    veino    | silent                                                 | fveino        |                  jit. "ino"                   |
 |    velae    | night                                                  | fvele:        |                 jit. "velae"                  |
 |   velaie    | nightly, in night                                      | fvelaie:      |                 jit. "velaie"                 |
 |     veh     | duty, important matter                                 | fve↓h         |                ghloddish "ghe"                |
 |     ven     | dense, warm, safe                                      | fven          |                  jit. "vene"                  |
+|    veno     | silence                                                | fveno         |                   jit. "no"                   |
 |   vhevren   | faithful, trustworthy                                  | fvhefvren     |          jit. "pheren" & "vhepheren"          |
 |     vos     | horizon                                                | wos           |                  jit. "vos"                   |                     
 |    vosur    | hope, solitude                                         | wosur         |                 jit. "vosur"                  |
