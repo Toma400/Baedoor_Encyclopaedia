@@ -1,22 +1,27 @@
-# 🌅 Üdvözlünk a Baedoor Enciklopédiában!
+# 🌅 Welcome in Baedoor Encyclopaedia!
 
-A Baedoor Enciklopédia az a hely, ahol én, a legkisebb részletig dokumentálom a Baedoor történetét.
+Baedoor Encyclopaedia is place made by me to keep track on Baedoor lore, in its smallest details. 
 
-**🏵️ MI AZ A BAEDOOR?**
+**🏵️ WHAT IS BAEDOOR?**
 
-Ha nem ismered a Baedoor-t, akkor kattints [ide](Baedoor.md). Ha szeretnéd a szerző kreatív útját megismerni és megtekinteni az összes Baedoor-hoz kapcsolódó kreálmányt, menj [ide](Author.md).
+If you are stranger to what Baedoor is, head on [here](Baedoor.md). If you want to see author's 
+creative path and all Baedoor-related creations listed, go [here](Author.md).
 
-**🏔️ TÖRTÉNELEM**
+**🏔️ HISTORY**
 
-Ezen projekt eredetileg a Twine szoftverrel volt kezelve, viszont úgy döntöttem, hogy áthelyezem egy .md rendszerbe az egyszerűsége, átlátható szintaxisa és képek prezentálásának lehetősége miatt - ami a fő problémám votl a Twine-nal.
-Ez az *Első kiadás*, ami azt jelenti, hogy meglehetőleg hiányos lesz.
+Originally handled through Twine software, I decided to migrate it into .md system due to its 
+simplicity, clear syntax and possibility to include images - which was my main issue with Twine.
+This is *First Edition*, meaning it will be rather incomplete.
 
-**⛩️ SZEKCIÓK**
+**⛩️ SECTIONS**
 
-Az Enciklopédia 4 alappilléren áll:
-- 🏺 [Enciklopédia Loreum](Loreum/Loreum.md) - A Baedoor univerzum története
-- 🎭 [Enciklopédia Langue](Langue/Langue.md) - A Beadoor civilizációnak nyelvei és szótárai
-- 📕 Enciklopédia Scribae - A Baedoor civilizációi által írt összes könyv tárolója
-- ⚙️ [Enciklopédia Mechanicum](Mechanicum/Mechanicum.md) - Az összes RPG rendszernek, eszköznek és statisztikának dokumentációja
+Encyclopaedia is set on four pillars:
+- 🏺 [Encyclopaedia Loreum](Loreum/Loreum.md) - focused on explaining lore of Baedoor universe
+- 🎭 [Encyclopaedia Langue](Langue/Langue.md) - focused on languages and dictionaries of Baedoor civilisations
+- 📕 Encyclopaedia Scribae - storing all books written by Baedoor civilisations
+- ⚙️ [Encyclopaedia Mechanicum](Mechanicum/Mechanicum.md) - explaining RPG systems and storing all detailed info on items, including technicals like statistics
 
-Kattint a bizonyos szekciónevekre, hogy meglátogasd azt.
+Click on section names to head to specific one.
+
+---
+✥

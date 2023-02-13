@@ -4,33 +4,33 @@ table, th, td {border: 1px solid; padding: 0 5px;}
 </style> 
 -->
 
-## ⚓️ Ki vagyok én?
-### Helló!
-A nevem Tomasz Stępień (Angolra fordítva gyakran Tom Stępień).  
-Úgy is ismerhetsz, hogy [Toma400](https://linktr.ee/toma400), melyet széles körben használok, vagy egyes esetekben a
-Shadow vagy Zil neveket.
+## ⚓️ Who Am I?
+### Hello!
+My name is Tomasz Stępień (usually translated to Tom Stępień in English).  
+You can also know me for my [Toma400](https://linktr.ee/toma400) nickname, which I use most widely, or, in specific cases, 
+Shadow or Zil ones.
 
-Jelen pillanatban - Ezen szöveg írásakor - egy 25 éves férfi vagyok Dél-Lengyelországból, aki sok féle 
-(mondjuk úgy "művészi") dolgokat csinál, ezerszer többet elképzelve.  
+I am - for the time I write that - 25 year old guy from South Poland, who just makes lots of 
+(let's call it "artistic") things, imagining thousand times more.  
 
-Már elkészíttem a saját képzeletbéli univerzumomat, - az ok amiért itt vagy - illetve verseket, történeteket, zenéket 
-játékokat és mod-okat.  
-Valójában legtöbbjük nem igazán eredeti vagy lélegzetelállító, mivel még mindig amatőr vagyok, aki egyszerüen
-szereti a művészetet és annak minden változatát, és csak az én nézéspontomat szeretném hozzátenni ehhez a szeretett jelenséghez.
+I have already made my own universe, Baedoor - the reason why you are here - as well as poems, stories, music, 
+games and mods.  
+All of them aren't really anything original or breathtaking, since I'm still an amateur 
+loving art in all its variants, wanting to just contribute my visions into this beloved phenomenon.
 
-### Ki is vagyok igazából?
-Ha kíváncsi vagy ki vagyok a "portfóliómon" kívül, akkor nyugodtan üzenj nekem és beszélgessünk
-bármiről. Néha elfoglalt tudok lenni, de mindig élvezem a jó beszélgetéseket.  
+### But who I really am?
+If you are curious who am I aside from my "portfolio", then feel free to message me to talk 
+about anything. I can be busy sometimes, but I always love great discussion.  
 
-Ha esetleg jobban szeretnéd tudni, hogy mi a véleményem egyes dolgokról, akkor valószínűleg felteszek valamiféle dokumentumot, amely
-összefoglalja általános meggyőződéseimet és amit véleményemben értékesnek találok. 
-Ez viszont még mindig csak egy ötlet.
+And if you prefer to just know my viewpoints on stuff, I will probably put some document being 
+general summary of my beliefs, trying to sum up everything I find valuable in my opinions. This is
+still only an idea, though.
 
-És ha tényleg be szeretnél engem sorolni kategóriákba: 
-- romantikus
-- egzisztencialista
+And if you really need shelves for me, then here you are:  
+- romanticist
+- existentialist 
 - industrialist 
-- gót
+- goth
 
 Those subcultures / thought movements are the only safe "alignments" I can put myself into - 
 and if you know them deeply, you know how beautifully non-precise they are.  
