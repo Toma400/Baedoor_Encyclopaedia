@@ -284,8 +284,8 @@ Wiersze z symbolem 💠 mają jakieś nawiązanie do uniwersum Baedoor.
 Wszystkie rzeczy z poprzednich sekcji, które próbowały jakkolwiek zebrać moje dzieła.  
 Sekcja **lang** przeniesie Cię do kolekcji w wybranym języku.
 
-| Data powstania | Nazwa                | Lang                                                                                    | Opis                                        |
-|----------------|----------------------|-----------------------------------------------------------------------------------------|---------------------------------------------|
+| Data powstania | Nazwa                | Lang                                                                                       | Opis                                        |
+|----------------|----------------------|--------------------------------------------------------------------------------------------|---------------------------------------------|
 | 2021-01-08     | Duch Nieskończoności | [🇵🇱](https://drive.google.com/file/d/1KgrlGnznHZ3pDogHoa1O0RFGHPC3_Rqq/view?usp=sharing) | Kolekcja scen (krótkich tekstów bez fabuły) |
 | 2021-01-25     | Przez Pustynie Serca | [🇵🇱](https://drive.google.com/file/d/1kdLMS0IhLfuX401W0jzTA20jQ8zQOha3/view?usp=sharing) | Kolekcja 42 wierszy, z małymi korektami     |
 
@@ -394,72 +394,71 @@ Kliknięcie na obrazie spowoduje otwarcia go w większej rozdzielczości.
 
 🧿 **Pełnoprawne Obrazy**
 
-| Podgląd                                                                                                                                                                                                    | No. | Date of creation |   Series   |                                 Name                                  | Description                                                                                                                                                                                                                             |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:----------:|:---------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <a href="https://pbs.twimg.com/media/Fln7kbEWQAI5y8R?format=jpg&name=4096x4096"><img alt="RD1"  height="100" src="https://pbs.twimg.com/media/Fln7kbEWQAI5y8R?format=jpg&name=4096x4096" width="110"/></a> |  1  | 2023-01-04       | Redrawings |                                   -                                   | Redrawing of [NishantNeerajA1](https://twitter.com/NishantNeerajA1/status/1326532155137142784) render.                                                                                                                                  |
+| Podgląd                                                                                                                                                                                                    | No. | Data powstania |   Seria    | Nazwa | Opis                                                                                                            |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|----------------|:----------:|:-----:|-----------------------------------------------------------------------------------------------------------------|
+| <a href="https://pbs.twimg.com/media/Fln7kbEWQAI5y8R?format=jpg&name=4096x4096"><img alt="RD1"  height="100" src="https://pbs.twimg.com/media/Fln7kbEWQAI5y8R?format=jpg&name=4096x4096" width="110"/></a> |  1  | 2023-01-04     | Redrawings |   -   | Redrawing renderu autorstwa [NishantNeerajA1](https://twitter.com/NishantNeerajA1/status/1326532155137142784).  |
 
-🧿 **Conceptual Arts**
+🧿 **Sztuka Konceptualna**
 
-| Preview                                                                                                                                                                                                                                                     | No. | Date of creation |   Series   |                                 Name                                  | Description                                                                                                                                                                                                                             |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:----------:|:---------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <a href="https://cdn.discordapp.com/attachments/849205834830315520/1062507959076278312/2._Poznanie.png"><img alt="PZNN" height="100" src="https://cdn.discordapp.com/attachments/849205834830315520/1062507959076278312/2._Poznanie.png" widght="100"/></a> |  1  | 2020-02-23       |     -      |               Poznanie<br>(inaccurately eng. *knowing*)               | Conceptual art made to indicate the beauty of getting to know someone.<br>It tries to encompass idea of two separate worlds merging with each other, but also creating another state, in where "what is between us, is on the outside". |
+| Podgląd                                                                                                                                                                                                                                                     | No. | Data powstania | Seria |  Nazwa   | Opis                                                                                                                                                                                                                   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|----------------|:-----:|:--------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://cdn.discordapp.com/attachments/849205834830315520/1062507959076278312/2._Poznanie.png"><img alt="PZNN" height="100" src="https://cdn.discordapp.com/attachments/849205834830315520/1062507959076278312/2._Poznanie.png" widght="100"/></a> |  1  | 2020-02-23     |   -   | Poznanie | Dzieło konceptualne opisujące piękno poznawania drugiej osoby.<br>Próbuje ująć ideę dwóch oddzielnych światów przenikających się wzajemnie, tworząc nowy stan, w którym "co jest pomiędzy nami, jest też na zewnątrz". |
 
-🧿 **Learning Drawings**
+🧿 **Rysunki do ćwiczeń**
 
-| Preview                                                                                                                                                                                                    | No. | Date of creation |   Series   |                                 Name                                  | Description                                                                                                                                                                                                                             |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:----------:|:---------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <a href="https://pbs.twimg.com/media/Fln7kbEWQAI5y8R?format=jpg&name=4096x4096"><img alt="RD1"  height="100" src="https://pbs.twimg.com/media/Fln7kbEWQAI5y8R?format=jpg&name=4096x4096" width="110"/></a> |  1  | 2023-01-04       | Redrawings |                                   -                                   | Redrawing of [NishantNeerajA1](https://twitter.com/NishantNeerajA1/status/1326532155137142784) render.                                                                                                                                  |
+| Podgląd                                                                                                                                                                                                    | No. | Data powstania |   Seria    | Nazwa | Opis                                                                                                           |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|----------------|:----------:|:-----:|----------------------------------------------------------------------------------------------------------------|
+| <a href="https://pbs.twimg.com/media/Fln7kbEWQAI5y8R?format=jpg&name=4096x4096"><img alt="RD1"  height="100" src="https://pbs.twimg.com/media/Fln7kbEWQAI5y8R?format=jpg&name=4096x4096" width="110"/></a> |  1  | 2023-01-04     | Redrawings |   -   | Redrawing renderu autorstwa [NishantNeerajA1](https://twitter.com/NishantNeerajA1/status/1326532155137142784). |
 
-🧿 **Archives**
+🧿 **Archiwa**
 
-| Preview                                                                                                                                                                                                                                                                            | No. | Date of creation |   Series   |                                 Name                                  | Description                                                                                                                                                                                                                             |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:----------:|:---------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <a href="https://cdn.discordapp.com/attachments/849205834830315520/1062507959558619136/Cover_Art_Final_Edition.png"><img alt="PPWP" height="100" src="https://cdn.discordapp.com/attachments/849205834830315520/1062507959558619136/Cover_Art_Final_Edition.png" width="100"/></a> |  1  | 2019-09-28       |     -      | Podróż Poprzez Wody Pustki<br>(eng. *Journey Through Waters of Void*) | Drawing created for *Forgotten Journeys Through Waste Years* compilation. Drawn with pencil, scanned and later reconstructed via GIMP pixel-to-pixel rework. Took about two months to be fully done.                                    |
+| Podgląd                                                                                                                                                                                                                                                                            | No. | Data powstania | Seria |           Nazwa            | Opis                                                                                                                                                                                    |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|----------------|:-----:|:--------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://cdn.discordapp.com/attachments/849205834830315520/1062507959558619136/Cover_Art_Final_Edition.png"><img alt="PPWP" height="100" src="https://cdn.discordapp.com/attachments/849205834830315520/1062507959558619136/Cover_Art_Final_Edition.png" width="100"/></a> |  1  | 2019-09-28     |   -   | Podróż Poprzez Wody Pustki | Obraz stworzony jako cover kompilacji *Forgotten Journeys Through Waste Years*. Narysowany za pomocą ołówka, zeskanowany i zrekonstruowany przy użyciu GIMPa. Około dwa miesiące pracy. |
 
-
----
-### 📷 PHOTOGRAPHY
-This section will contain photos I consider "official", as cataloguing all of them would
-simply take too much time and be extremely chaotic.  
-Click on the picture for bigger resolution.
-
-| Preview                                                                                                                                                                                                                                                                  | No. | Date of creation | Series | Name | Description                                                                                                                                                                                                                                                                     |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:------:|:----:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <a href="https://cdn.discordapp.com/attachments/1070013531212234852/1070017043904077884/1._Dune_2021-01-24.png"><img alt="PH1"  height="100" src="https://cdn.discordapp.com/attachments/849205834830315520/1062508279634329650/1._Dune_2021-01-24.png" width="70"/></a> |  1  | 2021-01-24       |   -    | Dune | Concept photo created for *Przez Pustynie Serca* (eng. *Through the Deserts of the Heart*) compilation. It is photo of my own hand which became reminiscent of desert dune in such way that it emphasises meaning of collection's name: it is desert, but of the heart (human). |
 
 ---
-### 🌌 BAEDOOR ENCYCLOPAEDIA
-Considering Baedoor universe being life-long experience for myself, and also vastness of its world
-and history, I started doing project called **Baedoor Encyclopaedia** which will store whole lore
-of this universe in one place.
+### 📷 FOTOGRAFIA
+Ta sekcja zbiera zdjęcia, które uznaję za "oficjalne", jako że katalogowanie ich wszystkich
+zajęłoby zbyt wiele czasu i byłoby ekstremalnie chaotyczne.  
+Kliknięcie na obrazie spowoduje otwarcia go w większej rozdzielczości.
 
-Although not public yet, once it is done enough, it will be released for public with all its assets and
-information, for everyone to learn upon. Currently it is only accessible for those who voluntarily want
-to translate its entries to their own languages.
-
----
-### 🗺️ RPG SYSTEM
-As you could expect, for RPG element of my games, I've created RPG System with all statistics and
-mechanics adding to the lore experience. It's called **Baedoor RPG System**, as it solely works upon
-this universe.
-
-| Version | Public? | Destination                                | Overview                                                                                                                              |
-|:-------:|:-------:|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|  1.0+   |   🔴    | ⭐ Oldest Baedoor games                     | Loose system which rather guided the player than really made any boundaries for gameplay                                              |
-|   2.0   |    ⭕    | ⭐ Between Shadows and Light                | Poor reimplementation of 1.0 system into PC RPG environment                                                                           |
-|   3.0   |   🟢    | ⭐ The Isle of Ansur <br> ⭐ Tabletop gaming | First proper reimplementation of the system trying to be stable enough for tabletop play and also expand upon crucial features of BRS |
+| Podgląd                                                                                                                                                                                                                                                                  | No. | Data powstania | Seria |    Nazwa     | Opis                                                                                                                                                                                                                                               |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|----------------|:-----:|:------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://cdn.discordapp.com/attachments/1070013531212234852/1070017043904077884/1._Dune_2021-01-24.png"><img alt="PH1"  height="100" src="https://cdn.discordapp.com/attachments/849205834830315520/1062508279634329650/1._Dune_2021-01-24.png" width="70"/></a> |  1  | 2021-01-24     |   -   | Dune (Wydma) | Zdjęcie konceptualne stworzone jako cover zbioru *Przez Pustynie Serca*. Zdjęcie przedstawia moją rękę, która przypomina piaskową wydmę, symbolizując tym samym znaczenie zawarte w tytule kolekcji: jest to więc pustynia, ale serca (człowieka). |
 
 ---
-### 🦾 BOTS
-I also made Discord bot called **Airship Guard**, which purpose was to be guide for my server and all
-Baedoor lore/projects of mine.  
-As the time goes further, I also started adding general purpose features and now I'm trying to develop
-it in a way that it can be used on other servers.
+### 🌌 ENCYKLOPEDIA BAEDOOR
+Biorąc pod uwagę, że uniwersum Baedoor jest moim całożyciowym przedsięwzięciem, jak i ogrom jego
+świata i historii, zacząłem projekt o nazwie **Encyklopedia Baedoor**, w którym to zbierane
+jest całe lore tego uniwersum w jednym miejscu.
+
+Choć nie jest to projekt w tej chwili jeszcze publiczny, kiedy tylko osiągnie odpowiedni stopień
+ukończenia, zostanie wydany z wszystkimi assetami i informacjami, dla wszystkich zainteresowanych
+światem. Obecnie dostępny jest jedynie dla tych, którzy chcą kontrybuować w tłumaczeniu Encyklopedii
+na inne języki.
 
 ---
-### ☠️ LOST AND FOUND
-All stuff outside of anything official, but still worth nothing just for cataloguing purposes.
+### 🗺️ SYSTEM RPG
+Jak można by się było domyślać, dla funkcji RPG moich gier, stworzyłęm specjalny system
+ze wszystkimi statystykami oraz mechanikami tworzącymi gameplay. Jego nazwa to **Baedoor RPG System**,
+jako że operuje on wyłącznie na tym uniwersum.
 
+| Wersja | Publiczna? | Przeznaczony produkt                         | Przegląd                                                                                                          |
+|:------:|:----------:|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+|  1.0+  |     🔴     | ⭐ Najstarsze gry z uniwersum                 | Luźny system, który raczej sugerował graczowi aspekty gry, zamiast go ograniczać zasadami.                        |
+|  2.0   |     ⭕      | ⭐ Between Shadows and Light                  | Niedopracowana implementacja wersji 1.0 na platformę PC.                                                          |
+|  3.0   |     🟢     | ⭐ The Isle of Ansur <br> ⭐ Klasyczne gry RPG | Pierwsza poprawna implementacja systemu próbująca być stabilna na tyle, by móc ją używać do klasycznej rozgrywki. |
+
+---
+### 🦾 BOTY
+Stworzyłem również discordowego bota o nazwie **Airship Guard**, którego celem była pomoc w
+nawigacji po moim serwerze oraz projektach.  
+W miarę czasu, zacząłem dodawać również pewne funkcje ogólnego przeznaczenia, przez co użyteczność
+tego bota powoli poszerza się do tego stopnia, by mógł być również przydatnym narzędziem dla 
+innych serwerów.
+
+---
 ### ☠️ ZGUBIONE I ZNALEZIONE
 Wszystko co nie do końca oficjalne, ale wciąż warte odnotowania dla czysto katalogowych
 celów.
