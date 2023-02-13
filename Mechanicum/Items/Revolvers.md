@@ -1,5 +1,5 @@
-# 🔥 Revolverek
-A revolverek általában gyors, rövid hatótávolságú lőfegyverek, amelyek többször is lőhetnek, mielőtt újratölteni kellene őket.
+# 🔥 Revolvers
+Revolvers are usually fast, short-ranged firearms able to shot several times before they need to reload.
 
 ---
 #### [Lefs 8](List/Lefs8.md)
