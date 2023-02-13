@@ -26,9 +26,21 @@ was due to extensive Empire expansion which allowed Baedoor to gather more atten
 expand upon trading with conquered lands. A lot of governing places, previously spread, got moved
 into Baedoor at the time.
 
-<img alt="Baedoor City Map" height="408" src="/Assets/map_baedoor_city_early_se.jpg" width="520"/>
-
-``Map of early OE Baedoor, approximately 400-500 OE``
+<table>
+    <tr>
+        <td align="left">
+            <b>Map of early OE Baedoor, approximately 400-500 OE</b><br><br>
+            <b>1</b> 🔹 Stern harbour district<br>
+            <b>2</b> 🔹 Cityguard headquarters (South Guardpost)<br>
+            <b>3</b> 🔹 Main cityguard headquarters (Central Guardpost)<br>
+            <b>4</b> 🔹 Guild cityguard headquarters<br>
+            <b>5</b> 🔹 Burning Water Fountain<br>
+            <b>6</b> 🔹 Cityguard headquarters (Northern Guardpost)<br>
+            <b>7</b> 🔹 Slum Guardpost<br>
+        </td>
+        <td width="525"><img alt="Baedoor City Map" height="408" src="/Assets/Maps/baedoor_city_early_se.jpg" width="520"/></td>
+    </tr>
+</table>
 
 Late Old Era Baedoor were totally different: huge victorian-styled city, with thousands of people
 visiting it everyday, and districts and subdistricts dividing it, allowing certain classes to never
@@ -46,9 +58,32 @@ important houses in politics. Unlike castle, it does serve more of representativ
 guests to see beauty of the city in its purest form, distilled from all industrialised districts
 around.
 
-<img alt="Baedoor, High District" height="520" src="/Assets/high_district.jpg" width="390"/>
+<table>
+    <tr>
+        <td width="400"><img alt="Baedoor, High District" height="390" src="/Assets/high_district.jpg" width="295"/></td>
+        <td width="340"><img alt="Baedoor, High District Map" height="422" src="/Assets/Maps/baedoor_city_aristocr_district_early_se.jpg" width="499"/></td>
+    </tr>
+    <tr>
+        <td>House in High District, early OE</td>
+        <td>Map of Aristocratic District, approximately 400-500 OE</td>
+    </tr>
+</table>
 
-`House in High District, early OE`
+#### 💎 VESSIN DISTRICT
+Vessin District is trading district in south Baedoor, having shape of long hall, and it corners with
+aristocratic district on the west side. It is one of the most crowded districts due to their specifics,
+as any person visit it either because of crossing paths between districts, crossing southern gate,
+or because they just want to buy something from shops and market stalls.  
+By the time of New Era, with Baedoor city expansion, the overcrowding issue was partly solved by
+tram systems allowing to bypass the district.
+
+#### 🏰 DISTRICT OF BLACK PAVING
+District of Black Paving is district that was separated from Castle's District in 626 OE, right after
+enthronement of Soltan II. It was meant to be additional fortificative system to defend Castle from
+enemies entering the city.  
+New walls were created inside castle, and reinforced with special black coloured material, from which 
+district'a name appeared.  
+Until second century of New Era, the district was ruled by Varteford and Xavier families.
 
 ---
 ### 🗡️ EMBLEMS

@@ -1,5 +1,5 @@
 # 🏞️ Nferth Isle
-<img alt="Nferth Map" height="390" src="/Assets/map_ansur.jpg" width="219"/>
+<img alt="Nferth Map" height="216" src="/Assets/Maps/nferth.png" width="384"/>
 
 ``Simplified map of Nferth Isle``
 

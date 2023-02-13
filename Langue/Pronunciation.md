@@ -14,3 +14,4 @@ Baedoor languages. Everything about them can be found here.
 |  ...x  | Last letter of the word                                                  |         |
 | ..x..  | Between letters                                                          |         |
 |   ʃ    | As ʃ or ʂ of phonetic language, hearable in Polish `sz` or Hungarian `s` |         |
+|   j    | Being yod `j`, not English one                                           |         |

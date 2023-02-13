@@ -6,8 +6,9 @@ Due to its weird structure and little remaining source texts, Ehric is considere
 little to no chance to be revived.
 
 ### Ehric vocabulary
-| Word  | Translation                | Pronunciation | Etymology |
-|:-----:|----------------------------|---------------|:---------:|
-|  ct'  | full, all, whole, endless  | ?             |     -     |
-|  eh   | world                      | ?             |     -     |
-| nahf' | weak, tired, not-resistant | na:heef       |     -     |
+| Word  | Translation                         | Pronunciation | Etymology |
+|:-----:|-------------------------------------|---------------|:---------:|
+|  ct'  | full, all, whole, endless           | sst           |     -     |
+|  eh   | world                               | e:h           |     -     |
+|  ese  | to be among the dead (metaphorical) | ?             |     -     |
+| nahf' | weak, tired, not-resistant          | na:heef       |     -     |

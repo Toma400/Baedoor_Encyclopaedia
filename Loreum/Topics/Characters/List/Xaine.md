@@ -14,4 +14,4 @@ there thanks to some form of breach, Rift or his own unknown knowledge.
 
 ---
 ♜✥  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Characters/Jitado_Characters.md)

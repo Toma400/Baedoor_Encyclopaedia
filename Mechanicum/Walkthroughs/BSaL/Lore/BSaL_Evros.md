@@ -1,7 +1,7 @@
 # 📿 Evros
 
 ---
-**🪔 The Isle of Ansur** (2018)
+**🪔 Between Shadows and Light** (2018)
 
 ---
 Evros in BSaL is portrayed as small city, with tavern, bank and few shops. This isn't perfectly

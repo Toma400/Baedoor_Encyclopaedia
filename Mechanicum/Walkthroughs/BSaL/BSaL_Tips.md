@@ -1,4 +1,4 @@
-# 🔅 Quests
+# 🔅 Tips and Tricks
 In general, Between Shadows and Light does not require you to be at any way good player. Its difficulty
 is low and you should be able to easily get around most of the situations. However, there are some
 ways which can make your journey a bit more easy.

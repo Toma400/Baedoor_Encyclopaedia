@@ -1,10 +1,16 @@
+<!-- CSS Code:
+<style>
+table, th, td {border: 1px solid; padding: 0 5px;}
+</style> 
+-->
+
 ## ⚓️ Ki vagyok én?
 ### Helló!
 A nevem Tomasz Stępień (Angolra fordítva gyakran Tom Stępień).  
 Úgy is ismerhetsz, hogy [Toma400](https://linktr.ee/toma400), melyet széles körben használok, vagy egyes esetekben a
 Shadow vagy Zil neveket.
 
-Jelen pillanatban - Ezen szöveg írásakor - egy 24 éves férfi vagyok Dél-Lengyelországból, aki sok féle 
+Jelen pillanatban - Ezen szöveg írásakor - egy 25 éves férfi vagyok Dél-Lengyelországból, aki sok féle 
 (mondjuk úgy "művészi") dolgokat csinál, ezerszer többet elképzelve.  
 
 Már elkészíttem a saját képzeletbéli univerzumomat, - az ok amiért itt vagy - illetve verseket, történeteket, zenéket 
@@ -34,74 +40,70 @@ No other alignments with any movements / political agendas, please don't ever tr
 ### How to contact me?
 Well, there are plenty of options:
 - [Join my Discord!](https://discord.gg/GbTw9KqnrE) We have pretty amazing community there!
-- Contact me via e-mail! ``thomasso_calgori@o2.pl``
 - Find me on [Last.fm](https://www.last.fm/user/Toma400)!
 - Contact me via [Twitter](https://twitter.com/TheTrueToma400)!
 
 In general, you can find most of my social media on my [Linktree](https://linktr.ee/toma400) as well, so
-the decision on how to contact me are pretty endless. 
+possibilities on how to contact me are pretty endless. 
 
 ---
 ## ⚓️ My creations
 
 My journey started with Baedoor universe, which history is explained [in its own section](Baedoor.md).  
 List of strictly Baedoor-related works are listed there.  
-If you'd prefer to see all my creations 
-though, here you have complete list of what I did by far:
+If you'd prefer to see all my creations though, here is complete list of what I did by far and 
+find worth cataloguing:
 
 ### 📿 MODS
 I started my modding journey from small Battle for Wesnoth mod made in around 2012. Since it uses original
 images from World of Tanks, I upload it privately, as I can't do it officially due to copyrights.
 
-Wrench means status of support - if the mod is still maintained.
+Wrench means status of support - if the mod is still maintained. Lang+ means open form of language support.
 
-| 🔧  | Name                     | Original game      | Description                                                                                                 | Download                                                                                      |
-|-----|--------------------------|--------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 🔴  | WW2                      | Battle for Wesnoth | Mod adding tanks taken from World of Tanks franchise to BfW game.                                           | [Drive](https://drive.google.com/drive/folders/1m3oUjRsJYbZFAKsvOHOwTwrik9WIvMrJ?usp=sharing) |
-| 🟢  | Wastelands of Baedoor    | Minecraft          | Steampunk-aimed mod adding airships and firearms.                                                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor)              |
-| 🟢  | Civilisations of Baedoor | Minecraft          | Mod focused on building an empire and beautiful dimensions - as well as showcasing Baedoor universe itself. | [Discord](https://discord.gg/GbTw9KqnrE)                                                      |
+| 🔧  | Name                     | Original game      | Description                                                                                                 | Download                                                                                      |    Lang     |
+|-----|--------------------------|--------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|:-----------:|
+| 🔴  | WW2                      | Battle for Wesnoth | Mod adding tanks taken from World of Tanks franchise to BfW game.                                           | [Drive](https://drive.google.com/drive/folders/1m3oUjRsJYbZFAKsvOHOwTwrik9WIvMrJ?usp=sharing) |    🇵🇱     |
+| 🟢  | Wastelands of Baedoor    | Minecraft          | Steampunk-aimed mod adding airships and firearms.                                                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor)              | 🇬🇧 <br> + |
+| 🟢  | Civilisations of Baedoor | Minecraft          | Mod focused on building an empire and beautiful dimensions - as well as showcasing Baedoor universe itself. | [Discord](https://discord.gg/GbTw9KqnrE)                                                      | 🇬🇧 <br> + |
 
 ---
 
 ### 🏯 GAMES
-
-Wrench means status of support - if the game is still maintained.
+Wrench means status of support - if the game is still maintained. Lang+ means open form of language support.
 
 **🎎 True Games**
 
-| 🔧  | Date       | Name              | Description                                                                                          | Download                                               |
-|-----|------------|-------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| 🟢  | 2021-09-27 | The Isle of Ansur | Remake of Between Shadows and Light, this time made with more experience and better modding support. | [GitHub](https://github.com/Toma400/The_Isle_of_Ansur) |
+| 🔧  | Date       | Name              | Description                                                                                          | Download                                               |    Lang     |
+|-----|------------|-------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------|:-----------:|
+| 🟢  | 2021-09-27 | The Isle of Ansur | Remake of Between Shadows and Light, this time made with more experience and better modding support. | [GitHub](https://github.com/Toma400/The_Isle_of_Ansur) | 🇬🇧 <br> + |
 
 **🔨 Learning projects**
 
-| 🔧  | Date       | Name                      | Description                                                                              | Download                                                                                                                                                                      |
-|-----|------------|---------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 🔴  | 2018-03-12 | WarCards                  | Simple cardgame made in Python.                                                          | [Replit](https://replit.com/@Toma400/WarCards#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                         |
-| 🔴  | 2018-03-20 | Temple Settlers           | Simple strategy made in Python, with resources gathering and building an empire.         | [Replit](https://replit.com/@Toma400/Temple-Settlers#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                  |
-| 🔴  | 2018-07-29 | Between Shadows and Light | Full-blown text RPG made in Python, yet buggy and with extremely small location to play. | [Replit](https://replit.com/@Toma400/Between-Shadows-and-Light-rework#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing) |
+| 🔧  | Date       | Name                      | Description                                                                              | Download                                                                                                                                                                      | Lang |
+|-----|------------|---------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----:|
+| 🔴  | 2018-03-12 | WarCards                  | Simple cardgame made in Python.                                                          | [Replit](https://replit.com/@Toma400/WarCards#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                         | 🇵🇱 |
+| 🔴  | 2018-03-20 | Temple Settlers           | Simple strategy made in Python, with resources gathering and building an empire.         | [Replit](https://replit.com/@Toma400/Temple-Settlers?v=1)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                      | 🇵🇱 |
+| 🔴  | 2018-07-29 | Between Shadows and Light | Full-blown text RPG made in Python, yet buggy and with extremely small location to play. | [Replit](https://replit.com/@Toma400/Between-Shadows-and-Light-rework#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing) | 🇵🇱 |
 
 ---
 
 ### ⚗️ SOFTWARE
+Wrench means status of support - if the program is still maintained. Lang+ means open form of language support.
 
-Wrench means status of support - if the program is still maintained.
-
-| 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                 |
-|-----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-| 🟢  | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE) |
+| 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                 |    Lang     |
+|-----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|:-----------:|
+| 🟢  | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE) | 🇬🇧 <br> + |
 
 ---
-
 ### 📖 STORIES  
-**Lang** section will transfer you to the story in selected language.
+**Lang** section will transfer you to the story in selected language. Those count only full (longer)
+stories I could count as official.
 
 | Date of creation | Name | Lang                                                                                       | Baedoor? | Description                                                                    |
 |------------------|------|--------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|
 | 2019-11-31       | Wilk | [🇵🇱](https://drive.google.com/file/d/106niTiZQi02gYJxKcMFzsnEQ54Ii7yng/view?usp=sharing) | 🟢       | Experimental story on bandit gunslinger being  <br/> caught by bounty hunters. |
 
 ---
-
 ### 🎻 MUSIC  
 Music is separated via projects. **Tags** section is to sum up some small, important info you could
 find useful. Below legend explaining the meaning of all symbols.
@@ -142,17 +144,18 @@ want to create under aliases I cared about. Hence this project began, as sort of
 If you really insist on getting those, please message me directly.
 </span>
 
-| Date of creation | Album name                              | Tags  | Description                                                                            | URL                                                                                                                                                             |
-|------------------|-----------------------------------------|-------|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2019-10-20       | Night Sessions: Light Becoming Darkness | 🔴️🔳 | First one-day improvisation from **Night Sessions** series. In general, pretty trashy. | No.                                                                                                                                                             |
-| 2020-4-30        | Will Under Love                         | 🔴🔷  | Song reversing famous Aleister Crowley quote, which was my counterstatement for love.  | No.                                                                                                                                                             |
-| 2020-5-15        | Night Sessions: Oingo                   | 🔴️🔳 | Second **Night Sessions** improvisation. Similar quality.                              | No.                                                                                                                                                             |
-| 2020-5-22        | Oneironaut                              | 🔴🔷  | First a bit quality song, inspired by egyptian theme of Cubfan135.                     | [Drive](https://drive.google.com/drive/folders/1akNYaTypxw5-6kJqRy34RAT1H9kTn8FS?usp=sharing)                                                                   |
-| 2020-6-14        | Νεκρόω                                  | 🔴🔷  | Some old recorded song I found, with pretty haunting atmosphere                        | [Drive](https://drive.google.com/drive/folders/1Fo9btnqHH7qmrhioLu0myIrr2u-2d38n?usp=sharing)                                                                   |
-| 2020-9-07        | Burning Babylon                         | 🔴🔷  | Industrial-sque maxi-single, on which I'm pretty proud of.                             | [Drive](https://drive.google.com/drive/folders/1nXKfJvXKI3YS6BAN3N-WbExuyuLLHnPa?usp=sharing)  [Bandcamp](https://zileffect.bandcamp.com/album/burning-babylon) |
-| 2020-9-12        | Sigillum Animarum                       | 🔴🔷  | Follow-up to Burning Babylon with one outtake and some weird instrumental              | [Drive](https://drive.google.com/drive/folders/1-dnwkdHeQmK-pVM3VbfoZHvbHl8gdHhQ?usp=sharing)                                                                   |
-| 2021-2-27        | Εἰκών                                   | 🔴🔷  | Some random single                                                                     | [Drive](https://drive.google.com/drive/folders/11EiUtVQYNpZLN6u3IKZHNvs0C0_tBKqy?usp=sharing)                                                                   |
-| 2021-10-24       | Night Sessions: Towards White Cold      | 🔴️🔳 | Third **Night Sessions** improvisation, finally quality one.                           | [Drive](https://drive.google.com/drive/folders/1hShLuXoTkOyyztUZS2V9Vk-q5xx5y1uA?usp=sharing)                                                                   |
+| Date of creation | Album name                              | Tags  | Description                                                                            | URL                                                                                                                                                                      |
+|------------------|-----------------------------------------|-------|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2019-10-20       | Night Sessions: Light Becoming Darkness | 🔴️🔳 | First one-day improvisation from **Night Sessions** series. In general, pretty trashy. | No.                                                                                                                                                                      |
+| 2020-4-30        | Will Under Love                         | 🔴🔷  | Song reversing famous Aleister Crowley quote, which was my counterstatement for love.  | No.                                                                                                                                                                      |
+| 2020-5-15        | Night Sessions: Oingo                   | 🔴️🔳 | Second **Night Sessions** improvisation. Similar quality.                              | No.                                                                                                                                                                      |
+| 2020-5-22        | Oneironaut                              | 🔴🔷  | First a bit quality song, inspired by egyptian theme of Cubfan135.                     | [Drive](https://drive.google.com/drive/folders/1akNYaTypxw5-6kJqRy34RAT1H9kTn8FS?usp=sharing)                                                                            |
+| 2020-6-14        | Νεκρόω                                  | 🔴🔷  | Some old recorded song I found, with pretty haunting atmosphere                        | [Drive](https://drive.google.com/drive/folders/1Fo9btnqHH7qmrhioLu0myIrr2u-2d38n?usp=sharing)                                                                            |
+| 2020-9-07        | Burning Babylon                         | 🔴🔷  | Industrial-sque maxi-single, on which I'm pretty proud of.                             | [Drive](https://drive.google.com/drive/folders/1nXKfJvXKI3YS6BAN3N-WbExuyuLLHnPa?usp=sharing)  [Bandcamp](https://zileffect.bandcamp.com/album/burning-babylon)          |
+| 2020-9-12        | Sigillum Animarum                       | 🔴🔷  | Follow-up to Burning Babylon with one outtake and some weird instrumental              | [Drive](https://drive.google.com/drive/folders/1-dnwkdHeQmK-pVM3VbfoZHvbHl8gdHhQ?usp=sharing)                                                                            |
+| 2021-2-27        | Εἰκών                                   | 🔴🔷  | Some random single                                                                     | [Drive](https://drive.google.com/drive/folders/11EiUtVQYNpZLN6u3IKZHNvs0C0_tBKqy?usp=sharing)                                                                            |
+| 2021-10-24       | Night Sessions: Towards White Cold      | 🔴️🔳 | Third **Night Sessions** improvisation, finally quality one.                           | [Drive](https://drive.google.com/drive/folders/1hShLuXoTkOyyztUZS2V9Vk-q5xx5y1uA?usp=sharing)                                                                            |
+| 2022-10-11       | The Battle of Sancre Tor                | 🔴️🔷 | Single on battle of Sancre Tor                                                         | [Drive](https://drive.google.com/drive/folders/1oAhidmVY_ckCJJbdVivZ_GklmtBz3viV?usp=sharing)  [Bandcamp](https://zileffect.bandcamp.com/album/the-battle-of-sancre-tor) |
 
 <span style="color:#668c99">**🌆 SUN TRIBE**  
 Sun Tribe is trance project in which I wanted to capture my love to the sound of legends such as ATB, Armin van
@@ -262,6 +265,7 @@ Poems with 💠 symbol have some Baedoor references.
 | 89  | 2022-06-17       | Po Swoich Krokach                                     | [🇵🇱](https://drive.google.com/file/d/1z_bRseX0UCaFFlOl0wBCPPQFNthODF9d/view?usp=sharing)                                                                                                                                                                                         | 
 | 90  | 2022-06-17       | Kwiaty Czarnej Doliny                                 | [🇵🇱](https://drive.google.com/file/d/1KrBvyz1EEbc_bzA8-DN7ZMVCDYGlSb98/view?usp=sharing)                                                                                                                                                                                         |
 | 91  | 2022-07-28       | W Bibliotekach Miłości                                | [🇵🇱](https://drive.google.com/file/d/1ADBd0xXLom8nqQT88ucS2CbYgaHF3aUn/view?usp=sharing), [🇬🇧](https://drive.google.com/file/d/1SsVA0L9bEMt_LKX79x1y20NSy_kz7OBZ/view?usp=sharing)                                                                                             |
+| 92  | 2022-11-12       | (...)                                                 | [🇵🇱](https://drive.google.com/file/d/1gqOY_sEzdILnY_Vm6QMM8hJmhf4MqSio/view?usp=sharing)                                                                                                                                                                                         |
 
 ---
 ### 🧮️ COLLECTIONS  
@@ -362,6 +366,7 @@ TAGS:
 | 2020-07-02 | 15  | 🎵  | Rat Kru - Rok Szczura                                    | [Blogspot](http://toma400.blogspot.com/2020/07/rat-kru-rok-szczura.html)                   | 
 | 2020-12-30 | 16  | 🎶  | 2020 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2020/12/2020-aotys.html)                            | 
 | 2021-12-30 | 17  | 🎶  | 2021 AOTYs                                               | [Blogspot](http://toma400.blogspot.com/2021/12/2021-aotys.html)                            | 
+| 2023-01-01 | 18  | 🎶  | 2022 AOTYs                                               | [Blogspot](https://toma400.blogspot.com/2023/01/2022-aotys.html)                           |  
 
 ---
 ### 🈁 FONTS
@@ -370,6 +375,76 @@ As weirdly as it may sound, I even were creating fonts, usually for Baedoor univ
 | Name                | Purpose                   | License                                        | Link                                                                                        |
 |---------------------|---------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------|
 | Ghloddish Universal | Use of ghloddish alphabet | Free for non-commercial use related to Baedoor | [Drive](https://drive.google.com/file/d/1RZWHZTH8N5n-1uzn4mSEcLsvttTbLYwd/view?usp=sharing) |
+
+---
+### 🖼️ DRAWINGS
+This section will contain artworks I consider "official", as cataloguing all drawings would
+simply take too much time and be extremely chaotic.  
+Click on the picture for bigger resolution.
+
+🧿 **Pure Drawings**
+
+| Preview                                                                                                                                                                                                    | No. | Date of creation |   Series   |                                 Name                                  | Description                                                                                                                                                                                                                             |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:----------:|:---------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://pbs.twimg.com/media/Fln7kbEWQAI5y8R?format=jpg&name=4096x4096"><img alt="RD1"  height="100" src="https://pbs.twimg.com/media/Fln7kbEWQAI5y8R?format=jpg&name=4096x4096" width="110"/></a> |  1  | 2023-01-04       | Redrawings |                                   -                                   | Redrawing of [NishantNeerajA1](https://twitter.com/NishantNeerajA1/status/1326532155137142784) render.                                                                                                                                  |
+
+🧿 **Conceptual Arts**
+
+| Preview                                                                                                                                                                                                                                                     | No. | Date of creation |   Series   |                                 Name                                  | Description                                                                                                                                                                                                                             |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:----------:|:---------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://cdn.discordapp.com/attachments/849205834830315520/1062507959076278312/2._Poznanie.png"><img alt="PZNN" height="100" src="https://cdn.discordapp.com/attachments/849205834830315520/1062507959076278312/2._Poznanie.png" widght="100"/></a> |  1  | 2020-02-23       |     -      |               Poznanie<br>(inaccurately eng. *knowing*)               | Conceptual art made to indicate the beauty of getting to know someone.<br>It tries to encompass idea of two separate worlds merging with each other, but also creating another state, in where "what is between us, is on the outside". |
+
+🧿 **Learning Drawings**
+
+| Preview                                                                                                                                                                                                    | No. | Date of creation |   Series   |                                 Name                                  | Description                                                                                                                                                                                                                             |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:----------:|:---------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://pbs.twimg.com/media/Fln7kbEWQAI5y8R?format=jpg&name=4096x4096"><img alt="RD1"  height="100" src="https://pbs.twimg.com/media/Fln7kbEWQAI5y8R?format=jpg&name=4096x4096" width="110"/></a> |  1  | 2023-01-04       | Redrawings |                                   -                                   | Redrawing of [NishantNeerajA1](https://twitter.com/NishantNeerajA1/status/1326532155137142784) render.                                                                                                                                  |
+
+🧿 **Archives**
+
+| Preview                                                                                                                                                                                                                                                                            | No. | Date of creation |   Series   |                                 Name                                  | Description                                                                                                                                                                                                                             |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:----------:|:---------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://cdn.discordapp.com/attachments/849205834830315520/1062507959558619136/Cover_Art_Final_Edition.png"><img alt="PPWP" height="100" src="https://cdn.discordapp.com/attachments/849205834830315520/1062507959558619136/Cover_Art_Final_Edition.png" width="100"/></a> |  1  | 2019-09-28       |     -      | Podróż Poprzez Wody Pustki<br>(eng. *Journey Through Waters of Void*) | Drawing created for *Forgotten Journeys Through Waste Years* compilation. Drawn with pencil, scanned and later reconstructed via GIMP pixel-to-pixel rework. Took about two months to be fully done.                                    |
+
+
+---
+### 📷 PHOTOGRAPHY
+This section will contain photos I consider "official", as cataloguing all of them would
+simply take too much time and be extremely chaotic.  
+Click on the picture for bigger resolution.
+
+| Preview                                                                                                                                                                                                                                                                  | No. | Date of creation | Series | Name | Description                                                                                                                                                                                                                                                                     |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:------:|:----:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://cdn.discordapp.com/attachments/1070013531212234852/1070017043904077884/1._Dune_2021-01-24.png"><img alt="PH1"  height="100" src="https://cdn.discordapp.com/attachments/849205834830315520/1062508279634329650/1._Dune_2021-01-24.png" width="70"/></a> |  1  | 2021-01-24       |   -    | Dune | Concept photo created for *Przez Pustynie Serca* (eng. *Through the Deserts of the Heart*) compilation. It is photo of my own hand which became reminiscent of desert dune in such way that it emphasises meaning of collection's name: it is desert, but of the heart (human). |
+
+---
+### 🌌 BAEDOOR ENCYCLOPAEDIA
+Considering Baedoor universe being life-long experience for myself, and also vastness of its world
+and history, I started doing project called **Baedoor Encyclopaedia** which will store whole lore
+of this universe in one place.
+
+Although not public yet, once it is done enough, it will be released for public with all its assets and
+information, for everyone to learn upon. Currently it is only accessible for those who voluntarily want
+to translate its entries to their own languages.
+
+---
+### 🗺️ RPG SYSTEM
+As you could expect, for RPG element of my games, I've created RPG System with all statistics and
+mechanics adding to the lore experience. It's called **Baedoor RPG System**, as it solely works upon
+this universe.
+
+| Version | Public? | Destination                                | Overview                                                                                                                              |
+|:-------:|:-------:|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+|  1.0+   |   🔴    | ⭐ Oldest Baedoor games                     | Loose system which rather guided the player than really made any boundaries for gameplay                                              |
+|   2.0   |    ⭕    | ⭐ Between Shadows and Light                | Poor reimplementation of 1.0 system into PC RPG environment                                                                           |
+|   3.0   |   🟢    | ⭐ The Isle of Ansur <br> ⭐ Tabletop gaming | First proper reimplementation of the system trying to be stable enough for tabletop play and also expand upon crucial features of BRS |
+
+---
+### 🦾 BOTS
+I also made Discord bot called **Airship Guard**, which purpose was to be guide for my server and all
+Baedoor lore/projects of mine.  
+As the time goes further, I also started adding general purpose features and now I'm trying to develop
+it in a way that it can be used on other servers.
 
 ---
 ### ☠️ LOST AND FOUND
@@ -385,7 +460,7 @@ month to handdraw the cover art for it, and then, reshape it in GIMP. And even t
 close to be good cover art, I have some big nostalgia for it - maybe because the cover art itself
 uses so many symbols being close to my heart, who knows?
 
-<img alt="Cover Art" height="936" src="/Assets/old_compilation.png" width="930"/>
+<img alt="Cover Art" height="936" src="https://cdn.discordapp.com/attachments/849205834830315520/1062507959558619136/Cover_Art_Final_Edition.png" width="930"/>
 
 For the context, knowledge on ancient greek and Baedoor lore is pretty required to understand all
 weird symbols put. General symbolical knowledge (including niches such as native african symbols) is

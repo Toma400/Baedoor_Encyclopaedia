@@ -57,9 +57,9 @@ a proof of ghloddish language being modern.
 
 ### IV Era
 Fourth era is seamless update for third one, focused mostly on comeback to double-letters `t*`, as
-well as deprecating consonants being out of use. A lot of fourth era ghloddish users try to
-translate foreign names using old alphabet, saying this is truer way of being a ghlodd - not being
-dominated by outlanders, but fitting them into your scope.
+well as [deprecative consonants](Alphabet.md#deprecative-consonants) being out of use. A lot of fourth 
+era ghloddish users try to translate foreign names using old alphabet, saying this is truer way of 
+being a ghlodd - not being dominated by outlanders, but fitting them into your scope.
 
 |                        |        Doubled         |    Single     |
 |------------------------|:----------------------:|:-------------:|
@@ -109,6 +109,23 @@ letters are dominant ones in words, as if there's any confusion on how to write 
 choose option using doubled letters. This can be sometimes tricky (especially with unfamous `ta'hr`
 containing `ta-ah-r`, with only third era allowing `t-a-ah-r` writing) but relies mostly on getting
 used to writing in this particular language.
+
+### Deprecative consonants
+Naming of vowels and consonants were always quite different for ghlodds, as they didn't come from
+the same rules as we define those. Interesting addition comes from Fourth Era of ghloddish language,
+when new type of letters emerge: deprecative consonants. As much as their name and idea is taken
+from them disappearing from ghloddish language, there is a bit more nuance to it.  
+
+**Vowel** definition for ghloddish means melodic word which does flow smoothly through words. Those
+also create vibrant and dry doubled letters, for exactly same reason.  
+**Consonants** are, in theory, all other letters, but as Fourth Era separated those into two categories,
+since then new definition can be found - regular consonants are able to be used with extending
+apostrophe, whereas deprecative are not. Sound-wise and glyph-wise for humans, `u` could be extended, 
+but ghlodds does consider it at least difficult to pronounce by extended manner.  
+
+From deprecative consonants, `d` does not fall under definition of "letter that ceases to exist", as
+it is used more often than most of them, and `u` is in somehow similar position. If there's Fifth
+Era to exist in the future, language scholars predict those two will survive.
 
 ## Understanding the glyphs
 

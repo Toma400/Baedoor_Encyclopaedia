@@ -6,7 +6,9 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ---
 ### A
 - [Adelaie](Topics/Geography/Jitado/Cities/Adelaie.md)
+- [Altauar](Topics/Geography/Jitado/Regions/Altauar.md) (region)
 - [Ansur](Topics/Geography/East_Moon/Ansur.md)
+- [Avani, Si](Topics/Characters/List/Si_Avani.md)
 
 ### B
 - [Baedoor](Topics/Geography/Baedoor/Cities/Baedoor.md) (city)
@@ -15,9 +17,15 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### C
 - [Cuerven Valley](Topics/Geography/East_Moon/Lands/Cuerven_Valley.md)
 
+### D
+- [Delai Eir](Topics/Characters/List/Delai_Eir.md)
+
 ### E
 - [East Moon](Topics/Geography/East_Moon.md)
+- [Eir, Delai](Topics/Characters/List/Delai_Eir.md)
+- [Enahr, Esh](Topics/Characters/List/Esh_Enahr.md)
 - [Enfrvein](Topics/Geography/Jitado/Cities/Places/Enfrvein.md)
+- [Esh Enahr](Topics/Characters/List/Esh_Enahr.md)
 - [Evros](Topics/Geography/East_Moon/Cities/Evros.md)
 
 ### F
@@ -25,6 +33,9 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### G
 - [Golden Lighthouse of Baedoor](Topics/Geography/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
+
+### H
+- [Heim Winfleton](Topics/Characters/List/Heim_Winfleton.md)
 
 ### I
 - [I'si](Topics/Religions/Small/Temple_of_I'si.md) (Temple of I'si)
@@ -58,6 +69,10 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### V
 - [Vaerdena](Topics/Geography/East_Moon/Lands/Vaerdena.md)
+
+### W
+- [Winfleton Deck](Topics/Cultures/Baedoorians/List/Winfleton_Deck.md)
+- [Winfleton, Heim](Topics/Characters/List/Heim_Winfleton.md)
 
 ### X
 - [Xaine](Topics/Characters/List/Xaine.md)

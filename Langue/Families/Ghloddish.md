@@ -11,6 +11,8 @@ ghloddish to become broader, as well as more accessible for usual speaker.
 <center><b>Ghloddish evolution tree</b></center>
 
 ```
+ Protoghloddish
+       v
 Ghloddish (I era) ------> Ghloddish (II era) ------> Ghloddish (III era)
                      ↑                                       |
                    Ehric                                     ├─────────── Global influences
@@ -18,9 +20,21 @@ Ghloddish (I era) ------> Ghloddish (II era) ------> Ghloddish (III era)
                                                      Ghloddish (IV era)
 ```
 
-Fourth era is not always recognised as new one, and a lot of ghloddish language purists say that this
-is just "awful trend". It is, though, becoming too large to be objectively portrayed as anything
-less than new era for ghloddish language.
+Era timezones can be seen as such:
+- **Protoghloddish** being used in earliest times which are not precisely known
+- **First era** was used during ghlodds period of living underground, and at the beginning of Seiteh
+  conquest
+- **Second era** appeared quickly during Seiteh conquest
+- **Third era** established after settling down on Seiteh, during conquests on Old Continent
+- **Fourth era** started taking shape during late Old Era (Oe'os) and early New Era (Seiteh)
+
+Although ghloddish evolution comes from language evolution, addition of new glyphs in second and
+third era was introduced by authorities (except for ehric-derived `u`) as a way to make international
+communication a bit easier.
+
+A lot of ghloddish language purists say that fourth era is just "awful trend".   
+It is, though, incorrect statement, as it is considered as official era by linguists, even though it
+coexists with Third Era at the time of 920 OE (with Third one being rarely used).
 
 ### Ghloddish sections
 
@@ -32,15 +46,19 @@ less than new era for ghloddish language.
 #### 📜 Fourth Era
 
 - [Vocabulary](/Langue/List/Ghloddish_IV/Vocabulary.md)
+- [Phonetics](/Langue/List/Ghloddish_IV/Phonetics.md)
 
 #### 📜 Third Era
 
 - [Vocabulary](/Langue/List/Ghloddish_III/Vocabulary.md)
+- [Phonetics](/Langue/List/Ghloddish_III/Phonetics.md)
 
 #### 📜 Second Era
 
 - [Vocabulary](/Langue/List/Ghloddish_II/Vocabulary.md)
+- [Phonetics](/Langue/List/Ghloddish_II/Phonetics.md)
 
 #### 📜️ First Era
 
 - [Vocabulary](/Langue/List/Ghloddish_I/Vocabulary.md)
+- [Phonetics](/Langue/List/Ghloddish_I/Phonetics.md)

@@ -11,7 +11,7 @@ szótárakat és a betekintő nyelvek logikai felépítésébe.
 - Rituális Nyelvek
 
 ---
-##<center>Családok</center>
+## <center>Családok</center>
 
 ### [⛩️ Baedoorish](Families/Baedoorish.md)
 ### [⛩️ Ghloddish](Families/Ghloddish.md)
@@ -19,16 +19,16 @@ szótárakat és a betekintő nyelvek logikai felépítésébe.
 ### [⛩️ Trish](Families/Trish.md)
 
 ---
-##<center>Átlagos Nyelvek</center>
+## <center>Átlagos Nyelvek</center>
 
 ---
-##<center>Régi nyelvek</center>
+## <center>Régi nyelvek</center>
 
 ---
-##<center>Ősi Nyelvek</center>
+## <center>Ősi Nyelvek</center>
 
 ### [🪔 Ehric](List/Ehric.md)
 ### [🪔 Nomathian](List/Nomathian.md)
 
 ---
-##<center>Rituális Nyelvek</center>
+## <center>Rituális Nyelvek</center>
