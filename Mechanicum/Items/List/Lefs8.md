@@ -1,9 +1,16 @@
 # 🪔 Lefs 8
 
 ---
-<img alt="Lefs8" height="160" src="/Assets/item_lefs8.png" width="160" class="center"/>  
-
-✭ Wizualizacja Lefs8 w modzie **Wastelands of Baedoor**.
+<table>
+    <tr>
+        <th width="180"><img alt="Lefs8"  height="160" src="/Assets/Items/lefs8.png"  width="160" class="center"/></th>
+        <th width="180"><img alt="Lefs8T" height="160" src="/Assets/Items/lefs8t.png" width="160" class="center"/></th>
+    </tr>
+    <tr>
+        <td>✭ Wizualizacja Lefs8 w modzie <b>Wastelands of Baedoor</b> mod</td>
+        <td>✭ Concept Art Lefs 8T, stworzony przez Dylana v.h.s</td>
+    </tr>
+</table>
 
 ---
 ### OPIS  

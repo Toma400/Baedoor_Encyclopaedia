@@ -1,4 +1,4 @@
-<img alt="Logo" height="710" src="/Assets/logo.png" width="655"/>
+<img alt="Logo" height="750" src="/Assets/logo.png" width="655"/>
 
 <center><h1>Welcome in Baedoor Encyclopaedia</h1></center>
 

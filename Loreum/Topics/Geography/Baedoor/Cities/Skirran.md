@@ -10,5 +10,12 @@ It is also one of the most important parts of baedoorian culture, as it not only
 built after landing on the island, but still serves important purpose as harbour town, expanding 
 trading and military connections with lands located on the north.
 
+<table>
+    <td width="832" align="center"><img alt="Skirran City Map" height="548" src="/Assets/Maps/skirran_early_se.jpg" width="520"/></td>
+    <tr>
+        <td>Skirran map from early OE</td>
+    </tr>
+</table>
+
 ---
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Baedoor.md)

@@ -10,4 +10,4 @@ Jest on szeroko znany z odkrycia pierwszego multiwersum znanego Baedoor - **Tama
 
 ---
 ♜✥  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](/Loreum/Topics/Characters/Jitadian_Characters.md)

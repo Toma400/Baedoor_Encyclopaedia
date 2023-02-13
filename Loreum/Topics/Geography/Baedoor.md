@@ -1,6 +1,6 @@
 # 🌄 Baedoor
 
-<img alt="Baedoor Island map" height="342" src="/Assets/map_baedoor_island.jpg" width="520"/>
+<img alt="Baedoor Island map" height="342" src="/Assets/Maps/baedoor_island.jpg" width="520"/>
 
 Baedoor jest największą wyspą kontynentu Anahsahei, możliwą do podzielenia na trzy regiony - 
 Baedoor, Wybrzeże Rakonnd i wyżynę Vershaton.  

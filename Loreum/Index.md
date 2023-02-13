@@ -6,7 +6,9 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 ---
 ### A
 - [Adelaie](Topics/Geography/Jitado/Cities/Adelaie.md)
+- [Altauar](Topics/Geography/Jitado/Regions/Altauar.md) (region)
 - [Ansur](Topics/Geography/East_Moon/Ansur.md)
+- [Avani, Si](Topics/Characters/List/Si_Avani.md)
 
 ### B
 - [Baedoor](Topics/Geography/Baedoor/Cities/Baedoor.md) (miasto)
@@ -15,12 +17,21 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 ### C
 - [Cuerven](Topics/Geography/East_Moon/Lands/Cuerven_Valley.md) (dolina)
 
+### D
+- [Delai Eir](Topics/Characters/List/Delai_Eir.md)
+
 ### E
+- [Enahr, Esh](Topics/Characters/List/Esh_Enahr.md)
+- [Eir, Delai](Topics/Characters/List/Delai_Eir.md)
 - [Enfrvein](Topics/Geography/Jitado/Cities/Places/Enfrvein.md)
+- [Esh Enahr](Topics/Characters/List/Esh_Enahr.md)
 - [Evros](Topics/Geography/East_Moon/Cities/Evros.md)
 
 ### G
 - [Gwiazdounosiciele](Topics/Guilds/List/Starshifters.md)
+
+### H
+- [Heim Winfleton](Topics/Characters/List/Heim_Winfleton.md)
 
 ### I
 - [I'si](Topics/Religions/Small/Temple_of_I'si.md) (Kościół I'si)
@@ -54,6 +65,11 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 
 ### V
 - [Vaerdena](Topics/Geography/East_Moon/Lands/Vaerdena.md)
+
+### W
+- [Winfleton Deck](Topics/Cultures/Baedoorians/List/Winfleton_Deck.md)
+- [Winfleton, Heim](Topics/Characters/List/Heim_Winfleton.md)
+- [Wschodni Księżyc](Topics/Geography/East_Moon.md)
 
 ### X
 - [Xaine](Topics/Characters/List/Xaine.md)

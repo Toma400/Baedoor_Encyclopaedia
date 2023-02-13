@@ -10,4 +10,6 @@ Tutaj możesz znaleźć wszystkie skróty użyte w Encyklopedii.
 
 `nomth.` - nomathijski (zwykle używany podczas tłumaczeń)
 
+`tri.` - trijski (zwykle używany podczas tłumaczeń)
+
 `trl.` - transliteracja (używana zwykle do wyjaśniania złożonych konceptów języków)

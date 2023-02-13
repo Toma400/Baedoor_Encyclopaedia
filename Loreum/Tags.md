@@ -26,6 +26,7 @@ na szukanie elementów z indeksu przez ich tematykę.
 
 </span>
 
+* [Esh Enahr](Topics/Characters/List/Esh_Enahr.md)
 * [Gwiazdounosiciele](Topics/Guilds/List/Starshifters.md)
 * [Si Avani](Topics/Characters/List/Si_Avani.md)
 * [Wszechwers](Topics/World_Mechanics/Oververse.md)

@@ -3,7 +3,7 @@ Wschodni Księżyc jest częścią **Księżyca**, położoną na wschodniej str
 
 ### GEOGRAFIA
 
-<img alt="East Moon Sketch" height="520" src="/Assets/map_east_moon.png" width="390"/>
+<img alt="East Moon Sketch" height="520" src="/Assets/Maps/east_moon.png" width="390"/>
 
 ``Szkic Wschodniego Księżyca, z niepoprawnie zarysowanym archipelagiem Agoi, który powinien być położony wyżej``
 

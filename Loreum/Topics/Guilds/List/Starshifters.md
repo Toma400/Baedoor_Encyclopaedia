@@ -15,5 +15,10 @@ i najbardziej utalentowani magowie i naukowcy.
 Ich tożsamość jest nieznana dla publiki, z wyjątkiem kilku mediatorów ujawnionych podczas utworzenia
 **Międzynarodowej Rady Eksploracji Wszechwersu**.
 
+### Notable starshifters
+- [Esh Enahr](/Loreum/Topics/Characters/List/Esh_Enahr.md)
+- [Si Avani](/Loreum/Topics/Characters/List/Si_Avani.md)
+- [Xaine](/Loreum/Topics/Characters/List/Xaine.md)
+
 ---
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Guilds.md)

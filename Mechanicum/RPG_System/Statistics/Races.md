@@ -10,15 +10,73 @@ Bardziej dokładny opis ras może być znaleziony w Encyklopedii Loreum.
 
 ## GŁÓWNE RASY
 
+<table>
+    <tr align="center">
+        <th colspan="5"><p style="font-size:25px"><b>Człowiek</b></p>🗿 Posiada subrasy </th>
+    </tr>
+    <tr align="center">
+        <th>Avatar</th><th>Atrybuty</th><th>Umiejętności</th><th>Modyfikatory</th><th>Opis</th>
+    </tr>
+    <tr align="center">
+        <td width="100"><img alt="Human" height="100" src="/Assets/race_human.png" width="100"/></td>
+        <td align="left" width="110">
+            ✴️STR +1<br>
+            ☯️CHA +1<br>
+            💠INT +1
+        </td>
+        <td width="110"> Zależne od subrasy </td>
+        <td width="110"> Żadnych </td>
+        <td>
+            Jedna z głównych ras żyjących w uniwersum Baedoor. Główną siłą jest łatwość dostosowania się do zmieniających się warunków,
+            pozwalając im na egzystencję na niemal każdym możliwym kontynencie.
+        </td>
+    </tr>
+    <tr align="center">
+        <th colspan="5"> 🏵️ Subrasy</th>
+    </tr>
+    <tr align="center">
+       <th>Subrasa</th><th>Atrybuty</th><th>Umiejętności</th><th>Modyfikatory</th><th>Opis</th>
+    </tr>
+    <tr>
+        <td><img alt="Human" height="85" src="/Assets/race_human.png" width="85"/></td>
+        <td rowspan="2">
+            ☯️CHA +1<br>
+            🔱END -1
+        </td>
+        <td rowspan="2">
+            broń palna (+1)<br>
+            perswazja (+1)
+        </td>
+        <td rowspan="2">
+            ⚙️TECH +3
+        </td>
+        <td rowspan="2">
+            Subrasa ludzi z wyspy Baedoor. Zasadniczo jest to kontynuacja subrasy jitadzkiej, odseparowanej
+            wiele lat wcześniej od swojej rodzinnej kultury.
+        </td>
+    </tr>
+    <tr><td height="10">Baedoorczyk</td></tr>
 
-**CZŁOWIEK**  
-Posiada subrasy.  
->   ✴️STR +1  
->   ☯️CHA +1  
->   💠INT +1  
+</table>
 
-**TRI**  
-Posiadają subrasy. Wszystkie modyfikatory są zależne od nich.
+<table>
+    <tr align="center">
+        <td colspan="5"><p style="font-size:25px"><b>Tri</b></p>✥ Posiada subrasy ✥</td>
+    </tr>
+    <tr align="center">
+        <td>Avatar</td><td>Atrybuty</td><td>Umiejętności</td><td>Modyfikatory</td><td>Opis</td>
+    </tr>
+    <tr align="center">
+        <td width="100"><img alt="Tri" height="100" src="/Assets/race_tri.png" width="100"/></td>
+        <td width="110"> Zależne od subrasy </td>
+        <td width="110"> Zależne od subrasy </td>
+        <td width="110"> Zależne od subrasy </td>
+        <td>
+            Uznawane za jedną z najstarszych, jeśli nie najstarszą, rasę w uniwersum Baedoor. Ich pochodzenie nie jest
+            tak naprawdę znane, poza religijnymi mitami i opowieściami.
+        </td>
+    </tr>
+</table>
 
 **GHLOD'HYR (GŁODD) 🀄**
 >   ❇️AGI +2  

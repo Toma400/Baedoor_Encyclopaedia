@@ -15,7 +15,7 @@ spokojnych dla uniwersum, nie obfitując w zbyt wiele globalnych konfliktów.
 ---
 #### [Historia Nowej Ery](/Loreum/Topics/History/New_Era.md)
 #### Stronnictwa Nowej Ery
-#### Postacie Nowej Ery
+#### [Postacie Nowej Ery](/Loreum/Topics/Characters/New_Era_Characters.md)
 
 ---
 ✥♢  

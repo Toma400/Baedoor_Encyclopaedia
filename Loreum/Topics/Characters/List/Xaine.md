@@ -15,4 +15,4 @@ który dostał się do niego poprzez przerwy między wymiarami.
 
 ---
 ♜✥  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Characters/Jitado_Characters.md)

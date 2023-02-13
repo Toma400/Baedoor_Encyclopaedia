@@ -90,6 +90,7 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |        hoi         | forward (shout)                                        | hoi                |                            -                             |
 |        nes         | hard, difficult to move                                | nes                |                            -                             |
 |    inaevpheren²    | trustworthness                                         | nae↓fvphe↓re↓n     |                   adj. of "naevpheren"                   |
+|        ino         | silent                                                 | ino                |                      i- prefix + no                      |
 |      ipheren       | faithfulness                                           | iphe-ren           |                     adj. of "pheren"                     |
 |        iras        | killing lawfully                                       | iras↑              |                      adj. of "ras"                       |
 |        iru         | to have                                                | iru                |                            -                             |
@@ -106,6 +107,7 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |       murl'n       | strangest man (accented form of *murloen*)             | murlu:n            |                    accented "murloen"                    |
 |       naev²        | duty, important matter (archaic)                       | naefv              |                            -                             |
 |    naevpheren²     | trustworthy, faithful to the duty                      | naefvphe↓re↓n      |                      naev + pheren                       |
+|         no         | silence                                                | no                 |                            -                             |
 |        odu         | valley                                                 | odu                |                            -                             |
 |       oestae       | wind                                                   | :stae↓, este¹      |                            -                             |
 |      ostaequa      | howly wind, name for wolf-fox being                    | y↓stae↓qua         |                      oestae + equa                       |

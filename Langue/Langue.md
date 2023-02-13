@@ -11,7 +11,7 @@ dictionaries and walkthrough through languages logic.
 - Ritual Languages
 
 ---
-##<center>Families</center>
+## <center>Families</center>
 
 ### [⛩️ Baedoorish](Families/Baedoorish.md)
 ### [⛩️ Ghloddish](Families/Ghloddish.md)
@@ -19,16 +19,16 @@ dictionaries and walkthrough through languages logic.
 ### [⛩️ Trish](Families/Trish.md)
 
 ---
-##<center>Regular languages</center>
+## <center>Regular languages</center>
 
 ---
-##<center>Old languages</center>
+## <center>Old languages</center>
 
 ---
-##<center>Ancient languages</center>
+## <center>Ancient languages</center>
 
 ### [🪔 Ehric](List/Ehric.md)
 ### [🪔 Nomathian](List/Nomathian.md)
 
 ---
-##<center>Ritual languages</center>
+## <center>Ritual languages</center>

@@ -68,6 +68,21 @@ Tylko małej garstce udało się fizycznie podróżować przez wszechwers, i byl
 najwybitniejsi podróżnicy snów.  
 Jedynym takim oneironautą znanym w świecie Baedoor jest [Xaine](/Loreum/Topics/Characters/List/Xaine.md).
 
+**DISPUTES**  
+Several oververse scientists believe in third and fourth systems to be reversed - so, metaphysical
+and oververses being affected by (higher) multiversal system, thus highest gods having their
+infinite variants, samely with some places (such as Void) being the same.  
+Those theories are though considered as less possible due to current theory having more coherency
+within itself, and separating metaphysical plane from multiverses (which are understood as still
+working on physical plane, just to exceptional precision).  
+Some more religious scientists also call those "lower oververse theory" as profane, since it does
+state that there's no absolute god, but all of them being ruled by physical power.
+
+A lot of this comes from interesting division, because theorists believing in oververse being on top of
+everything consider gods visiting all planes.  
+In the same time, those putting oververse lower tend to absolutify multiverse as sole system, without 
+anything added but mechanics. Therefore gods can exist only on lower planes in this concept.
+
 ---
 ### ♨️ HISTORIA
 Koncept Wszechwersu pojawił się w Baedoor dość wcześnie, gdyż pierwsze odkrycie
@@ -82,13 +97,12 @@ bardziej arbitralne:
 
 <img alt="Oververse Sketch" height="422" src="/Assets/oververse_sketch.jpg" width="520"/>
 
-
 Multiwersa były odkrywane w takiej oto chronologii:
 
 | Data odkrycia | Multiwersum | Odkrywca                                               | Prawdopodobna nazwa w naszym świecie                               |
 |---------------|-------------|--------------------------------------------------------|--------------------------------------------------------------------|
  | 655 CP        | Tamariel    | [Si Avani](/Loreum/Topics/Characters/List/Si_Avani.md) | Tamriel, uniwersum Elder Scrolls                                   |
- | 272 CP        | Uru'ai      |                                                        | Uniwersum Myst / Uru                                               |
+ | 272 CP        | Uru'ai      | [Esh Enahr](/Loreum/Topics/Characters/List/Esh_Enahr.md) | Uniwersum Myst / Uru                                               |
  | 463 SE        | Osde'in     |                                                        | Świat Dysku                                                        |
  | 431 NE        | Ins'in      | Tehom Aranai                                           | Nalqiwatya                                                         |
  | 637 NE        | Eis'in      |                                                        | End's Phantasm                                                     |
@@ -142,7 +156,7 @@ ze Świątynią Głoddyjską. Ważnym impulsem do zbudowania go było odkrycie U
 wieku wcześniej - gwiazdounosiciele podzielili się tą wiedzą ze światem, udostępniając
 niektóre dokumenty z tego odkrycia.
 
-W następnym wiekach, powstawały nowe sekcje uniwersytetów poświęcone wszechwersowi:
+W następnych wiekach, powstawały nowe sekcje uniwersytetów poświęcone wszechwersowi:
 
 | Rok    | Uniwersytet lub organizacja                            | Miejsce powstania | Rada |
 |--------|--------------------------------------------------------|-------------------|------|
@@ -154,7 +168,6 @@ W następnym wiekach, powstawały nowe sekcje uniwersytetów poświęcone wszech
  | 112 NE | Czarny Uniwersytet                                     | Rossevette        | 🟣   |
  | 655 NE | Uniwersytet Badań nt. Wszechwersum w Zachodnim Baedoor | Zachodnie Baedoor | 🟢   |
  | 690 NE | Jitadzkie Obserwatorium Uniwersów                      | Jitado            | 🟢   |
-
 
 Wzrastające zainteresowanie wobec multiwersów poskutkowało powstaniem <span style="color:#0099cc">
 **Międzynarodowej Rady Eksploracji Wszechwersu**</span>. Rada ta powstała w 695 NE,

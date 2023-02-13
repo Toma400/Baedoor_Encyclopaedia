@@ -4,7 +4,7 @@
 <span style="color:#107C23">**miasta**</span> [✦](/Loreum/Tags.md#-miasta)  
 
 ---
-**Ino Anor** (jit. *nocna rezydencja*) jest podziemnym miastem, wyrytym w górach Altauar, będącym
+**Ino Anor** (jit. *cicha rezydencja*) jest podziemnym miastem, wyrytym w górach Altauar, będącym
 również częścią [Raliun](Raliun.md).  
 Jego nazwa pochodzi od rezydencji, w której znajduje się wejście do miasta, służąc jako brama,
 miejsce odpoczynku dla osób przybywających do tego miejsca, ale również jako fortyfikacja obronna.
