@@ -1,42 +1,42 @@
-# 🔪 Fegyverek
+# 🔪 Weapons
 
 ---
-### ⚔️ Hideg Acél
+### ⚔️ Cold Steel
 #### Stealth Accessories
-#### Kések
+#### Knives
 #### Katars
 #### Crescents and scythe-shaped blades
 #### Trident-shaped blades
-#### Kardok
+#### Swords
 #### Longswords
-#### Szablyák
+#### Sabre-shaped swords
 #### Katana-shaped swords
-#### Fejszék
-#### Csatakalapácsok
+#### Axes
+#### Battle Hammers
 
 ### 🤺 Polearms
-#### Lándzsák
-#### Alabárdok
+#### Spears
+#### Halberds
 #### Tridents
 #### Spear Swords
-#### Tör-balták
+#### Dagger-axes
 
-### 🏹 Távolsági
-#### Íjak
-#### Számszeríjak
+### 🏹 Ranged
+#### Bows
+#### Crossbows
 #### Javelins
 #### Throwing Knives
 #### Throwing Axes
-#### Other Throwing Weapons (Dobófegyverek?)
-#### Láncos Kések
+#### Other Throwing Weapons
+#### Chain Knives
 
-### 🔥 Lőfegyverek
-#### [Revolverek](Revolvers.md)
-#### Sörétes Puskák
-#### Rohampuskák
+### 🔥 Firearms
+#### [Revolvers](Revolvers.md)
+#### Shotguns
+#### Rifles
 #### Revolvering Rifles
 #### Automated Firearms
-#### Egyéb
+#### Other
 
 ---
 ✥
