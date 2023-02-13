@@ -1,11 +1,11 @@
-# 🎎️ History
-History of all events that happened, separated through eras, and further, through civilisations.
+# 🎎️ Historia
+Historia dotycząca wszystkich wydarzeń, które się wydarzyły, podzielone na ery, jak i cywilizacje.
 
 ---
-### 🍁 TIMETABLES │ BY ERAS
-#### 🔹 Pre Era Timetable
-#### 🔹 [Old Era Timetable](History/Old_Era.md)
-#### 🔹 [New Era Timetable](History/New_Era.md)
+### 🍁 KALENDARIUM │ CHRONOLOGICZNIE
+#### 🔹 Kalendarium Czasu Przederowego
+#### 🔹 [Kalendarium Starej Ery](History/Old_Era.md)
+#### 🔹 [Kalendarium Nowej Ery](History/New_Era.md)
 
 ---
 ✥

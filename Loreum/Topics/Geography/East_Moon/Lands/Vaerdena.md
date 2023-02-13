@@ -1,6 +1,6 @@
 # 🏕️ Vaerdena
-Vaerdena (bae. *Vaerdena*, "vast wasteland") is desert part of Southern Wastelands, being home for
-terten and stheyr civilisations.
+Vaerdena (bae. *Vaerdena*, "szerokie pustkowie") to pustynna część Południowych Pustkowi, będąca
+domem dla cywilizacji terteńskiej i stheyrów.
 
 ---
 ♜  

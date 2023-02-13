@@ -1,21 +1,21 @@
-# ♟️ Races
+# ♟️ Rasy
 
-Races are main aspect differentiating Baedoor inhabitants, ranging from regular humans, 
-human-like tris or ormaths, to purely bestial races.  
-Each of those races have their modifiers for certain aspects.
+Rasy są głównym aspektem rozróżniającym mieszkańców Baedoor. Możemy wyróżnić
+najróżniejsze typy ras, od ludzi, rasy człowiecze, po bestialskie.  
+Każda z tych raz ma swoje modyfikatory do specyficznych cech.
 
-For more in-depth explanation on races, please visit Encyclopaedia Loreum.
+Bardziej dokładny opis ras może być znaleziony w Encyklopedii Loreum.
 
 ---
 
-## MAIN RACES
+## GŁÓWNE RASY
 
 <table>
     <tr align="center">
-        <th colspan="5"><p style="font-size:25px"><b>Human</b></p>🗿 Has subraces</th>
+        <th colspan="5"><p style="font-size:25px"><b>Człowiek</b></p>🗿 Posiada subrasy </th>
     </tr>
     <tr align="center">
-        <th>Avatar</th><th>Attributes</th><th>Skills</th><th>Modifiers</th><th>Description</th>
+        <th>Avatar</th><th>Atrybuty</th><th>Umiejętności</th><th>Modyfikatory</th><th>Opis</th>
     </tr>
     <tr align="center">
         <td width="100"><img alt="Human" height="100" src="/Assets/race_human.png" width="100"/></td>
@@ -24,18 +24,18 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
             ☯️CHA +1<br>
             💠INT +1
         </td>
-        <td width="110"> Managed by subraces </td>
-        <td width="110"> None </td>
+        <td width="110"> Zależne od subrasy </td>
+        <td width="110"> Żadnych </td>
         <td>
-            One of main races living in Baedoor universe. Their flexibility is their biggest strength,
-            allowing their existence on nearly every continent possible.
+            Jedna z głównych ras żyjących w uniwersum Baedoor. Główną siłą jest łatwość dostosowania się do zmieniających się warunków,
+            pozwalając im na egzystencję na niemal każdym możliwym kontynencie.
         </td>
     </tr>
     <tr align="center">
-        <th colspan="5"> 🏵️ Subraces</th>
+        <th colspan="5"> 🏵️ Subrasy</th>
     </tr>
     <tr align="center">
-       <th>Subrace</th><th>Attributes</th><th>Skills</th><th>Modifiers</th><th>Description</th>
+       <th>Subrasa</th><th>Atrybuty</th><th>Umiejętności</th><th>Modyfikatory</th><th>Opis</th>
     </tr>
     <tr>
         <td><img alt="Human" height="85" src="/Assets/race_human.png" width="85"/></td>
@@ -44,41 +44,41 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
             🔱END -1
         </td>
         <td rowspan="2">
-            firearms (+1)<br>
-            persuasion (+1)
+            broń palna (+1)<br>
+            perswazja (+1)
         </td>
         <td rowspan="2">
             ⚙️TECH +3
         </td>
         <td rowspan="2">
-            Subrace of humans from Baedoor lands, being in fact jitadians who separated themselves
-            from their initial culture.
+            Subrasa ludzi z wyspy Baedoor. Zasadniczo jest to kontynuacja subrasy jitadzkiej, odseparowanej
+            wiele lat wcześniej od swojej rodzinnej kultury.
         </td>
     </tr>
-    <tr><td height="10">Baedoorian</td></tr>
+    <tr><td height="10">Baedoorczyk</td></tr>
 
 </table>
 
 <table>
     <tr align="center">
-        <td colspan="5"><p style="font-size:25px"><b>Tri</b></p>✥ Has subraces ✥</td>
+        <td colspan="5"><p style="font-size:25px"><b>Tri</b></p>✥ Posiada subrasy ✥</td>
     </tr>
     <tr align="center">
-        <td>Avatar</td><td>Attributes</td><td>Skills</td><td>Modifiers</td><td>Description</td>
+        <td>Avatar</td><td>Atrybuty</td><td>Umiejętności</td><td>Modyfikatory</td><td>Opis</td>
     </tr>
     <tr align="center">
         <td width="100"><img alt="Tri" height="100" src="/Assets/race_tri.png" width="100"/></td>
-        <td width="110"> Managed by subraces </td>
-        <td width="110"> Managed by subraces </td>
-        <td width="110"> Managed by subraces </td>
+        <td width="110"> Zależne od subrasy </td>
+        <td width="110"> Zależne od subrasy </td>
+        <td width="110"> Zależne od subrasy </td>
         <td>
-            Proclaimed as one of the oldest, if not the oldest, race in Baedoor universe. Their origin
-            is not really known, except for some legends and religious explanations.
+            Uznawane za jedną z najstarszych, jeśli nie najstarszą, rasę w uniwersum Baedoor. Ich pochodzenie nie jest
+            tak naprawdę znane, poza religijnymi mitami i opowieściami.
         </td>
     </tr>
 </table>
 
-**GHLOD'HYR (GHLOD) 🀄**
+**GHLOD'HYR (GŁODD) 🀄**
 >   ❇️AGI +2  
 >   ✴️STR +1  
 >   🔱END +1  
@@ -87,7 +87,7 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
 >   🌸CONN +5  
 >   ⚙️TECH +1  
 >   🔮MGCK +1  
->   ⛏️:repairs(+1), tools (+1)
+>   ⛏️:naprawa(+1), narzędzia (+1)
 
 **ORMATH**
 >   💠INT +2  
@@ -98,7 +98,7 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
 >   🌸CONN +7  
 >   🔮MGCK +2  
 >   🌑VOID -20  
->   ⛏️:healing (+1), connection (+1)
+>   ⛏️:leczenie (+1), zjednoczenie (+1)
 
 **ETT**  
 >   🔱END +2  
@@ -107,7 +107,7 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
 >   ❇️AGI -1
    
 >   ⚙️TECH +6  
->   ⛏️:smithing (+1), traps (+1)
+>   ⛏️:kowalstwo (+1), pułapki (+1)
 
 **KEHT ♈**  
 >   ✴️STR +2  
@@ -117,8 +117,8 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
    
 >   🌑VOID +4  
 >   🔮MAGCK +3  
->   ♦️Vampire  
->   ⛏️:destruction (+2)
+>   ♦️Wampir  
+>   ⛏️:destrukcja (+2)
 
 **ERD ♈**
 >   ❇️AGI +3  
@@ -127,7 +127,7 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
    
 >   🌸CONN +5  
 >   🔮MGCK +8  
->   ⛏️:transformation (+2)
+>   ⛏️:transformacja (+2)
 
 **LATOKA 🀄**  
 >   💠INT +2  
@@ -137,7 +137,7 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
    
 >   🌸CONN +1  
 >   ⚙️TECH +2  
->   ⛏️:healing (+1), resource processing (+1)
+>   ⛏️:leczenie (+1), przetwarzanie surowców (+1)
 
 **TERTEN ♈♑**
 >   ✴️STR +2  
@@ -148,8 +148,8 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
 >   🔮MAGCK +3  
 >   🌑VOID +8  
 >   🌸CONN +2  
->   ♦️Undead  
->   ⛏️:necromancy (+2)
+>   ♦️Nieumarły  
+>   ⛏️:nekromancja (+2)
 
 **STHEYR ♈**  
 >   🔱AGI +4  
@@ -158,54 +158,61 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
 >   💠INT -2  
 >   ☯️CHA -4
    
->   ♦️Bodies harvesting  
+>   ♦️Pożeranie ciał  
 >   ♦️Stheyr  
->   ⛏️:resource processing (+2), handfight (+7)
+>   ⛏️:przetwarzanie surowców (+2), walka wręcz (+7)
 
 ---
 
-## SUBRACES
+## SUBRASY
 
 ---
 
-### HUMAN
+### CZŁOWIEK
 
 ---
 
-**JITADIAN**
+**BAEDOORCZYK**
+>   ☯️CHA +1  
+>   🔱END -1
+   
+>   ⚙️TECH +3  
+>   ⛏️:broń palna (+1), perswazja (+1)
+
+**JITADCZYK**
 >   💠INT +1  
 >   ✴️STR -1  
    
 >   ⚙️TECH +2  
->   ⛏️:firearms (+1), smithing (+1)
+>   ⛏️:broń palna (+1), kowalstwo (+1)
 
-**MRRAN**
+**MRRAŃCZYK**
 >   ✴️STR +1  
 >   ☯️CHA -1  
    
->   ⛏️:tools (+1), smithing (+1)
+>   ⛏️:narzędzia (+1), kowalstwo (+1)
 
-**NORDWINIAN**
+**NORDWIŃCZYK**
 >   ✴️STR +1  
 >   🔱END +1  
 >   ☯️CHA -1  
 >   💠INT -1
    
->   ⛏️:resource processing (+1), longswords (+1)
+>   ⛏️:przetwarzanie surowców (+1), broń długa (+1)
 
-**MOONLANDERS**
+**LUDY KSIĘŻYCOWE**
 >   💠INT +1  
 >   ☯️CHA +1  
 >   ✴️STR -1  
 >   🔱END -1
 
->   ⛏️:alchemy (+1), herbalism (+1)
+>   ⛏️:alchemia (+1), zielarstwo (+1)
 
-**MS INPEANS**
+**MS INPEJCZYK**
 >   🔱END +1  
 >   ❇️AGI -1
    
->   ⛏️:trade (+1), longswords (+1)
+>   ⛏️:handel (+1), broń długa (+1)
 
 ---
 
@@ -221,7 +228,7 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
 >   🌑VOID +2,  
 >   ⚙️TECH +1    
 >   ♦️Berserk  
->   ⛏️:survival (+1), handfight (+1)    
+>   ⛏️:przetrwanie (+1), walka wręcz (+1)    
 
 **VOITRI**
 >   💠INT +2  
@@ -231,7 +238,7 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
    
 >   ⚫VOID +2  
 >   🔮MGCK +4  
->   ⛏️:transformation (+1), destruction (+1)
+>   ⛏️:transformacja (+1), destrukcja (+1)
 
 **SAPHTRI**  
 >   ❇️AGI +2  
@@ -240,7 +247,7 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
 >   ✴️STR -1  
    
 >   🌸CONN +1  
->   ⛏️:archery (+2)
+>   ⛏️:łucznictwo (+2)
 
 **LUNATRI**
 >   ❇️AGI +2  
@@ -249,16 +256,16 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
 >   ✴️STR -1  
    
 >   🔮MGCK +6  
->   ♦️Animal friend  
->   ⛏️:transformation (+1), restoration (+1) 
+>   ♦️Przyjaciel zwierząt  
+>   ⛏️:transformacja (+1), odnowienie (+1) 
 
 
 ---
 
-#### Legend:
-- 🀄 - this race does not have `TECH/MAGCK` penalty
-- ♑ - this race does not have `VOID/CONN` penalty
-- ♈ - should be used for more advanced gameplay, since those races are pretty unbalanced
+#### Legenda:
+- 🀄 - ta rasa nie posiada kary `TECH/MAGCK` 
+- ♑ - ta rasa nie posiada kary `VOID/CONN` 
+- ♈ - rasa ta powinna być użyta przy bardziej zaawansowanej grze, gdyż jest niezbalansowana
 
 ---
 [💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🎲](/Mechanicum/RPG_System/RPG_System.md)

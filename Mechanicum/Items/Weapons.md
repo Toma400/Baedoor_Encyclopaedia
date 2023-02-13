@@ -1,42 +1,41 @@
-# 🔪 Weapons
+# 🔪 Bronie
 
 ---
-### ⚔️ Cold Steel
-#### Stealth Accessories
-#### Knives
-#### Katars
-#### Crescents and scythe-shaped blades
-#### Trident-shaped blades
-#### Swords
-#### Longswords
-#### Sabre-shaped swords
-#### Katana-shaped swords
-#### Axes
-#### Battle Hammers
+### ⚔️ Broń Biała
+#### Akcesoria skrytobójcze
+#### Noże
+#### Katary
+#### Krescenty i ostrza kosowe
+#### Ostrza trójzębne
+#### Miecze
+#### Miecze długie
+#### Szable
+#### Katany
+#### Topory
+#### Młoty bojowe
 
-### 🤺 Polearms
-#### Spears
-#### Halberds
-#### Tridents
-#### Spear Swords
-#### Dagger-axes
+### 🤺 Broń drzewcowa
+#### Włócznie
+#### Halabardy
+#### Trójzęby
+#### Miecze włóczniowe
+#### Sztyleto-topory
 
-### 🏹 Ranged
-#### Bows
-#### Crossbows
-#### Javelins
-#### Throwing Knives
-#### Throwing Axes
-#### Other Throwing Weapons
-#### Chain Knives
+### 🏹 Broń zasięgowa
+#### Łuki
+#### Kusze
+#### Oszczepy
+#### Rzucane noże
+#### Rzucane topory
+#### Inne rzucane bronie
+#### Noże na łańcuchu
 
-### 🔥 Firearms
-#### [Revolvers](Revolvers.md)
-#### Shotguns
-#### Rifles
-#### Revolvering Rifles
-#### Automated Firearms
-#### Other
-
+### 🔥 Broń palna
+#### [Rewolwery](Revolvers.md)
+#### Strzelby
+#### Karabiny
+#### Karabiny rewolwerowe
+#### Broń automatyczna
+#### Inne
 ---
 ✥

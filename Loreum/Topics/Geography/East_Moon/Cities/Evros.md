@@ -1,23 +1,24 @@
 # 🌆 Evros
 
 ---
-<span style="color:#107C23">**cities**</span> [✦](/Loreum/Tags.md#-cities)  
+<span style="color:#107C23">**miasta**</span> [✦](/Loreum/Tags.md#-miasta)  
 
 ---
-**Evros** (bae. *Evros*, "strongly growing") is medium-sized harbour town located on [**Ansur Isle**](/Loreum/Topics/Geography/East_Moon/Ansur.md), 
-being main transit place for anyone sailing from Baedoor Continent to East Moon and reversely.  
-Since **Norran Gorth** decree, it extended heavily throughout later years.
+**Evros** (bae. *Evros*, "wzrastający") to średniej wielkości miasto portowe położone na 
+[**Wyspie Ansur**](/Loreum/Topics/Geography/East_Moon/Ansur.md), będąc głównym miejscem 
+tranzytowym dla podróżujących z Anahsahei do Wschodniego Księżyca i w drugą stronę.  
+Od czasu dekretu **Norrana Gortha**, miasto rozbudowało się znacznie w kolejnych latach.
 
-Politically, it is abode of governor and three guilds.
+Politycznie patrząc, Evros jest siedzibą zarządcy i trzech gildii.
 
-### ORGANISATIONS
-- Ansur Vinyards Association
-- Followers of the Bound
-- Thieves Guild `illegal`
+### ORGANIZACJE
+- Ansurskie Zrzeszenie Winnic
+- Podążacze Związania
+- Gildia Złodziei `nielegalna`
 
-All of those guilds are located in center part of Evros, located in two big tenements for first two.
-Location of Thieves Guild is not publicly known.  
-In the other hand, governor holds his position in Town's Hall.
+Wszystkie te gildie znajdują się w centralnej części Evros, w dwóch dużych kamienicach. Lokalizacja
+Gildii Złodziei nie jest publicznie znana.  
+Zarządca natomiast zasiada w Radzie Miasta, mającym swoją siedzibę w ratuszu.
 
 ---
 [📿 Between Shadows and Light](/Mechanicum/Walkthroughs/BSaL/Lore/BSaL_Evros.md)

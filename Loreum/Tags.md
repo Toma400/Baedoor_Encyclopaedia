@@ -1,14 +1,13 @@
-# 🎆 Tags
+# 🎆 Tagi
 
 ---
-Tags are additional form of searching introduced in current Encyclopaedia, allowing you to browse
-index elements within separated categories.  
-If this section becomes too big, it can be split into linked sections in the future.
+Tagi są dodatkową formą szukania wprowadzoną do obecnej Encyklopedii, pozwalając
+na szukanie elementów z indeksu przez ich tematykę.
 
 ---
 <span style="color:#107C23">
 
-### 🌆 CITIES
+### 🌆 MIASTA
 
 </span>
 
@@ -23,12 +22,12 @@ If this section becomes too big, it can be split into linked sections in the fut
 
 <span style="color:#8F3DA5">
 
-### 💫 UNIVERSE
+### 💫 UNIWERSUM
 
 </span>
 
-* [Oververse](Topics/World_Mechanics/Oververse.md)
 * [Esh Enahr](Topics/Characters/List/Esh_Enahr.md)
+* [Gwiazdounosiciele](Topics/Guilds/List/Starshifters.md)
 * [Si Avani](Topics/Characters/List/Si_Avani.md)
-* [Starshifters](Topics/Guilds/List/Starshifters.md)
+* [Wszechwers](Topics/World_Mechanics/Oververse.md)
 * [Xaine](Topics/Characters/List/Xaine.md)

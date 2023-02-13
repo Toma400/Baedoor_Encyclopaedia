@@ -1,30 +1,30 @@
-# 🏺 Cultures
-This section lists all cultures existing in Baedoor universe, sorted by continents.
+# 🏺 Kultury
+Ta sekcja spisuje wszystkie kultury uniwersum, kategoryzując je poprzez kontynenty.
 
-Use miniatures to quickly jump to section you want.
+Użyj miniaturek, by szybko przeskoczyć do wybranej sekcji.
 ```
-LEGEND:
+LEGENDA:
 
-🏯 - architecture
-🕌 - religion & ceremonies
-👘️ - clothing
-🎎 - society
-⚖️ - law
-🥮 - food
-🎭 - art
-🎉 - holidays
-📔 - philosophy
-💮 - languages
-📚 - education 
-⚗️ - technologies
+🏯 - architektura
+🕌 - religia & ceremonie
+👘️ - ubiór
+🎎 - społeczeństwo
+⚖️ - prawo
+🥮 - jedzenie
+🎭 - sztuka
+🎉 - święta
+📔 - filozofia
+💮 - języki
+📚 - edukacja 
+⚗️ - technologie
 ```
 
 ---
 ### Anahsahei
-- Baedoorians 🔹 [🏯](Cultures/Baedoorians/Architecture.md)
+- Baedooriańczycy 🔹 [🏯](Cultures/Baedoorians/Architecture.md)
 
 ### Seiteh
-- Ghlodds 🔹 [🏯](Cultures/Ghlodds/Architecture.md)
+- Ghłoddy 🔹 [🏯](Cultures/Ghlodds/Architecture.md)
 
 ---
 ♜

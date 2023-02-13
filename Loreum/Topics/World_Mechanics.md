@@ -1,13 +1,13 @@
-# 🌌 World Mechanics
+# 🌌 Mechaniki świata
 
 ---
-**🎆GENERAL**
-- [Oververse](World_Mechanics/Oververse.md)
-- [Time](World_Mechanics/Time.md)
-- Creating Forces
+**🎆OGÓLNE**
+- [Wszechwers](World_Mechanics/Oververse.md)
+- [Czas](World_Mechanics/Time.md)
+- Siły
 
-**🎇SPECIFIC**
-- Technology
+**🎇SPECYFICZNE**
+- Technologia
 
 ---
 ✥

@@ -1,17 +1,17 @@
 # 🌆 Raliun
 
 ---
-<span style="color:#107C23">**cities**</span> [✦](/Loreum/Tags.md#-cities)  
+<span style="color:#107C23">**miasta**</span> [✦](/Loreum/Tags.md#-miasta)
 
 ---
-**Raliun** (jit. *long, tiring victory*) is middle-sized mining town built near Altauar Mountains, 
-having high copper deposits which was main good exported by the town.
+**Raliun** (jit. *długie, męczące zwycięstwo*) jest średniej wielkości górniczym miastem zbudowanym
+obok gór Altauar, mającej wysokie pokłady złóż miedzi, będącej głównym towarem eksportowym miasta.
 
-During expansion of the city, [Ino Anor](Ino_Anor.md) were built on Altauar slope.
+Podczas rozbudowy miasta, [Ino Anor](Ino_Anor.md) zostało zbudowane na zboczu Altauar.
 
-### PLACES
-- Gurdu Street
-- Murl'n Inn
+### MIEJSCA
+- Ulica Gurdu
+- Gospoda Murl'n
 
 ---
 ♢: Gurdu street ("Anxiety of death alley", not really translateable), Murl'n Inn ("Strangest of

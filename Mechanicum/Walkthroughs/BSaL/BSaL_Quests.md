@@ -1,17 +1,17 @@
-# 📯 Quests
+# 📯 Zadania
 
-### Summary:
+### Podsumowanie:
 - [Get into Evros Warehouse](BSaL_Quests.md#get-into-evros-warehouse) ♨️
-- [Get Parchment in Evros](BSaL_Quests.md#get-parchment-in-evros) ♻️
-- [Herbalist Mission](BSaL_Quests.md#herbalist-mission) ♻️
+- [Przynieś pergamin do maga](BSaL_Quests.md#przynie-pergamin-do-maga) ♻️
+- [Misja zielarza](BSaL_Quests.md#misja-zielarza) ♻️
 - [Talk with the cook](BSaL_Quests.md#talk-with-the-cook)
-- [Work on Evros Farm](BSaL_Quests.md#work-on-evros-farm) ♻️♨️
+- [Praca na farmie Evros](BSaL_Quests.md#praca-na-farmie-evros) ♻️♨️
 
 ---
 ```
-LEGEND:
-♻️ - redoable
-♨️ - bugged
+LEGENDA:
+♻️ - powtarzalne
+♨️ - zbugowane
 ```
 ---
 #### Get into Evros Warehouse
@@ -27,22 +27,23 @@ most probably end up with empty chest - which is main issue with the quest, as y
 end the quest in favour of Thieves Guild. Therefore, it's better to report the criminal right away,
 as it will result at least on closing the quest and some reward.
 
-#### Get Parchment in Evros
-This quests is given by mage in Evros Docks, if you enter his shop, after asking if he needs any help.
-It simply requires you to go further to Evros, to shop with general goods, and ask for parchment.
-After completing the quest, mage will increase your spellcasting skill by 1.  
-As this quest is redoable, you can easily cheese the system and boost your skill to high levels.
+#### Przynieś pergamin do maga
+To zadanie możesz otrzymać od maga w porcie Evros, gdy zapytasz się, czy możesz mu pomóc.
+Poprosi Cię o dostarczenie pergaminu ze sklepu z głębi miasta. Po wykonaniu zadania, Twoja
+umiejętność rzucania zaklęć zostanie podniesiona o 1.  
+Jako że to zadanie jest powtarzalne, możesz w łatwy sposób wykorzystać tę lukę by zdobyć
+wysoki poziom tej umiejętności.
 
-#### Herbalist Mission
-This quest is not listed in journal with specific name, but it is the only truly redoable quest you
-can get to earn money daily.  
-First, talk to herbalist located in **Evros** city. Ask if he needs anything, and he will tell you
-about hyerbitus. Go to **Evros Fields** after that and search it for this herb. After you found it,
-go back and give it to herbalist - you will earn 10 coins.  
+#### Misja zielarza
+Ta misja nie jest widoczna w dzienniku, jednak jest ona jedyną faktycznie powtarzalną misją, 
+w której jesteś w stanie zarobić dziennie złoto.  
+Najpierw porozmawiaj z zielarzem w **Evros**. Zapytaj się go, czy nie potrzebuje pomocy, a
+wówczas powie Ci o Hyerbitusie. Pójdź na **Pola Evros** i poszukaj tego zioła. Po zebraniu go, 
+wróć do miasta i oddaj zielarzowi - zarobisz 10 sztuk złota.
 
-You will always find one hyerbitus on fields, and it will regenerate over time - and as the quest 
-is not listed in journal, dialogue option persists, allowing you to continuously earning money 
-from getting hyerbituses to herbalist.
+Na polach zawsze znajdziesz jedną sztukę hyerbitusa, i zregeneruje się ona z czasem - a jako
+że to zadanie nie jest spisane w dzienniku, opcja dialogowa pozostaje, pozwalając na
+powtarzalne zdobywanie monet z zebranych hyerbitusów i sprzedaży ich zielarzowi.
 
 #### Talk with the cook
 This is first quest you will receive during the game, if you talk with the sailor, asking for some
@@ -51,7 +52,7 @@ Head to the cook - when you enter his room, you will be able to either ask him, 
 Asking is pretty good choice, as cook will offer you bread no matter what, whereas failing at
 stealing results on quest being failed. 
 
-#### Work on Evros Farm
-In theory, this job was meant to be the easiest (yet, the most tedious) work in BSaL game, as you
-were meant to get wheat and give back to farmer lady. Unfortunately, due to bug overseen in development,
-it results on just getting the job and not being able to harvest anything.
+#### Praca na farmie Evros
+W teorii, ta misja miała być najprostszą (choć najbardziej żmudną) pracą w BSaL, jako że
+należało zebrać pszenicę i oddać ją farmerce. Niestety, z powodu błędu w grze, nie jest możliwe
+zebrać cokolwiek.
