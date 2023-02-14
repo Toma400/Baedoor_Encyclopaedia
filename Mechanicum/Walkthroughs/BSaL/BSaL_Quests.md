@@ -1,10 +1,10 @@
 # 📯 Zadania
 
 ### Podsumowanie:
-- [Get into Evros Warehouse](BSaL_Quests.md#get-into-evros-warehouse) ♨️
+- [Dostań się do magazynu Evros](BSaL_Quests.md#dosta-si-do-magazynu-evros) ♨️
 - [Przynieś pergamin do maga](BSaL_Quests.md#przynie-pergamin-do-maga) ♻️
 - [Misja zielarza](BSaL_Quests.md#misja-zielarza) ♻️
-- [Talk with the cook](BSaL_Quests.md#talk-with-the-cook)
+- [Porozmawiaj z kucharzem](BSaL_Quests.md#porozmawiaj-z-kucharzem)
 - [Praca na farmie Evros](BSaL_Quests.md#praca-na-farmie-evros) ♻️♨️
 
 ---
@@ -14,18 +14,20 @@ LEGENDA:
 ♨️ - zbugowane
 ```
 ---
-#### Get into Evros Warehouse
-Note that this quest is bugged and won't work as destined.  
-Once you get close to warehouse in Evros' docks, you will get asked by someone to do some mission.  
-If you agree on that, you will get revealed that said person needs you to bring silk from it.  
-As you agree, you need to wait a while, for night to come. Then, you can either report that event
-to the guard (which will blacklist you from Thieves Guild, but you will get reward) or try to get
-into warehouse. As far as I tested, there's no penalty on failing entering the warehouse, and you
-can do it till you succeed.  
-The catch is, though, once entering the warehouse and successfully opening the chest, you will
-most probably end up with empty chest - which is main issue with the quest, as you cannot
-end the quest in favour of Thieves Guild. Therefore, it's better to report the criminal right away,
-as it will result at least on closing the quest and some reward.
+#### Dostań się do magazynu Evros
+Uwaga! Zadanie jest zbugowane i nie będzie działało tak, jak było zaplanowane.  
+Możliwość odebrania zadania pojawia się w momencie, gdy zbliżasz się do magazynu w porcie Evros.
+Będziesz wówczas zapytany przez tajemniczą osobę o wykonanie misji. Jeśli się na nią zgodzisz,
+otrzymasz informację, że ta osoba potrzebuje, żeby przynieść jej bele jedwabiu.  
+Jeśli zgodzisz się na to, poczekaj przez chwilę, aby zapadła noc. Wówczas możesz albo zareportować
+tę propozycję strażnikom (co ustanowi Cię wrogiem Gildii Złodziei, ale otrzymasz nagrodę) albo
+próbować dostać się do magazynu.  
+Z moich doświadczeń wynika, że nie ma żadnego niebezpieczeństwa w nieudanym włamaniu, więc możesz
+próbować aż do skutku.  
+Problem jest jednak gdzie indziej - po włamaniu się do magazynu i otwarciu skrzyni, najpewniej
+skończysz z... pustą skrzynią. Jest to główny problem z tym zadaniem, gdyż jest niemożliwe by
+ukończyć je na korzyść Gildii Złodziei. Natomiast zgłoszenie tego wydarzenia pozwoli Ci zamknąć
+to zadanie, jak i również zarobić drobną sumę pieniędzy.
 
 #### Przynieś pergamin do maga
 To zadanie możesz otrzymać od maga w porcie Evros, gdy zapytasz się, czy możesz mu pomóc.
@@ -45,12 +47,13 @@ Na polach zawsze znajdziesz jedną sztukę hyerbitusa, i zregeneruje się ona z 
 że to zadanie nie jest spisane w dzienniku, opcja dialogowa pozostaje, pozwalając na
 powtarzalne zdobywanie monet z zebranych hyerbitusów i sprzedaży ich zielarzowi.
 
-#### Talk with the cook
-This is first quest you will receive during the game, if you talk with the sailor, asking for some
-money. He will offer you knife if you get the bread from the cook.  
-Head to the cook - when you enter his room, you will be able to either ask him, or steal the bread.
-Asking is pretty good choice, as cook will offer you bread no matter what, whereas failing at
-stealing results on quest being failed. 
+#### Porozmawiaj z kucharzem
+Jest to pierwsze zadanie, które otrzymasz podczas gry, jeśli rozpoczniesz konwersację z żeglarzem,
+prosząc o możliwość zarobienia pieniędzy. Zaoferuje Ci on nóż, w zamian za bułkę od kucharza.  
+Udaj się do kucharza - gdy wejdziesz do pomieszczenia, gdzie ten się znajduje, staniesz przed
+wyborem - zapytania się go o to wprost, lub ukradzenia chleba.  
+Zapytanie się jest dobrym wyborem, jako że kucharz odda Ci chleb bez żadnej trudności, natomiast
+nieudana kradzież zamknie Ci możliwość wyproszenia chleba pokojową drogą.
 
 #### Praca na farmie Evros
 W teorii, ta misja miała być najprostszą (choć najbardziej żmudną) pracą w BSaL, jako że
