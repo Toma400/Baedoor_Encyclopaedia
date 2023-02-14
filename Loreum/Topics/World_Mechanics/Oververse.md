@@ -68,15 +68,18 @@ Tylko małej garstce udało się fizycznie podróżować przez wszechwers, i byl
 najwybitniejsi podróżnicy snów.  
 Jedynym takim oneironautą znanym w świecie Baedoor jest [Xaine](/Loreum/Topics/Characters/List/Xaine.md).
 
-**DISPUTES**  
-Several oververse scientists believe in third and fourth systems to be reversed - so, metaphysical
-and oververses being affected by (higher) multiversal system, thus highest gods having their
-infinite variants, samely with some places (such as Void) being the same.  
-Those theories are though considered as less possible due to current theory having more coherency
-within itself, and separating metaphysical plane from multiverses (which are understood as still
-working on physical plane, just to exceptional precision).  
-Some more religious scientists also call those "lower oververse theory" as profane, since it does
-state that there's no absolute god, but all of them being ruled by physical power.
+**SPORY**  
+Część naukowców zajmujących się kwestią wszechwersu wierzy, iż trzeci i czwarty system jest
+odwrócony - w takim wypadku metafizyczność i wszechwers są podległe (wyższemu) systemowi
+multiwersów, co prowadzi do idei bóstw posiadających nieskończoną ilość wariantów, jak i również
+miejsc do tej pory uznawanych za wspólne (jak Pustka).  
+Teorie te są jednak uważane za mniej prawdopodobne ze względu na mniejszą spójność wewnętrzną,
+jak i również przez fakt, iż płaszczyzna metafizyczna w tej teorii nie jest rozdzielona z
+multiwersami, nie pozwalając na ekstrapolację metafizyki względem fizyki (co w klasycznej teorii
+jest do pewnego stopnia czynione).  
+Część bardziej religijnych naukowców nazywa te "teorie niższego wszechwersu" za świętokradztwo,
+gdyż ich naturalnym wynikiem jest idea braku absolutnego boga, jednocześnie wszystkie z nich
+są też rządzone wówczas przez siły fizyczne.
 
 A lot of this comes from interesting division, because theorists believing in oververse being on top of
 everything consider gods visiting all planes.  
