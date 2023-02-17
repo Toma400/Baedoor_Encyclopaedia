@@ -81,10 +81,11 @@ Część bardziej religijnych naukowców nazywa te "teorie niższego wszechwersu
 gdyż ich naturalnym wynikiem jest idea braku absolutnego boga, jednocześnie wszystkie z nich
 są też rządzone wówczas przez siły fizyczne.
 
-A lot of this comes from interesting division, because theorists believing in oververse being on top of
-everything consider gods visiting all planes.  
-In the same time, those putting oververse lower tend to absolutify multiverse as sole system, without 
-anything added but mechanics. Therefore gods can exist only on lower planes in this concept.
+Sytuacja ta bierze się z interesującego podziału, gdyż teoretycy wierzący w wszechwers będący
+na szczycie wszystkiego rozumieją bogów jako byty wizytujące wszystkie płaszczyzny rzeczywistości.  
+Natomiast ci stawiający wszechwers poniżej mają tendencję absolutyzować multiwersum jako główny
+system, będący jedynie zbiorem mechanik. W ten sposób bogowie muszą egzystować na niższych
+płaszczyznach.
 
 ---
 ### ♨️ HISTORIA
