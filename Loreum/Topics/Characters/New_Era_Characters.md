@@ -1,7 +1,7 @@
-# 🍁 New Era Characters
+# 🍁 Postaci Nowej Ery
 
 ---
-### 🛕 WEST BAEDOOR
+### 🛕 ZACHODNIE BAEDOOR
 #### [Delai Eir](List/Delai_Eir.md)
 #### [Heim Winfleton](List/Heim_Winfleton.md)
 

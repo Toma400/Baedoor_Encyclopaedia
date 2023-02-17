@@ -1,8 +1,8 @@
-# 🥮 Lunatri Characters
-Characters bound to **Lunatri** heritage and nationality.
+# 🥮 Postacie Lunatri
+Postaci związane z pochodzeniem i narodowością **Lunatri**.
 
 ---
-### 🕋 NEW ERA
+### 🕋 NOWA ERA
 #### [Delai Eir](List/Delai_Eir.md)
 
 ---

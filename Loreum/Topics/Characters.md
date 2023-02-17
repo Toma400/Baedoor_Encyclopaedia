@@ -13,7 +13,7 @@ Lista wszystkich postaci żyjących w uniwersum Baedoor na przestrzeni jego hist
 ---
 ### 🏯 POPRZEZ KRAJ
 #### 🔹 [Postaci Jitado](Characters/Jitado_Characters.md)
-#### 🔹 [Postaci Wschodniego Baedoor](Characters/West_Baedoor_Characters.md)
+#### 🔹 [Postaci Zachodniego Baedoor](Characters/West_Baedoor_Characters.md)
 
 ---
 ### 🥮 POPRZEZ NARODOWOŚĆ

@@ -1,8 +1,8 @@
-# 🥮 Baedoorian Characters
-Characters bound to **Baedoorian** heritage and nationality.
+# 🥮 Postaci Baedoorczyków
+Postaci o narodowości **Baedoorskiej**.
 
 ---
-### 🕋 NEW ERA
+### 🕋 NOWA ERA
 #### [Heim Winfleton](List/Heim_Winfleton.md)
 
 ---
