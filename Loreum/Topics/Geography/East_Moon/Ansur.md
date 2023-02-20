@@ -19,9 +19,9 @@ parts of Empire.
 The main change, though, came with new laws introduced in 326 NE by governor **Norran Gorth**, 
 benefitting from **Baedoor Empire** collapse and stating independency, as well as adding several 
 taxes to those who dock in Ansur, but do not plan to stay longer.  
-This brought not only enough money for the island to expand, but also solidify their export and
-create bigger infrastructure. This also lead to Evros getting city walls and small fort on top of the hill, as governor 
-residence and additiona fortification.  
+This brought not only enough money for the island to expand, but also solidified their export and
+created bigger infrastructure. This also lead to Evros getting city walls and small fort on top of the hill, as governor 
+residence and additional fortification.  
 
 In 917 NE, governor **Heimlig Naevos** recommended building of airship port, which is estimated to
 be finished in year 925 NE.

@@ -2,7 +2,7 @@
 All things related to nature, including flora, fauna, geological parts and also cultural adaptation.
 
 ---
-### 🌿 Herbarium
+### 🌿 [Herbarium](Nature/Herbarium.md)
 ### 🐊 Bestiary
 ### 🧊 Minerals
 ### 🥮 Foods

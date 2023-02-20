@@ -8,6 +8,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Adelaie](Topics/Geography/Jitado/Cities/Adelaie.md)
 - [Altauar](Topics/Geography/Jitado/Regions/Altauar.md) (region)
 - [Ansur](Topics/Geography/East_Moon/Ansur.md)
+- [Ash Veil](Topics/Nature/Herbarium/List/Ash_Veil.md)
 - [Avani, Si](Topics/Characters/List/Si_Avani.md)
 
 ### B
@@ -69,6 +70,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### V
 - [Vaerdena](Topics/Geography/East_Moon/Lands/Vaerdena.md)
+- [Vulcanic Veil](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
 
 ### W
 - [Winfleton Deck](Topics/Cultures/Baedoorians/List/Winfleton_Deck.md)

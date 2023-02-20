@@ -21,6 +21,15 @@ If this section becomes too big, it can be split into linked sections in the fut
 * [Raliun](Topics/Geography/Jitado/Cities/Raliun.md)
 * [Skirran](Topics/Geography/Baedoor/Cities/Skirran.md)
 
+<span style="color:#90AA62">
+
+### 🌿 PLANTS
+
+</span>
+
+* [Ash Veil](Topics/Nature/Herbarium/List/Ash_Veil.md)
+* [Vulcanic Veil](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
+
 <span style="color:#8F3DA5">
 
 ### 💫 UNIVERSE

@@ -433,11 +433,11 @@ As you could expect, for RPG element of my games, I've created RPG System with a
 mechanics adding to the lore experience. It's called **Baedoor RPG System**, as it solely works upon
 this universe.
 
-| Version | Public? | Destination                                | Overview                                                                                                                              |
-|:-------:|:-------:|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|  1.0+   |   🔴    | ⭐ Oldest Baedoor games                     | Loose system which rather guided the player than really made any boundaries for gameplay                                              |
-|   2.0   |    ⭕    | ⭐ Between Shadows and Light                | Poor reimplementation of 1.0 system into PC RPG environment                                                                           |
-|   3.0   |   🟢    | ⭐ The Isle of Ansur <br> ⭐ Tabletop gaming | First proper reimplementation of the system trying to be stable enough for tabletop play and also expand upon crucial features of BRS |
+| Version | Public? | Destination                                | Overview                                                                                                                              | Docs             |
+|:-------:|:-------:|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|------------------|
+|  1.0+   |   🔴    | ⭐ Oldest Baedoor games                     | Loose system which rather guided the player than really made any boundaries for gameplay                                              | *Not available*  |
+|   2.0   |    ⭕    | ⭐ Between Shadows and Light                | Poor reimplementation of 1.0 system into PC RPG environment                                                                           | *Not available*  |
+|   3.0   |   🟢    | ⭐ The Isle of Ansur <br> ⭐ Tabletop gaming | First proper reimplementation of the system trying to be stable enough for tabletop play and also expand upon crucial features of BRS | *In development* |
 
 ---
 ### 🦾 BOTS
@@ -445,6 +445,8 @@ I also made Discord bot called **Airship Guard**, which purpose was to be guide 
 Baedoor lore/projects of mine.  
 As the time goes further, I also started adding general purpose features and now I'm trying to develop
 it in a way that it can be used on other servers.
+
+[List of features & commands](https://lyofs-code-constellation.fandom.com/wiki/Airship_Guard) ✤ [Home server](https://discord.gg/GbTw9KqnrE)
 
 ---
 ### ☠️ LOST AND FOUND
