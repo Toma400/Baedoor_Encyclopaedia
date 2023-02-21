@@ -51,12 +51,14 @@ or just if you would like to look at cultural differences between civilisations.
 
 <center><span style="color:#668c99"><b>Female names</b></span></center>
 
-| Name     | Localisation  | Description                                                         |
-|----------|---------------|---------------------------------------------------------------------|
-| Cryna    | East Baedoor  | Rare name used in Old Era, feminine variant of *Cryan*              |
-| Hanyah   | East Baedoor  | Rare name                                                           |
-| Veronica | Whole Baedoor | Commonly used, especially among lower aristocratic families         |
-| Wenyah   | East Baedoor  | Rare name used in Old Era, nomathian-influenced variant of *Hanyah* |
+| Name     | Localisation  | Description                                                                                   |
+|----------|---------------|-----------------------------------------------------------------------------------------------|
+| Cryna    | East Baedoor  | Rare name used in Old Era, feminine variant of *Cryan*                                        |
+| Florat   | East Baedoor  | Nomathian-influenced form of *Lorat*                                                          |
+| Hanyah   | East Baedoor  | Rare name                                                                                     |
+| Lorat    | Whole Baedoor | Commonly used in Old Era, in New Era mostly seen in aristocratic families. Of jitadian origin |
+| Veronica | Whole Baedoor | Commonly used, especially among lower aristocratic families                                   |
+| Wenyah   | East Baedoor  | Rare name used in Old Era, nomathian-influenced variant of *Hanyah*                           |
 
 ---
 ### Jitadian Names
@@ -75,6 +77,12 @@ or just if you would like to look at cultural differences between civilisations.
 | Sin      | Jitado       | Common name, may be evolution of *Si*        |
 | Sjiniro  | Jitado       | Obscure combination of Sin and Jiro names    |
 | Yraeni   | Jitado       | Rare name                                    |
+
+<center><span style="color:#668c99"><b>Female names</b></span></center>
+
+| Name  | Localisation | Description |
+|-------|--------------|-------------|
+| Lorat | Jitado       | Common name |
 
 ---
 ### Tri Names

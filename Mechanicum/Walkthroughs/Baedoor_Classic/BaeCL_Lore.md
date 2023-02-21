@@ -14,7 +14,8 @@
         <th>Timeframe</th>
         <td>Various</td>
         <td rowspan="2">
-            🕌 <a href="Lore/BaeCL_Baedoor.md">Baedoor</a>
+            🕌 <a href="Lore/BaeCL_Baedoor.md">Baedoor City</a><br>
+            🍂 <a href="Lore/BaeCL_Baedoor_Surroundings.md">Baedoor Surroundings</a>
         </td>
     </tr>
     <tr>

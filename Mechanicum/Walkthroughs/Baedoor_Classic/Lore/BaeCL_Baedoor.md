@@ -1,10 +1,10 @@
-# 📿 Baedoor
+# 📿 Baedoor City
 
 ---
 **🪔 Baedoor** (2008)
 
 ---
-### Baedoor Showcase
+### Baedoor City Showcase
 
 <table>
   <!--PHOTO 1-->

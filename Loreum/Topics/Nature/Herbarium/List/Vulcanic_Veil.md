@@ -13,7 +13,7 @@
 Vershaton during Exodus events, hence it is the only place where this mutation exists naturally.
 
 Despite similarities with whole plant structure, crushed vulcanic veil is bitter. It is only rarely
-used for mixtures, mostly as a filler to tone the flavour down, as it hold no seasoning or real alchemic
+used for mixtures, mostly as a filler to tone the flavour down, as it holds no seasoning or real alchemic
 value.
 
 

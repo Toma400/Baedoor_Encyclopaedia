@@ -5,6 +5,14 @@
 ║ are not ready for new info
 ╚═════════════════════════════════════════════════════════════
 
+0. HOW TO FILL SOURCE FILES IF PHOTO HAS WEIRD ANGLE
+- cut the photo to most correct shape
+- find corners where notebook curves
+- take closest to curve paper colour (pipet)
+- make new layer, put colour on corners to mimic paper
+- add Gauss distortion (19' is checked value)
+- try playing with layer transparency to match
+
 I. SEITEH NAME ETYMOLOGY
 = ehr. ct'eh - whole world          | ct' + eh
 = ghl. sh'sta'h - origin of all     | sh' + sta'h
