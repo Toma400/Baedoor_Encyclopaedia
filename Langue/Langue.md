@@ -6,7 +6,7 @@ szótárakat és a betekintő nyelvek logikai felépítésébe.
 
 - [Nyelvcsaládok](Langue.md#centerfamiliescenter)
 - Átlagos Nyelvek
-- Régi Nyelveks
+- Régi Nyelvek
 - [Ősi Nyelvek](Langue.md#centerancient-languagescenter)
 - Rituális Nyelvek
 

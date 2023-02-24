@@ -7,13 +7,13 @@ table, th, td {border: 1px solid; padding: 0 5px;}
 ## ⚓️ Ki vagyok én?
 ### Helló!
 A nevem Tomasz Stępień (Angolra fordítva gyakran Tom Stępień).  
-Úgy is ismerhetsz, hogy [Toma400](https://linktr.ee/toma400), melyet széles körben használok, vagy egyes esetekben a
-Shadow vagy Zil neveket.
+Úgy is ismerhetsz, hogy [Toma400](https://linktr.ee/toma400), melyet széles körben használok, vagy ritkább esetben
+Shadow vagy Zil.
 
 Jelen pillanatban - Ezen szöveg írásakor - egy 25 éves férfi vagyok Dél-Lengyelországból, aki sok féle 
 (mondjuk úgy "művészi") dolgokat csinál, ezerszer többet elképzelve.  
 
-Már elkészíttem a saját képzeletbéli univerzumomat, - az ok amiért itt vagy - illetve verseket, történeteket, zenéket 
+Már elkészítettem a saját képzeletbéli univerzumomat, - az ok amiért itt vagy - illetve verseket, történeteket, zenéket 
 játékokat és mod-okat.  
 Valójában legtöbbjük nem igazán eredeti vagy lélegzetelállító, mivel még mindig amatőr vagyok, aki egyszerüen
 szereti a művészetet és annak minden változatát, és csak az én nézéspontomat szeretném hozzátenni ehhez a szeretett jelenséghez.
