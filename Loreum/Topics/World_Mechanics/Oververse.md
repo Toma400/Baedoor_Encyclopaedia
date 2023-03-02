@@ -7,9 +7,18 @@
 ### 🔆 CONCEPT
 Oververse is concept that expands the idea known in our world as "multiverse".
 
+<table align="right" style="width: 250px; height: 80px; display: table; margin: 5px">
+  <td style="width: 100%; height: 100%; letter-spacing: 1px; background-color: #000">
+    <p style="text-align:center">"Oververse is unknowness"<br></p>
+    <p style="text-align:right"> - Tehom Aranai</p>
+  </td>
+</table>
+
 Starshifters, being a word for oververse explorers, believe in set of systems that create what they
 call **Oververse**. It could be explained in Minecraft, being pretty amazing reference, contaning
 dimensions, which is not really possible in case of Earth.
+
+---
 
 We can explain structure of oververse by going from smallest part to the biggest:
 1. **🌍 World** - which is just what we know as Earth, in Minecraft they know it as Overworld, 

@@ -36,8 +36,8 @@ If this section becomes too big, it can be split into linked sections in the fut
 
 </span>
 
-* [Oververse](Topics/World_Mechanics/Oververse.md)
 * [Esh Enahr](Topics/Characters/List/Esh_Enahr.md)
+* [Oververse](Topics/World_Mechanics/Oververse.md)
 * [Si Avani](Topics/Characters/List/Si_Avani.md)
 * [Starshifters](Topics/Guilds/List/Starshifters.md)
 * [Xaine](Topics/Characters/List/Xaine.md)

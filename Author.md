@@ -1,3 +1,8 @@
+<!-- MD to PDF steps:
+1. To HTML: https://markdowntohtml.com/
+2. Uncomment CSS Code here
+3. To PDF:  https://www.sejda.com/pl/html-to-pdf
+-->
 <!-- CSS Code:
 <style>
 table, th, td {border: 1px solid; padding: 0 5px;}
@@ -69,7 +74,8 @@ Wrench means status of support - if the mod is still maintained. 🈷️ means o
 ---
 
 ### 🏯 GAMES
-Wrench means status of support - if the game is still maintained. 🈷️ means open form of language support.
+Wrench means status of support - if the game is still maintained. 🈷️ means open form of language support.  
+For games I've made for learning purposes, head to [section below](Author.md#-learning-projects).
 
 **🎎 True Games**
 
@@ -77,18 +83,15 @@ Wrench means status of support - if the game is still maintained. 🈷️ means 
 |-----|------------|-------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------|:-------------:|
 | 🟢  | 2021-09-27 | The Isle of Ansur | Remake of Between Shadows and Light, this time made with more experience and better modding support. | [GitHub](https://github.com/Toma400/The_Isle_of_Ansur) | 🇬🇧 <br> 🈷️ |
 
-For games I've made for learning purposes, head to [section below](Author.md#-learning-projects).
-
 ---
 
 ### ⚗️ SOFTWARE
-Wrench means status of support - if the program is still maintained. 🈷️ means open form of language support.
+Wrench means status of support - if the program is still maintained. 🈷️ means open form of language support.  
+For software I've made for learning purposes, head to [section below](Author.md#-learning-projects).
 
 | 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                 |     Lang      |
 |-----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|:-------------:|
 | 🟢  | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE) | 🇬🇧 <br> 🈷️ |
-
-For software I've made for learning purposes, head to [section below](Author.md#-learning-projects).
 
 ---
 ### 📖 STORIES  
@@ -458,6 +461,25 @@ it in a way that it can be used on other servers.
 ### 🎨 THEMES
 Aside of creating themes for my own software, I also created some themes for other programs:  
 ✼ [**Subnautical theme for Repl.it**](https://replit.com/theme/@Toma400/subnautical)
+
+---
+### ⚡️ PLUGINS
+I love some softwares, so there should be no surprise I not only make some mods, but also plugins,
+supporting open-sourceness of those programs that support it.  
+For **theme plugins**, please look at section above.
+
+|                Software                 | Name           | Purpose                                          |   Link   |
+|:---------------------------------------:|----------------|--------------------------------------------------|:--------:|
+| [⚛️ Atom](https://github.com/atom/atom) | Language Ivory | Syntax highlighting for Ivory language (by Lyof) | Upcoming |
+
+---
+### ⚖️ LICENSES
+When doing my projects, I had some issues with established licenses, since I found All Rights Reserved
+as too restrictive, meanwhile GNU/MIT licenses too free. All licenses I came across also weren't as
+personal as I would like them to, so I decided to create my own ones.
+
+- [**Baedoor License**](https://github.com/Toma400/Licenses) - used for Baedoor-related projects
+- [**Baedoor Mod License**](https://github.com/Toma400/Licenses) - used for Baedoor-related mods
 
 ---
 ### 🔨️ LEARNING PROJECTS
