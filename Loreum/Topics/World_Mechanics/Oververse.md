@@ -103,16 +103,16 @@ bardziej arbitralne:
 
 Multiwersa były odkrywane w takiej oto chronologii:
 
-| Data odkrycia | Multiwersum | Odkrywca                                               | Prawdopodobna nazwa w naszym świecie                               |
-|---------------|-------------|--------------------------------------------------------|--------------------------------------------------------------------|
- | 655 CP        | Tamariel    | [Si Avani](/Loreum/Topics/Characters/List/Si_Avani.md) | Tamriel, uniwersum Elder Scrolls                                   |
+| Data odkrycia | Multiwersum | Odkrywca                                                 | Prawdopodobna nazwa w naszym świecie                               |
+|---------------|-------------|----------------------------------------------------------|--------------------------------------------------------------------|
+ | 655 CP        | Tamariel    | [Si Avani](/Loreum/Topics/Characters/List/Si_Avani.md)   | Tamriel, uniwersum Elder Scrolls                                   |
  | 272 CP        | Uru'ai      | [Esh Enahr](/Loreum/Topics/Characters/List/Esh_Enahr.md) | Uniwersum Myst / Uru                                               |
- | 463 SE        | Osde'in     |                                                        | Świat Dysku                                                        |
- | 431 NE        | Ins'in      | Tehom Aranai                                           | Nalqiwatya                                                         |
- | 637 NE        | Eis'in      |                                                        | End's Phantasm                                                     |
- | 638 NE        | Ne'rin      |                                                        | Uniwersum Minecrafta                                               |
- | 654 NE        | Ne'n        |                                                        | Wymiar-wyłom pomiędzy Ne'rin a Baedoor                             |
- | 654 NE        | Aji'n       |                                                        | Konstelacja wymiarów-wyłomów o nazwie Desolat i Deeper Undergrowth |
+ | 463 SE        | Osde'in     |                                                          | Świat Dysku                                                        |
+ | 431 NE        | Ins'in      | Tehom Aranai                                             | Nalqiwatya                                                         |
+ | 637 NE        | Eis'in      |                                                          | End's Phantasm                                                     |
+ | 638 NE        | Ne'rin      |                                                          | Uniwersum Minecrafta                                               |
+ | 654 NE        | Ne'n        |                                                          | Wymiar-wyłom pomiędzy Ne'rin a Baedoor                             |
+ | 654 NE        | Aji'n       |                                                          | Konstelacja wymiarów-wyłomów o nazwie Desolat i Deeper Undergrowth |
 
 <span style="color:#0099cc">**ROZSZCZELNIENIE**</span>  
 Ważnym wydarzeniem, które powinno być wspomniane, było <span style="color:#0099cc">
@@ -153,7 +153,7 @@ Koncept wszechwersu był znany magom i mistykom przez tysiące lat, jednak spor�
 tego czasu był traktowany jako hipoteza, zwykle również bez konkretnej definicji, przez
 co wyobrażenia na jego temat różniły się znacząco.  
 Z tego też powodu brać akademicka zainteresowana tematem zdecydowała założyć
-oddzielne skrzydła uniwersytetów poświęcone badanion nad strukturą rzeczywistości.
+oddzielne skrzydła uniwersytetów poświęcone badaniom nad strukturą rzeczywistości.
 Pierwszą taką inicjatywą były, już w czasach przederowych, **Głoddyjskie Obserwatoria
 Uniwersów**, zbudowane w 220 CP. Był to tak naprawdę kompleks uniwersytecki związany
 ze Świątynią Głoddyjską. Ważnym impulsem do zbudowania go było odkrycie Uru'ai pół

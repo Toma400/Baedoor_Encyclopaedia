@@ -6,7 +6,7 @@
 ---
 **Xaine** to postać o nieznanym pochodzeniu. Imię tej postaci również jest nieznane, 
 jednak zwykło mówić się o niej jako Xaine, z racji, że według podań ta osoba zwykła 
-się o sobie odnosić. W momencie pojawienia się go na kartach historii, 
+się tak określać. W momencie pojawienia się go na kartach historii, 
 zamieszkiwał **Jitado**.  
 Uznaje się go za założyciela starożytnej organizacji **Gwiazdounosicieli**.
 
