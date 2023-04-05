@@ -63,35 +63,35 @@ find worth cataloguing:
 I started my modding journey from small Battle for Wesnoth mod made in around 2012. Since it uses original
 images from World of Tanks, I upload it privately, as I can't do it officially due to copyrights.
 
-Wrench means status of support - if the mod is still maintained. 🈷️ means open form of language support.
+Wrench means status of support - if the mod is still maintained. ➕ means open form of language support.
 
-| 🔧  | Name                     | Original game      | Description                                                                                                 | Download                                                                                      |     Lang      |
-|-----|--------------------------|--------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|:-------------:|
-| 🔴  | WW2                      | Battle for Wesnoth | Mod adding tanks taken from World of Tanks franchise to BfW game.                                           | [Drive](https://drive.google.com/drive/folders/1m3oUjRsJYbZFAKsvOHOwTwrik9WIvMrJ?usp=sharing) |     🇵🇱      |
-| 🟢  | Wastelands of Baedoor    | Minecraft          | Steampunk-aimed mod adding airships and firearms.                                                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor)              | 🇬🇧 <br> 🈷️ |
-| 🟢  | Civilisations of Baedoor | Minecraft          | Mod focused on building an empire and beautiful dimensions - as well as showcasing Baedoor universe itself. | [Discord](https://discord.gg/GbTw9KqnrE)                                                      | 🇬🇧 <br> 🈷️ |
+| 🔧  | Name                     | Original game      | Description                                                                                                 | Download                                                                                      |                                                   Lang                                                    |
+|-----|--------------------------|--------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------:|
+| 🟠  | WW2                      | Battle for Wesnoth | Mod adding tanks taken from World of Tanks franchise to BfW game.                                           | [Drive](https://drive.google.com/drive/folders/1m3oUjRsJYbZFAKsvOHOwTwrik9WIvMrJ?usp=sharing) |                                                   🇵🇱                                                    |
+| 🟢  | Wastelands of Baedoor    | Minecraft          | Steampunk-aimed mod adding airships and firearms.                                                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor)              |                                                🇬🇧 <br> ➕                                                |
+| 🟢  | Civilisations of Baedoor | Minecraft          | Mod focused on building an empire and beautiful dimensions - as well as showcasing Baedoor universe itself. | [Discord](https://discord.gg/GbTw9KqnrE)                                                      | <b> 🇬🇧 </b><br> 🇪🇸 🇫🇷 <br> 🇮🇹 🇳🇱 <br> 🇵🇱 🇭🇺 <br> 🇺🇦 🇷🇺 <br> 🇨🇳 🇸🇦 <br> 🇲🇾 <br> ➕  |
 
 ---
 
 ### 🏯 GAMES
-Wrench means status of support - if the game is still maintained. 🈷️ means open form of language support.  
-For games I've made for learning purposes, head to [section below](Author.md#-learning-projects).
+Wrench means status of support - if the game is still maintained. ➕ means open form of language support.  
+For games I've made for learning purposes, head to [🔨️ section below](Author.md#-learning-projects).
 
 **🎎 True Games**
 
-| 🔧  | Date       | Name              | Description                                                                                          | Download                                               |     Lang      |
-|-----|------------|-------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------|:-------------:|
-| 🟢  | 2021-09-27 | The Isle of Ansur | Remake of Between Shadows and Light, this time made with more experience and better modding support. | [GitHub](https://github.com/Toma400/The_Isle_of_Ansur) | 🇬🇧 <br> 🈷️ |
+| 🔧  | Date       | Name              | Description                                                                                          | Download                                               |             Lang             |
+|-----|------------|-------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------|:----------------------------:|
+| 🟣  | 2021-09-27 | The Isle of Ansur | Remake of Between Shadows and Light, this time made with more experience and better modding support. | [GitHub](https://github.com/Toma400/The_Isle_of_Ansur) | <b>🇬🇧</b> <br> 🇵🇱 <br> ➕ |
 
 ---
 
 ### ⚗️ SOFTWARE
 Wrench means status of support - if the program is still maintained. 🈷️ means open form of language support.  
-For software I've made for learning purposes, head to [section below](Author.md#-learning-projects).
+For software I've made for learning purposes, head to [🔨️ section below](Author.md#-learning-projects).
 
-| 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                 |     Lang      |
-|-----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|:-------------:|
-| 🟢  | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE) | 🇬🇧 <br> 🈷️ |
+| 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                 |                       Lang                        |
+|-----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|:-------------------------------------------------:|
+| 🟣  | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE) | <b> 🇬🇧 </b><br> 🇪🇸 🇵🇱 <br> 🇭🇺 🇸🇦 <br> ➕ |
 
 ---
 ### 📖 STORIES  
@@ -436,6 +436,10 @@ Although not public yet, once it is done enough, it will be released for public 
 information, for everyone to learn upon. Currently it is only accessible for those who voluntarily want
 to translate its entries to their own languages.
 
+Currently translated to:
+- Polish `fully`
+- Hungarian `barely`
+
 ---
 ### 🗺️ RPG SYSTEM
 As you could expect, for RPG element of my games, I've created RPG System with all statistics and
@@ -468,9 +472,10 @@ I love some softwares, so there should be no surprise I not only make some mods,
 supporting open-sourceness of those programs that support it.  
 For **theme plugins**, please look at section above.
 
-|                Software                 | Name           | Purpose                                          |   Link   |
-|:---------------------------------------:|----------------|--------------------------------------------------|:--------:|
-| [⚛️ Atom](https://github.com/atom/atom) | Language Ivory | Syntax highlighting for Ivory language (by Lyof) | Upcoming |
+|                                         Software                                          | Name            | Purpose                                 |
+|:-----------------------------------------------------------------------------------------:|-----------------|-----------------------------------------|
+| [⚛️ Atom](https://github.com/atom/atom) <br> [❇️️ Pulsar](https://github.com/atom/atom )️ | Language Ivory  | Syntax highlighting for Ivory language  |
+| [⚛️ Atom](https://github.com/atom/atom) <br> [❇️️ Pulsar](https://github.com/atom/atom )  | Language Tribal | Syntax highlighting for Tribal language |
 
 ---
 ### ⚖️ LICENSES
