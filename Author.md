@@ -89,9 +89,9 @@ For games I've made for learning purposes, head to [🔨️ section below](Autho
 Wrench means status of support - if the program is still maintained. 🈷️ means open form of language support.  
 For software I've made for learning purposes, head to [🔨️ section below](Author.md#-learning-projects).
 
-| 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                 |                       Lang                        |
-|-----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|:-------------------------------------------------:|
-| 🟣  | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE) | <b> 🇬🇧 </b><br> 🇪🇸 🇵🇱 <br> 🇭🇺 🇸🇦 <br> ➕ |
+| 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                 |                            Lang                             |
+|-----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|:-----------------------------------------------------------:|
+| 🟣  | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE) | <b> 🇬🇧 </b><br> 🇪🇸 🇵🇱 <br> 🇭🇺 🇸🇦 <br> 🇨🇿 <br> ➕ |
 
 ---
 ### 📖 STORIES  
@@ -327,18 +327,18 @@ TAGS:
 ```
 ㊙️ **General Collabs & Contributions**
 
-| Time of collab     | Tag | Name    | What is the project                                                                                            |               My role               |                                  URL                                  |
-|--------------------|:---:|---------|----------------------------------------------------------------------------------------------------------------|:-----------------------------------:|:---------------------------------------------------------------------:|
-| 2021-12 🔹 2022-03 | 📿  | Desolat | Mod around desert dimension, Desolat. Eventually made a reference to it in Baedoor universe (Aji'n multiverse) | **Contributor**<br>Made small fixes | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedesolat) |
+| Time of collab     | Tag | Name    | What is the project                                                                                                      |               My role               |                                  URL                                  |
+|--------------------|:---:|---------|--------------------------------------------------------------------------------------------------------------------------|:-----------------------------------:|:---------------------------------------------------------------------:|
+| 2021-12 🔹 2022-03 | 📿  | Desolat | Minecraft mod around desert dimension, Desolat. Eventually made a reference to it in Baedoor universe (Aji'n multiverse) | **Contributor**<br>Made small fixes | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedesolat) |
 
 🔣 **Translating Contributions**  
 This list stores all bigger translations I've made. Aside of them, I also were translating some lyrics
 to Polish language [on Tekstowo website](https://www.tekstowo.pl/profil,toma400,dodane_tlumaczenia.html#lista).
 
-| Tag | Name           | What is the project                      |         My role          |                                    URL                                    |
-|:---:|----------------|------------------------------------------|:------------------------:|:-------------------------------------------------------------------------:|
-| 📿  | Grass Overhaul | Mod adding QoL blocks related to grass.  | **Translator**<br>Polish | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/grass-overhaul) |
-| 📿  | The Saccharine | Mod adding some beautiful biomes & mobs. | **Translator**<br>Polish |    [MCreator site](https://mcreator.net/modification/87637/saccharine)    |
+| Tag | Name           | What is the project                                |         My role          |                                    URL                                    |
+|:---:|----------------|----------------------------------------------------|:------------------------:|:-------------------------------------------------------------------------:|
+| 📿  | Grass Overhaul | Minecraft mod adding QoL blocks related to grass.  | **Translator**<br>Polish | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/grass-overhaul) |
+| 📿  | The Saccharine | Minecraft mod adding some beautiful biomes & mobs. | **Translator**<br>Polish |    [MCreator site](https://mcreator.net/modification/87637/saccharine)    |
 
 ---
 ### 📰 BLOG
@@ -391,11 +391,15 @@ This section will contain artworks I consider "official", as cataloguing all dra
 simply take too much time and be extremely chaotic.  
 Click on the picture for bigger resolution.
 
+<!--
+
 🧿 **Pure Drawings**
 
 | Preview                                                                                                                                                                                                    | No. | Date of creation |   Series   |                                 Name                                  | Description                                                                                                                                                                                                                             |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:----------:|:---------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <a href="https://pbs.twimg.com/media/Fln7kbEWQAI5y8R?format=jpg&name=4096x4096"><img alt="RD1"  height="100" src="https://pbs.twimg.com/media/Fln7kbEWQAI5y8R?format=jpg&name=4096x4096" width="110"/></a> |  1  | 2023-01-04       | Redrawings |                                   -                                   | Redrawing of [NishantNeerajA1](https://twitter.com/NishantNeerajA1/status/1326532155137142784) render.                                                                                                                                  |
+
+-->
 
 🧿 **Conceptual Arts**
 
@@ -472,10 +476,10 @@ I love some softwares, so there should be no surprise I not only make some mods,
 supporting open-sourceness of those programs that support it.  
 For **theme plugins**, please look at section above.
 
-|                                         Software                                          | Name            | Purpose                                 |
-|:-----------------------------------------------------------------------------------------:|-----------------|-----------------------------------------|
-| [⚛️ Atom](https://github.com/atom/atom) <br> [❇️️ Pulsar](https://github.com/atom/atom )️ | Language Ivory  | Syntax highlighting for Ivory language  |
-| [⚛️ Atom](https://github.com/atom/atom) <br> [❇️️ Pulsar](https://github.com/atom/atom )  | Language Tribal | Syntax highlighting for Tribal language |
+|                                       Software                                        | Name            | Purpose                                 |                                             Link                                              |
+|:-------------------------------------------------------------------------------------:|-----------------|-----------------------------------------|:---------------------------------------------------------------------------------------------:|
+| [⚛️ Atom](https://github.com/atom/atom) <br> [❇️️ Pulsar](https://pulsar-edit.dev/ )️ | Language Ivory  | Syntax highlighting for Ivory language  | [Atom + Pulsar](https://github.com/Toma400/IDE-plugins/blob/a_dream/Atom/language-ivory.zip)  | 
+| [⚛️ Atom](https://github.com/atom/atom) <br> [❇️️ Pulsar](https://pulsar-edit.dev/ )  | Language Tribal | Syntax highlighting for Tribal language | [Atom + Pulsar](https://github.com/Toma400/IDE-plugins/blob/a_dream/Atom/language-tribal.zip) |
 
 ---
 ### ⚖️ LICENSES
