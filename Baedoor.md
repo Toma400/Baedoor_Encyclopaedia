@@ -82,7 +82,7 @@ if that contradicted player's will.
 ### 🪔 Baedoor as notebook RPG
 
 There was several iterations of Baedoor RPG games introduced by that time, 
-each one showed also new lands (respectively: Baedoor Island, WesternWald, Vershation Highlands, 
+each one showed also new lands (respectively: Baedoor Island, WesternWald, Vershaton Highlands, 
 Northern Isles, Arennan, Rossevette).  
 They didn't change RPG system a lot though, so we can say about versions such as 1.0, 1.1 etc. 
 

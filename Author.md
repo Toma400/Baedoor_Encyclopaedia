@@ -1,7 +1,8 @@
 <!-- MD to PDF steps:
 1. To HTML: https://markdowntohtml.com/
 2. Uncomment CSS Code here
-3. To PDF:  https://www.sejda.com/pl/html-to-pdf
+3. Remove link to Baedoor
+4. To PDF:  https://www.sejda.com/pl/html-to-pdf
 -->
 <!-- CSS Code:
 <style>
@@ -265,6 +266,7 @@ Poems with 💠 symbol have some Baedoor references.
 | 90  | 2022-06-17       | Kwiaty Czarnej Doliny                                 | [🇵🇱](https://drive.google.com/file/d/1KrBvyz1EEbc_bzA8-DN7ZMVCDYGlSb98/view?usp=sharing)                                                                                                                                                                                         |
 | 91  | 2022-07-28       | W Bibliotekach Miłości                                | [🇵🇱](https://drive.google.com/file/d/1ADBd0xXLom8nqQT88ucS2CbYgaHF3aUn/view?usp=sharing), [🇬🇧](https://drive.google.com/file/d/1SsVA0L9bEMt_LKX79x1y20NSy_kz7OBZ/view?usp=sharing)                                                                                             |
 | 92  | 2022-11-12       | (...)                                                 | [🇵🇱](https://drive.google.com/file/d/1gqOY_sEzdILnY_Vm6QMM8hJmhf4MqSio/view?usp=sharing)                                                                                                                                                                                         |
+| 93  | 2023-01-29       | Dla Moich Zgubionych Tułaczy                          | [🇵🇱](https://drive.google.com/file/d/1lh-LB47ZIXxAzvaF2zjGYu6kZxqrjN7K/view?usp=sharing)                                                                                                                                                                                         |
 
 ---
 ### 🧮️ COLLECTIONS  
