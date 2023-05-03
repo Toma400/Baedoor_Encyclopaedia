@@ -87,7 +87,7 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |       evoros       | fertile, able to grow                                  | efvoros            |                        evos + ros                        |
 |        evos        | fields                                                 | efos               |                            -                             |
 |        gur         | anxiety related to death                               | kgur               |                            -                             |
-|        hoi         | forward (shout)                                        | hoi                |                            -                             |
+|        hoi         | forward (shout), understood (in formal context)        | hoi                |                            -                             |
 |        nes         | hard, difficult to move                                | nes                |                            -                             |
 |    inaevpheren²    | trustworthness                                         | nae↓fvphe↓re↓n     |                   adj. of "naevpheren"                   |
 |        ino         | silent                                                 | ino                |                      i- prefix + no                      |
@@ -114,7 +114,7 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |       phaere       | to look after sick, to stay with the weak              | phae↓re:, phere:¹  |                            -                             |
 |       pheren       | faithful                                               | phe↓-re↓n          |                          phaere                          |
 |        rael        | victory                                                | rael, re↓l¹        |                            -                             |
-|        ras         | lawfull murder, to kill lawfully                       | ras↑               |                            -                             |
+|        ras         | lawful murder, to kill lawfully                        | ras↑               |                            -                             |
 |    rien, rioen²    | slow                                                   | rie↓n              |                           rioe                           |
 |        rioe        | period, time running slow                              | ri, ri-e¹          |                            -                             |
 |   riun, rioeun²    | long (time)                                            | riun, ri-eun²      |                           rioe                           |
@@ -137,7 +137,7 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |      wainesi       | harbour                                                | wai-nesi           |                     wan + aine + isi                     |
 |        weld        | forest                                                 | we↓ld              |                            -                             |
 
-¹ - only in modern jitadish
+¹ - only in modern jitadish  
 ² - old jitadish
 
 ### Grammar rules
