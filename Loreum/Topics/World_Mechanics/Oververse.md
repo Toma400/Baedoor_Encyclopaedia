@@ -106,7 +106,7 @@ Multiverses were discovered in such chronology as the table below showcases:
  | 637 NE            | Eis'in     |                                                          | End's Phantasm                               |
  | 638 NE            | Ne'rin     |                                                          | Minecraft universe                           |
  | 654 NE            | Ne'n       |                                                          | Breach dimensions between Ne'rin and Baedoor |
- | 654 NE            | Aji'n      |                                                          | Desolat and Deeper Undergrowth breaches      |
+ | 654 NE            | Aji'n      |                                                          | Desolat and Undergrowth breaches             |
 
 <span style="color:#0099cc">**THE RIFT OUTBREAK**</span>  
 Important event which is needed to be mentioned happened in **494 NE**, being called as <span style="color:#0099cc">**The Rift 
