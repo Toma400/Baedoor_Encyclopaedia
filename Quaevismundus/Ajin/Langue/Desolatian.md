@@ -16,13 +16,21 @@
 |    Dark    |       Dan'khar        |                      |
 | Dark Blue  | Bla'uhe Dhu Dan'khar  |                      |
 | Dark Green | Tu'ghuen Dhu Dan'khar |                      |
+|   Death    |        Dar'the        |                      |
+|   Demise   |       Daery'hse       |                      |
 |    Evil    |       Sait'aan        |                      |
+|   Fellow   |       Fu'hlaew        |                      |
 |    Fire    |        Vu'hur         |                      |
+|   Friend   |        Am'erg         |                      |
+|  Friends   |       Am'erghes       |                      |
 |   Grass    |        Groo'he        |                      |
 |    Gray    |        Gry'ish        |                      |
 |   Great    |       Gra'hnde        |                      |
 |   Green    |       Tu'ghuen        |                      |
+|  Helping   |     E'ghudhentone     |                      |
+|     I      |          Ayé          |                      |
 |   Jumped   |       Spru'han        |                      |
+|    Kill    |       Kam'iase        |                      |
 |   Kissed   |        Kush't         |                      |
 |   Light    |        Li'chte        |                      |
 | Light Blue |  Bla'uhe Dhu Li'chte  |                      |
@@ -32,9 +40,10 @@
 |    Lime    |        Liuhyj         |                      |
 |    Look    |        Keikhue        |                      |
 |  Magenta   |       Majterha        |                      |
-|     Of     |         A'ht          |                      |
+|     My     |         M'ayh         |                      |
+|     Of     |          Ar           |                      |
 |   Orange   |         Urahj         |                      |
-|    Out     |          Aht          |                      |
+|    Out     |         A'ht          |                      |
 |    Pink    |        Rohzea         |                      |
 |   Purple   |     Puaorpur'lhe      |                      |
 |    Red     |        Rojhod         |                      |
@@ -47,3 +56,4 @@
 |    When    |        Wae'he         |                      |
 |   White    |         Waih          |                      |
 |   Yellow   |       Ghy'uhel        |                      |
+|    Your    |        Yura'h         |                      |

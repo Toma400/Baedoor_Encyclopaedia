@@ -9,17 +9,6 @@
 
 <!--
 NOTES:
-
-[errate]
-Of = Ar
-Out = A'ht :owo~3:
-
-I = Ayé
-Your = Yura'h
-Demise = Daery'hse
-Death = Dar'the
-Kill = Kam'iase
-
 Will = Wa'ye
 Me = m'ayó
 Thank you = Dun'ke Ayé
@@ -49,4 +38,28 @@ Is = Yhs
 Sure = A'surj 
 
 Trident = Thyd'ark
+
+Kiss = Kus
+Kissing = Kushen
+Small = Klo'meuh
+Micro = Mi'craewe
+Realm = Ra'elm
+Sandy = Zahndeaghe
+Sandstone= Zahndstaen
+Cactus = Cuctur
+Flower = B'luoehm
+Stone = Staen
+Dirt = Aeh'rde
+Tree = Bu'ohe
+Baedoor = Ba'ehdaowe
+Enemy = Ne'mehsi
+Villain = Slehg'tehi
+Walk = Lohp
+Walking = Lohpethe
+Walked = Laehpeht
+Face = Ga'zeach
+Door = Daeuhw
+Rock = Buo'lhde
+
+Overworld = Yur'ah
 -->
