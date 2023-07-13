@@ -37,6 +37,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### H
 - [Heim Winfleton](Topics/Characters/List/Heim_Winfleton.md)
+- [Hyerbitus](Topics/Nature/Herbarium/List/Hyerbitus.md)
 
 ### I
 - [I'si](Topics/Religions/Small/Temple_of_I'si.md) (Temple of I'si)
