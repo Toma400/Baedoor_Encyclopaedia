@@ -5,10 +5,8 @@
 
 ---
 
-<div align="right">
-    <img alt="Hyerbitus" height="338" src="/Assets/Nature/Plants/hyerbitus.png" width="207"/><br>
-    <code>Sketch of Hyerbitus</code>
-</div>
+<img alt="Hyerbitus" height="338" src="/Assets/Nature/Plants/hyerbitus.png" width="207"/><br>
+<code>Sketch of Hyerbitus</code><br>
 
 **Hyerbitus** is one of the most common plants in Baedoor universe, growing in practically whole
 world. It is the most common in Kaer, as it prefers dense, dark forest environment, however it doesn't

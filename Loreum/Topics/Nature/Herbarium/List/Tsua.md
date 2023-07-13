@@ -5,12 +5,20 @@
 
 ---
 
-<div align="right">
-    <img alt="Tsua" height="778" src="/Assets/Nature/Plants/tsua.png" width="460"/><br>
-    <code>Sketch of Tsua</code><br>
-    <img alt="Tsua in WoB" height="270" src="/Assets/Nature/Plants/tsua_wob.png" width="480"/><br>
-    <code>Tsua in Wastelands of Baedoor mod</code>
-</div>
+<table style="width:100%">
+    <tr>
+        <td>
+            <img alt="Tsua" height="379" src="/Assets/Nature/Plants/tsua.png" width="230"/>
+        </td>
+        <td>
+            <img alt="Tsua in WoB" height="270" src="/Assets/Nature/Plants/tsua_wob.png" width="480"/>
+        </td>
+    </tr>
+    <tr>
+        <td> Sketch of Tsua                    </td>
+        <td> Tsua in Wastelands of Baedoor mod </td>
+    </tr>
+</table>
 
 **Tsua** (also called *tsue* by kehts) is plant native to Kaer. It has long, thin purple stem and
 wide, purple-black petals, making "waves" around blue flower. Tsua emits weird smell, considered by
