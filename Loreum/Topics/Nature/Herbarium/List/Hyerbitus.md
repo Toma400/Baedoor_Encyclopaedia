@@ -5,9 +5,10 @@
 
 ---
 
-<img alt="Hyerbitus" height="677" src="/Assets/Nature/Plants/hyerbitus.png" width="414"/>
-
-``Sketch of Hyerbitus``
+<div align="right">
+    <img alt="Hyerbitus" height="338" src="/Assets/Nature/Plants/hyerbitus.png" width="207"/><br>
+    <code>Sketch of Hyerbitus</code>
+</div>
 
 **Hyerbitus** is one of the most common plants in Baedoor universe, growing in practically whole
 world. It is the most common in Kaer, as it prefers dense, dark forest environment, however it doesn't
@@ -19,12 +20,13 @@ Hyerbitus flower part is loved by *płytowiec* and porcupines, but humans use it
 ingredient or addition to brews and teas.
 Hyerbitus is known for its subtle healing attributes, so it's frequently considered as excellent 
 addition for healthy style. In alchemy it also serves as catalyst.  
-It is important to mention though that Hyerbitus needs to be prepared, as eaten rawly causes poisoning
-and texatile sickness.
+It is important to mention though that Hyerbitus needs to be prepared, as eaten rawly causes nausea
+and sometimes even soft poisoning.
 
 Hyerbitus has several variants, but most common one has red flower with purple-to-white gradient petals.
-Depending on place and mutation, purple can be more or less dominant, and sometimes white part is also
-changing to blue. Shared for all variants is specific shape and size, as well as subtle scent.
+Depending on place and mutation, purple can be more or less dominant, and sometimes flower or white part
+changes to blue. The last kind is perceived as the rarest and most beautiful.  
+Shared for all variants is specific shape and size, as well as subtle scent.
 
 ---
 ♜: *płytowiec* translation & link  

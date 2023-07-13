@@ -68,6 +68,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### T
 - [Temple of I'si](Topics/Religions/Small/Temple_of_I'si.md)
 - [Tom Varteford's Plantation](Topics/Geography/Baedoor/Places/Tom_Varteford_Plantation.md)
+- [Tsua](Topics/Nature/Herbarium/List/Tsua.md)
 
 ### V
 - [Vaerdena](Topics/Geography/East_Moon/Lands/Vaerdena.md)
