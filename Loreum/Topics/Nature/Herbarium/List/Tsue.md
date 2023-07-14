@@ -15,8 +15,8 @@
         </td>
     </tr>
     <tr>
-        <td> Sketch of Tsua                    </td>
-        <td> Tsua in Wastelands of Baedoor mod </td>
+        <td> Sketch of Tsue                    </td>
+        <td> Tsue in Wastelands of Baedoor mod </td>
     </tr>
 </table>
 

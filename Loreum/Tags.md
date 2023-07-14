@@ -29,7 +29,8 @@ If this section becomes too big, it can be split into linked sections in the fut
 
 * [Ash Veil](Topics/Nature/Herbarium/List/Ash_Veil.md)
 * [Hyerbitus](Topics/Nature/Herbarium/List/Hyerbitus.md)
-* [Tsua](Topics/Nature/Herbarium/List/Tsua.md)
+* [Lhue](Topics/Nature/Herbarium/List/Lhue.md)
+* [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
 * [Vulcanic Veil](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
 
 <span style="color:#8F3DA5">

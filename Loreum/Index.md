@@ -47,6 +47,10 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### J
 - [Jitado](Topics/Geography/Jitado.md) (island)
 
+### L
+- [Lhue](Topics/Nature/Herbarium/List/Lhue.md)
+- [Lotua](Topics/Nature/Herbarium/List/Lhue.md)
+
 ### M
 - [Menerun](Topics/Geography/Jitado/Cities/Menerun.md)
 
@@ -68,7 +72,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### T
 - [Temple of I'si](Topics/Religions/Small/Temple_of_I'si.md)
 - [Tom Varteford's Plantation](Topics/Geography/Baedoor/Places/Tom_Varteford_Plantation.md)
-- [Tsua](Topics/Nature/Herbarium/List/Tsua.md)
+- [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
 
 ### V
 - [Vaerdena](Topics/Geography/East_Moon/Lands/Vaerdena.md)
