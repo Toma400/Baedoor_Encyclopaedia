@@ -34,24 +34,27 @@ Middle-era north  ╔══════════════╗    Middle-era
 ```
 
 ### General trish vocabulary
-|  Word   | Translation                                   | Pronunciation | Etymology |
-|:-------:|-----------------------------------------------|---------------|:---------:|
-|   eir   | star                                          | ei:r          |     ?     |
-|  elai   | stranger, unknown                             | ela-i         |     ?     |
-|  elari  | "brother stranger", honour title for non-tris | elari         | elai + ?  |
-|  lunai  | moon                                          | luna-i        |     ?     |
-| lyrensi | plant                                         | lyren-si      |     ?     |
-|   pah   | short, small, low                             | pa-k↓h        |     ?     |
-| purpue  | purple                                        | purpu-e:      |     ?     |
-|  rosse  | light/cherry pink                             | ros-se:       |     ?     |
-|   tri   | tri, brotherhood, tribe                       | tri           |     ?     |
-|  vette  | island                                        | vet-te:       |     ?     |
-|  voie   | black                                         | woi-e:        |     ?     |
-|  voir   | The Void                                      | woi-r         |     ?     |
+|  Word  | Translation                                   | Pronunciation | Etymology |
+|:------:|-----------------------------------------------|---------------|:---------:|
+|  eir   | star                                          | ei:r          |     ?     |
+|  ensi  | shimmer, to emit almost invisible brightness  | en-si         |     ?     |
+|  elai  | stranger, unknown                             | ela-i         |     ?     |
+| elari  | "brother stranger", honour title for non-tris | elari         | elai + ?  |
+| lunai  | moon                                          | luna-i        |     ?     |
+|  lyre  | plant                                         | lyren-si      |     ?     |
+|  pah   | short, small, low                             | pa-k↓h        |     ?     |
+| purpue | purple                                        | purpu-e:      |     ?     |
+| rosse  | light/cherry pink                             | ros-se:       |     ?     |
+|  tri   | tri, brotherhood, tribe                       | tri           |     ?     |
+| vette  | island                                        | vet-te:       |     ?     |
+|  voie  | black                                         | woi-e:        |     ?     |
+|  voir  | The Void                                      | woi-r         |     ?     |
 
 ### Some grammar rules
 `-i`/`-ai`/`-āī` suffix is usually used for diminutives or essentiality  
 `-n` is usually used with adjectives as a suffix
+
+`Lyrensi Purpui` means `lyre + ensi + purpue[--i]`
 
 ---
 ♢: loreum, ♜: complete history of evolution

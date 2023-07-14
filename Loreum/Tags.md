@@ -30,6 +30,7 @@ If this section becomes too big, it can be split into linked sections in the fut
 * [Ash Veil](Topics/Nature/Herbarium/List/Ash_Veil.md)
 * [Hyerbitus](Topics/Nature/Herbarium/List/Hyerbitus.md)
 * [Lhue](Topics/Nature/Herbarium/List/Lhue.md)
+* [Lyrensi Purpui](Topics/Nature/Herbarium/List/Lyrensi_Purpui.md)
 * [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
 * [Vulcanic Veil](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
 

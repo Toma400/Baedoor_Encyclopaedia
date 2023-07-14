@@ -50,6 +50,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### L
 - [Lhue](Topics/Nature/Herbarium/List/Lhue.md)
 - [Lotua](Topics/Nature/Herbarium/List/Lhue.md)
+- [Lyrensi Purpui](Topics/Nature/Herbarium/List/Lyrensi_Purpui.md)
 
 ### M
 - [Menerun](Topics/Geography/Jitado/Cities/Menerun.md)
