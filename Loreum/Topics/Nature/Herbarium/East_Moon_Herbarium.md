@@ -12,4 +12,4 @@ Every plant existing on East Moon.
 #### 🔹 [Lyrensi Purpui](List/Lyrensi_Purpui.md)
 
 ---
-♜
+♜: Middle West Valley needs proper name + more parts/plants

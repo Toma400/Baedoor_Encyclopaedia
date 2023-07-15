@@ -16,6 +16,5 @@ It is highly poisonous for living beings. It has two variants, green one and eve
 differ mostly by their side effects. Green one is hallucinogen, while red one causes paralysis.
 
 ---
-♜: linking to Tri continents, find good name origin for *Lyrensis Purpuris*  
 ✥  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🌿](/Loreum/Topics/Nature/Herbarium.md)
