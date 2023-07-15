@@ -45,6 +45,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Isuga](Topics/Geography/Baedoor/Cities/Isuga.md)
 
 ### J
+- [Jaspen](Topics/Nature/Herbarium/List/Jaspen.md)
 - [Jitado](Topics/Geography/Jitado.md) (island)
 
 ### L
@@ -53,6 +54,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Lyrensi Purpui](Topics/Nature/Herbarium/List/Lyrensi_Purpui.md)
 
 ### M
+- [Madai](Topics/Nature/Herbarium/List/Madai.md)
 - [Menerun](Topics/Geography/Jitado/Cities/Menerun.md)
 
 ### N
@@ -80,6 +82,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Vulcanic Veil](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
 
 ### W
+- [Windy Arista](Topics/Nature/Herbarium/List/Windy_Arista.md)
 - [Winfleton Deck](Topics/Cultures/Baedoorians/List/Winfleton_Deck.md)
 - [Winfleton, Heim](Topics/Characters/List/Heim_Winfleton.md)
 

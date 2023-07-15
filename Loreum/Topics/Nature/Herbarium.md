@@ -10,5 +10,8 @@ Every plant listed, by lands.
 ### 🔹 Seiteh
 ####   🔹 [Seiteh Surface Herbarium](Herbarium/Seiteh_Surface_Herbarium.md)
 
+### 🔹 Moon Continent
+####   🔹 [East Moon Herbarium](Herbarium/East_Moon_Herbarium.md)
+
 ---
 ♜

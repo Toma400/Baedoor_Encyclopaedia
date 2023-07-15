@@ -29,10 +29,13 @@ If this section becomes too big, it can be split into linked sections in the fut
 
 * [Ash Veil](Topics/Nature/Herbarium/List/Ash_Veil.md)
 * [Hyerbitus](Topics/Nature/Herbarium/List/Hyerbitus.md)
+* [Jaspen](Topics/Nature/Herbarium/List/Jaspen.md)
 * [Lhue](Topics/Nature/Herbarium/List/Lhue.md)
 * [Lyrensi Purpui](Topics/Nature/Herbarium/List/Lyrensi_Purpui.md)
+* [Madai](Topics/Nature/Herbarium/List/Madai.md)
 * [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
 * [Vulcanic Veil](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
+* [Windy Arista](Topics/Nature/Herbarium/List/Windy_Arista.md)
 
 <span style="color:#8F3DA5">
 
