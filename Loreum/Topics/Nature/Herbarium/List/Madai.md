@@ -16,6 +16,6 @@ It has strong narcotic effect, as it can strengthen you for a while, but it come
 damage to the brain over time.
 
 ---
-♜: Middle West Valley needs proper name, *Aspis Fertuus* lore explanation, Polish name: Madajka<br>
+♜: Middle West Valley needs proper name, *Aspis Fertuus* name lore explanation, Madai tri etymology, Polish name: Madajka<br>
 ✥  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🌿](/Loreum/Topics/Nature/Herbarium.md)

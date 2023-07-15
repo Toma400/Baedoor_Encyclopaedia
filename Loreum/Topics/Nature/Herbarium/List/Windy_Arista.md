@@ -1,0 +1,18 @@
+# 🌿 Windy Arista
+
+---
+<span style="color:#90AA62">**plants**</span> [✦](/Loreum/Tags.md#-plants)  
+
+---
+**Windy Arista** (ghl. *ghoe' ata'r'a' a'oe's*, literally "Grass dancing in the wind") is a name of
+grass-like plant living on hills, mountain terrains and sometimes dunes of Seiteh island.  
+It reminds single arista of grass, having pale yellowy-cream-sandy colour, often creating distinctive
+"cast" in where aristas sprout.
+
+Windy Arista are used as meal ingredient, and in crushed form - as seasoning and weak alchemic ingredient.
+Due to specific adaptation form, it is encountered only in wild and semi-cultured form.
+
+---
+♜: Polish name: Wietrzne Źdźbła<br>
+✥  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🌿](/Loreum/Topics/Nature/Herbarium.md)
