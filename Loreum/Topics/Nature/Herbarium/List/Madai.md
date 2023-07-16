@@ -5,7 +5,7 @@
 
 ---
 
-<img alt="Madai" height="166" src="/Assets/Nature/Plants/jaspen.png" width="170"/><br>
+<img alt="Madai" height="166" src="/Assets/Nature/Plants/madai.png" width="170"/><br>
 <code>Sketch of Madai</code><br>
 
 **Madai** (from tri *Madāī*, sometimes also as *Aspis Fertuus*) is flower living in Kaer and East Moon's
