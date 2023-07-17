@@ -8,14 +8,15 @@
 <table>
     <tr>
         <th colspan="2">Baedoor</th>
-        <td><b>Source ID:</b> <a href="Sources/001__Lnd_Baedoor.md">N.1.001_lnd</a></td>
+        <td><b>Source ID:</b> <a href="Sources/001_Lnd__Baedoor.md">N.1.001_lnd</a></td>
     </tr>
     <tr>
         <th>Timeframe</th>
         <td>Various</td>
         <td rowspan="2">
-            🕌 <a href="Lore/BaeCL_Baedoor.md">Baedoor City</a><br>
-            🍂 <a href="Lore/BaeCL_Baedoor_Surroundings.md">Baedoor Surroundings</a>
+            🕌    <a href="Lore/BaeCL_Baedoor.md">Baedoor City</a><br>
+            🍂    <a href="Lore/BaeCL_Baedoor_Surroundings.md">Baedoor Surroundings</a><br>
+            ⛏️ <a href="Lore/BaeCL_Mining_Hills.md">Mining Hills</a>
         </td>
     </tr>
     <tr>

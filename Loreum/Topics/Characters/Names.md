@@ -32,6 +32,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Falcur   | Baedoor city                  | Rare name with unknown origin, possibly baedoorised nomathian name |
 | Frode    | Whole Baedoor                 | Common old name                                                    |
 | Frodo    | Baedoor city                  | Rare variation of *Frode* name                                     |
+| Hadan    | East Baedoor                  | Common name, used mostly in Old Era                                |
 | Hanyah   | East Baedoor                  | Rare name                                                          |
 | Hasting  | East Baedoor                  | Rare name, used mostly in Old Era                                  |
 | Hastings | East Baedoor                  | Variant of *Hasting* name                                          |
@@ -46,6 +47,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Ovlan    | Whole Baedoor                 | Common name, usually more frequently found on Rakonnd Coast        |
 | Reduit   | Whole Baedoor                 | Common name of early Old Era                                       |
 | Tom      | Whole Baedoor                 | Common name                                                        |
+| Vada     | East Baedoor                  | Rare name used in Old Era                                          |
 | Vrode    | West Baedoor                  | Rare name used in New Era, possibly being baedoorised *Frode*      |
 | Yraeni   | East Baedoor                  | Rare name originating from Jitado, used in early Old Era           |
 

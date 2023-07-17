@@ -18,6 +18,10 @@
 - make new layer, put colour on corners to mimic paper
 - add Gauss distortion (19' is checked value)
 - try playing with layer transparency to match
+- with harder materials:
+  - select rectangle of more-less clean material
+  - use "soften selection" tool, 50' is checked value
+  - try to copy-paste it near requested space, making transition
 
 I. SEITEH NAME ETYMOLOGY
 = ehr. ct'eh - whole world          | ct' + eh

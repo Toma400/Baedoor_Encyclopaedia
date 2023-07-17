@@ -17,6 +17,7 @@
 - [ ] Literature
 - [ ] Historical events/personas
 - [ ] Historical places
+- [ ] Geography
 - [ ] Items
 - [ ] Full screenshots archive
 

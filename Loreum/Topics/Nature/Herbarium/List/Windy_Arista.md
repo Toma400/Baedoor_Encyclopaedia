@@ -6,7 +6,7 @@
 ---
 
 <img alt="Windy Arista" height="134" src="/Assets/Nature/Plants/windy_arista.png" width="259"/><br>
-<code>Sketch of Windy Arista on Dunes. Plant itself rarely grows so tall.</code><br>
+<code>Sketch of Windy Arista on dunes. Plant itself rarely grows so tall.</code><br>
 
 **Windy Arista** (ghl. *ghoe' ata'r'a' a'oe's*, literally "Grass dancing in the wind") is a name of
 grass-like plant living on hills, mountain terrains and sometimes dunes of Seiteh island.  
