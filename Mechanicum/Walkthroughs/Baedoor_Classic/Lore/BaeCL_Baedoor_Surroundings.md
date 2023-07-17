@@ -42,7 +42,7 @@
 
   <!--PHOTO 4-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 21" height="307" src="/Assets/arv_baedoor_21.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 21" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_21.jpg" width="416"/></td>
     <th align="centre">Witch House</th>
   </tr>
   <tr>
