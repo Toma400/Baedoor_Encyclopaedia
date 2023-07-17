@@ -12,6 +12,9 @@ He is also considered as foundator of **Starshifters** organisation.
 In public understanding, Xaine is understood as traveller from outside of Baedoor universe, who got
 there thanks to some form of breach, Rift or his own unknown knowledge.
 
+<img alt="Xaine script" height="212" src="/Assets/xaine_script.jpg" width="464"/><br>
+<code>Xaine script he used to write most of his notes, using French pronounciation</code>
+
 ---
-♜✥  
+♜✥: make separate page for Xaine's script  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Characters/Jitado_Characters.md)
