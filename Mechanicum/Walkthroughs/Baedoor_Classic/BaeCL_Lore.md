@@ -14,9 +14,11 @@
         <th>Timeframe</th>
         <td>Various</td>
         <td rowspan="2">
-            🕌    <a href="Lore/BaeCL_Baedoor.md">Baedoor City</a><br>
-            🍂    <a href="Lore/BaeCL_Baedoor_Surroundings.md">Baedoor Surroundings</a><br>
-            ⛏️ <a href="Lore/BaeCL_Mining_Hills.md">Mining Hills</a>
+            🕌    <a href="Lore/BaeCL_Baedoor.md">              Baedoor City         </a><br>
+            🍂    <a href="Lore/BaeCL_Baedoor_Surroundings.md"> Baedoor Surroundings </a><br>
+            ⛏️ <a href="Lore/BaeCL_Mining_Hills.md">         Mining Hills         </a><br>
+            🏞️   <a href="Lore/BaeCL_Fegar.md">                Fegar County         </a><br>
+            🌇    <a href="Lore/BaeCL_Isuga.md">                Isuga                </a>
         </td>
     </tr>
     <tr>

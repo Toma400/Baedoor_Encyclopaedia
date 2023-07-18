@@ -3,15 +3,16 @@ Here you will have all names used by Baedoor characters. It may be useful during
 or just if you would like to look at cultural differences between civilisations.
 
 ## Table of contents:
-**Names [🔱](Names.md#centernamescenter)**
-- [Baedoorian Names](Names.md#baedoorian-names)
-- [Jitadian Names](Names.md#jitadian-names)
-- [Tri Names](Names.md#tri-names)
+**Names [🔱](#centernamescenter)**
+- [Baedoorian Names](#baedoorian-names)
+- [Jitadian Names](#jitadian-names)
+- [Mesinpean Names](#mesinpean-names)
+- [Tri Names](#tri-names)
 
-**Surnames [🔱](Names.md#centersurnamescenter)**
-- [Baedoorian Surnames](Names.md#baedoorian-surnames)
-- [Jitadian Surnames](Names.md#jitadian-surnames)
-- [Tri Surnames](Names.md#tri-surnames)
+**Surnames [🔱](#centersurnamescenter)**
+- [Baedoorian Surnames](#baedoorian-surnames)
+- [Jitadian Surnames](#jitadian-surnames)
+- [Tri Surnames](#tri-surnames)
 
 <hr style="border:2px solid gray">
 
@@ -25,11 +26,13 @@ or just if you would like to look at cultural differences between civilisations.
 |----------|-------------------------------|--------------------------------------------------------------------|
 | Arentras | East Baedoor                  | Common name in Old Era, of jitadish origin                         |
 | Cryan    | East Baedoor                  | Rare name in early Old Era                                         |
+| Cubati   | East Baedoor                  | Rare name of unknown roots                                         |
 | Dominic  | Whole Baedoor                 | Common name                                                        |
 | Entar    | Whole Baedoor                 | Common name originating from Jitado                                |
 | Entor    | Whole Baedoor                 | Baedoorised variant of *Entar*                                     |
  | Fadest   | Whole Baedoor                 | Common name                                                        |
 | Falcur   | Baedoor city                  | Rare name with unknown origin, possibly baedoorised nomathian name |
+| Fathur   | Whole Baedoor                 | Common name in Old Era, rare in New Era. Has nomathian influences  |
 | Frode    | Whole Baedoor                 | Common old name                                                    |
 | Frodo    | Baedoor city                  | Rare variation of *Frode* name                                     |
 | Hadan    | East Baedoor                  | Common name, used mostly in Old Era                                |
@@ -85,6 +88,14 @@ or just if you would like to look at cultural differences between civilisations.
 | Name  | Localisation | Description |
 |-------|--------------|-------------|
 | Lorat | Jitado       | Common name |
+
+---
+### Mesinpean Names
+<center><span style="color:#668c99"><b>Male names</b></span></center>
+
+| Name | Localisation | Description |
+|------|--------------|-------------|
+| Apis | Mes Inpea    | Rare name   |
 
 ---
 ### Tri Names
@@ -143,3 +154,6 @@ or just if you would like to look at cultural differences between civilisations.
 | Aranai  | Whole Baedoor, but mostly Arennan | Saphtri noble surname, sometimes taken as gods' patronage          |
 | Eir     | West Moon                         | Common surname, usually of western and northern parts of continent |
 | Nai     | West Moon, Rossevette             | Rare surname, sometimes bound to lower  aristocratic families      |
+
+---
+♜: Cubati name - should it be baedoorian? [Source](/Mechanicum/Walkthroughs/Baedoor_Classic/Lore/BaeCL_Fegar.md)

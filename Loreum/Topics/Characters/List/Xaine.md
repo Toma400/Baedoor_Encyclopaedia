@@ -13,7 +13,7 @@ In public understanding, Xaine is understood as traveller from outside of Baedoo
 there thanks to some form of breach, Rift or his own unknown knowledge.
 
 <img alt="Xaine script" height="212" src="/Assets/xaine_script.jpg" width="464"/><br>
-<code>Xaine script he used to write most of his notes, using French pronounciation</code>
+<code>Xaine script he used to write most of his notes. Transcription uses French pronunciation.</code>
 
 ---
 ♜✥: make separate page for Xaine's script  
