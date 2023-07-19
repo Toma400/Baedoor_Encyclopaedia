@@ -192,7 +192,7 @@
     <tr>
         <td align="center">31</td>
         <td>
-            <img alt="Baedoor Archives, Photo 31" height="280" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_30b.jpg" width="416"/>
+            <img alt="Baedoor Archives, Photo 31" height="416" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_30b.jpg" width="280"/>
         </td>
     </tr>
     <tr>

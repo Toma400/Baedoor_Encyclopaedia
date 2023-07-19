@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td>
-      This page shows potter house, alongside jitadian merchant one. One can see Battle Mages influences once again in
+      This page shows potter house, alongside mesinpean merchant one. One can see Battle Mages influences once again in
       shape of merchant's vehicle.
     </td>
   </tr>
