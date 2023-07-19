@@ -7,6 +7,7 @@ or just if you would like to look at cultural differences between civilisations.
 - [Baedoorian Names](#baedoorian-names)
 - [Jitadian Names](#jitadian-names)
 - [Mesinpean Names](#mesinpean-names)
+- [Ghloddish Names](#ghloddish-names)
 - [Tri Names](#tri-names)
 
 **Surnames [🔱](#centersurnamescenter)**
@@ -22,37 +23,44 @@ or just if you would like to look at cultural differences between civilisations.
 ### Baedoorian Names
 <center><span style="color:#668c99"><b>Male names</b></span></center>
 
-| Name     | Localisation                  | Description                                                        |
-|----------|-------------------------------|--------------------------------------------------------------------|
-| Arentras | East Baedoor                  | Common name in Old Era, of jitadish origin                         |
-| Cryan    | East Baedoor                  | Rare name in early Old Era                                         |
-| Cubati   | East Baedoor                  | Rare name of unknown roots                                         |
-| Dominic  | Whole Baedoor                 | Common name                                                        |
-| Entar    | Whole Baedoor                 | Common name originating from Jitado                                |
-| Entor    | Whole Baedoor                 | Baedoorised variant of *Entar*                                     |
- | Fadest   | Whole Baedoor                 | Common name                                                        |
-| Falcur   | Baedoor city                  | Rare name with unknown origin, possibly baedoorised nomathian name |
-| Fathur   | Whole Baedoor                 | Common name in Old Era, rare in New Era. Has nomathian influences  |
-| Frode    | Whole Baedoor                 | Common old name                                                    |
-| Frodo    | Baedoor city                  | Rare variation of *Frode* name                                     |
-| Hadan    | East Baedoor                  | Common name, used mostly in Old Era                                |
-| Hanyah   | East Baedoor                  | Rare name                                                          |
-| Hasting  | East Baedoor                  | Rare name, used mostly in Old Era                                  |
-| Hastings | East Baedoor                  | Variant of *Hasting* name                                          |
-| Heim     | Whole Baedoor                 | Common name, originated from Baedoor Northern Coast                | 
-| Heimlig  | Ansur, Baedoor Northern Coast | Probably mix of **Heim** and nordwinian suffix                     |
-| Indion   | Whole Baedoor                 | Rare name originating from Jitado                                  |
-| Marvin   | Whole Baedoor                 | Common name                                                        |
-| Mes      | East Baedoor                  | Rare name                                                          |
-| Mez      | East Baedoor                  | Very unique variant of *Mes*                                       |
-| Nelson   | Whole Baedoor                 | Common name in Old Era, becoming rare in New Era                   |
-| Norran   | Whole Baedoor                 | Quite regular baedoorian name                                      |
-| Ovlan    | Whole Baedoor                 | Common name, usually more frequently found on Rakonnd Coast        |
-| Reduit   | Whole Baedoor                 | Common name of early Old Era                                       |
-| Tom      | Whole Baedoor                 | Common name                                                        |
-| Vada     | East Baedoor                  | Rare name used in Old Era                                          |
-| Vrode    | West Baedoor                  | Rare name used in New Era, possibly being baedoorised *Frode*      |
-| Yraeni   | East Baedoor                  | Rare name originating from Jitado, used in early Old Era           |
+| Name     | Localisation                  | Description                                                                |
+|----------|-------------------------------|----------------------------------------------------------------------------|
+| Aegar    | Whole Baedoor                 | Common in East Baedoor, rarer elsewhere                                    |
+| Arentras | East Baedoor                  | Common name in Old Era, of jitadish origin                                 |
+| Clayton  | East Baedoor                  | Rare name in early Old Era, possibly derived from jitadian Sayton/Saytoin  |
+| Cryan    | East Baedoor                  | Rare name in early Old Era                                                 |
+| Cubati   | East Baedoor                  | Rare name of unknown roots                                                 |
+| Dominic  | Whole Baedoor                 | Common name                                                                |
+| Entar    | Whole Baedoor                 | Common name originating from Jitado                                        |
+| Entor    | Whole Baedoor                 | Baedoorised variant of *Entar*                                             |
+ | Fadest   | Whole Baedoor                 | Common name                                                                |
+| Falcur   | Baedoor city                  | Rare name with unknown origin, possibly baedoorised nomathian name         |
+| Fathur   | Whole Baedoor                 | Common name in Old Era, rare in New Era. Has nomathian influences          |
+| Frode    | Whole Baedoor                 | Common old name                                                            |
+| Frodo    | Baedoor city                  | Rare variation of *Frode* name                                             |
+| Fudar    | East Baedoor                  | Rare name that was common in Old Era                                       |
+| Hadan    | East Baedoor                  | Common name, used mostly in Old Era                                        |
+| Hanyah   | East Baedoor                  | Rare name                                                                  |
+| Hasting  | East Baedoor                  | Rare name, used mostly in Old Era                                          |
+| Hastings | East Baedoor                  | Variant of *Hasting* name                                                  |
+| Heim     | Whole Baedoor                 | Common name, originated from Baedoor Northern Coast                        | 
+| Heimlig  | Ansur, Baedoor Northern Coast | Probably mix of **Heim** and nordwinian suffix                             |
+| Indion   | Whole Baedoor                 | Rare name originating from Jitado                                          |
+| Invari   | East Baedoor                  | Rare name of jitadian origin                                               |
+| Isou     | East Baedoor                  | Rare name of jitadian origin, nowadays almost unseen in baedoorian culture |
+| Issu     | East Baedoor                  | Variant of *Isou*, nowadays not used                                       |
+| Marvin   | Whole Baedoor                 | Common name                                                                |
+| Mes      | East Baedoor                  | Rare name                                                                  |
+| Mez      | East Baedoor                  | Very unique variant of *Mes*                                               |
+| Nelson   | Whole Baedoor                 | Common name in Old Era, becoming rare in New Era                           |
+| Norran   | Whole Baedoor                 | Quite regular baedoorian name                                              |
+| Ovlan    | Whole Baedoor                 | Common name, usually more frequently found on Rakonnd Coast                |
+| Pathor   | Whole Baedoor                 | Common name in Old Era                                                     |
+| Reduit   | Whole Baedoor                 | Common name of early Old Era                                               |
+| Tom      | Whole Baedoor                 | Common name                                                                |
+| Vada     | East Baedoor                  | Rare name used in Old Era                                                  |
+| Vrode    | West Baedoor                  | Rare name used in New Era, possibly being baedoorised *Frode*              |
+| Yraeni   | East Baedoor                  | Rare name originating from Jitado, used in early Old Era                   |
 
 <center><span style="color:#668c99"><b>Female names</b></span></center>
 
@@ -69,19 +77,24 @@ or just if you would like to look at cultural differences between civilisations.
 ### Jitadian Names
 <center><span style="color:#668c99"><b>Male names</b></span></center>
 
-| Name     | Localisation | Description                                  |
-|----------|--------------|----------------------------------------------|
-| Arentras | Jitado       | Common name                                  |
-| Cryan    | Jitado       | Rare name used in harbour towns              |
-| Entar    | Jitado       | Common name                                  |
-| Frode    | Jitado       | Common name                                  |
-| Indion   | Jitado       | Rare name originating from jitadean language |
-| Jiro     | Jitado       | Rare name                                    |
-| Niguel   | Jitado       | Rare name of east parts of Jitado            |
-| Si       | Jitado       | Common name in Pre Era                       |
-| Sin      | Jitado       | Common name, may be evolution of *Si*        |
-| Sjiniro  | Jitado       | Obscure combination of Sin and Jiro names    |
-| Yraeni   | Jitado       | Rare name                                    |
+| Name     | Localisation | Description                                                            |
+|----------|--------------|------------------------------------------------------------------------|
+| Arentras | Jitado       | Common name                                                            |
+| Cryan    | Jitado       | Rare name used in harbour towns                                        |
+| Eixtijn  | Jitado       | Extremely rare name of foreign origin, possibly from Eimr or Mes Inpea |
+| Entar    | Jitado       | Common name                                                            |
+| Frode    | Jitado       | Common name                                                            |
+| Indion   | Jitado       | Rare name originating from jitadean language                           |
+| Invari   | Jitado       | Rare name of north and middle parts of Jitado                          |
+| Isou     | Jitado       | Common name                                                            |
+| Jiro     | Jitado       | Rare name                                                              |
+| Niguel   | Jitado       | Rare name of east parts of Jitado                                      |
+| Saytoin  | Jitado       | Rare name of south parts of Jitado, rarer variant of Sayton            |
+| Sayton   | Jitado       | Common name of south parts of Jitado                                   |
+| Si       | Jitado       | Common name in Pre Era                                                 |
+| Sin      | Jitado       | Common name, may be evolution of *Si*                                  |
+| Sjiniro  | Jitado       | Obscure combination of Sin and Jiro names                              |
+| Yraeni   | Jitado       | Rare name                                                              |
 
 <center><span style="color:#668c99"><b>Female names</b></span></center>
 
@@ -96,6 +109,15 @@ or just if you would like to look at cultural differences between civilisations.
 | Name | Localisation | Description |
 |------|--------------|-------------|
 | Apis | Mes Inpea    | Rare name   |
+
+---
+### Ghloddish Names
+<center><span style="color:#668c99"><b>Male names</b></span></center>
+
+| Name    | Localisation   | Description                                |
+|---------|----------------|--------------------------------------------|
+| T'sheit | Outside Seiteh | Rare name with hearable foreign influences |
+
 
 ---
 ### Tri Names
@@ -134,6 +156,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Naevos     | Ansur                         | Surname coming from trish Nai and arennian-baedoorian Vos families                                  |
 | Naraho     | Baedoor city and surroundings | Old name of Baedoor city surroundings, considered of nomathian influence                            | 
 | Neerhe     | Isuga and surroundings        | Old Isuga-related house, without aristocratic roots                                                 |
+| Tio        | Mostly Isuga and surroundings | Old Isuga-related family, but also jitadian surname                                                 |
 | Varteford  | Baedoor city                  | Aristocratical surname                                                                              |
 | Velga, le  | East Baedoor                  | Aristocratic surname, of Isuga heritage                                                             |
 | Vos        | Arennan, West Baedoor         | Rare surname connected with Arennan naming                                                          |
@@ -146,6 +169,7 @@ or just if you would like to look at cultural differences between civilisations.
 |-----------|-------------------|---------------------------------|
 | Avani     | South-East Jitado | Trader house surname            |
 | Itahmutsi | Jitado            | Very rare surname, from Adelaie |
+| Tio       | Jitado            | Old jitadian surname            |
 
 ---
 ### Tri Surnames
