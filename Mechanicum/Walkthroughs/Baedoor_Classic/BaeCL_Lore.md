@@ -2,7 +2,10 @@
 
 ### Alphabetically:
 - [Baedoor](Lore/BaeCL_Baedoor.md) [🔱](/Loreum/Topics/Geography/Baedoor/Cities/Baedoor.md)
+- [Baedoor Surroundings](Lore/BaeCL_Baedoor_Surroundings.md)
+- [Fegar County](Lore/BaeCL_Fegar.md)
 - [Isuga](Lore/BaeCL_Isuga.md) [🔱](/Loreum/Topics/Geography/Baedoor/Cities/Isuga.md)
+- [Mining Hills](Lore/BaeCL_Mining_Hills.md)
 
 ### Per source:
 <table>

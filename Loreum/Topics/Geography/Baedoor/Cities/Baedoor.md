@@ -61,7 +61,7 @@ around.
 <table>
     <tr>
         <td width="400"><img alt="Baedoor, High District" height="390" src="/Assets/high_district.jpg" width="295"/></td>
-        <td width="340"><img alt="Baedoor, High District Map" height="422" src="/Assets/Maps/baedoor_city_aristocr_district_early_se.jpg" width="499"/></td>
+        <td width="500"><img alt="Baedoor, High District Map" height="422" src="/Assets/Maps/baedoor_city_aristocr_district_early_se.jpg" width="499"/></td>
     </tr>
     <tr>
         <td>House in High District, early OE</td>
