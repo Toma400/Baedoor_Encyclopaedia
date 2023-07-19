@@ -15,7 +15,7 @@ remarkable, setting them as masters of many crafts related to technology.
         regular citizens. They were equipped with various equipment that allowed them to become one of
         the most powerful technological advantages over other nations.
     </div>
-    <div align="right">
+    <div align="right" float="right">
         <img alt="Ghloddish Airships" src="/Assets/ghloddish_airships.jpg" width="416" height="312"></img><br>
         <code>Sketch of ghloddish airships</code>
     </div>
