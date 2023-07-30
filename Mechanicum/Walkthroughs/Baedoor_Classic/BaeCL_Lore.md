@@ -3,8 +3,11 @@
 ### Alphabetically:
 - [Baedoor](Lore/BaeCL_Baedoor.md) [🔱](/Loreum/Topics/Geography/Baedoor/Cities/Baedoor.md)
 - [Baedoor Surroundings](Lore/BaeCL_Baedoor_Surroundings.md)
+- [Coonhě Forest](Lore/BaeCL_Coonhě_Forest.md)
+- [Dvicket](Lore/BaeCL_Dvickhet.md)
 - [Fegar County](Lore/BaeCL_Fegar.md)
 - [Isuga](Lore/BaeCL_Isuga.md) [🔱](/Loreum/Topics/Geography/Baedoor/Cities/Isuga.md)
+- [Kel Desert](Lore/BaeCL_Kel_Desert.md) [🔱](/Loreum/Topics/Geography/Baedoor/Lands/Kel_Desert.md)
 - [Mining Hills](Lore/BaeCL_Mining_Hills.md)
 
 ### Per source:
@@ -19,9 +22,12 @@
         <td rowspan="2">
             🕌    <a href="Lore/BaeCL_Baedoor.md">              Baedoor City         </a><br>
             🍂    <a href="Lore/BaeCL_Baedoor_Surroundings.md"> Baedoor Surroundings </a><br>
-            ⛏️    <a href="Lore/BaeCL_Mining_Hills.md">         Mining Hills         </a><br>
-            🏞️    <a href="Lore/BaeCL_Fegar.md">                Fegar County         </a><br>
-            🌇    <a href="Lore/BaeCL_Isuga.md">                Isuga                </a>
+            ⛏️ <a href="Lore/BaeCL_Mining_Hills.md">         Mining Hills         </a><br>
+            🏞️   <a href="Lore/BaeCL_Fegar.md">                Fegar County         </a><br>
+            🌇    <a href="Lore/BaeCL_Isuga.md">                Isuga                </a><br>
+            🏜️   <a href="Lore/BaeCL_Kel_Desert.md">           Kel Desert           </a><br>
+            🏛️   <a href="Lore/BaeCL_Dvicket.md">              Dvickhet             </a><br>
+            🌲    <a href="Lore/BaeCL_Coonhě_Forest.md">        Coonhě Forest        </a>
         </td>
     </tr>
     <tr>

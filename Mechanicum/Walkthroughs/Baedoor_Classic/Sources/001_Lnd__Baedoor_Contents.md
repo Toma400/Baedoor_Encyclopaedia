@@ -243,6 +243,30 @@
             <img alt="Baedoor Archives, Photo 39" height="280" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_37.jpg" width="416"/>
         </td>
     </tr>
+    <tr>
+        <td align="center">40</td>
+        <td>
+            <img alt="Baedoor Archives, Photo 40" height="416" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_38b.jpg" width="280"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">41</td>
+        <td>
+            <img alt="Baedoor Archives, Photo 41" height="280" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_38.jpg" width="416"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">42</td>
+        <td>
+            <img alt="Baedoor Archives, Photo 42" height="280" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_39.jpg" width="416"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">43</td>
+        <td>
+            <img alt="Baedoor Archives, Photo 43" height="280" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_40.jpg" width="416"/>
+        </td>
+    </tr>
 </table>
 
 ---

@@ -30,6 +30,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Clayton  | East Baedoor                  | Rare name in early Old Era, possibly derived from jitadian Sayton/Saytoin  |
 | Cryan    | East Baedoor                  | Rare name in early Old Era                                                 |
 | Cubati   | East Baedoor                  | Rare name of unknown roots                                                 |
+| Devako   | East Baedoor                  | Rare name in early Old Era, with foreign origin (possibly mesinpean Devah) |
 | Dominic  | Whole Baedoor                 | Common name                                                                |
 | Entar    | Whole Baedoor                 | Common name originating from Jitado                                        |
 | Entor    | Whole Baedoor                 | Baedoorised variant of *Entar*                                             |
@@ -54,6 +55,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Mez      | East Baedoor                  | Very unique variant of *Mes*                                               |
 | Nelson   | Whole Baedoor                 | Common name in Old Era, becoming rare in New Era                           |
 | Norran   | Whole Baedoor                 | Quite regular baedoorian name                                              |
+| Nyver    | Whole Baedoor                 | Rare name of jitadian origin, with Nyvera as female counterpart            |
 | Ovlan    | Whole Baedoor                 | Common name, usually more frequently found on Rakonnd Coast                |
 | Pathor   | Whole Baedoor                 | Common name in Old Era                                                     |
 | Reduit   | Whole Baedoor                 | Common name of early Old Era                                               |
@@ -70,6 +72,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Florat   | East Baedoor  | Nomathian-influenced form of *Lorat*                                                          |
 | Hanyah   | East Baedoor  | Rare name                                                                                     |
 | Lorat    | Whole Baedoor | Commonly used in Old Era, in New Era mostly seen in aristocratic families. Of jitadian origin |
+| Nyvera   | Whole Baedoor | Rare name of jitaditan origin, with Nyver as male counterpart                                 |
 | Veronica | Whole Baedoor | Commonly used, especially among lower aristocratic families                                   |
 | Wenyah   | East Baedoor  | Rare name used in Old Era, nomathian-influenced variant of *Hanyah*                           |
 
@@ -77,38 +80,50 @@ or just if you would like to look at cultural differences between civilisations.
 ### Jitadian Names
 <center><span style="color:#668c99"><b>Male names</b></span></center>
 
-| Name     | Localisation | Description                                                            |
-|----------|--------------|------------------------------------------------------------------------|
-| Arentras | Jitado       | Common name                                                            |
-| Cryan    | Jitado       | Rare name used in harbour towns                                        |
-| Eixtijn  | Jitado       | Extremely rare name of foreign origin, possibly from Eimr or Mes Inpea |
-| Entar    | Jitado       | Common name                                                            |
-| Frode    | Jitado       | Common name                                                            |
-| Indion   | Jitado       | Rare name originating from jitadean language                           |
-| Invari   | Jitado       | Rare name of north and middle parts of Jitado                          |
-| Isou     | Jitado       | Common name                                                            |
-| Jiro     | Jitado       | Rare name                                                              |
-| Niguel   | Jitado       | Rare name of east parts of Jitado                                      |
-| Saytoin  | Jitado       | Rare name of south parts of Jitado, rarer variant of Sayton            |
-| Sayton   | Jitado       | Common name of south parts of Jitado                                   |
-| Si       | Jitado       | Common name in Pre Era                                                 |
-| Sin      | Jitado       | Common name, may be evolution of *Si*                                  |
-| Sjiniro  | Jitado       | Obscure combination of Sin and Jiro names                              |
-| Yraeni   | Jitado       | Rare name                                                              |
+| Name      | Localisation | Description                                                            |
+|-----------|--------------|------------------------------------------------------------------------|
+| Arentras  | Jitado       | Common name                                                            |
+| Cryan     | Jitado       | Rare name used in harbour towns                                        |
+| Eixtijn   | Jitado       | Extremely rare name of foreign origin, possibly from Eimr or Mes Inpea |
+| Entar     | Jitado       | Common name                                                            |
+| Frode     | Jitado       | Common name                                                            |
+| Indion    | Jitado       | Rare name originating from jitadean language                           |
+| Invari    | Jitado       | Rare name of north and middle parts of Jitado                          |
+| Isou      | Jitado       | Common name                                                            |
+| Ixrilidas | Jitado       | Rare name with a bit of foreign feel                                   |
+| Jiro      | Jitado       | Rare name                                                              |
+| Niguel    | Jitado       | Rare name of east parts of Jitado                                      |
+| Nyver     | Jitado       | Rare name, male counterpart of Nyvera                                  |
+| Saytoin   | Jitado       | Rare name of south parts of Jitado, rarer variant of Sayton            |
+| Sayton    | Jitado       | Common name of south parts of Jitado                                   |
+| Si        | Jitado       | Common name in Pre Era                                                 |
+| Sin       | Jitado       | Common name, may be evolution of *Si*                                  |
+| Sjiniro   | Jitado       | Obscure combination of Sin and Jiro names                              |
+| Yraeni    | Jitado       | Rare name                                                              |
 
 <center><span style="color:#668c99"><b>Female names</b></span></center>
 
-| Name  | Localisation | Description |
-|-------|--------------|-------------|
-| Lorat | Jitado       | Common name |
+| Name   | Localisation | Description                            |
+|--------|--------------|----------------------------------------|
+| Lorat  | Jitado       | Common name                            |
+| Nyvera | Jitado       | Rare name, female counterpart of Nyver |
 
 ---
 ### Mesinpean Names
 <center><span style="color:#668c99"><b>Male names</b></span></center>
 
-| Name | Localisation | Description |
-|------|--------------|-------------|
-| Apis | Mes Inpea    | Rare name   |
+| Name   | Localisation      | Description                                                             |
+|--------|-------------------|-------------------------------------------------------------------------|
+| Apis   | Mes Inpea         | Rare name                                                               |
+| Devah  | Mes Inpea         | Common name (has also female form)                                      |
+| Iner   | Mes Inpea         | Common name                                                             |
+| Ineald | Outside Mes Inpea | Rare name with jitadean/baedoorian influences, possibly Iner derivation |
+
+<center><span style="color:#668c99"><b>Male names</b></span></center>
+
+| Name  | Localisation | Description                      |
+|-------|--------------|----------------------------------|
+| Devah | Mes Inpea    | Common name (has also male form) |
 
 ---
 ### Ghloddish Names

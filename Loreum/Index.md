@@ -48,6 +48,9 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Jaspen](Topics/Nature/Herbarium/List/Jaspen.md)
 - [Jitado](Topics/Geography/Jitado.md) (island)
 
+### K
+- [Kel Desert](Topics/Geography/Baedoor/Lands/Kel_Desert.md)
+
 ### L
 - [Lhue](Topics/Nature/Herbarium/List/Lhue.md)
 - [Lotua](Topics/Nature/Herbarium/List/Lhue.md)
