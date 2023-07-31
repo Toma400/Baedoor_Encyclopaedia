@@ -165,6 +165,7 @@ or just if you would like to look at cultural differences between civilisations.
 ### Baedoorian Surnames
 | Surname    | Localisation                  | Description                                                                                         |
 |------------|-------------------------------|-----------------------------------------------------------------------------------------------------|
+| Alearis    | Whole Baedoor                 | Common surname in south part of Baedoor's isle                                                      |
 | Gorth      | Whole Baedoor                 | Common surname                                                                                      |
 | Inradena   | East Baedoor                  | Common surname in south-west of Baedoor's isle                                                      |
 | Inraerdena | West Baedoor                  | West Baedoor noble family of Inradena, who changed their surname to accent their proletarian origin |
