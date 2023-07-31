@@ -9,7 +9,7 @@ remarkable, setting them as masters of many crafts related to technology.
         </th>
     </tr>
     <tr>
-        <td style="width:50%">
+        <td style="width:30%">
             One of the most remarkable elements of ghloddish technology are their ships that were 
             invented during their oldest period when they lived yet in underground of Seiteh.<br>
             Their flying ships use levitational engines that allow them to freely roam on low/middle 
@@ -19,8 +19,8 @@ remarkable, setting them as masters of many crafts related to technology.
             and regular citizens. They were equipped with various equipment that allowed them to 
             become one of the most powerful technological advantages over other nations.
         </td>
-        <td align="center" style="width:50%">
-            <img alt="Ghloddish Airships" src="/Assets/ghloddish_airships_goth_ross.jpg" width="416" height="312">
+        <td align="center">
+            <img alt="Ghloddish Airships" src="/Assets/ghloddish_airships_goth_ross.png" width="416" height="312">
             <br><code>Concept art made by <a href="https://discord.gg/GmjUWabgYV">Goth Ross</a></code><br>
             <img alt="Ghloddish Airships" src="/Assets/ghloddish_airships.jpg" width="416" height="312">
             <br><code>Sketch of ghloddish airships</code>
