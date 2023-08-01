@@ -1,17 +1,17 @@
 # 🎭 Encyclopaedia Langue
 
 ---
-Welcome in Encyclopaedia Langue in which stored is everything about Baedoor universe languages, including
-dictionaries and walkthrough through languages logic.
+Üdvözöllek az Encyclopaedia Langue-ben, ahol minden információt megtalálhatsz a Baedoor univerzum különböző nyelveivel kapcsolatban, beleértve
+szótárakat és a betekintő nyelvek logikai felépítésébe.
 
-- [Language Families](Langue.md#centerfamiliescenter)
-- Regular Languages
-- Old Languages
-- [Ancient Languages](Langue.md#centerancient-languagescenter)
-- Ritual Languages
+- [Nyelvcsaládok](Langue.md#centerfamiliescenter)
+- Átlagos Nyelvek
+- Régi Nyelvek
+- [Ősi Nyelvek](Langue.md#centerancient-languagescenter)
+- Rituális Nyelvek
 
 ---
-## <center>Families</center>
+## <center>Családok</center>
 
 ### [⛩️ Baedoorish](Families/Baedoorish.md)
 ### [⛩️ Ghloddish](Families/Ghloddish.md)
@@ -19,16 +19,16 @@ dictionaries and walkthrough through languages logic.
 ### [⛩️ Trish](Families/Trish.md)
 
 ---
-## <center>Regular languages</center>
+## <center>Átlagos Nyelvek</center>
 
 ---
-## <center>Old languages</center>
+## <center>Régi nyelvek</center>
 
 ---
-## <center>Ancient languages</center>
+## <center>Ősi Nyelvek</center>
 
 ### [🪔 Ehric](List/Ehric.md)
 ### [🪔 Nomathian](List/Nomathian.md)
 
 ---
-## <center>Ritual languages</center>
+## <center>Rituális Nyelvek</center>
