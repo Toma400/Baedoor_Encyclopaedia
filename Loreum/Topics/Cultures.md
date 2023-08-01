@@ -24,7 +24,7 @@ LEGEND:
 - Baedoorians 🔹 [🏯](Cultures/Baedoorians/Architecture.md)
 
 ### Seiteh
-- Ghlodds 🔹 [🏯](Cultures/Ghlodds/Architecture.md)
+- Ghlodds 🔹 [🏯](Cultures/Ghlodds/Architecture.md) [⚗️](Cultures/Ghlodds/Technologies.md)
 
 ---
 ♜

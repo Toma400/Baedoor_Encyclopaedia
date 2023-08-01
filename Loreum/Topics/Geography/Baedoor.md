@@ -68,6 +68,7 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Vershaton Vulcano
 - Coonhe Forest
 - Oarien Pass
+- [Kel Desert](Baedoor/Lands/Kel_Desert.md)
 
 ### PLACES
 - [Tom Varteford's Plantation](Baedoor/Places/Tom_Varteford_Plantation.md)

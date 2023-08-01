@@ -1,6 +1,25 @@
+<!-- MD to PDF steps:
+1. To HTML: https://markdowntohtml.com/
+2. Uncomment CSS Code here
+3. Remove link to Baedoor
+4. To PDF:  https://www.sejda.com/pl/html-to-pdf
+-->
 <!-- CSS Code:
 <style>
-table, th, td {border: 1px solid; padding: 0 5px;}
+th, td { border: 1px solid;
+         padding: 0 5px;    }
+body          { color:                 #A197B9;
+                background-color:      #000000;
+                background-image:      url('https://cdn.discordapp.com/attachments/1090673355193061457/1125391989408538715/Morrowind_2022-08-24_16.23.01.417.png');
+                background-repeat:     no-repeat;
+                background-attachment: fixed;
+                background-size:       cover; }
+a:link        { color: #7BACEC;
+                background-color: transparent;
+                text-decoration: none; }
+a:visited     { color: #547FB6;
+                background-color: transparent;
+                text-decoration: none; }
 </style> 
 -->
 
@@ -58,41 +77,35 @@ find worth cataloguing:
 I started my modding journey from small Battle for Wesnoth mod made in around 2012. Since it uses original
 images from World of Tanks, I upload it privately, as I can't do it officially due to copyrights.
 
-Wrench means status of support - if the mod is still maintained. Lang+ means open form of language support.
+Wrench means status of support - if the mod is still maintained. ➕ means open form of language support.
 
-| 🔧  | Name                     | Original game      | Description                                                                                                 | Download                                                                                      |    Lang     |
-|-----|--------------------------|--------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|:-----------:|
-| 🔴  | WW2                      | Battle for Wesnoth | Mod adding tanks taken from World of Tanks franchise to BfW game.                                           | [Drive](https://drive.google.com/drive/folders/1m3oUjRsJYbZFAKsvOHOwTwrik9WIvMrJ?usp=sharing) |    🇵🇱     |
-| 🟢  | Wastelands of Baedoor    | Minecraft          | Steampunk-aimed mod adding airships and firearms.                                                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor)              | 🇬🇧 <br> + |
-| 🟢  | Civilisations of Baedoor | Minecraft          | Mod focused on building an empire and beautiful dimensions - as well as showcasing Baedoor universe itself. | [Discord](https://discord.gg/GbTw9KqnrE)                                                      | 🇬🇧 <br> + |
+| 🔧  | Name                     | Original game      | Description                                                                                                 | Download                                                                                      |                                                     Lang                                                      |
+|-----|--------------------------|--------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------:|
+| 🟠  | WW2                      | Battle for Wesnoth | Mod adding tanks taken from World of Tanks franchise to BfW game.                                           | [Drive](https://drive.google.com/drive/folders/1m3oUjRsJYbZFAKsvOHOwTwrik9WIvMrJ?usp=sharing) |                                                     🇵🇱                                                      |
+| 🟢  | Wastelands of Baedoor    | Minecraft          | Steampunk-aimed mod adding airships and firearms.                                                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor)              |                                                  🇬🇧 <br> ➕                                                  |
+| 🟢  | Civilisations of Baedoor | Minecraft          | Mod focused on building an empire and beautiful dimensions - as well as showcasing Baedoor universe itself. | [Discord](https://discord.gg/GbTw9KqnrE)                                                      | <b> 🇬🇧 </b><br> 🇪🇸 🇫🇷 <br> 🇮🇹 🇳🇱 <br> 🇵🇱 🇭🇺 <br> 🇺🇦 🇷🇺 <br> 🇨🇳 🇸🇦 <br> 🇨🇿 🇲🇾 <br> ➕ |
 
 ---
 
 ### 🏯 GAMES
-Wrench means status of support - if the game is still maintained. Lang+ means open form of language support.
+Wrench means status of support - if the game is still maintained. ➕ means open form of language support.  
+For games I've made for learning purposes, head to [🔨️ section below](Author.md#-learning-projects).
 
 **🎎 True Games**
 
-| 🔧  | Date       | Name              | Description                                                                                          | Download                                               |    Lang     |
-|-----|------------|-------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------|:-----------:|
-| 🟢  | 2021-09-27 | The Isle of Ansur | Remake of Between Shadows and Light, this time made with more experience and better modding support. | [GitHub](https://github.com/Toma400/The_Isle_of_Ansur) | 🇬🇧 <br> + |
-
-**🔨 Learning projects**
-
-| 🔧  | Date       | Name                      | Description                                                                              | Download                                                                                                                                                                      | Lang |
-|-----|------------|---------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----:|
-| 🔴  | 2018-03-12 | WarCards                  | Simple cardgame made in Python.                                                          | [Replit](https://replit.com/@Toma400/WarCards#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                         | 🇵🇱 |
-| 🔴  | 2018-03-20 | Temple Settlers           | Simple strategy made in Python, with resources gathering and building an empire.         | [Replit](https://replit.com/@Toma400/Temple-Settlers?v=1)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                      | 🇵🇱 |
-| 🔴  | 2018-07-29 | Between Shadows and Light | Full-blown text RPG made in Python, yet buggy and with extremely small location to play. | [Replit](https://replit.com/@Toma400/Between-Shadows-and-Light-rework#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing) | 🇵🇱 |
+| 🔧  | Date       | Name              | Description                                                                                          | Download                                               |             Lang             |
+|-----|------------|-------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------|:----------------------------:|
+| 🟣  | 2021-09-27 | The Isle of Ansur | Remake of Between Shadows and Light, this time made with more experience and better modding support. | [GitHub](https://github.com/Toma400/The_Isle_of_Ansur) | <b>🇬🇧</b> <br> 🇵🇱 <br> ➕ |
 
 ---
 
 ### ⚗️ SOFTWARE
-Wrench means status of support - if the program is still maintained. Lang+ means open form of language support.
+Wrench means status of support - if the program is still maintained. 🈷️ means open form of language support.  
+For software I've made for learning purposes, head to [🔨️ section below](Author.md#-learning-projects).
 
-| 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                 |    Lang     |
-|-----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|:-----------:|
-| 🟢  | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE) | 🇬🇧 <br> + |
+| 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                 |                            Lang                             |
+|-----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|:-----------------------------------------------------------:|
+| 🟣  | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE) | <b> 🇬🇧 </b><br> 🇪🇸 🇵🇱 <br> 🇭🇺 🇸🇦 <br> 🇨🇿 <br> ➕ |
 
 ---
 ### 📖 STORIES  
@@ -266,6 +279,7 @@ Poems with 💠 symbol have some Baedoor references.
 | 90  | 2022-06-17       | Kwiaty Czarnej Doliny                                 | [🇵🇱](https://drive.google.com/file/d/1KrBvyz1EEbc_bzA8-DN7ZMVCDYGlSb98/view?usp=sharing)                                                                                                                                                                                         |
 | 91  | 2022-07-28       | W Bibliotekach Miłości                                | [🇵🇱](https://drive.google.com/file/d/1ADBd0xXLom8nqQT88ucS2CbYgaHF3aUn/view?usp=sharing), [🇬🇧](https://drive.google.com/file/d/1SsVA0L9bEMt_LKX79x1y20NSy_kz7OBZ/view?usp=sharing)                                                                                             |
 | 92  | 2022-11-12       | (...)                                                 | [🇵🇱](https://drive.google.com/file/d/1gqOY_sEzdILnY_Vm6QMM8hJmhf4MqSio/view?usp=sharing)                                                                                                                                                                                         |
+| 93  | 2023-01-29       | Dla Moich Zgubionych Tułaczy                          | [🇵🇱](https://drive.google.com/file/d/1lh-LB47ZIXxAzvaF2zjGYu6kZxqrjN7K/view?usp=sharing)                                                                                                                                                                                         |
 
 ---
 ### 🧮️ COLLECTIONS  
@@ -286,9 +300,9 @@ Addons are mods which depend on other mods, because they usually create just som
 related to the parent mod.
 </span>
 
-| Published  | Name     | Description                                                                                                                   | URL                                                                                                     |
-|------------|----------|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| 2022-01-07 | Woodpact | Mod adding compatibility between **Wastelands of Baedoor** and **Oh The Biomes You'll Go** mods, adding WoB variants of wood. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor-oh-the-biomes-youll-go) |
+| Published  | Name     | Description                                                                                                                   | URL                                                                                                     |     Lang      |
+|------------|----------|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|:-------------:|
+| 2022-01-07 | Woodpact | Mod adding compatibility between **Wastelands of Baedoor** and **Oh The Biomes You'll Go** mods, adding WoB variants of wood. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor-oh-the-biomes-youll-go) | 🇬🇧 <br> 🈷️ |
 
 <span style="color:#668c99">**❄️ MODPACKS**  
 Modpacks are names for collection of mods which serve some specific purpose - usually gameplay-wise.
@@ -326,10 +340,20 @@ TAGS:
 --------------
 📿 MOD
 ```
+㊙️ **General Collabs & Contributions**
 
-| Time of collab     | Tag | Name    | What is the project                                                                                            |               My role               |                                  URL                                  |
-|--------------------|:---:|---------|----------------------------------------------------------------------------------------------------------------|:-----------------------------------:|:---------------------------------------------------------------------:|
-| 2021-12 🔹 2022-03 | 📿  | Desolat | Mod around desert dimension, Desolat. Eventually made a reference to it in Baedoor universe (Aji'n multiverse) | **Contributor**<br>Made small fixes | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedesolat) |
+| Time of collab     | Tag | Name    | What is the project                                                                                                      |               My role               |                                  URL                                  |
+|--------------------|:---:|---------|--------------------------------------------------------------------------------------------------------------------------|:-----------------------------------:|:---------------------------------------------------------------------:|
+| 2021-12 🔹 2022-03 | 📿  | Desolat | Minecraft mod around desert dimension, Desolat. Eventually made a reference to it in Baedoor universe (Aji'n multiverse) | **Contributor**<br>Made small fixes | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedesolat) |
+
+🔣 **Translating Contributions**  
+This list stores all bigger translations I've made. Aside of them, I also were translating some lyrics
+to Polish language [on Tekstowo website](https://www.tekstowo.pl/profil,toma400,dodane_tlumaczenia.html#lista).
+
+| Tag | Name           | What is the project                                |         My role          |                                    URL                                    |
+|:---:|----------------|----------------------------------------------------|:------------------------:|:-------------------------------------------------------------------------:|
+| 📿  | Grass Overhaul | Minecraft mod adding QoL blocks related to grass.  | **Translator**<br>Polish | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/grass-overhaul) |
+| 📿  | The Saccharine | Minecraft mod adding some beautiful biomes & mobs. | **Translator**<br>Polish |    [MCreator site](https://mcreator.net/modification/87637/saccharine)    |
 
 ---
 ### 📰 BLOG
@@ -382,11 +406,15 @@ This section will contain artworks I consider "official", as cataloguing all dra
 simply take too much time and be extremely chaotic.  
 Click on the picture for bigger resolution.
 
+<!--
+
 🧿 **Pure Drawings**
 
 | Preview                                                                                                                                                                                                    | No. | Date of creation |   Series   |                                 Name                                  | Description                                                                                                                                                                                                                             |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|------------------|:----------:|:---------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <a href="https://pbs.twimg.com/media/Fln7kbEWQAI5y8R?format=jpg&name=4096x4096"><img alt="RD1"  height="100" src="https://pbs.twimg.com/media/Fln7kbEWQAI5y8R?format=jpg&name=4096x4096" width="110"/></a> |  1  | 2023-01-04       | Redrawings |                                   -                                   | Redrawing of [NishantNeerajA1](https://twitter.com/NishantNeerajA1/status/1326532155137142784) render.                                                                                                                                  |
+
+-->
 
 🧿 **Conceptual Arts**
 
@@ -427,17 +455,21 @@ Although not public yet, once it is done enough, it will be released for public 
 information, for everyone to learn upon. Currently it is only accessible for those who voluntarily want
 to translate its entries to their own languages.
 
+Currently translated to:
+- Polish `fully`
+- Hungarian `barely`
+
 ---
 ### 🗺️ RPG SYSTEM
 As you could expect, for RPG element of my games, I've created RPG System with all statistics and
 mechanics adding to the lore experience. It's called **Baedoor RPG System**, as it solely works upon
 this universe.
 
-| Version | Public? | Destination                                | Overview                                                                                                                              |
-|:-------:|:-------:|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|  1.0+   |   🔴    | ⭐ Oldest Baedoor games                     | Loose system which rather guided the player than really made any boundaries for gameplay                                              |
-|   2.0   |    ⭕    | ⭐ Between Shadows and Light                | Poor reimplementation of 1.0 system into PC RPG environment                                                                           |
-|   3.0   |   🟢    | ⭐ The Isle of Ansur <br> ⭐ Tabletop gaming | First proper reimplementation of the system trying to be stable enough for tabletop play and also expand upon crucial features of BRS |
+| Version | Public? | Destination                                | Overview                                                                                                                              | Docs             |
+|:-------:|:-------:|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|------------------|
+|  1.0+   |   🔴    | ⭐ Oldest Baedoor games                     | Loose system which rather guided the player than really made any boundaries for gameplay                                              | *Not available*  |
+|   2.0   |    ⭕    | ⭐ Between Shadows and Light                | Poor reimplementation of 1.0 system into PC RPG environment                                                                           | *Not available*  |
+|   3.0   |   🟢    | ⭐ The Isle of Ansur <br> ⭐ Tabletop gaming | First proper reimplementation of the system trying to be stable enough for tabletop play and also expand upon crucial features of BRS | *In development* |
 
 ---
 ### 🦾 BOTS
@@ -445,6 +477,55 @@ I also made Discord bot called **Airship Guard**, which purpose was to be guide 
 Baedoor lore/projects of mine.  
 As the time goes further, I also started adding general purpose features and now I'm trying to develop
 it in a way that it can be used on other servers.
+
+[List of features & commands](https://lyofs-code-constellation.fandom.com/wiki/Airship_Guard) ✤ [Home server](https://discord.gg/GbTw9KqnrE)
+
+---
+### 🎨 THEMES
+Aside of creating themes for my own software, I also created some themes for other programs:  
+✼ [**Subnautical theme for Repl.it**](https://replit.com/theme/@Toma400/subnautical)
+
+---
+### ⚡️ PLUGINS
+I love some softwares, so there should be no surprise I not only make some mods, but also plugins,
+supporting open-sourceness of those programs that support it.  
+For **theme plugins**, please look at section above.
+
+|                                       Software                                        | Name            | Purpose                                 |                                             Link                                              |
+|:-------------------------------------------------------------------------------------:|-----------------|-----------------------------------------|:---------------------------------------------------------------------------------------------:|
+| [⚛️ Atom](https://github.com/atom/atom) <br> [❇️️ Pulsar](https://pulsar-edit.dev/ )️ | Language Ivory  | Syntax highlighting for Ivory language  | [Atom + Pulsar](https://github.com/Toma400/IDE-plugins/blob/a_dream/Atom/language-ivory.zip)  | 
+| [⚛️ Atom](https://github.com/atom/atom) <br> [❇️️ Pulsar](https://pulsar-edit.dev/ )  | Language Tribal | Syntax highlighting for Tribal language | [Atom + Pulsar](https://github.com/Toma400/IDE-plugins/blob/a_dream/Atom/language-tribal.zip) |
+
+---
+### ⚖️ LICENSES
+When doing my projects, I had some issues with established licenses, since I found All Rights Reserved
+as too restrictive, meanwhile GNU/MIT licenses too free. All licenses I came across also weren't as
+personal as I would like them to, so I decided to create my own ones.
+
+- [**Baedoor License**](https://github.com/Toma400/Licenses) - used for Baedoor-related projects
+- [**Baedoor Mod License**](https://github.com/Toma400/Licenses) - used for Baedoor-related mods
+
+---
+### 🔨️ LEARNING PROJECTS
+One of greatest things in life is learning, and so, to earn programming skills, I had some smaller
+projects being developed as well. Here is the list:
+
+**♾️ Games**
+
+| 🔧  | Date       | Name                      | Description                                                                              | Download                                                                                                                                                                      | Lang |
+|-----|------------|---------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----:|
+| 🔴  | 2018-03-12 | WarCards                  | Simple cardgame made in Python.                                                          | [Replit](https://replit.com/@Toma400/WarCards#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                         | 🇵🇱 |
+| 🔴  | 2018-03-20 | Temple Settlers           | Simple strategy made in Python, with resources gathering and building an empire.         | [Replit](https://replit.com/@Toma400/Temple-Settlers?v=1)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing)                      | 🇵🇱 |
+| 🔴  | 2018-07-29 | Between Shadows and Light | Full-blown text RPG made in Python, yet buggy and with extremely small location to play. | [Replit](https://replit.com/@Toma400/Between-Shadows-and-Light-rework#main.py)  [Drive](https://drive.google.com/drive/folders/1_sdGQfL1xBf0HSalsMkybAFdnFvPXs93?usp=sharing) | 🇵🇱 |
+| 🟠  | 2023-06-06 | Near Risk of Death        | Simple post-apocalyptic hunting-survival game written in Nim.                            | [GitHub](https://github.com/Toma400/NRoD)                                                                                                                                     | 🇬🇧 |
+| 🟠  | 2023-07-07 | Ilmalaiva                 | Simple arcade-like game made for [LCC Gamejam](https://discord.gg/GbTw9KqnrE).           | [GitHub](https://github.com/Toma400/Ilmalaiva)                                                                                                                                | 🇬🇧 | 
+
+**♾️ Software**
+
+| 🔧  | Date       | Name       | Description                                                                                                     | Download                                        | Lang |
+|-----|------------|------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------|:----:|
+| 🔴  | 2023-02-21 | Yamlomiser | Small terminal software used to randomise elements of .yaml file. Originated from idea of picking random names. | [GitHub](https://github.com/Toma400/Yamlomiser) | 🇬🇧 |
+
 
 ---
 ### ☠️ LOST AND FOUND

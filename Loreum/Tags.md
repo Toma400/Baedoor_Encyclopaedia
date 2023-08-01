@@ -21,14 +21,30 @@ If this section becomes too big, it can be split into linked sections in the fut
 * [Raliun](Topics/Geography/Jitado/Cities/Raliun.md)
 * [Skirran](Topics/Geography/Baedoor/Cities/Skirran.md)
 
+<span style="color:#90AA62">
+
+### 🌿 PLANTS
+
+</span>
+
+* [Ash Veil](Topics/Nature/Herbarium/List/Ash_Veil.md)
+* [Hyerbitus](Topics/Nature/Herbarium/List/Hyerbitus.md)
+* [Jaspen](Topics/Nature/Herbarium/List/Jaspen.md)
+* [Lhue](Topics/Nature/Herbarium/List/Lhue.md)
+* [Lyrensi Purpui](Topics/Nature/Herbarium/List/Lyrensi_Purpui.md)
+* [Madai](Topics/Nature/Herbarium/List/Madai.md)
+* [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
+* [Vulcanic Veil](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
+* [Windy Arista](Topics/Nature/Herbarium/List/Windy_Arista.md)
+
 <span style="color:#8F3DA5">
 
 ### 💫 UNIVERSE
 
 </span>
 
-* [Oververse](Topics/World_Mechanics/Oververse.md)
 * [Esh Enahr](Topics/Characters/List/Esh_Enahr.md)
+* [Oververse](Topics/World_Mechanics/Oververse.md)
 * [Si Avani](Topics/Characters/List/Si_Avani.md)
 * [Starshifters](Topics/Guilds/List/Starshifters.md)
 * [Xaine](Topics/Characters/List/Xaine.md)

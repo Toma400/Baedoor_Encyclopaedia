@@ -7,9 +7,18 @@
 ### 🔆 CONCEPT
 Oververse is concept that expands the idea known in our world as "multiverse".
 
+<table align="right" style="width: 250px; height: 80px; display: table; margin: 5px">
+  <td style="width: 100%; height: 100%; letter-spacing: 1px; background-color: #000">
+    <p style="text-align:center">"Oververse is unknowness"<br></p>
+    <p style="text-align:right"> - Tehom Aranai</p>
+  </td>
+</table>
+
 Starshifters, being a word for oververse explorers, believe in set of systems that create what they
 call **Oververse**. It could be explained in Minecraft, being pretty amazing reference, contaning
 dimensions, which is not really possible in case of Earth.
+
+---
 
 We can explain structure of oververse by going from smallest part to the biggest:
 1. **🌍 World** - which is just what we know as Earth, in Minecraft they know it as Overworld, 
@@ -97,7 +106,7 @@ Multiverses were discovered in such chronology as the table below showcases:
  | 637 NE            | Eis'in     |                                                          | End's Phantasm                               |
  | 638 NE            | Ne'rin     |                                                          | Minecraft universe                           |
  | 654 NE            | Ne'n       |                                                          | Breach dimensions between Ne'rin and Baedoor |
- | 654 NE            | Aji'n      |                                                          | Desolat and Deeper Undergrowth breaches      |
+ | 654 NE            | Aji'n      |                                                          | Desolat and Undergrowth breaches             |
 
 <span style="color:#0099cc">**THE RIFT OUTBREAK**</span>  
 Important event which is needed to be mentioned happened in **494 NE**, being called as <span style="color:#0099cc">**The Rift 

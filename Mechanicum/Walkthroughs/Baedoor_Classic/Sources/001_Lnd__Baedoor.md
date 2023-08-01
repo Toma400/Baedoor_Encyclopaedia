@@ -17,6 +17,7 @@
 - [ ] Literature
 - [ ] Historical events/personas
 - [ ] Historical places
+- [ ] Geography
 - [ ] Items
 - [ ] Full screenshots archive
 
@@ -63,6 +64,7 @@ Hence, sources on Baedoor from this notebook are treated in specific scope:
   drawing those lands)
 - Incoherences related to architecture are used in lore accordingly to timeframe (so if architecture
   follow 200 OE timeframe, it will be used as source for this period)
+- Kel Desert is moved onto Vershaton territory
 
 ---
 [💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [📿](/Mechanicum/Walkthroughs/Baedoor_Classic/BaeCL_Sources.md)
