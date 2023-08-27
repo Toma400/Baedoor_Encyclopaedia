@@ -32,6 +32,7 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 
 ### H
 - [Heim Winfleton](Topics/Characters/List/Heim_Winfleton.md)
+- [Hyerbitus](Topics/Nature/Herbarium/List/Hyerbitus.md)
 
 ### I
 - [I'si](Topics/Religions/Small/Temple_of_I'si.md) (Kościół I'si)
@@ -39,12 +40,19 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 - [Isuga](Topics/Geography/Baedoor/Cities/Isuga.md)
 
 ### J
+- [Jaspen](Topics/Nature/Herbarium/List/Jaspen.md)
 - [Jitado](Topics/Geography/Jitado.md) (island)
 
 ### K
 - [Kościół I'si](Topics/Religions/Small/Temple_of_I'si.md)
 
+### L
+- [Lhue](Topics/Nature/Herbarium/List/Lhue.md)
+- [Lotua](Topics/Nature/Herbarium/List/Lhue.md)
+- [Lyrensi Purpui](Topics/Nature/Herbarium/List/Lyrensi_Purpui.md)
+
 ### M
+- [Madai](Topics/Nature/Herbarium/List/Madai.md)
 - [Menerun](Topics/Geography/Jitado/Cities/Menerun.md)
 
 ### N
@@ -52,6 +60,8 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 
 ### P
 - [Plantacja Toma Varteforda](Topics/Geography/Baedoor/Places/Tom_Varteford_Plantation.md)
+- [Pustynia Kel](Topics/Geography/Baedoor/Lands/Kel_Desert.md)
+- [Pustynny Całun](Topics/Nature/Herbarium/List/Ash_Veil.md)
 
 ### R
 - [Raliun](Topics/Geography/Jitado/Cities/Raliun.md)
@@ -60,6 +70,9 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 - [Si Avani](Topics/Characters/List/Si_Avani.md)
 - [Skirran](Topics/Geography/Baedoor/Cities/Skirran.md)
 
+### T
+- [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
+
 ### U
 - [Ulica Kwiatów](Topics/Geography/Jitado/Cities/Places/Enfrvein.md)
 
@@ -67,9 +80,11 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 - [Vaerdena](Topics/Geography/East_Moon/Lands/Vaerdena.md)
 
 ### W
+- [Wietrzne Źdźbła](Topics/Nature/Herbarium/List/Windy_Arista.md)
 - [Winfleton Deck](Topics/Cultures/Baedoorians/List/Winfleton_Deck.md)
 - [Winfleton, Heim](Topics/Characters/List/Heim_Winfleton.md)
 - [Wschodni Księżyc](Topics/Geography/East_Moon.md)
+- [Wulkaniczny Całun](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
 
 ### X
 - [Xaine](Topics/Characters/List/Xaine.md)

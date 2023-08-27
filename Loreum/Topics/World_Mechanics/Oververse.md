@@ -7,10 +7,19 @@
 ### 🔆 IDEA
 Wszechwers jest konceptem, który rozwija ideę znaną w naszym świecie jako "multiwersum".
 
+<table align="right" style="width: 250px; height: 80px; display: table; margin: 5px">
+  <td style="width: 100%; height: 100%; letter-spacing: 1px; background-color: #000">
+    <p style="text-align:center">"Oververse jest nieznanym"<br></p>
+    <p style="text-align:right"> - Tehom Aranai</p>
+  </td>
+</table>
+
 Gwiazdounosiciele, będący określeniem na odkrywców wszechwersu, wierzą w systemy tworzące
 to, co nazywają oni **Wszechwersem**. Najłatwiej wyjaśnić ten koncept na przykładzie
 Minecrafta, który jest o tyle świetny, że posiada wymiary, które nie są do tej pory
 odkryte w przypadku naszego świata.
+
+---
 
 Strukturę wszechwersu możemy wyjaśnić przez opisywanie jego elementów. Od
 najmniejszych części do największych, mamy:
@@ -112,7 +121,7 @@ Multiwersa były odkrywane w takiej oto chronologii:
  | 637 NE        | Eis'in      |                                                          | End's Phantasm                                                     |
  | 638 NE        | Ne'rin      |                                                          | Uniwersum Minecrafta                                               |
  | 654 NE        | Ne'n        |                                                          | Wymiar-wyłom pomiędzy Ne'rin a Baedoor                             |
- | 654 NE        | Aji'n       |                                                          | Konstelacja wymiarów-wyłomów o nazwie Desolat i Deeper Undergrowth |
+ | 654 NE        | Aji'n       |                                                          | Konstelacja wymiarów-wyłomów o nazwie Desolat i Undergrowth        |
 
 <span style="color:#0099cc">**ROZSZCZELNIENIE**</span>  
 Ważnym wydarzeniem, które powinno być wspomniane, było <span style="color:#0099cc">

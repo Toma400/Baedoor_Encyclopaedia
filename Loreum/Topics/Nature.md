@@ -3,7 +3,7 @@ Wszystko co związane z naturą, wliczając w to florę, faunę, jak i aspekty g
 adaptację.
 
 ---
-### 🌿 Herbariusz
+### 🌿 [Herbariusz](Nature/Herbarium.md)
 ### 🐊 Bestiariusz
 ### 🧊 Minerały
 ### 🥮 Pożywienie

@@ -20,6 +20,22 @@ na szukanie elementów z indeksu przez ich tematykę.
 * [Raliun](Topics/Geography/Jitado/Cities/Raliun.md)
 * [Skirran](Topics/Geography/Baedoor/Cities/Skirran.md)
 
+<span style="color:#90AA62">
+
+### 🌿 PLANTS
+
+</span>
+
+* [Hyerbitus](Topics/Nature/Herbarium/List/Hyerbitus.md)
+* [Jaspen](Topics/Nature/Herbarium/List/Jaspen.md)
+* [Lhue](Topics/Nature/Herbarium/List/Lhue.md)
+* [Lyrensi Purpui](Topics/Nature/Herbarium/List/Lyrensi_Purpui.md)
+* [Madai](Topics/Nature/Herbarium/List/Madai.md)
+* [Pustynny Całun](Topics/Nature/Herbarium/List/Ash_Veil.md)
+* [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
+* [Wietrzne Źdźbła](Topics/Nature/Herbarium/List/Windy_Arista.md)
+* [Wulkaniczny Całun](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
+
 <span style="color:#8F3DA5">
 
 ### 💫 UNIWERSUM

@@ -69,6 +69,7 @@ Baedoor**.
 - Wulkan Vershaton
 - Las Coonhe
 - Przełęcz Oarien
+- [Pustynia Kel](Baedoor/Lands/Kel_Desert.md)
 
 ### MIEJSCA
 - [Plantacja Toma Varteforda](Baedoor/Places/Tom_Varteford_Plantation.md)

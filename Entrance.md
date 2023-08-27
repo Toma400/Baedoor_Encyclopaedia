@@ -17,13 +17,13 @@ To *Pierwsza Edycja* Encyklopedii, co oznacza, że będzie ona zapewne
 dość niekompletna.
 
 **⛩️ SEKCJE**
-
 Encyklopedia stoi na czterech filarach:
 - 🏺 [Encyclopaedia Loreum](Loreum/Loreum.md) - skupiona na wyjaśnianiu świata Baedoor
 - 🎭 [Encyclopaedia Langue](Langue/Langue.md) - opisująca języki i słowniki cywilizacji ze świata Baedoor
 - 📕 Encyclopaedia Scribae - zbierająca wszystkie książki ze świata Baedoor
 - ⚙️ [Encyclopaedia Mechanicum](Mechanicum/Mechanicum.md) - wyjaśniająca system RPG i 
      zawierająca wszystkie techniczne detale
+- 🌌 [Encyclopaedia Quaevismundus](Quaevismundus/Quaevismundus.md) - opisująca wybrane sąsiednie multiwersa
 
 Kliknij na nazwie sekcji, żeby do niej przejść.
 

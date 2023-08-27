@@ -24,7 +24,7 @@ LEGENDA:
 - Baedooriańczycy 🔹 [🏯](Cultures/Baedoorians/Architecture.md)
 
 ### Seiteh
-- Ghłoddy 🔹 [🏯](Cultures/Ghlodds/Architecture.md)
+- Ghłoddy 🔹 [🏯](Cultures/Ghlodds/Architecture.md) [⚗️](Cultures/Ghlodds/Technologies.md)
 
 ---
 ♜

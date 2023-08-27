@@ -5,6 +5,25 @@
 ║ are not ready for new info
 ╚═════════════════════════════════════════════════════════════
 
+!. TODO:
+
+- Baedoor_Encyclopaedia\Mechanicum\RPG_System\Statistics\Races.md
+  -> rewrite races to be more coherent + make their loreum pages
+- Baedoor_Encyclopaedia\Loreum\Topics\Cultures\Ghlodds\Technologies.md
+
+
+0. HOW TO FILL SOURCE FILES IF PHOTO HAS WEIRD ANGLE
+- cut the photo to most correct shape
+- find corners where notebook curves
+- take closest to curve paper colour (pipet)
+- make new layer, put colour on corners to mimic paper
+- add Gauss distortion (19' is checked value)
+- try playing with layer transparency to match
+- with harder materials:
+  - select rectangle of more-less clean material
+  - use "soften selection" tool, 50' is checked value
+  - try to copy-paste it near requested space, making transition
+
 I. SEITEH NAME ETYMOLOGY
 = ehr. ct'eh - whole world          | ct' + eh
 = ghl. sh'sta'h - origin of all     | sh' + sta'h
@@ -46,6 +65,7 @@ III. TODO
 - Baedoor.md (for city) has several not translated nor noted names
   - Vessin district
 - Herbary from BaeCL
+- Expanding "Technologies" part of Ghloddish Culture
 
 IV. ENCHANTED ITEMS
 Enchanting items is difficult, as it requires scroll-like unbounding,
