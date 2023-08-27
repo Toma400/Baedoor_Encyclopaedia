@@ -10,6 +10,29 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
 
 ## MAIN RACES
 
+### Ormaths
+
+<table>
+    <tr>
+        <td rowspan="10" width="50%">
+            Ormaths are middle-sized gray-skinned race living on Arennan deserts.
+            They live in nomadic camps made out of leather tens.<br>
+            Ormaths obey their Elders' Council, however every ormath tribe has their
+            own shaman having decisive word.
+        </td>
+        <td colspan="3"> <img src="/Assets/race_ormath.jpg"> </td>
+    </tr>
+    <tr><th colspan="3">                 Subraces  </th></tr>
+    <tr><td colspan="3" align="center">    None    </td></tr>
+    <tr><th> Attributes </th><th> Skills </th><th> Modifiers </th></tr>
+    <tr><td>  💠INT +2  </td><td> Healing ⭐   </td><td> 🌸CONN +7  </td></tr>
+    <tr><td>  🔱END +1  </td><td> Connection ⭐</td><td> 🔮MGCK +2  </td></tr>
+    <tr><td>  ❇️AGI +1  </td><td>              </td><td> 🌑VOID -20 </td></tr>
+    <tr><td>  ✴️STR -1  </td><td>              </td><td>           </td></tr>
+</table>
+
+
+
 <table>
     <tr align="center">
         <th colspan="5"><p style="font-size:25px"><b>Human</b></p>🗿 Has subraces</th>

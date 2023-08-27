@@ -21,7 +21,7 @@ remarkable, setting them as masters of many crafts related to technology.
         </td>
         <td align="center" width="520px">
             <img alt="Ghloddish Airships" src="/Assets/ghloddish_airships_goth_ross.png" width="504" height="368">
-            <br><code>Concept art made by <a href="https://discord.gg/GmjUWabgYV">Goth Ross</a></code><br>
+            <br><br><code>Concept art made by <a href="https://discord.gg/GmjUWabgYV">Goth Ross</a></code><br>
             <img alt="Ghloddish Airships" src="/Assets/ghloddish_airships.jpg" width="416" height="312">
             <br><code>Sketch of ghloddish airships</code>
         </td>

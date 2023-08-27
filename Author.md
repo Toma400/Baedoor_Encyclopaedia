@@ -486,6 +486,15 @@ Aside of creating themes for my own software, I also created some themes for oth
 ✼ [**Subnautical theme for Repl.it**](https://replit.com/theme/@Toma400/subnautical)
 
 ---
+### ⛲ LIBRARIES
+Library or framework is programming concept of code that can be used to enhance your coding by
+providing some additional code base. I actually made one:
+
+|   Name    | Language | Description                                                                              |                     Source                     |
+|:---------:|:--------:|:-----------------------------------------------------------------------------------------|:----------------------------------------------:|
+| Tribalify |   Nim    | Nim library with several sugar utilities inspired by my own programming language, Tribal | [GitHub](https://github.com/Toma400/Tribalify) | 
+
+---
 ### ⚡️ PLUGINS
 I love some softwares, so there should be no surprise I not only make some mods, but also plugins,
 supporting open-sourceness of those programs that support it.  
