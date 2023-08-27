@@ -1,16 +1,16 @@
 <img alt="Logo" height="750" src="/Assets/logo.png" width="655"/>
 
-<center><h1>Welcome in Baedoor Encyclopaedia</h1></center>
+<center><h1>Witaj w Encyklopedii Baedoor</h1></center>
 
-This is the place where you will be able to read everything on Baedoor universe, compressed into
-one enormous repository. [Enter the Encyclopaedia](Entrance.md).
+Witaj w miejscu, w którym możesz poznać całą wiedzę na temat uniwersum Baedoor, wewnątrz jednego
+ogromnego repozytorium. [Zacznij czytać](Entrance.md).
 
-#### Translations
-If you want to translate the entries, [contact me](https://linktr.ee/toma400) so I can either create
-new branch (for new languages) or allow PRs from you (for existing ones).
+#### Tłumaczenia
+Jeżeli chciał(a)byś dołączyć do grona tłumaczących Encyklopedię, [skontaktuj się ze mną](https://linktr.ee/toma400).
+Będę mógł wówczas stworzyć nową gałęź (dla nowego języka) lub umożliwić Ci PR (dla języków już istniejących).
 
-## Baedoor universe is currently used in...
+## Uniwersum Baedoor istnieje obecnie w...
 #### [Wastelands of Baedoor](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor) (mod)
 #### [Isle of Ansur](https://github.com/Toma400/The_Isle_of_Ansur) (game)
 #### [Civilisations of Baedoor](https://github.com/Toma400/Civilisations_of_Baedoor) (mod)
-#### [Several smaller creations](Baedoor.md#baedoor-works)
+#### [Różnych mniejszych projektach](Baedoor.md#Gry-związane-z-uniwersem-Baedoor)

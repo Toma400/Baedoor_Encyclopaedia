@@ -1,28 +1,31 @@
-# 🌅 Welcome in Baedoor Encyclopaedia!
+# 🌅 Witaj w Encyklopedii Baedoor!
 
-Baedoor Encyclopaedia is place made by me to keep track on Baedoor lore, in its smallest details. 
+Encyklopedia Baedoor to miejsce, które stworzyłem by zebrać wszelką wiedzę o świecie
+Baedoor, tak szczegółowo jak to tylko możliwe. 
 
-**🏵️ WHAT IS BAEDOOR?**
+**🏵️ CZYM JEST BAEDOOR?**
 
-If you are stranger to what Baedoor is, head on [here](Baedoor.md). If you want to see author's 
-creative path and all Baedoor-related creations listed, go [here](Author.md).
+Jeśli nie wiesz, czym jest Baedoor, idź [tutaj](Baedoor.md). 
+Jeśli ciekawi Cię wizja autora i chciałbyś zobaczyć wszystkie jego dzieła, idź [tutaj](Author.md).
 
-**🏔️ HISTORY**
+**🏔️ HISTORIA**
 
-Originally handled through Twine software, I decided to migrate it into .md system due to its 
-simplicity, clear syntax and possibility to include images - which was my main issue with Twine.
-This is *First Edition*, meaning it will be rather incomplete.
+Na początku tworzyłem Encyklopedię w programie Twine, jednak ze względu na prostotę,
+łatwość formatowania i możliwość zawarcia obrazów, zdecydowałem się przepisać ją do
+formatu markdown.  
+To *Pierwsza Edycja* Encyklopedii, co oznacza, że będzie ona zapewne
+dość niekompletna.
 
-**⛩️ SECTIONS**
+**⛩️ SEKCJE**
+Encyklopedia stoi na czterech filarach:
+- 🏺 [Encyclopaedia Loreum](Loreum/Loreum.md) - skupiona na wyjaśnianiu świata Baedoor
+- 🎭 [Encyclopaedia Langue](Langue/Langue.md) - opisująca języki i słowniki cywilizacji ze świata Baedoor
+- 📕 Encyclopaedia Scribae - zbierająca wszystkie książki ze świata Baedoor
+- ⚙️ [Encyclopaedia Mechanicum](Mechanicum/Mechanicum.md) - wyjaśniająca system RPG i 
+     zawierająca wszystkie techniczne detale
+- 🌌 [Encyclopaedia Quaevismundus](Quaevismundus/Quaevismundus.md) - opisująca wybrane sąsiednie multiwersa
 
-Encyclopaedia is set on four pillars:
-- 🏺 [Encyclopaedia Loreum](Loreum/Loreum.md) - focused on explaining lore of Baedoor universe
-- 🎭 [Encyclopaedia Langue](Langue/Langue.md) - focused on languages and dictionaries of Baedoor civilisations
-- 📕 Encyclopaedia Scribae - storing all books written by Baedoor civilisations
-- ⚙️ [Encyclopaedia Mechanicum](Mechanicum/Mechanicum.md) - explaining RPG systems and storing all detailed info on items, including technicals like statistics
-- 🌌 [Encyclopaedia Quaevismundus](Quaevismundus/Quaevismundus.md) - storing all information of selected foreign multiverses
-
-Click on section names to head to specific one.
+Kliknij na nazwie sekcji, żeby do niej przejść.
 
 ---
 ✥

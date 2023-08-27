@@ -1,13 +1,13 @@
 # 🌆 Adelaie
 
 ---
-<span style="color:#107C23">**cities**</span> [✦](/Loreum/Tags.md#-cities)  
+<span style="color:#107C23">**miasta**</span> [✦](/Loreum/Tags.md#-miasta)  
 
 ---
-**Adelaie** (jit. *Nightly Sky*) is small village at the edge of Altauar region. Its main ways of
-earning are - aside from exporting wood and wheat - visitors coming to **I'si altar**.
+**Adelaie** (jit. *Nocne Niebo*) jest małą wioską na skraju regionu Altauar. Jej głównym źródłem
+zarobku są - poza eksportem drewna i pszenicy - pielgrzymi zmierzający do **ołtarza I'si**.
 
-In years 1008 SE - 7 NE, Adelaie was administrated by **Sjiniro Itahmutsi**.
+W latach 1008 SE - 7 NE, Adelaie było zarządzane przez **Sjiniro Itahmutsi**.
 
 ---
 ♜✥

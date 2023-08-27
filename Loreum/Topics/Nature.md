@@ -1,11 +1,12 @@
-# 🍂 Nature
-All things related to nature, including flora, fauna, geological parts and also cultural adaptation.
+# 🍂 Natura
+Wszystko co związane z naturą, wliczając w to florę, faunę, jak i aspekty geologiczne czy kulturową
+adaptację.
 
 ---
-### 🌿 [Herbarium](Nature/Herbarium.md)
-### 🐊 Bestiary
-### 🧊 Minerals
-### 🥮 Foods
+### 🌿 [Herbariusz](Nature/Herbarium.md)
+### 🐊 Bestiariusz
+### 🧊 Minerały
+### 🥮 Pożywienie
 
 ---
 ✥

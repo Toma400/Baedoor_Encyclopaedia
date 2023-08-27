@@ -1,7 +1,7 @@
-# 🗝️ Walkthroughs
+# 🗝️ Przewodniki
 
 ---
-## Main Baedoor games
+## Główne gry
 
 ### 🛕 Baedoor
 
@@ -9,11 +9,11 @@
 
 ### 🛕 The Isle of Ansur
 
-## Small games
+## Mniejsze gry
 
 ### 🏹 [Between Shadows and Light](Walkthroughs/BSaL/BSaL.md)
 
-## Mods
+## Mody
 
 ### 🏯 Wastelands of Baedoor
 ### 🏯 Civilisations of Baedoor
@@ -22,6 +22,6 @@
 
 ### ⚒️ [Baedoor](Walkthroughs/Baedoor_Classic/BaeCL.md)
 
-## Side games
+## Gry poboczne
 
-### 🕌 Uraquya Multiverse
+### 🕌 Multiwersum Uraquya

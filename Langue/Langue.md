@@ -1,34 +1,34 @@
 # 🎭 Encyclopaedia Langue
 
 ---
-Welcome in Encyclopaedia Langue in which stored is everything about Baedoor universe languages, including
-dictionaries and walkthrough through languages logic.
+Witaj w Encyklopedii Langue, sekcji Encyklopedii zbierającej wszystkie informacje o językach
+uniwersum Baedoor, wliczając w to słowniki i przewodniki po logice tychże.
 
-- [Language Families](Langue.md#centerfamiliescenter)
-- Regular Languages
-- Old Languages
-- [Ancient Languages](Langue.md#centerancient-languagescenter)
-- Ritual Languages
-
----
-## <center>Families</center>
-
-### [⛩️ Baedoorish](Families/Baedoorish.md)
-### [⛩️ Ghloddish](Families/Ghloddish.md)
-### [⛩️ Jitadish](Families/Jitadish.md)
-### [⛩️ Trish](Families/Trish.md)
+- [Rodziny języków](Langue.md#centerrodzinycenter)
+- Języki regularne
+- Języki stare
+- [Języki starożytne](Langue.md#centerjzyki-staroytnecenter)
+- Języki rytualne
 
 ---
-## <center>Regular languages</center>
+## <center>Rodziny</center>
+
+### [⛩️ Baedoorski](Families/Baedoorish.md)
+### [⛩️ Głoddyjski](Families/Ghloddish.md)
+### [⛩️ Jitadzki](Families/Jitadish.md)
+### [⛩️ Trijski](Families/Trish.md)
 
 ---
-## <center>Old languages</center>
+## <center>Języki regularne</center>
 
 ---
-## <center>Ancient languages</center>
-
-### [🪔 Ehric](List/Ehric.md)
-### [🪔 Nomathian](List/Nomathian.md)
+## <center>Języki stare</center>
 
 ---
-## <center>Ritual languages</center>
+## <center>Języki starożytne</center>
+
+### [🪔 Ehrijski](List/Ehric.md)
+### [🪔 Nomathiański](List/Nomathian.md)
+
+---
+## <center>Języki rytualne</center>

@@ -1,14 +1,14 @@
 # 🏺 Encyclopaedia Loreum
 
 ---
-Welcome in Encyclopaedia Loreum, section of Baedoor Encyclopaedia constitued to share all lore 
-knowledge about the universe.
+Witaj w Encyklopedii Loreum, sekcji Encyklopedii Baedoor przeznaczonej do składowania
+wszystkich informacji na temat tego świata.
 
 ---
-### 🧭 [Topics](Topics/Topics.md)
-### 🎇 [Index](Index.md)
-### 🎆 [Tags](Tags.md)
-### 🪔 [Chronology search](Chronology/Chronology_Search.md)
+### 🧭 [Tematy](Topics/Topics.md)
+### 🎇 [Indeks](Index.md)
+### 🎆 [Tagi](Tags.md)
+### 🪔 [Szukanie chronologiczne](Chronology/Chronology_Search.md)
 
 ---
-### 📖 [Abbreviations](Abbrevs.md)
+### 📖 [Skróty](Abbrevs.md)

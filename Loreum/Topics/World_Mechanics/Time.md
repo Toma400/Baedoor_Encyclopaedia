@@ -1,8 +1,8 @@
-# 🎆 Time
+# 🎆 Czas
 
 ---
-### [Eras](Eras.md)
-### Calendar
+### [Ery](Eras.md)
+### Kalendarz
 
 ---
 ✥

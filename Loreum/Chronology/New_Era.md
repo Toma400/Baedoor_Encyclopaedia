@@ -1,21 +1,21 @@
-# 🪔 New Era
+# 🪔 Nowa Era
 
 ---
-<span style="color:#99ccff">**New Era**</span> is time counted from **Exodus** event and is considered
-to be current Era of Baedoor universe.
+<span style="color:#99ccff">**Nowa Era**</span> jest liczona od czasu **Exodusu** i
+jest ona obecną erą uniwersum.
 
-This era is marked with quite big appearance of multiverse anomalies, such as **The Rift Outbreak**,
-as well as with massive shift between world powers.  
-**Baedoor Empire** dissolved itself, splitting to two separated parts in 312 NE, and on the place of old
-hegemon, several countries encroached: **United Union of Tri Kingdoms**, **Mrra Federation**, **West
-Baedoor** and, coming back to its glory, **Ghloddish Empire**.  
-Despite such rush to the power, times of New Era are considered as the most peaceful by far, since
-there happened to not be many bigger wars in this era yet. 
+Charakterystyczne dla tej ery jest szereg anomalii związanych z multiwersum, takich jak
+**Rozszczelnienie**, jak i również ogromny zwrot na polu geopolityki.  
+**Imperium Baedoor** upadło, rozdzielając się na dwie części w roku 312 NE, a na miejsce
+starego hegemona wkroczył szereg krajów: **Zjednoczona Unia Tri**, **Federacja Mrry**,
+**Zachodnie Baedoor** i, powracające do swojej chwały, **Imperium Głoddyjskie**.  
+Mimo tak wielu zainteresowanych dominacją, okres Nowej Ery jest jednym z najbardziej
+spokojnych dla uniwersum, nie obfitując w zbyt wiele globalnych konfliktów.
 
 ---
-#### [New Era History](/Loreum/Topics/History/New_Era.md)
-#### New Era Factions
-#### [New Era Characters](/Loreum/Topics/Characters/New_Era_Characters.md)
+#### [Historia Nowej Ery](/Loreum/Topics/History/New_Era.md)
+#### Stronnictwa Nowej Ery
+#### [Postacie Nowej Ery](/Loreum/Topics/Characters/New_Era_Characters.md)
 
 ---
 ✥♢  
