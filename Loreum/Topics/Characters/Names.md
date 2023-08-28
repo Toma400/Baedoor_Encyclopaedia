@@ -3,7 +3,7 @@ Tutaj znajdują się wszystkie imiona używane przez postacie Baedoor. Mogą by�
 podczas tworzenia postaci czy do zauważenia różnic kulturowych pomiędzy cywilizacjami.
 
 ## Spis treści:
-**Imiona [🔱](Names.md#centerimionacenter)**
+**Imiona [🔱](#centerimionacenter)**
 - [Imiona Baedoorskie](#imiona-baedoorskie)
 - [Imiona Głoddyjskie](#imiona-goddyjskie)
 - [Imiona Jitadzkie](#imiona-jitadzkie)
@@ -25,47 +25,47 @@ podczas tworzenia postaci czy do zauważenia różnic kulturowych pomiędzy cywi
 
 | Imię     | Występowanie                     | Opis                                                                                         |
 |----------|----------------------------------|----------------------------------------------------------------------------------------------|
-| Aegar    | Whole Baedoor                 | Common in East Baedoor, rarer elsewhere                                    |
-| Algor    | Whole Baedoor                 | Common name                                                                |
-| Altiner  | Whole Baedoor                 | Semi-rare name, more popular in Old Era                                    |
+| Aegar    | Całe Baedoor                     | Częste we Wschodmin Baedoor, rzadsze w innych miejscach                                      |
+| Algor    | Całe Baedoor                     | Częste imię                                                                                  |
+| Altiner  | Całe Baedoor                     | Dość rzadkie imię, bardziej popularne w Starej Erze                                          |
 | Arentras | Wschodnie Baedoor                | Typowe imię w Starej Erze, jitadzkiego pochodzenia                                           |
-| Clayton  | East Baedoor                  | Rare name in early Old Era, possibly derived from jitadian Sayton/Saytoin  |
+| Clayton  | East Baedoor                     | Rare name in early Old Era, possibly derived from jitadian Sayton/Saytoin                    |
 | Cryan    | Wschodnie Baedoor                | Rzadkie imię z wczesnej Starej Ery                                                           |
-| Cubati   | East Baedoor                  | Rare name of unknown roots                                                 |
-| Devako   | East Baedoor                  | Rare name in early Old Era, with foreign origin (possibly mesinpean Devah) |
+| Cubati   | East Baedoor                     | Rare name of unknown roots                                                                   |
+| Devako   | East Baedoor                     | Rare name in early Old Era, with foreign origin (possibly mesinpean Devah)                   |
 | Dominic  | Całe Baedoor                     | Typowe imię                                                                                  |
 | Entar    | Całe Baedoor                     | Typowe imię wywodzące się z Jitado                                                           |
 | Entor    | Całe Baedoor                     | Baedoorski wariant *Entara*                                                                  |
-| Evilar   | Whole Baedoor                 | More popular variant of *Evilir*                                           |
-| Evilir   | Whole Baedoor                 | Rare name of probably tri influences                                       |
+| Evilar   | Whole Baedoor                    | More popular variant of *Evilir*                                                             |
+| Evilir   | Whole Baedoor                    | Rare name of probably tri influences                                                         |
 | Fadest   | Całe Baedoor                     | Typowe imię                                                                                  |
 | Falcur   | Miasto Baedoor                   | Rzadkie imię nieznanego pochodzenia, prawdopodobnie baedoorska forma nomathiańskiego imienia |
 | Frode    | Całe Baedoor                     | Typowe stare imię                                                                            |
 | Frodo    | Miasto Baedoor                   | Rzadki wariant imienia *Frode*                                                               |
-| Fudar    | East Baedoor                  | Rare name that was common in Old Era                                       |
-| Hadan    | East Baedoor                  | Common name, used mostly in Old Era                                        |
+| Fudar    | East Baedoor                     | Rare name that was common in Old Era                                                         |
+| Hadan    | East Baedoor                     | Common name, used mostly in Old Era                                                          |
 | Hanyah   | Wschodnie Baedoor                | Rzadkie imię                                                                                 |
 | Hasting  | Wschodnie Baedoor                | Rzadkie imię, używane zwykle w Starej Erze                                                   |
 | Hastings | Wschodnie Baedoor                | Wariant imienia *Hasting*                                                                    |
 | Heim     | Całe Baedoor                     | Typowe imię, powstałe na Północnym Wybrzeżu Baedoor                                          | 
 | Heimlig  | Ansur, Północne Wybrzeże Baedoor | Prawdopodobnie połączenie imienia **Heim** i nordwińskiego sufiksa                           |
 | Indion   | Całe Baedoor                     | Rzadkie imię wywodzące się z Jitado                                                          |
-| Invari   | East Baedoor                  | Rare name of jitadian origin                                               |
-| Isou     | East Baedoor                  | Rare name of jitadian origin, nowadays almost unseen in baedoorian culture |
-| Issu     | East Baedoor                  | Variant of *Isou*, nowadays not used                                       |
-| Kirs     | East Baedoor                  | Rare name of possibly nomath origin                                        |
+| Invari   | East Baedoor                     | Rare name of jitadian origin                                                                 |
+| Isou     | East Baedoor                     | Rare name of jitadian origin, nowadays almost unseen in baedoorian culture                   |
+| Issu     | East Baedoor                     | Variant of *Isou*, nowadays not used                                                         |
+| Kirs     | East Baedoor                     | Rare name of possibly nomath origin                                                          |
 | Marvin   | Całe Baedoor                     | Typowe imię                                                                                  |
 | Mes      | Wschodnie Baedoor                | Rzadkie imię                                                                                 |
 | Mez      | Wschodnie Baedoor                | Bardzo unikalny wariant imienia *Mes*                                                        |
 | Nelson   | Całe Baedoor                     | Typowe imię w Starej Erze, stające się rzadkim w Nowej Erze                                  |
 | Norran   | Całe Baedoor                     | Dość zwyczajowe baedoorskie imię                                                             |
-| Nyver    | Whole Baedoor                 | Rare name of jitadian origin, with Nyvera as female counterpart            |
+| Nyver    | Whole Baedoor                    | Rare name of jitadian origin, with Nyvera as female counterpart                              |
 | Ovlan    | Całe Baedoor                     | Typowe imię, najczęściej spotykane na wybrzeżu Rakonnd                                       |
-| Pathor   | Whole Baedoor                 | Common name in Old Era                                                     |
+| Pathor   | Whole Baedoor                    | Common name in Old Era                                                                       |
 | Reduit   | Całe Baedoor                     | Typowe imię we wczesnej Starej Erze                                                          |
-| Rvana    | Whole Baedoor                 | Extremely rare name, nowadays almost unseen, with possible nomath origin   |
+| Rvana    | Whole Baedoor                    | Extremely rare name, nowadays almost unseen, with possible nomath origin                     |
 | Tom      | Całe Baedoor                     | Typowe imię                                                                                  |
-| Vada     | East Baedoor                  | Rare name used in Old Era                                                  |
+| Vada     | East Baedoor                     | Rare name used in Old Era                                                                    |
 | Vrode    | Zachodnie Baedoor                | Rzadkie imię używane w Nowej Erze, prawdopodobnie zbaedooryzowane *Frode*                    |
 | Yraeni   | Wschodnie Baedoor                | Rzadkie imię wywodzące się z Jitado, używane we wczesnej Starej Erze                         |
 
@@ -135,29 +135,29 @@ podczas tworzenia postaci czy do zauważenia różnic kulturowych pomiędzy cywi
 | Sanae  | Jitado       | Common name, variant of *Sana*         |
 
 ---
-### Imiona Mesinpejskie ### DO PRZETŁUMACZENIA
-<center><span style="color:#668c99"><b>Male names</b></span></center>
+### Imiona Mesinpejskie
+<center><span style="color:#668c99"><b>Imiona męskie</b></span></center>
 
-| Name   | Localisation      | Description                                                             |
-|--------|-------------------|-------------------------------------------------------------------------|
-| Apis   | Mes Inpea         | Rare name                                                               |
-| Devah  | Mes Inpea         | Common name (has also female form)                                      |
-| Iner   | Mes Inpea         | Common name                                                             |
-| Ineald | Outside Mes Inpea | Rare name with jitadean/baedoorian influences, possibly Iner derivation |
+| Imię   | Występowanie   | Opis                                                                                   |
+|--------|----------------|----------------------------------------------------------------------------------------|
+| Apis   | Mes Inpea      | Rzadkie imię                                                                           |
+| Devah  | Mes Inpea      | Częste imię (posiada również żeńską odmianę)                                           |
+| Iner   | Mes Inpea      | Częste imię                                                                            |
+| Ineald | Poza Mes Inpeą | Rzadzkie imię z jitadzkim/baedoorskim wpływem, prawdopodobnie uformowane z imiona Iner |
 
-<center><span style="color:#668c99"><b>Male names</b></span></center>
+<center><span style="color:#668c99"><b>Imiona żeńskie</b></span></center>
 
-| Name  | Localisation | Description                      |
-|-------|--------------|----------------------------------|
-| Devah | Mes Inpea    | Common name (has also male form) |
+| Imię  | Występowanie | Opis                                         |
+|-------|--------------|----------------------------------------------|
+| Devah | Mes Inpea    | Popularne imię (posiada także męską odmianę) |
 
 ---
-### Imiona Głoddyjskie ### DO PRZETŁUMACZENIA
-<center><span style="color:#668c99"><b>Male names</b></span></center>
+### Imiona Głoddyjskie
+<center><span style="color:#668c99"><b>Imiona męskie</b></span></center>
 
-| Name    | Localisation   | Description                                |
-|---------|----------------|--------------------------------------------|
-| T'sheit | Outside Seiteh | Rare name with hearable foreign influences |
+| Imię    | Występowanie | Opis                                               |
+|---------|--------------|----------------------------------------------------|
+| T'sheit | Poza Seiteh  | Rzadkie imię ze słyszalnymi zagranicznymi wpływami |
 
 ---
 ### Imiona Tri
@@ -189,14 +189,14 @@ podczas tworzenia postaci czy do zauważenia różnic kulturowych pomiędzy cywi
 ### Nazwiska Baedoorskie
 | Nazwisko   | Występowanie               | Opis                                                                                                                                  |
 |------------|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| Alearis    | Whole Baedoor                 | Common surname in south part of Baedoor's isle                                                      |
+| Alearis    | Całe Baedoor               | Typowe nazwisko w południowej części wyspy Baedoor                                                                                    |
 | Gorth      | Całe Baedoor               | Typowe nazwisko                                                                                                                       |
 | Inradena   | Wschodnie Baedoor          | Typowe nazwisko w południowo-zachodniej części wyspy Baedoor                                                                          |
 | Inraerdena | Zachodnie Baedoor          | Arystokratyczna rodzina z Zachodniego Baedoor, Inradena, która zmieniła swoje nazwisko by podkreślić swoje proletariackie pochodzenie |
 | Naevos     | Ansur                      | Nazwisko pochodzące od trijskiej rodziny Nai i arennianśko-baedoorskiej rodziny Vos                                                   |
 | Naraho     | Miasto Baedoor i okolice   | Stare imię z okolic Baedoor, prawdopodobnie pochodzenia nomathijskiego                                                                | 
 | Neerhe     | Isuga i okolice            | Stary dom z Isugi, bez pochodzenia arystokratycznego                                                                                  |
-| Tio        | Mostly Isuga and surroundings | Old Isuga-related family, but also jitadian surname                                                 |
+| Tio        | Głównie Isuga i okolice    | Stara rodzina związana z Isugą, ale również jitadzkie nazwisko                                                                        |
 | Varteford  | Miasto Baedoor             | Nazwisko arystokratyczne                                                                                                              |
 | Velga, le  | Wschodnie Baedoor          | Arystokratyczne nazwisko pochodzące z Isugi                                                                                           |
 | Vos        | Arennan, Zachodnie Baedoor | Rzadkie nazwisko powiązane z nazewnictwem Arennan                                                                                     |
@@ -209,7 +209,7 @@ podczas tworzenia postaci czy do zauważenia różnic kulturowych pomiędzy cywi
 |-----------|-----------------------------|-----------------------------------|
 | Avani     | Południowo-Wschodnie Jitado | Nazwisko domu kupieckiego         |
 | Itahmutsi | Jitado                      | Bardzo rzadkie nazwisko z Adelaie |
-| Tio       | Jitado            | Old jitadian surname            |
+| Tio       | Jitado                      | Stare jitadzkie nazwisko          |
 
 ---
 ### Nazwiska Tri
