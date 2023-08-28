@@ -8,19 +8,48 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
 
 ---
 
-## MAIN RACES
+## 🗿 MAIN RACES
+
+### Human
+
+<h1 id="human" style="display:none"></h1>
+<table>
+    <tr>
+        <td rowspan="10" width="45%">
+            One of main races living in Baedoor universe. Their flexibility is their biggest strength,
+            allowing their existence on nearly every continent possible.
+        </td>
+        <th colspan="3"> No image </th>
+    </tr>
+    <tr><th colspan="3">                 Subraces  </th></tr>
+    <tr>
+        <td colspan="3" align="center">
+            <a href="#baedoorian"> Baedoorian  </a><br>
+            <a href="#jitadian">   Jitadian    </a><br>
+            <a href="">            Mrran       </a><br>
+            <a href="">            Nordwinian  </a><br>
+            <a href="">            Moonlanders </a><br>
+            <a href="">            Ms Inpeans  </a>
+        </td>
+    </tr>
+    <tr><th> Attributes </th><th> Skills </th><th> Modifiers </th></tr>
+    <tr><td>  ✴️STR +1  </td><td> Managed by subraces </td><td> None  </td></tr>
+    <tr><td>  ☯️CHA +1  </td><td>                     </td><td>       </td></tr>
+    <tr><td>  💠INT +1  </td><td>                     </td><td>       </td></tr>
+</table>
 
 ### Ormaths
 
+<h1 id="ormaths" style="display:none"></h1>
 <table>
     <tr>
-        <td rowspan="10" width="50%">
+        <td rowspan="10" width="45%">
             Ormaths are middle-sized gray-skinned race living on Arennan deserts.
             They live in nomadic camps made out of leather tens.<br>
             Ormaths obey their Elders' Council, however every ormath tribe has their
             own shaman having decisive word.
         </td>
-        <td colspan="3"> <img src="/Assets/race_ormath.jpg"> </td>
+        <th colspan="3"> <img height="100" src="/Assets/race_ormath.jpg"> </th>
     </tr>
     <tr><th colspan="3">                 Subraces  </th></tr>
     <tr><td colspan="3" align="center">    None    </td></tr>
@@ -31,56 +60,43 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
     <tr><td>  ✴️STR -1  </td><td>              </td><td>           </td></tr>
 </table>
 
+---
 
+## 🏵️ SUBRACES
 
+### Baedoorian
+
+<h1 id="baedoorian" style="display:none"></h1>
 <table>
-    <tr align="center">
-        <th colspan="5"><p style="font-size:25px"><b>Human</b></p>🗿 Has subraces</th>
-    </tr>
-    <tr align="center">
-        <th>Avatar</th><th>Attributes</th><th>Skills</th><th>Modifiers</th><th>Description</th>
-    </tr>
-    <tr align="center">
-        <td width="100"><img alt="Human" height="100" src="/Assets/race_human.png" width="100"/></td>
-        <td align="left" width="110">
-            ✴️STR +1<br>
-            ☯️CHA +1<br>
-            💠INT +1
-        </td>
-        <td width="110"> Managed by subraces </td>
-        <td width="110"> None </td>
-        <td>
-            One of main races living in Baedoor universe. Their flexibility is their biggest strength,
-            allowing their existence on nearly every continent possible.
-        </td>
-    </tr>
-    <tr align="center">
-        <th colspan="5"> 🏵️ Subraces</th>
-    </tr>
-    <tr align="center">
-       <th>Subrace</th><th>Attributes</th><th>Skills</th><th>Modifiers</th><th>Description</th>
-    </tr>
     <tr>
-        <td><img alt="Human" height="85" src="/Assets/race_human.png" width="85"/></td>
-        <td rowspan="2">
-            ☯️CHA +1<br>
-            🔱END -1
-        </td>
-        <td rowspan="2">
-            firearms (+1)<br>
-            persuasion (+1)
-        </td>
-        <td rowspan="2">
-            ⚙️TECH +3
-        </td>
-        <td rowspan="2">
+        <td rowspan="10" width="45%">
             Subrace of humans from Baedoor lands, being in fact jitadians who separated themselves
             from their initial culture.
         </td>
+        <th colspan="3"> No image </th>
     </tr>
-    <tr><td height="10">Baedoorian</td></tr>
-
+    <tr><th> Attributes </th><th> Skills         </th><th> Modifiers </th></tr>
+    <tr><td>  ☯️CHA +1  </td><td> firearms (+1)   </td><td> ⚙️TECH +3 </td></tr>
+    <tr><td>  🔱END -1  </td><td> persuasion (+1) </td><td>          </td></tr>
 </table>
+
+### Jitadian
+
+<h1 id="jitadian" style="display:none"></h1>
+<table>
+    <tr>
+        <td rowspan="10" width="45%">
+            One of the oldest human subraces to exist. Live on Jitado island and have established
+            solid cultural heritage related to seas.
+        </td>
+        <th colspan="3"> No image </th>
+    </tr>
+    <tr><th> Attributes </th><th> Skills        </th><th> Modifiers </th></tr>
+    <tr><td>  💠INT +1  </td><td> firearms (+1) </td><td> ⚙️TECH +2 </td></tr>
+    <tr><td>  ✴️STR -1  </td><td> smithing (+1) </td><td>          </td></tr>
+</table>
+
+---
 
 <table>
     <tr align="center">
@@ -194,13 +210,6 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
 ### HUMAN
 
 ---
-
-**JITADIAN**
->   💠INT +1  
->   ✴️STR -1  
-   
->   ⚙️TECH +2  
->   ⛏️:firearms (+1), smithing (+1)
 
 **MRRAN**
 >   ✴️STR +1  

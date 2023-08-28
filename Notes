@@ -10,7 +10,8 @@
 - Baedoor_Encyclopaedia\Mechanicum\RPG_System\Statistics\Races.md
   -> rewrite races to be more coherent + make their loreum pages
 - Baedoor_Encyclopaedia\Loreum\Topics\Cultures\Ghlodds\Technologies.md
-
+- Baedoor_Encyclopaedia\Loreum\Topics\Races\Ormaths.md
+- Baedoor_Encyclopaedia\Loreum\Topics\Geography\Mes_Inpea.md
 
 0. HOW TO FILL SOURCE FILES IF PHOTO HAS WEIRD ANGLE
 - cut the photo to most correct shape

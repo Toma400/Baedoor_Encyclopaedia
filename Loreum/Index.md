@@ -59,6 +59,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### M
 - [Madai](Topics/Nature/Herbarium/List/Madai.md)
 - [Menerun](Topics/Geography/Jitado/Cities/Menerun.md)
+- [Mes Inpea](Topics/Geography/Mes_Inpea.md) (island)
 
 ### N
 - [Nferth](Topics/Geography/East_Moon/Nferth.md)
