@@ -130,7 +130,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Iner   | Mes Inpea         | Common name                                                             |
 | Ineald | Outside Mes Inpea | Rare name with jitadean/baedoorian influences, possibly Iner derivation |
 
-<center><span style="color:#668c99"><b>Male names</b></span></center>
+<center><span style="color:#668c99"><b>Female names</b></span></center>
 
 | Name  | Localisation | Description                      |
 |-------|--------------|----------------------------------|

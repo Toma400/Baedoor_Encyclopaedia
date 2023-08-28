@@ -16,7 +16,7 @@ All what creates the oververse, but mostly on Baedoor itself
 #####     🔹 Central Moon
 #####     🔹 [East Moon](Geography/East_Moon.md)
 #### 🔷 Old Continent
-#####     🔹 Mes Inpea
+#####     🔹 [Mes Inpea](Geography/Mes_Inpea.md)
 #####     🔹 [Jitado](Geography/Jitado.md)
 #####     🔹 Eimr
 #### 🔷 Seiteh
