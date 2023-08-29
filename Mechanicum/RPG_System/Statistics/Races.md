@@ -88,9 +88,11 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
 
 ## 🏵️ SUBRACES
 
-<table style="width:100%" border=""><tr style="with:100%" align="center"><td width="100%" style="width:100%">
-    Human
-</td></tr></table>
+<center>
+
+## Human
+
+</center>
 
 ### Baedoorian
 
@@ -154,6 +156,38 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
     <tr><td>  🔱END +1  </td><td> longswords (+1)          </td><td>           </td></tr>
     <tr><td>  ☯️CHA -1  </td><td>                          </td><td>           </td></tr>
     <tr><td>  💠INT -1  </td><td>                          </td><td>           </td></tr>
+</table>
+
+### Moonlanders
+
+<h1 id="moonlanders" style="display:none"></h1>
+<table>
+    <tr>
+        <td rowspan="10" width="45%">
+            Human that live on Moon Continent.
+        </td>
+        <th colspan="3"> No image </th>
+    </tr>
+    <tr><th> Attributes </th><th> Skills         </th><th> Modifiers </th></tr>
+    <tr><td>  💠INT +1  </td><td> alchemy (+1)   </td><td> None      </td></tr>
+    <tr><td>  ☯️CHA +1  </td><td> herbalism (+1) </td><td>           </td></tr>
+    <tr><td>  ✴️STR -1  </td><td>                </td><td>           </td></tr>
+    <tr><td>  🔱END -1  </td><td>                </td><td>           </td></tr>
+</table>
+
+### Mesinpeans
+
+<h1 id="mesinpeans" style="display:none"></h1>
+<table>
+    <tr>
+        <td rowspan="10" width="45%">
+            Inhabitants of Mes Inpea island.
+        </td>
+        <th colspan="3"> No image </th>
+    </tr>
+    <tr><th> Attributes </th><th> Skills          </th><th> Modifiers </th></tr>
+    <tr><td>  🔱END +1  </td><td> trade (+1)      </td><td> None      </td></tr>
+    <tr><td>  ❇️AGI -1  </td><td> longswords (+1) </td><td>           </td></tr>
 </table>
 
 ---
@@ -245,26 +279,6 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
 ---
 
 ## SUBRACES
-
----
-
-### HUMAN
-
----
-
-**MOONLANDERS**
->   💠INT +1  
->   ☯️CHA +1  
->   ✴️STR -1  
->   🔱END -1
-
->   ⛏️:alchemy (+1), herbalism (+1)
-
-**MS INPEANS**
->   🔱END +1  
->   ❇️AGI -1
-   
->   ⛏️:trade (+1), longswords (+1)
 
 ---
 
