@@ -21,13 +21,13 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
         </td>
         <th colspan="3"> No image </th>
     </tr>
-    <tr><th colspan="3">                 Subraces  </th></tr>
+    <tr><th colspan="3"> Subraces </th></tr>
     <tr>
         <td colspan="3" align="center">
             <a href="#baedoorian"> Baedoorian  </a><br>
             <a href="#jitadian">   Jitadian    </a><br>
-            <a href="">            Mrran       </a><br>
-            <a href="">            Nordwinian  </a><br>
+            <a href="#mrran">      Mrran       </a><br>
+            <a href="#nordwinian"> Nordwinian  </a><br>
             <a href="">            Moonlanders </a><br>
             <a href="">            Ms Inpeans  </a>
         </td>
@@ -36,6 +36,30 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
     <tr><td>  ✴️STR +1  </td><td> Managed by subraces </td><td> None  </td></tr>
     <tr><td>  ☯️CHA +1  </td><td>                     </td><td>       </td></tr>
     <tr><td>  💠INT +1  </td><td>                     </td><td>       </td></tr>
+</table>
+
+### Tri
+
+<h1 id="tri" style="display:none"></h1>
+<table>
+    <tr>
+        <td rowspan="10" width="45%">
+            Proclaimed as one of the oldest, if not the oldest, race in Baedoor universe.
+            Their origin is not really known, except for some legends and religious explanations.
+        </td>
+        <th colspan="3"> No image </th>
+    </tr>
+    <tr><th colspan="3"> Subraces </th></tr>
+    <tr>
+        <td colspan="3" align="center">
+            <a href=""> Voitri  </a><br>
+            <a href=""> Lunatri </a><br>
+            <a href=""> Saphtri </a><br>
+            <a href=""> Pahtri  </a><br>
+        </td>
+    </tr>
+    <tr><th> Attributes </th><th> Skills </th><th> Modifiers </th></tr>
+    <tr><td> Managed by subraces </td><td> Managed by subraces </td><td> Managed by subraces </td></tr>
 </table>
 
 ### Ormaths
@@ -49,7 +73,7 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
             Ormaths obey their Elders' Council, however every ormath tribe has their
             own shaman having decisive word.
         </td>
-        <th colspan="3"> <img height="100" src="/Assets/race_ormath.jpg"> </th>
+        <th colspan="3"> <img height="200" src="/Assets/race_ormath.jpg"> </th>
     </tr>
     <tr><th colspan="3">                 Subraces  </th></tr>
     <tr><td colspan="3" align="center">    None    </td></tr>
@@ -57,12 +81,16 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
     <tr><td>  💠INT +2  </td><td> Healing ⭐   </td><td> 🌸CONN +7  </td></tr>
     <tr><td>  🔱END +1  </td><td> Connection ⭐</td><td> 🔮MGCK +2  </td></tr>
     <tr><td>  ❇️AGI +1  </td><td>              </td><td> 🌑VOID -20 </td></tr>
-    <tr><td>  ✴️STR -1  </td><td>              </td><td>           </td></tr>
+    <tr><td>  ✴️STR -1  </td><td>              </td><td>            </td></tr>
 </table>
 
 ---
 
 ## 🏵️ SUBRACES
+
+<table style="width:100%" border=""><tr style="with:100%" align="center"><td width="100%" style="width:100%">
+    Human
+</td></tr></table>
 
 ### Baedoorian
 
@@ -93,29 +121,42 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
     </tr>
     <tr><th> Attributes </th><th> Skills        </th><th> Modifiers </th></tr>
     <tr><td>  💠INT +1  </td><td> firearms (+1) </td><td> ⚙️TECH +2 </td></tr>
-    <tr><td>  ✴️STR -1  </td><td> smithing (+1) </td><td>          </td></tr>
+    <tr><td>  ✴️STR -1  </td><td> smithing (+1) </td><td>           </td></tr>
+</table>
+
+### Mrran
+
+<h1 id="mrran" style="display:none"></h1>
+<table>
+    <tr>
+        <td rowspan="10" width="45%">
+            Human subrace living on Eimr island, with very worker culture persisting.
+        </td>
+        <th colspan="3"> No image </th>
+    </tr>
+    <tr><th> Attributes </th><th> Skills        </th><th> Modifiers </th></tr>
+    <tr><td>  ✴️STR +1  </td><td> tools (+1)    </td><td>  None     </td></tr>
+    <tr><td>  ☯️CHA -1  </td><td> smithing (+1) </td><td>           </td></tr>
+</table>
+
+### Nordwinian
+
+<h1 id="nordwinian" style="display:none"></h1>
+<table>
+    <tr>
+        <td rowspan="10" width="45%">
+            Subrace that inhabits northern lands of Baedoor, especially Forewind and Evyvind.
+        </td>
+        <th colspan="3"> No image </th>
+    </tr>
+    <tr><th> Attributes </th><th> Skills                   </th><th> Modifiers </th></tr>
+    <tr><td>  ✴️STR +1  </td><td> resource processing (+1) </td><td> None      </td></tr>
+    <tr><td>  🔱END +1  </td><td> longswords (+1)          </td><td>           </td></tr>
+    <tr><td>  ☯️CHA -1  </td><td>                          </td><td>           </td></tr>
+    <tr><td>  💠INT -1  </td><td>                          </td><td>           </td></tr>
 </table>
 
 ---
-
-<table>
-    <tr align="center">
-        <td colspan="5"><p style="font-size:25px"><b>Tri</b></p>✥ Has subraces ✥</td>
-    </tr>
-    <tr align="center">
-        <td>Avatar</td><td>Attributes</td><td>Skills</td><td>Modifiers</td><td>Description</td>
-    </tr>
-    <tr align="center">
-        <td width="100"><img alt="Tri" height="100" src="/Assets/race_tri.png" width="100"/></td>
-        <td width="110"> Managed by subraces </td>
-        <td width="110"> Managed by subraces </td>
-        <td width="110"> Managed by subraces </td>
-        <td>
-            Proclaimed as one of the oldest, if not the oldest, race in Baedoor universe. Their origin
-            is not really known, except for some legends and religious explanations.
-        </td>
-    </tr>
-</table>
 
 **GHLOD'HYR (GHLOD) 🀄**
 >   ❇️AGI +2  
@@ -210,20 +251,6 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
 ### HUMAN
 
 ---
-
-**MRRAN**
->   ✴️STR +1  
->   ☯️CHA -1  
-   
->   ⛏️:tools (+1), smithing (+1)
-
-**NORDWINIAN**
->   ✴️STR +1  
->   🔱END +1  
->   ☯️CHA -1  
->   💠INT -1
-   
->   ⛏️:resource processing (+1), longswords (+1)
 
 **MOONLANDERS**
 >   💠INT +1  
