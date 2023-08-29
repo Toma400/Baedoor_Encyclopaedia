@@ -290,6 +290,7 @@ All things from previous sections which try to collect several stuff of mine.
 |------------------|----------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------|
 | 2021-01-08       | Duch Nieskończoności | [🇵🇱](https://drive.google.com/file/d/1KgrlGnznHZ3pDogHoa1O0RFGHPC3_Rqq/view?usp=sharing) | Collection of scenes (short texts without true story) |
 | 2021-01-25       | Przez Pustynie Serca | [🇵🇱](https://drive.google.com/file/d/1kdLMS0IhLfuX401W0jzTA20jQ8zQOha3/view?usp=sharing) | Collection of 42 poems, with small corrections        |
+| 2023-08-29       | Świt Nad Tar Tahraes | [🇵🇱](https://drive.google.com/file/d/1G0Z4SNFOL2umYbUr021zLXkSFwH_zhVG/view?usp=sharing) | Second, final collection of scenes                    |
 
 ### 🍁️ ️️SMALLER MODDING PROJECTS
 Aside from mods, I also created some projects related to modding, but not being mods in their strict

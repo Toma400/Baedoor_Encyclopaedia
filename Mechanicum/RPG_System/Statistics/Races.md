@@ -28,8 +28,8 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
             <a href="#jitadian">   Jitadian    </a><br>
             <a href="#mrran">      Mrran       </a><br>
             <a href="#nordwinian"> Nordwinian  </a><br>
-            <a href="">            Moonlanders </a><br>
-            <a href="">            Ms Inpeans  </a>
+            <a href="moonlanders"> Moonlanders </a><br>
+            <a href="mesinpeans">  Mesinpeans  </a>
         </td>
     </tr>
     <tr><th> Attributes </th><th> Skills </th><th> Modifiers </th></tr>
