@@ -1,9 +1,11 @@
 # 🪔 Ayer Shotgun
+<center>
 
 ---
 | ![Ayer Shotgun](/Assets/Items/ayer_shotgun.png)                  | ![Ayer Sawed Off](/Assets/Items/ayer_sawed_off.png)  |
 |:-----------------------------------------------------------------|:-----------------------------------------------------|
 | ✭ Visualisation of Ayer shotgun in **Wastelands of Baedoor** mod | ✭ Sawed off variant in **Wastelands of Baedoor** mod |
+</center>
 
 ---
 ### DESCRIPTION  
