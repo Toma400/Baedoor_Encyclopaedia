@@ -32,7 +32,7 @@
 
 ### 🔥 Firearms
 #### [Revolvers](Revolvers.md)
-#### Shotguns
+#### [Shotguns](Shotguns.md)
 #### Rifles
 #### Revolvering Rifles
 #### Automated Firearms
