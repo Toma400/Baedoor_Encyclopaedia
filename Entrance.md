@@ -20,7 +20,6 @@ Encyclopaedia is set on four pillars:
 - 🎭 [Encyclopaedia Langue](Langue/Langue.md) - focused on languages and dictionaries of Baedoor civilisations
 - 📕 Encyclopaedia Scribae - storing all books written by Baedoor civilisations
 - ⚙️ [Encyclopaedia Mechanicum](Mechanicum/Mechanicum.md) - explaining RPG systems and storing all detailed info on items, including technicals like statistics
-- 🌌 [Encyclopaedia Quaevismundus](Quaevismundus/Quaevismundus.md) - storing all information of selected foreign multiverses
 
 Click on section names to head to specific one.
 
