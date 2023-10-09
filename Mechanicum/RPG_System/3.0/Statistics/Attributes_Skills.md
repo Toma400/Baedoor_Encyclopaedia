@@ -30,17 +30,17 @@ By default, all attributes are at level 8.
 - Connection Bond²
 - Trade¹
 - Persuasion¹
-- Repair
-- Healing
+- Repair ❗
+- Healing 🌀 `ability?`
 - Lockpicking
 - Sneaking
-- Stealing
+- Stealing ❗
 - Pickpocketing
 - Traps Designing
 - Traps Spotting
 - Musicality
-- Resource Processing
-- Tools
+- Resource Processing ❓
+- Tools ❗
 - Smithing
 - Herbalism
 - Alchemy
@@ -50,22 +50,24 @@ By default, all attributes are at level 8.
 
 **PERKS**  
 Not expandable, once-gatherable (with race, class or by learning).
-
 - Trader Sight
-- Vehicles Driving
 - Berserk
 - Assassin's Hit
 - Stepping on Water
 - Flying Monk
 - Toxin Immunity
-- Undead
-- Stheyr
+- Undead ❓
+- Stheyr ❓
 - Friend of Animals
-- Animal Training
 - Vampirism
-- Body Harvesting
-- Ritual Tongues
-- Ancient Architects' Tongue
+- Body Harvesting ❓
+- Ritual Tongues ❓
+- Ancient Architects' Tongue ❓
+
+**ABILITIES**    
+Similar to perks, but they come with specific quality and can vary.
+- Vehicles Driving
+- Animal Training
 
 ---
 
@@ -73,4 +75,4 @@ Not expandable, once-gatherable (with race, class or by learning).
 ² - available for characters having positive connection alignment
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🎲](/Mechanicum/RPG_System/RPG_System.md)
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🎲](/Mechanicum/RPG_System/3.0/RPG_System.md)

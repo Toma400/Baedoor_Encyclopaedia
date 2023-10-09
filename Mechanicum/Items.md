@@ -8,7 +8,7 @@
 ### 🌿 Herbs
 ### ⚗️ Potions
 ### 🧱 Resources
-### 🧭 Miscellanous
+### 🧭 Miscellaneous
 
 ---
 ### 🔍 [Index](Items/Index.md)
