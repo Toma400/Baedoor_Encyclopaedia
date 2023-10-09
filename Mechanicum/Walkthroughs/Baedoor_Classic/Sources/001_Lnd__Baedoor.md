@@ -19,6 +19,7 @@
 - [ ] Historical places
 - [ ] Geography
 - [ ] Items
+- [ ] Books
 - [ ] Full screenshots archive
 
 ---

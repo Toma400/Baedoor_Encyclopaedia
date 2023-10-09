@@ -1,8 +1,6 @@
 # ♟️ Basic Modifiers
 
 ---
-
-
 Basic modifiers are what is building our hero during the journey. 
 All of them are inherited either from hero's secondary modifiers or the journey itself.
 
@@ -15,18 +13,13 @@ Skills level up during your actions.
 
 - Health (HP)
 - Magic Energy (MP)
+- Hunger (HNG)
+- Thirst (THR)
 - Tiredness (SP)
 - Experience Points (XP)
 - Level (LVL)
 - Maximum Weight (WGH)
-- Detoxication (DTX)
-- Morality Alignment (MORX, MORY)
 - Speed (SPD)
-
-♉ **OPTIONAL MODIFIERS**
-
-- Hunger (HNG)
-- Thirst (THR)
 
 ⛎ **POWER MODIFIERS** (from -20 to 20)
 
@@ -41,11 +34,12 @@ Skills level up during your actions.
 ♈ **MAIN MODIFIERS**
 - HP = 20 + ENDx10 (if < 100, HP = 100)
 - MP = 20 + INTx10 + MAGCKx10
-- SP = default 1000 (look at optionals)
+- SP = default 1000
+- HNG = default 1000
+- THR = default 1000
 - XP (add) = XPxMOD (MOD = [INT/5]/10, +1)
 - XP (limit) = LVLx12 (LVLup = reset XP)
 - WGH (limit) = STRx4 (WGH>WGHlimit = lowers the speed with each 4WGH over the limit)
-- DTX = END x 0.1 + Survival x 0.1 ``DTX from poison, addictions, alcohol effects and narcotics``
 - SPD - depends on AGI, with base value being 1. Uses functions shown below:
 
 <img alt="Speed Func" height="140" src="/Assets/speed_function.jpg" width="360" class="center"/>  
@@ -54,9 +48,6 @@ in graph in such manner:
 
 <img alt="Speed Graph" height="220" src="/Assets/speed_graph.jpg" width="400" class="center"/>
 
-♉ **OPTIONAL MODIFIERS**
-- HNG = default 1000
-- THR = default 1000  
 Use of SP/HNG/THR = 4/1/2  
 Used during actions, and within time (1 minute)
 
@@ -79,4 +70,4 @@ Initial character creation has predetermined values, so all alignments (increase
 Samely, MAGCK decrease in example wouldn't happen if race has lowering disabled.
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🎲](/Mechanicum/RPG_System/RPG_System.md)
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🎲](/Mechanicum/RPG_System/3.0/RPG_System.md)

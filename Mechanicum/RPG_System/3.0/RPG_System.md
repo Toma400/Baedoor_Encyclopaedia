@@ -1,4 +1,4 @@
-# 🎲 RPG System
+# 🎲 RPG System 3.0
 
 Baedoor RPG System was designed as inherent aspect of all RPG games taking place in Baedoor universe.
 It came through two iterations. Encyclopaedia is written for third edition of a system.
@@ -9,7 +9,6 @@ It came through two iterations. Encyclopaedia is written for third edition of a 
 - [Races](Statistics/Races.md)
 - [Classes](Statistics/Classes.md)
 - [Persuasion index](Statistics/Persuasion.md)
-- Morality index
 - Worldpowers index
 
 **🏹 GAME PRACTICE**
@@ -25,8 +24,11 @@ It came through two iterations. Encyclopaedia is written for third edition of a 
 - Use of magic
 - Factions and guilds
 
-**🎴4TH EDITION**
+**🎴 4TH EDITION**
 - [Upcoming changes](Statistics/4th_System.md)
+
+**📜 OLD EDITIONS**
+- [2.0](/Mechanicum/RPG_System/2.0/RPG_System.md)
 
 ---
 ✥  
