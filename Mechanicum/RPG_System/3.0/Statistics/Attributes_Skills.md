@@ -16,37 +16,80 @@ By default, all attributes are at level 8.
 - CHA (Charisma)
 
 **SKILLS**
-- Handfight¹
-- Shortswords¹
-- Longswords
-- Polearms
-- Archery¹
-- Firearms
-- Spellcasting
-- Restoration Magic
-- Transformation Magic
-- Destruction Magic
-- Necromancy
-- Connection Bond²
-- Trade¹
-- Persuasion¹
-- Repair ❗
-- Healing 🌀 `ability?`
-- Lockpicking
-- Sneaking
-- Stealing ❗
-- Pickpocketing
-- Traps Designing
-- Traps Spotting
-- Musicality
-- Resource Processing ❓
-- Tools ❗
-- Smithing
-- Herbalism
-- Alchemy
-- Cooking
-- Toughness
-- Survival
+- Combat
+  - Handfight¹
+  - Shortswords¹
+  - Longswords
+  - Blunts
+  - Polearms
+  - Aim
+  - Throwing
+  - Archery¹
+  - Crossbows
+  - Light Firearms
+  - Heavy Firearms
+- Magic
+  - Spellcasting
+  - Common magic `flows into practiced element/type, basically [e+k/2=cm]`
+    - Elements
+      - Void
+      - Fire
+      - Electricity
+      - Soul
+      - Wind
+      - Ice
+      - Water
+      - Ground
+      - Connection
+    - Kinds
+      - Destruction
+      - Absorption
+      - Illusion
+      - Transformation
+      - Evocation
+      - Restoration
+  - Path magic `flows exclusively into one`
+    - Dream magic
+    - Death magic (`necromancy`)
+    - Erd magic
+    - Lunatri magic (`higher tri path`)
+    - Ormath magic
+    - Terten magic (`plague path`)
+    - Keht magic (`blood path`)
+  - Scrolls writing `scrolls sealing`
+  - Mores casting `mores sealing`
+  - Unsealing `sigils & scrolls/mores/items during use; sigils and items during sealing`
+- Social
+  - Trade¹
+  - Persuasion¹
+- Rogue
+  - Lockpicking
+  - Sneaking
+  - Pickpocketing
+  - Traps Designing
+  - Traps Spotting
+- Crafting
+  - Hunting
+  - Fishing
+  - Sewing
+  - Carpentry
+  - Pottery
+  - Stonemasonry
+  - Ore Processing
+  - Smithing
+  - Herbalism
+  - Alchemy
+  - Cooking
+- Personal
+  - Wound Treatment
+  - Horse Riding
+  - Boat Driving
+  - Animal Taming
+  - Musicality
+  - Toughness
+  - Survival
+- Special
+  - Connection Bond²
 
 **PERKS**  
 Not expandable, once-gatherable (with race, class or by learning).
@@ -66,8 +109,7 @@ Not expandable, once-gatherable (with race, class or by learning).
 
 **ABILITIES**    
 Similar to perks, but they come with specific quality and can vary.
-- Vehicles Driving
-- Animal Training
+- Toxin Absorption
 
 ---
 
