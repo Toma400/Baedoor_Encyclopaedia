@@ -13,6 +13,7 @@ By default, all attributes are at level 8.
 - AGI (Agility)
 - END (Endurance)
 - INT (Intelligence)
+- PER (Perception)
 - CHA (Charisma)
 
 **SKILLS**
@@ -40,7 +41,6 @@ By default, all attributes are at level 8.
       - Ice
       - Water
       - Ground
-      - Connection
     - Kinds
       - Destruction
       - Absorption
@@ -88,8 +88,6 @@ By default, all attributes are at level 8.
   - Musicality
   - Toughness
   - Survival
-- Special
-  - Connection Bond²
 
 **PERKS**  
 Not expandable, once-gatherable (with race, class or by learning).
@@ -110,6 +108,7 @@ Not expandable, once-gatherable (with race, class or by learning).
 **ABILITIES**    
 Similar to perks, but they come with specific quality and can vary.
 - Toxin Absorption
+- Connection Bond
 
 ---
 
