@@ -21,6 +21,7 @@ By default, all attributes are at level 8.
   - Handfight¹
   - Shortswords¹
   - Longswords
+  - Axes
   - Blunts
   - Polearms
   - Aim
@@ -29,6 +30,10 @@ By default, all attributes are at level 8.
   - Crossbows
   - Light Firearms
   - Heavy Firearms
+  - Light Armour
+  - Medium Armour
+  - Heavy Armour
+  - Blocking
 - Magic
   - Spellcasting
   - Common magic `flows into practiced element/type, basically [e+k/2=cm]`
@@ -84,8 +89,9 @@ By default, all attributes are at level 8.
   - Wound Treatment
   - Horse Riding
   - Boat Driving
-  - Animal Taming
-  - Musicality
+  - Animal Taming `separating by animal types?`
+  - Musicality `separating by instrument types?`
+  - Athletics
   - Toughness
   - Survival
 
@@ -109,6 +115,7 @@ Not expandable, once-gatherable (with race, class or by learning).
 Similar to perks, but they come with specific quality and can vary.
 - Toxin Absorption
 - Connection Bond
+- Improved Learning
 
 ---
 
