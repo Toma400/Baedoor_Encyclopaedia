@@ -33,6 +33,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Flower Street](Topics/Geography/Jitado/Cities/Places/Enfrvein.md)
 
 ### G
+- [Ghlodds](Topics/Races/Regular/Ghlodds.md)
 - [Golden Lighthouse of Baedoor](Topics/Geography/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
 
 ### H
