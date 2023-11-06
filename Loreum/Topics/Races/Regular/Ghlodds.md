@@ -3,13 +3,13 @@
 <table>
     <tr>
         <td align="center">
-            <img width="144" height="192" src="/Assets/race_ghlodd_limbed.jpg">
+            <img width="201" height="276" src="/Assets/race_ghlodd_limbed.jpg">
         </td>
         <td align="center">
-            <img width="144" height="192" src="/Assets/race_ghlodd_regular.png">
+            <img width="201" height="276" src="/Assets/race_ghlodd_regular.jpg">
         </td>
         <td align="center">
-            <img width="206" height="138" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_39.jpg">
+            <img width="413" height="276" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_39.jpg">
         </td>
     </tr>
     <tr>

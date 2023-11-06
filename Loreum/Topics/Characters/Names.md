@@ -50,6 +50,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Hastings | East Baedoor                  | Variant of *Hasting* name                                                  |
 | Heim     | Whole Baedoor                 | Common name, originated from Baedoor Northern Coast                        | 
 | Heimlig  | Ansur, Baedoor Northern Coast | Probably mix of **Heim** and nordwinian suffix                             |
+| Hrevir   | Whole Baedoor                 | Common name used both in Old and New Era                                   |
 | Indion   | Whole Baedoor                 | Rare name originating from Jitado                                          |
 | Invari   | East Baedoor                  | Rare name of jitadian origin                                               |
 | Isou     | East Baedoor                  | Rare name of jitadian origin, nowadays almost unseen in baedoorian culture |

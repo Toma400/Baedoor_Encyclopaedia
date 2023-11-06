@@ -34,4 +34,4 @@ creating process by drawing or choosing image of your persona.
 After that, all is done. Have fun travelling roads of Baedoor universe!
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🎲](/Mechanicum/RPG_System/RPG_System.md)
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🎲](/Mechanicum/RPG_System/3.0/RPG_System.md)

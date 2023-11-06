@@ -46,4 +46,4 @@ directly affects the index without touching extensive math.
 
 ---
 ♜: no formula  
-[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🎲](/Mechanicum/RPG_System/RPG_System.md)
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🎲](/Mechanicum/RPG_System/3.0/RPG_System.md)
