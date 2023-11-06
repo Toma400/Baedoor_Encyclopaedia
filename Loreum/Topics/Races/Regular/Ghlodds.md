@@ -3,10 +3,10 @@
 <table>
     <tr>
         <td align="center">
-            <img width="207" height="276" src="/Assets/race_ghlodd_limbed.jpg">
+            <img width="215" height="276" src="/Assets/race_ghlodd_limbed.jpg">
         </td>
         <td align="center">
-            <img width="207" height="276" src="/Assets/race_ghlodd_regular.jpg">
+            <img width="215" height="276" src="/Assets/race_ghlodd_regular.jpg">
         </td>
         <td align="center">
             <img width="413" height="276" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_39.jpg">
@@ -53,6 +53,7 @@ are said to be used in science and art, being gift from ghloddish gods to the mo
 
 - Ghlodds' culture
   - [Ghlodds' architecture](/Loreum/Topics/Cultures/Ghlodds/Architecture.md)
+  - Ghlodds' art
 - Ghlodds' beliefs
 
 ---
