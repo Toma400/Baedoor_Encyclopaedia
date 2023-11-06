@@ -56,7 +56,7 @@ such as Dungeons & Dragons or systems used in cRPG games,
 like Morrowind, Skyrim, Gothic and so on. 
 It is main system on which I based a lot of gameplay for my games.
 
-All geeky details are available in [Mechanicum](Mechanicum/RPG_System/RPG_System.md) part of the wiki.
+All geeky details are available in [Mechanicum](Mechanicum/RPG_System/3.0/RPG_System.md) part of the wiki.
 
 ***
 # Short History of Baedoor Universe and RPG System
