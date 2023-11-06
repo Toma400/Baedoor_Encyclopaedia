@@ -3,7 +3,7 @@ All things related to nature, including flora, fauna, geological parts and also 
 
 ---
 ### 🌿 [Herbarium](Nature/Herbarium.md)
-### 🐊 Bestiary
+### 🐊 [Bestiary](Nature/Bestiary.md)
 ### 🧊 Minerals
 ### 🥮 Foods
 

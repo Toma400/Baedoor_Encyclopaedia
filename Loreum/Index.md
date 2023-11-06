@@ -68,6 +68,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### O
 - [Order of the Sword](Topics/Guilds/List/Order_of_the_Sword.md)
 - [Ormaths](Topics/Races/Regular/Ormaths.md)
+- [Ostaequa](Topics/Nature/Bestiary/List/Ostaequa.md)
 - [Oververse](Topics/World_Mechanics/Oververse.md)
 
 ### R

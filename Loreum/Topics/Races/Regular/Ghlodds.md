@@ -3,10 +3,10 @@
 <table>
     <tr>
         <td align="center">
-            <img width="215" height="276" src="/Assets/race_ghlodd_limbed.jpg">
+            <img width="235" height="276" src="/Assets/race_ghlodd_limbed.jpg">
         </td>
         <td align="center">
-            <img width="215" height="276" src="/Assets/race_ghlodd_regular.jpg">
+            <img width="235" height="276" src="/Assets/race_ghlodd_regular.jpg">
         </td>
         <td align="center">
             <img width="413" height="276" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_39.jpg">
