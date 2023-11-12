@@ -397,9 +397,10 @@ TAGS:
 ### 🈁 FONTS
 As weirdly as it may sound, I even were creating fonts, usually for Baedoor universe.
 
-| Name                | Purpose                   | License                                        | Link                                                                                        |
-|---------------------|---------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------|
-| Ghloddish Universal | Use of ghloddish alphabet | Free for non-commercial use related to Baedoor | [Drive](https://drive.google.com/file/d/1RZWHZTH8N5n-1uzn4mSEcLsvttTbLYwd/view?usp=sharing) |
+| Name                | Purpose                                                                                | License                                        | Link                                                                                        |
+|---------------------|----------------------------------------------------------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Ghloddish Universal | Use of ghloddish alphabet                                                              | Free for non-commercial use related to Baedoor | [Drive](https://drive.google.com/file/d/1RZWHZTH8N5n-1uzn4mSEcLsvttTbLYwd/view?usp=sharing) |
+| Ferrum Extended     | [Ferrum font](https://www.1001fonts.com/ferrum-font.html) expanded for Polish alphabet | Derived from Ferrum                            | None                                                                                        |
 
 ---
 ### 🖼️ DRAWINGS
