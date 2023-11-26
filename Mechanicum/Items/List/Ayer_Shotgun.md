@@ -32,7 +32,7 @@ considered a blueprint for all others.
 
 ---
 ### STATISTICS
-#### 🚂 Wastelands of Baedoor (regular variant)
+#### 🚂 Wastelands of Baedoor (regular variant) `1.14-1.18`
 ```
 OBTAINING:
 |  ⚙️ CRAFTING
@@ -59,7 +59,7 @@ ADDITIONAL FEATURES:
 │  ❌ SHOT KNOCKBACK
 |  🔧 CRAFTABLE INTO: AYER SAWED-OFF
 ```
-#### 🚂 Wastelands of Baedoor (sawed-off variant)
+#### 🚂 Wastelands of Baedoor (sawed-off variant) `1.14-1.18`
 ```
 OBTAINING:
 |  ⚙️ CRAFTING

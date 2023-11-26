@@ -10,6 +10,7 @@ Here are items that were added at some point to Wastelands of Baedoor mod:
   - 🔥 **Firearms**
     - [Ayer Shotgun](/Mechanicum/Items/List/Ayer_Shotgun.md)
     - [Lefs8](/Mechanicum/Items/List/Lefs8.md)
+    - [Lefs9](/Mechanicum/Items/List/Lefs9.md)
 
 ---
 ♜
