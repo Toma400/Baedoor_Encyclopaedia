@@ -2,14 +2,14 @@
 
 <table>
     <tr>
-        <td align="center">
-            <img width="215" height="276" src="/Assets/race_ghlodd_limbed.jpg">
+        <td align="center" width="20%">
+            <img src="/Assets/race_ghlodd_limbed.jpg">
         </td>
-        <td align="center">
-            <img width="215" height="276" src="/Assets/race_ghlodd_regular.jpg">
+        <td align="center" width="20%">
+            <img src="/Assets/race_ghlodd_regular.jpg">
         </td>
-        <td align="center">
-            <img width="413" height="276" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_39.jpg">
+        <td align="center" width="60%">
+            <img src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_39.jpg">
         </td>
     </tr>
     <tr>
