@@ -1,23 +1,29 @@
 # 🌄 Kaer
 
-<img alt="Kaer map" height="301" src="/Assets/Maps/kaer_early.jpg" width="410"/>
+<img alt="Kaer map" height="410" src="/Assets/Maps/kaer_early.jpg" width="301"/>
 
-... {description}
+Kaer (sometimes also *Kaertr*) is island of big size located south of Vershaton.  
+Huge part of island's terrain is covered with forests, covering mountain pass on its eastern coast.
+
+Kaer is home of several cultures, most notably kehts and erds.  
+South of Kaer there's island Martingo that is usually considered politically dependent and
+was count as part of the country during Baedoor occupation.
 
 ### TOWNS
-#### Somewhere?
+#### Somewhere? Needs finding out where
 - Carion
+- Kar Ia `west from Moricuri, not sure if it's Mora or Vartaward`
 
 #### Vesterwald
 - Ranirsis
-- Atakil `ruins`
+- Atakil `atikil on map` `ruins` `according to old BE, it's city of Vartaward`
 - Rolsale `?`
 
 #### Ertenwald
 - Ortaver
 
 #### Vartawald
-- Moricuri `ruins` `???`
+- Moncuri `or Moricuri` `ruins` `???` `according to old BE, it's city of Mora and within Enkg Mountains`
 
 #### Mora Region
 `???`
@@ -26,7 +32,7 @@
 - Noryvind `?`
 
 #### Soudlaris (-> Sodthas)
-- Phyr `Cataris on map/historically`
+- Phyr `Cataris on map/historically, also Aakhtet`
 
 #### Chaosolariz
 `???`
@@ -46,10 +52,12 @@
 - Xaroma River `? 'x' in name`
 - As River `? name`
 - Rosiuai River `? name`
+- Enkg Mountains
+- Eckhag Forest `around Atakil`
 
 ### PLACES
 - ...
 
 ---
-♜♢✥  
+♜♢✥, incl. link to Martingo + filling up all points from map and sources  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md)
