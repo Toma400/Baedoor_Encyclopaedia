@@ -50,6 +50,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Jitado](Topics/Geography/Jitado.md) (island)
 
 ### K
+- [Kaer](Topics/Geography/Kaer.md)
 - [Kel Desert](Topics/Geography/Baedoor/Lands/Kel_Desert.md)
 
 ### L

@@ -8,7 +8,7 @@ All what creates the oververse, but mostly on Baedoor itself
 #####     🔹 Northern Islands
 #####     🔹 [Baedoor](Geography/Baedoor.md)
 #####     🔹 Rossevette Islands
-#####     🔹 Kaer
+#####     🔹 [Kaer](Geography/Kaer.md)
 #####     🔹 Arennan
 #### 🔷 Moon Continent
 #####     🔹 West Moon
