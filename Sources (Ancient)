@@ -39,6 +39,23 @@ LIST:
                                                      Not lore friendly:
 
 ========================================================================
+Suggested rewrite:
+
+[TYPE, one letter] [Number, separate per type]_[Name][* if crucial] {Other values}
+  - in between quality is ~
+  - accuracy should be range [n..m]? or makes sense in general
+  - {} does not make ID, as there won't be another Baedoor
+  - material (Nb) could be made into type, as there's rarely the same type
+    having paper and notebook version, and separating those will be handy
+Example (acc: 2 for range [0..5]):
+
+L 001_Baedoor* {~2}
+
+More precise:
+
+L 001_Baedoor* {qual: ~, acc: 2}
+
+========================================================================
 RESERVED NUMBERS:
 - 001 - Baedoor
 - 002 - Ghlodds
@@ -47,11 +64,11 @@ RESERVED NUMBERS:
 - 005 - Mrra
 - 006 - WesternWald/Kaer
 - 007 - Jitado
-- 008 -
+- 008 - Vershaton
 - 009 -
 - 010 - Egypt Colony
-- 011 -
-- 012 -
+- 011 - Forewind
+- 012 - Karos
 - 013 -
 - 014 -
 - 015 -

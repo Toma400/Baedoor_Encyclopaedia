@@ -1,6 +1,15 @@
 # 🌄 Kaer
 
-<img alt="Kaer map" height="410" src="/Assets/Maps/kaer_early.jpg" width="301"/>
+<table>
+    <tr>
+        <td>
+            <img alt="Kaer map" height="410" src="/Assets/Maps/kaer_early.jpg" width="301"/>
+        </td>
+    </tr>
+    <tr>
+        <td>Sketch of Kaer map, early OE</td>
+    </tr>
+</table>
 
 Kaer (sometimes also *Kaertr*) is island of big size located south of Vershaton.  
 Huge part of island's terrain is covered with forests, covering mountain pass on its eastern coast.
@@ -10,7 +19,7 @@ South of Kaer there's island Martingo that is usually considered politically dep
 was count as part of the country during Baedoor occupation.
 
 ### TOWNS
-#### Somewhere? Needs finding out where
+#### Somewhere? Needs finding out where (source: old BE)
 - Carion
 - Kar Ia `west from Moricuri, not sure if it's Mora or Vartaward`
 
