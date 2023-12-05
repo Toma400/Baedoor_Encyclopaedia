@@ -6,71 +6,55 @@ on lore. It is tool for organising sources via codes, so it is clear
 which source adds to which part of lore, and how accurate it is.
 ------------------------------------------------------------------------
 NAMING:
-                       [nm]_[dg].[t][!][q][ac]}
+          [TYPE, one letter].[Number, separate per type]:[Name]
 
-[t] | type of source
-    |------------------|------------------|
-    |[Nb] - notebook   |[Pr] - paper      |
+Categories:
+L - Land   (notebook containing area visualisation)
+D - Data   (notebook containing info about areas, incl. Lands variant of it)*
+I - Info   (notebook containing lore sources, e.g. book contents, item list)
+M - Map    (paper containing map)
+P - Loose  (paper of other lore sources, e.g. item list, calendarium, lang)
+V - Varied (non-Baedoor-aimed notebook, but with a bit of Baedoor included)
 
-[!] | value of source
-    |------------------|------------------|
-    |[M] - crucial     | [None] - regular
-
-[q] | quality of source
-    |----------------------|-----------------------|
-    |[^] - well preserved  |[v] - badly preserved  |[*] - in between
-
-[ac]| accuracy of source
-    |-----------------|-----------|----------------|
-    |[1] - accurate   |[2] - low  |[0] - disputed  |[x] - not friendly
-
-[nm]| number of the source (three digits)
-
-[dg]| 3-letter name of lore aspect shown in the source
-    |-------------------|-----------------|
-    |[Lnd] - land, game |[Map] - map      |
+* if possible, should follow numbering of L, so L/D of the same number
+  connect to each other (if not found, take vacant number of both)
 ========================================================================
 LIST:
 
                                                        Crucial sources:
-001_Lnd.NbM*0 | Baedoor
+L.001:Baedoor
                                                        Regular sources:
-                                              Disputed regular sources:
-                                                     Not lore friendly:
-
-========================================================================
-Suggested rewrite:
-
-[TYPE, one letter] [Number, separate per type]_[Name][* if crucial] {Other values}
-  - in between quality is ~
-  - accuracy should be range [n..m]? or makes sense in general
-  - {} does not make ID, as there won't be another Baedoor
-  - material (Nb) could be made into type, as there's rarely the same type
-    having paper and notebook version, and separating those will be handy
-Example (acc: 2 for range [0..5]):
-
-L 001_Baedoor* {~2}
-
-More precise:
-
-L 001_Baedoor* {qual: ~, acc: 2}
 
 ========================================================================
 RESERVED NUMBERS:
-- 001 - Baedoor
-- 002 - Ghlodds
-- 003 - Moon Lands
-- 004 - Mes Inpea
-- 005 - Mrra
-- 006 - WesternWald/Kaer
-- 007 - Jitado
-- 008 - Vershaton
-- 009 -
-- 010 - Egypt Colony
-- 011 - Forewind
-- 012 - Karos
-- 013 -
-- 014 -
-- 015 -
-  ...
-- 050 - Baedoor <> Books
+L:
+    - 001 - Baedoor
+    - 002 - Ghlodds
+    - 003 - Moon Lands
+    - 004 - Mes Inpea
+    - 005 - Mrra
+    - 006 - WesternWald/Kaer
+    - 007 - Jitado
+    - 008 - Vershaton
+    - 009 -
+    - 010 - Egypt Colony
+    - 011 - Forewind
+    - 012 - Karos
+    - 013 -
+    - 014 -
+    - 015 -
+      ...
+D:
+    - 001 - Baedoor
+      ... (see * above)
+I:
+    - 001 - Baedoor <> Books
+      ...
+M:
+    - 001 - Kaer map
+    - 002 - Mes Inpea map
+      ...
+P:
+      ...
+V:
+    - 001 - [Ghloddish Language initiated]

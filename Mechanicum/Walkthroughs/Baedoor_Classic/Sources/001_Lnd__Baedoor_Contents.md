@@ -1,5 +1,5 @@
 # 📖 Baedoor notebook: Contents
-*ID: 001_Lnd.NbM\*0*
+*ID: L.001:Baedoor*
 
 ---
 ### Scans
