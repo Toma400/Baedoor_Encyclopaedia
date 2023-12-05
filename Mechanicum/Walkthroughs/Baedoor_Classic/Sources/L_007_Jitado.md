@@ -57,5 +57,11 @@ obvious technological advancements.
 It also makes sense considering this notebook came before Baedoor, and in a way, Baedoor notebook
 started Old Era as a phenomenon separated from old notebooks.
 
+So, we could sum it up in points:
+- Names of this notebook vary, from very lore-friendly (Silas, Menerun) to not at all (Yulin-Hai)
+- Architecture image is mostly canon, however very simplified
+  - Small details, such as preference towards blue roofs instead of orange could be mentioned
+- General coherence is rather high 
+
 ---
 [💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [📿](/Mechanicum/Walkthroughs/Baedoor_Classic/BaeCL_Sources.md)

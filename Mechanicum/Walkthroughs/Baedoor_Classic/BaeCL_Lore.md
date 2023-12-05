@@ -42,7 +42,7 @@
         <th>Timeframe</th>
         <td>Pre Era / early Old Era</td>
         <td rowspan="2">
-            🕌    <a href="Lore/BaeCL_Menerun.md"> Menerun City </a>
+            🐲    <a href="Lore/BaeCL_Menerun.md"> Menerun </a>
         </td>
     </tr>
     <tr>

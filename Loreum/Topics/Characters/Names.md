@@ -107,6 +107,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Saytoin   | Jitado       | Rare name of south parts of Jitado, rarer variant of Sayton            |
 | Sayton    | Jitado       | Common name of south parts of Jitado                                   |
 | Si        | Jitado       | Common name in Pre Era                                                 |
+| Silas     | Jitado       | Common name                                                            |
 | Sin       | Jitado       | Common name, may be evolution of *Si*                                  |
 | Sjiniro   | Jitado       | Obscure combination of Sin and Jiro names                              |
 | Yraeni    | Jitado       | Rare name                                                              |
