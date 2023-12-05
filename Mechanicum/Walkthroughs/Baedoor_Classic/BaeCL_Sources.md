@@ -6,11 +6,11 @@ LEGEND:
 ✅  finished (all elements are written into BE)
 ✨  state of preservation
 📐  accuracy of lore
-    - accurate     | almost everything is lined-up
-    - moderate     | there are plenty of accurate lore, but it's not all good
-    - low          | little things have in common with modern understanding
-    - disputed     | hard to measure (used for inconsistencies especially)
-    - non-friendly | nothing makes sense
+    - accurate     | almost everything is lined-up                            | #31852B
+    - moderate     | there are plenty of accurate lore, but it's not all good |
+    - low          | little things have in common with modern understanding   |
+    - disputed     | hard to measure (used for inconsistencies especially)    | #7700cc
+    - non-friendly | nothing makes sense                                      |
 ```
 
 <table>
@@ -30,7 +30,7 @@ LEGEND:
         <td>                                    <input type="checkbox" checked="">  </td>
         <td>                                          <input type="checkbox">       </td>
         <td>                                                  8/10                  </td>
-        <td>                                                Disputed                </td>
+        <td><span style="color:#7700cc">                              Disputed                </span></td>
     </tr>
     <tr align="center">
         <th><span style="color:#31852B">                            Land            </span></th>
@@ -38,8 +38,8 @@ LEGEND:
         <td align="center">                    Notebook for Jitado region </td>
         <td>                                    <input type="checkbox">   </td>
         <td>                                    <input type="checkbox">   </td>
-        <td>                                            Unknown           </td>
-        <td>                                            Unknown           </td>
+        <td>                                              8/10            </td>
+        <td><span style="color:#31852B">                          Accurate          </span></td>
     </tr>
 
 </table>

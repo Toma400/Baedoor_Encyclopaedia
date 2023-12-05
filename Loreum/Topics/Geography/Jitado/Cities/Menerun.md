@@ -26,5 +26,8 @@ After all, modern Menerun is home for several universities and magic guilds.
 - Hotel
 
 ---
+📿 [Baedoor Classic](/Mechanicum/Walkthroughs/Baedoor_Classic/Lore/BaeCL_Menerun.md)
+
+---
 ♜✥
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Jitado.md)

@@ -14,7 +14,7 @@
 <table>
     <tr>
         <th colspan="2">Baedoor</th>
-        <td><b>Source ID:</b> <a href="Sources/001_Lnd__Baedoor.md">N.1.001_lnd</a></td>
+        <td><b>Source ID:</b> <a href="Sources/L_001_Baedoor.md">L.001:Baedoor</a></td>
     </tr>
     <tr>
         <th>Timeframe</th>
@@ -33,6 +33,21 @@
     <tr>
         <th>Location</th>
         <td>Baedoor Isle</td>
+    </tr>
+    <tr>
+        <th colspan="2">Jitado</th>
+        <td><b>Source ID:</b> <a href="Sources/L_007_Jitado.md">L.007:Jitado</a></td>
+    </tr>
+    <tr>
+        <th>Timeframe</th>
+        <td>Pre Era / early Old Era</td>
+        <td rowspan="2">
+            🕌    <a href="Lore/BaeCL_Menerun.md"> Menerun City </a>
+        </td>
+    </tr>
+    <tr>
+        <th>Location</th>
+        <td>Jitado, Altauar Region</td>
     </tr>
 
 </table>
