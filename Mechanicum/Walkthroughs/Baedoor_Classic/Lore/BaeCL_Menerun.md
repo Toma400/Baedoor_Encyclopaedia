@@ -22,6 +22,38 @@
     </td>
   </tr>
 
+  <!--PHOTO 2-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 2" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_2.jpg" width="416"/></td>
+    <th align="centre">Evrun Settlement</th>
+  </tr>
+  <tr>
+    <td>
+      Portrays Evrun street, with house having (most probably) well on the same page.<br>
+      Words of criticism could be directed towards turret that follows similarly weird barbaric
+      out-of-place style as in previous page with palisade.<br>
+      Additionally, name of settlement owner was interpreted as <i>Nicolavsin</i> in favour
+      of more jitadic sound (I assume it could be <i>Nicolausin</i> originally).
+    </td>
+  </tr>
+
+  <!--PHOTO 3-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 3" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_3.jpg" width="416"/></td>
+    <th align="centre">Hord's Tavern</th>
+  </tr>
+  <tr>
+    <td>
+      This part of Evrun street shows yet another inn being in this place, this time inn owned
+      by Hord, more wine-focused than Silas' one two pages before.<br>
+      Similarly to many a-bit-odd names, name here was interpreted in favour of current view
+      on jitadish language and its sound.<br>
+      Additionally, ambiguous writing on <i>Rock/Roek</i> here will be used from now on to forge
+      new word that will mean specific type of inn - this way unwanted references will be thrown
+      out in favour of worldbuilding.
+    </td>
+  </tr>
+
 </table>
 
 ---

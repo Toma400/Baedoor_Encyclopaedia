@@ -8,6 +8,7 @@
 - [Fegar County](Lore/BaeCL_Fegar.md)
 - [Isuga](Lore/BaeCL_Isuga.md) [🔱](/Loreum/Topics/Geography/Baedoor/Cities/Isuga.md)
 - [Kel Desert](Lore/BaeCL_Kel_Desert.md) [🔱](/Loreum/Topics/Geography/Baedoor/Lands/Kel_Desert.md)
+- [Menerun](Lore/BaeCL_Menerun.md) [🔱](/Loreum/Topics/Geography/Jitado/Cities/Menerun.md)
 - [Mining Hills](Lore/BaeCL_Mining_Hills.md)
 
 ### Per source:

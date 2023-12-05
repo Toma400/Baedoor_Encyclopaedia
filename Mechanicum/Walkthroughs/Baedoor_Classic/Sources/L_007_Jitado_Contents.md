@@ -21,6 +21,18 @@
             <img alt="Jitado Archives, Photo 1" height="280" src="/Assets/Sources/L_007_Jitado/arv_jitado_1.jpg" width="416"/>
         </td>
     </tr>
+    <tr>
+        <td align="center">2</td>
+        <td>
+            <img alt="Jitado Archives, Photo 2" height="280" src="/Assets/Sources/L_007_Jitado/arv_jitado_2.jpg" width="416"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">3</td>
+        <td>
+            <img alt="Jitado Archives, Photo 3" height="280" src="/Assets/Sources/L_007_Jitado/arv_jitado_3.jpg" width="416"/>
+        </td>
+    </tr>
 </table>
 
 ---

@@ -90,27 +90,31 @@ or just if you would like to look at cultural differences between civilisations.
 ### Jitadian Names
 <center><span style="color:#668c99"><b>Male names</b></span></center>
 
-| Name      | Localisation | Description                                                            |
-|-----------|--------------|------------------------------------------------------------------------|
-| Arentras  | Jitado       | Common name                                                            |
-| Cryan     | Jitado       | Rare name used in harbour towns                                        |
-| Eixtijn   | Jitado       | Extremely rare name of foreign origin, possibly from Eimr or Mes Inpea |
-| Entar     | Jitado       | Common name                                                            |
-| Frode     | Jitado       | Common name                                                            |
-| Indion    | Jitado       | Rare name originating from jitadean language                           |
-| Invari    | Jitado       | Rare name of north and middle parts of Jitado                          |
-| Isou      | Jitado       | Common name                                                            |
-| Ixrilidas | Jitado       | Rare name with a bit of foreign feel                                   |
-| Jiro      | Jitado       | Rare name                                                              |
-| Niguel    | Jitado       | Rare name of east parts of Jitado                                      |
-| Nyver     | Jitado       | Rare name, male counterpart of Nyvera                                  |
-| Saytoin   | Jitado       | Rare name of south parts of Jitado, rarer variant of Sayton            |
-| Sayton    | Jitado       | Common name of south parts of Jitado                                   |
-| Si        | Jitado       | Common name in Pre Era                                                 |
-| Silas     | Jitado       | Common name                                                            |
-| Sin       | Jitado       | Common name, may be evolution of *Si*                                  |
-| Sjiniro   | Jitado       | Obscure combination of Sin and Jiro names                              |
-| Yraeni    | Jitado       | Rare name                                                              |
+| Name       | Localisation | Description                                                            |
+|------------|--------------|------------------------------------------------------------------------|
+| Arentras   | Jitado       | Common name                                                            |
+| Cryan      | Jitado       | Rare name used in harbour towns                                        |
+| Eixtijn    | Jitado       | Extremely rare name of foreign origin, possibly from Eimr or Mes Inpea |
+| Entar      | Jitado       | Common name                                                            |
+| Frode      | Jitado       | Common name                                                            |
+| Hord       | Jitado       | Semi-rare name                                                         |
+| Indion     | Jitado       | Rare name originating from jitadean language                           |
+| Invari     | Jitado       | Rare name of north and middle parts of Jitado                          |
+| Isou       | Jitado       | Common name                                                            |
+| Ixrilidas  | Jitado       | Rare name with a bit of foreign feel                                   |
+| Jiro       | Jitado       | Rare name                                                              |
+| Lavsin     | Jitado       | Common name in Pre Era, got rarer with time                            |
+| Nicoi      | Jitado       | Rare name                                                              |
+| Nicolavsin | Jitado       | Rare combination of Nicoi and Lavsin                                   |
+| Niguel     | Jitado       | Rare name of east parts of Jitado                                      |
+| Nyver      | Jitado       | Rare name, male counterpart of Nyvera                                  |
+| Saytoin    | Jitado       | Rare name of south parts of Jitado, rarer variant of Sayton            |
+| Sayton     | Jitado       | Common name of south parts of Jitado                                   |
+| Si         | Jitado       | Common name in Pre Era                                                 |
+| Silas      | Jitado       | Common name                                                            |
+| Sin        | Jitado       | Common name, may be evolution of *Si*                                  |
+| Sjiniro    | Jitado       | Obscure combination of Sin and Jiro names                              |
+| Yraeni     | Jitado       | Rare name                                                              |
 
 <center><span style="color:#668c99"><b>Female names</b></span></center>
 

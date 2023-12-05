@@ -17,7 +17,8 @@ After all, modern Menerun is home for several universities and magic guilds.
 ### PLACES
 #### Evrun
 - [Flower Street](Places/Enfrvein.md)
-- Inn
+- Silas' Inn
+- Hord's Inn
 #### Selesas
 - Inn
 #### Curt Kurtque
