@@ -41,5 +41,12 @@ be finished in year 925 NE.
 [📿 Between Shadows and Light](/Mechanicum/Walkthroughs/BSaL/Lore/BSaL_Ansur.md)
 
 ---
-♜♢✥ + add name to name list + 326 NE into **history** + add link to BSaL walkthrough + links to locations and people  
+### 🗺️ MAPS
+
+|  ![](/Assets/Maps/ansur.jpg)   |                      ![](/Assets/Maps/ansur_by_kari.png)                       |
+|:------------------------------:|:------------------------------------------------------------------------------:|
+| Map of Ansur Isle as of 920 NE | Concept art by [skeletontonguedworld](https://github.com/skeletontonguedworld) |
+
+---
+♜♢✥ + add name to name list + 326 NE into **history** + links to locations and people  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/East_Moon.md)
