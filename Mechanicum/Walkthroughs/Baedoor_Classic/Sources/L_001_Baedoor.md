@@ -3,10 +3,10 @@
 
 ---
 ### Table of contents
-- [Raw contents](001_Lnd__Baedoor_Contents.md)
-- [Source integration](001_Lnd__Baedoor.md#source-integration)
-- [Description](001_Lnd__Baedoor.md#description)
-- [Source lore accuracy](001_Lnd__Baedoor.md#source-lore-accuracy)
+- [Raw contents](L_001_Baedoor_Contents.md)
+- [Source integration](L_001_Baedoor.md#source-integration)
+- [Description](L_001_Baedoor.md#description)
+- [Source lore accuracy](L_001_Baedoor.md#source-lore-accuracy)
 
 ---
 ### Source integration
@@ -45,7 +45,7 @@ The main culprit is incoherent dating at the time, which made Tom Varteford exis
   first one
 
 This makes this notebook yet extremely valuable, but historically broken, so to speak. To see further
-treating, look at [source lore accuracy](001_Lnd__Baedoor.md#source-lore-accuracy) section. Either
+treating, look at [source lore accuracy](L_001_Baedoor.md#source-lore-accuracy) section. Either
 way, this notebook began something which we could call "middle-era" of current Baedoor universe, and
 in strict sense, the universe began with it, getting its own, proud name inherited from those lands.
 
