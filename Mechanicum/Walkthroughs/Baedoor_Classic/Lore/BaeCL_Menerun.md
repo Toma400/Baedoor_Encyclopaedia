@@ -1,4 +1,4 @@
-# 📿 Menerun City
+# 📿 Menerun
 
 ---
 **🪔 Lands** (2004)
@@ -190,6 +190,46 @@
             Harlid, T-Tomek, Ylandn
           </dd>
       </dl>
+    </td>
+  </tr>
+
+  <!--PHOTO 11-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 11" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_11.jpg" width="416"/></td>
+    <th align="centre">Dawn Tear Fields</th>
+  </tr>
+  <tr>
+    <td>
+      One of the simplest pages from the notebook. It is simply small in-town plantation of Dawn Tear
+      plants (Polish vague name <i>zielone zioło</i> is renamed to
+      <i><a href="/Loreum/Topics/Nature/Herbarium/List/Dawn_Tear.md">Dawn Tear</a></i>).
+    </td>
+  </tr>
+
+  <!--PHOTO 12-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 12" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_12.jpg" width="416"/></td>
+    <th align="centre">Curt Kurtque Inn</th>
+  </tr>
+  <tr>
+    <td>
+      This page comes back to Curt Kurtque district, showcasing yet another inn, this time
+      named after the area. Name here is original spelling of Curt Kurtque, but it was changed slightly
+      first time when the notebook was discovered, to align better with jitadean spelling.
+    </td>
+  </tr>
+
+  <!--PHOTO 13-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 13" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_13.jpg" width="416"/></td>
+    <th align="centre">Menerun Road Towards Raliun</th>
+  </tr>
+  <tr>
+    <td>
+      This page finishes Menerun and shows road going to Raliun, with roadsign stating directions.<br>
+      It also nicely shows how outskirts of the city are designed to harvest, extending Curt Kurtque
+      district.<br>
+      What is unusual, though, is depiction of skeletal workers, which was not really possible.
     </td>
   </tr>
 

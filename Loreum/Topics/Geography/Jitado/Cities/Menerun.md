@@ -23,6 +23,7 @@ After all, modern Menerun is home for several universities and magic guilds.
 - Selesas Touer Inn
 #### Curt Kurtque
 - Tard's Inn
+- Curt Kurtque Inn
 #### Ayeras
 - Ayeras Inn
 - Hotel
