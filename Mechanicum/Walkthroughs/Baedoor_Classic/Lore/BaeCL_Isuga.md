@@ -8,7 +8,7 @@
 <table>
   <!--PHOTO 1-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 38" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_38.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 38" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_38.jpg" width="416"/></td>
     <th align="centre">Devako's Lot</th>
   </tr>
   <tr>
@@ -24,7 +24,7 @@
   </tr>
   <!--PHOTO 2-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 39" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_39.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 39" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_39.jpg" width="416"/></td>
     <th align="centre">Tom Varteford's Cocoa Plantation</th>
   </tr>
   <tr>
@@ -37,7 +37,7 @@
   </tr>
   <!--PHOTO 3-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 40" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_40.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 40" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_40.jpg" width="416"/></td>
     <th align="centre">Isuga Exit Gates</th>
   </tr>
   <tr>

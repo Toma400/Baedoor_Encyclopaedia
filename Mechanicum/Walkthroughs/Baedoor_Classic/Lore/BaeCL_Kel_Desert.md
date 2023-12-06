@@ -8,7 +8,7 @@
 <table>
   <!--PHOTO 1-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 41" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_41.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 41" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_41.jpg" width="416"/></td>
     <th align="centre">Small Mastabah</th>
   </tr>
   <tr>
@@ -19,7 +19,7 @@
   </tr>
   <!--PHOTO 2-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 42" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_42.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 42" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_42.jpg" width="416"/></td>
     <th align="centre">Buildings Ruins</th>
   </tr>
   <tr>
@@ -34,7 +34,7 @@
   </tr>
   <!--PHOTO 3-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 43" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_43.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 43" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_43.jpg" width="416"/></td>
     <th align="centre">Palace Entry</th>
   </tr>
   <tr>
@@ -46,7 +46,7 @@
   </tr>
   <!--PHOTO 4-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 44" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_44.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 44" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_44.jpg" width="416"/></td>
     <th align="centre">Desert Palace</th>
   </tr>
   <tr>
@@ -58,7 +58,7 @@
   </tr>
   <!--PHOTO 5-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 45" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_45.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 45" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_45.jpg" width="416"/></td>
     <th align="centre">Catacomb Entry</th>
   </tr>
   <tr>
@@ -70,7 +70,7 @@
   </tr>
   <!--PHOTO 6 & 7-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 46" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_46.jpg" width="416"/><br><img alt="Baedoor Archives, Photo 46" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_47.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 46" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_46.jpg" width="416"/><br><img alt="Baedoor Archives, Photo 46" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_47.jpg" width="416"/></td>
     <th align="centre">Catacombs</th>
   </tr>
   <tr>

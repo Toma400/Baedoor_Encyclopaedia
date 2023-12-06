@@ -9,7 +9,7 @@
 <table>
   <!--PHOTO 1-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 1" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_1.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 1" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_1.jpg" width="416"/></td>
     <th align="centre">Baedoor Gates</th>
   </tr>
   <tr>
@@ -23,7 +23,7 @@
 
   <!--PHOTO 2-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 2" height="272" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_2.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 2" height="272" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_2.jpg" width="416"/></td>
     <th align="centre">Gneis's Inn</th>
   </tr>
   <tr>
@@ -35,7 +35,7 @@
 
   <!--PHOTO 3-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 3" height="278" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_3.jpg" width="408"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 3" height="278" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_3.jpg" width="408"/></td>
     <th align="centre">Newspaper's Office</th>
   </tr>
   <tr>
@@ -47,7 +47,7 @@
 
   <!--PHOTO 4-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 4" height="288" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_4.jpg" width="401"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 4" height="288" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_4.jpg" width="401"/></td>
     <th align="centre">Town's Service Hall</th>
   </tr>
   <tr>
@@ -66,7 +66,7 @@
 
   <!--PHOTO 5-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 5" height="276" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_5.jpg" width="407"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 5" height="276" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_5.jpg" width="407"/></td>
     <th align="centre">Worker's Guild</th>
   </tr>
   <tr>
@@ -81,7 +81,7 @@
 
   <!--PHOTO 6-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 6" height="278" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_6.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 6" height="278" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_6.jpg" width="416"/></td>
     <th align="centre">Guard's Tower & Smith</th>
   </tr>
   <tr>
@@ -95,7 +95,7 @@
 
   <!--PHOTO 7-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 7" height="276" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_7.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 7" height="276" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_7.jpg" width="416"/></td>
     <th align="centre">Alchemic's House</th>
   </tr>
   <tr>
@@ -109,7 +109,7 @@
 
   <!--PHOTO 8-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 8" height="192" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_8.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 8" height="192" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_8.jpg" width="416"/></td>
     <th align="centre">Barracks</th>
   </tr>
   <tr>
@@ -126,7 +126,7 @@
 
   <!--PHOTO 9-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 9" height="280" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_9.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 9" height="280" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_9.jpg" width="416"/></td>
     <th align="centre">Hanyah's House and Small Public Square</th>
   </tr>
   <tr>
@@ -138,7 +138,7 @@
 
   <!--PHOTO 10-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 10" height="192" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_10.jpg" width="410"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 10" height="192" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_10.jpg" width="410"/></td>
     <th align="centre">Baedoor Court</th>
   </tr>
   <tr>
@@ -149,7 +149,7 @@
 
   <!--PHOTO 11-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 11" height="225" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_11.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 11" height="225" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_11.jpg" width="416"/></td>
     <th align="centre">Jail and Guardhouse</th>
   </tr>
   <tr>
@@ -163,7 +163,7 @@
 
   <!--PHOTO 12-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 12" height="281" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_12.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 12" height="281" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_12.jpg" width="416"/></td>
     <th align="centre">Mill and Sewing House</th>
   </tr>
   <tr>
@@ -175,7 +175,7 @@
 
   <!--PHOTO 13-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 13" height="270" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_13.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 13" height="270" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_13.jpg" width="416"/></td>
     <th align="centre">Townhall</th>
   </tr>
   <tr>
@@ -189,7 +189,7 @@
 
   <!--PHOTO 14-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 14" height="277" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_14.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 14" height="277" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_14.jpg" width="416"/></td>
     <th align="centre">Butcher</th>
   </tr>
   <tr>
@@ -201,7 +201,7 @@
 
   <!--PHOTO 15-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 15" height="289" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_15.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 15" height="289" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_15.jpg" width="416"/></td>
     <th align="centre">Mages Guild</th>
   </tr>
   <tr>
@@ -216,7 +216,7 @@
 
   <!--PHOTO 16-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 16" height="268" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_16.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 16" height="268" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_16.jpg" width="416"/></td>
     <th align="centre">Leaving Gates</th>
   </tr>
   <tr>

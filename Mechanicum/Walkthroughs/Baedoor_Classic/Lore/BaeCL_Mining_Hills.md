@@ -9,7 +9,7 @@
 <table>
   <!--PHOTO 1-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 22" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_22.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 22" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_22.jpg" width="416"/></td>
     <th align="centre">Lower Hills Entry</th>
   </tr>
   <tr>
@@ -20,7 +20,7 @@
   </tr>
   <!--PHOTO 2-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 23" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_23.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 23" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_23.jpg" width="416"/></td>
     <th align="centre">Cirtain Mine</th>
   </tr>
   <tr>
@@ -32,7 +32,7 @@
   </tr>
   <!--PHOTO 3-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 24" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_24.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 24" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_24.jpg" width="416"/></td>
     <th align="centre">Lower Hills Mines</th>
   </tr>
   <tr>
@@ -45,7 +45,7 @@
   </tr>
   <!--PHOTO 4-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 25" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_25.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 25" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_25.jpg" width="416"/></td>
     <th align="centre">Middle Hills</th>
   </tr>
   <tr>
@@ -59,7 +59,7 @@
   </tr>
   <!--PHOTO 5-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 26" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_26.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 26" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_26.jpg" width="416"/></td>
     <th align="centre">Mason House</th>
   </tr>
   <tr>
@@ -72,7 +72,7 @@
   </tr>
   <!--PHOTO 6-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 27" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_27.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 27" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_27.jpg" width="416"/></td>
     <th align="centre">Ravine</th>
   </tr>
   <tr>
@@ -84,7 +84,7 @@
   </tr>
   <!--PHOTO 7-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 28" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_28.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 28" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_28.jpg" width="416"/></td>
     <th align="centre">High Hills Pass</th>
   </tr>
   <tr>
@@ -95,7 +95,7 @@
   </tr>
   <!--PHOTO 8-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 29" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_29.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 29" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_29.jpg" width="416"/></td>
     <th align="centre">High Hills Pass</th>
   </tr>
   <tr>

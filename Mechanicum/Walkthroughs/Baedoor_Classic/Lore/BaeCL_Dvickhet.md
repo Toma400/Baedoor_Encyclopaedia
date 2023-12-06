@@ -8,7 +8,7 @@
 <table>
   <!--PHOTO 1-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 48" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_48.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 48" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_48.jpg" width="416"/></td>
     <th align="centre">Dvickhet Entrance</th>
   </tr>
   <tr>
@@ -22,7 +22,7 @@
   </tr>
   <!--PHOTO 2-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 49" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_49.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 49" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_49.jpg" width="416"/></td>
     <th align="centre">City Governor</th>
   </tr>
   <tr>
@@ -34,7 +34,7 @@
   </tr>
   <!--PHOTO 3-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 50" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_50.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 50" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_50.jpg" width="416"/></td>
     <th align="centre">Dvickhet Public Square</th>
   </tr>
   <tr>
@@ -45,7 +45,7 @@
   </tr>
   <!--PHOTO 4-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 51" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_51.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 51" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_51.jpg" width="416"/></td>
     <th align="centre">Jail</th>
   </tr>
   <tr>
@@ -58,7 +58,7 @@
   </tr>
   <!--PHOTO 5-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 52" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_52.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 52" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_52.jpg" width="416"/></td>
     <th align="centre">Teleporter</th>
   </tr>
   <tr>
@@ -73,7 +73,7 @@
   </tr>
   <!--PHOTO 6-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 53" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_53.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 53" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_53.jpg" width="416"/></td>
     <th align="centre">Magical Obelisk</th>
   </tr>
   <tr>
@@ -87,7 +87,7 @@
   </tr>
   <!--PHOTO 7-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 54" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_54.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 54" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_54.jpg" width="416"/></td>
     <th align="centre">Dvickhet Exit Gate</th>
   </tr>
   <tr>
