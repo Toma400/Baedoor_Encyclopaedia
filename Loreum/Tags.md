@@ -28,6 +28,7 @@ If this section becomes too big, it can be split into linked sections in the fut
 </span>
 
 * [Ash Veil](Topics/Nature/Herbarium/List/Ash_Veil.md)
+* [Dawn Tear](Topics/Nature/Herbarium/List/Dawn_Tear.md)
 * [Hyerbitus](Topics/Nature/Herbarium/List/Hyerbitus.md)
 * [Jaspen](Topics/Nature/Herbarium/List/Jaspen.md)
 * [Lhue](Topics/Nature/Herbarium/List/Lhue.md)

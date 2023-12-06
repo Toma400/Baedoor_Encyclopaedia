@@ -19,6 +19,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Cuerven Valley](Topics/Geography/East_Moon/Lands/Cuerven_Valley.md)
 
 ### D
+- [Dawn Tear](Topics/Nature/Herbarium/List/Dawn_Tear.md)
 - [Delai Eir](Topics/Characters/List/Delai_Eir.md)
 
 ### E
