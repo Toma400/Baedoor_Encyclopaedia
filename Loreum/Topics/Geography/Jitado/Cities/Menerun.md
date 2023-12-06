@@ -24,6 +24,7 @@ After all, modern Menerun is home for several universities and magic guilds.
 #### Curt Kurtque
 - Tard's Inn
 #### Ayeras
+- Ayeras Inn
 - Hotel
 
 ---

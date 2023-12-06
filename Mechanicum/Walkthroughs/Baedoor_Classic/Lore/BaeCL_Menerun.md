@@ -71,7 +71,6 @@
     </td>
   </tr>
 
-
   <!--PHOTO 5-->
   <tr>
     <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 5" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_5.jpg" width="416"/></td>
@@ -93,7 +92,6 @@
     </td>
   </tr>
 
-
   <!--PHOTO 6-->
   <tr>
     <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 6" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_6.jpg" width="416"/></td>
@@ -111,7 +109,6 @@
     </td>
   </tr>
 
-
   <!--PHOTO 7-->
   <tr>
     <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 7" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_7.jpg" width="416"/></td>
@@ -122,6 +119,77 @@
       Second page of Curt Kurtque district shows us more agricultural side of that area, being
       fields with herbs, as well as first inn in there, Tard's one.<br>
       The only comment I could put here is that probably fields would be separated by stone wall.
+    </td>
+  </tr>
+
+  <!--PHOTO 8-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 8" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_8.jpg" width="416"/></td>
+    <th align="centre">Smith and quarry</th>
+  </tr>
+  <tr>
+    <td>
+      This page shows precisely why Curt Kurtque is considered as poor, yet important district, since
+      all crucial elements of its character is there - smith house, as well as quarry which usually
+      should be put in outskirts of the city.
+    </td>
+  </tr>
+
+  <!--PHOTO 9-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 9" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_9.jpg" width="416"/></td>
+    <th align="centre">Ayeras Inn</th>
+  </tr>
+  <tr>
+    <td>
+      Ayeras district border is not emphasized in any way, and this panel showcases this sharp
+      change by simply putting inn named after the district.<br>
+      I think this page may be one of most exemplar for how lore accurate those simple images are:
+      level of detail given to terrain shows how much building placement matters for this new
+      district to be considered aesthetical and grandiose.
+    </td>
+  </tr>
+
+  <!--PHOTO 10-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 10" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_10.jpg" width="416"/></td>
+    <th align="centre">Ayeras Hotel</th>
+  </tr>
+  <tr>
+    <td>
+      Unlike previous panel, name of hotel is not specified, so we can only guess what is its name.<br>
+      We can also see that height management is again shown, if it wasn't obvious it's rather rich
+      place solely by the size and amount of guests this place could take care of (44 to be exact).<br>
+      <br>
+      There are two things I would like to emphasize, especially given this place features double
+      image.<br>
+      <b>First</b>, there's element commonly seen in several notebooks, which is elevator.
+      This is obviously a technical incoherence, but should be forged to our benefit:
+      it pushes narracy that some sort of lifts (either mechanical, pneumatic or kinematic systems)
+      were built at early time.<br>
+      Jitado elevators do not necessarily need to be product of their own (however it is believable),
+      it could be as well imported product for wealthy from places like Seiteh.<br>
+      <b>Secondly</b>, second page (marked as 10b) showcase a lot of names, many of which should be
+      considered as lore-unfriendly. Some of those can be taken though, or slightly changed:
+      <dl>
+        <dt> Taken as-is</dt>
+          <dd> 
+            Vivard, Abe, Jadir (of ghloddish origin, see Yadr), Usthad (♜: future orc name)
+          </dd>
+        <dt> Renamed</dt>
+          <dd> 
+            Suhu > Sunu   <br>
+            Juls > Jules  <br>
+            Salni > Salvi <br>
+            Virak > Viran
+          </dd>
+        <dt> Discarded</dt>
+          <dd>
+            Kiełb, A, Ab, Abb, Bubu, Aa, Aba, Abab, Abba, Abaa, Abbb, Boczek, Abac, C, Ca, Cb, Cc,
+            Caa, Cba, Cca, Cab, Cbb, Cbc, Ccc, Futu, Lusiu, Daa, Dab, Dac, Yrh, Orh, Jifford, Labadd,
+            Harlid, T-Tomek, Ylandn
+          </dd>
+      </dl>
     </td>
   </tr>
 

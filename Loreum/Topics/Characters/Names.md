@@ -92,6 +92,7 @@ or just if you would like to look at cultural differences between civilisations.
 
 | Name       | Localisation | Description                                                            |
 |------------|--------------|------------------------------------------------------------------------|
+| Abe        | Jitado       | Rare name                                                              |
 | Arentras   | Jitado       | Common name                                                            |
 | Cryan      | Jitado       | Rare name used in harbour towns                                        |
 | Eixtijn    | Jitado       | Extremely rare name of foreign origin, possibly from Eimr or Mes Inpea |
@@ -102,7 +103,9 @@ or just if you would like to look at cultural differences between civilisations.
 | Invari     | Jitado       | Rare name of north and middle parts of Jitado                          |
 | Isou       | Jitado       | Common name                                                            |
 | Ixrilidas  | Jitado       | Rare name with a bit of foreign feel                                   |
+| Jadir      | Jitado       | Jitadified variant of ghloddish Yathr/Yadr                             |
 | Jiro       | Jitado       | Rare name                                                              |
+| Jules      | Jitado       | Common name                                                            |
 | Lavsin     | Jitado       | Common name in Pre Era, got rarer with time                            |
 | Nicoi      | Jitado       | Rare name                                                              |
 | Nicolavsin | Jitado       | Rare combination of Nicoi and Lavsin                                   |
@@ -117,6 +120,8 @@ or just if you would like to look at cultural differences between civilisations.
 | Tard       | Jitado       | Semi-rare name                                                         |
 | Vico       | Jitado       | Rare name                                                              |
 | Vicolavsin | Jitado       | Extremely rare combination of Vicko and Lavsin                         |
+| Viran      | Jitado       | Semi-common name                                                       |
+| Vivard     | Jitado       | Rare name                                                              |
 | Yraeni     | Jitado       | Rare name                                                              |
 
 <center><span style="color:#668c99"><b>Female names</b></span></center>
@@ -125,8 +130,10 @@ or just if you would like to look at cultural differences between civilisations.
 |--------|--------------|----------------------------------------|
 | Lorat  | Jitado       | Common name                            |
 | Nyvera | Jitado       | Rare name, female counterpart of Nyver |
+| Salvi  | Jitado       | Common name                            |
 | Sana   | Jitado       | Common name                            |
 | Sanae  | Jitado       | Common name, variant of *Sana*         |
+| Sunu   | Jitado       | Rare name                              |
 
 ---
 ### Mesinpean Names
@@ -149,30 +156,34 @@ or just if you would like to look at cultural differences between civilisations.
 ### Ghloddish Names
 <center><span style="color:#668c99"><b>Male names</b></span></center>
 
-| Name    | Localisation   | Description                                |
-|---------|----------------|--------------------------------------------|
-| T'sheit | Outside Seiteh | Rare name with hearable foreign influences |
+| Name    | Localisation       | Description                                |
+|---------|--------------------|--------------------------------------------|
+| T'sheit | Outside Seiteh     | Rare name with hearable foreign influences |
+| Yathr   | Seiteh and outside | Semi-rare name across whole Seiteh         |
+| Yadr    | Seiteh and outside | Modern variant of Yathr                    |
 
 
 ---
 ### Tri Names
 <center><span style="color:#668c99"><b>Male names</b></span></center>
 
-| Name   | Localisation                 | Description                                                                                        |
-|--------|------------------------------|----------------------------------------------------------------------------------------------------|
-| Ain    | West Moon                    | Semi-common tri name among all classes                                                             |
-| Ainji  | Whole Baedoor, Moon, Arennan | Common derivation of **Ain** appearing in New Era                                                  |
-| Asaai  | Arennan                      | Rare saphtri name                                                                                  |
-| Delai  | West Moon                    | Common tri name                                                                                    |
-| Heiyn  | Whole Baedoor, Rossevette    | Variant of **Heyn** name                                                                           |
-| Hes    | Arennan, rarely outside      | Rare saphtri name, may be impacted by ormath culture, as it does not appear natively anywhere else |
-| Heyn   | Whole Baedoor, Rossevette    | Baedoorised name, closest to be mix of **Heim** and **Ain** names                                  |
-| Riyell | Whole Baedoor, Rossevette    | Baedoorised variant of common tri names                                                            |
+| Name    | Localisation                 | Description                                                                                        |
+|---------|------------------------------|----------------------------------------------------------------------------------------------------|
+| Ain     | West Moon                    | Semi-common tri name among all classes                                                             |
+| Ainji   | Whole Baedoor, Moon, Arennan | Common derivation of **Ain** appearing in New Era                                                  |
+| Asaai   | Arennan                      | Rare saphtri name                                                                                  |
+| Delai   | West Moon                    | Common tri name                                                                                    |
+| Direnai | West Moon, Septei            | Semi-common gender-neutral tri name                                                                |
+| Heiyn   | Whole Baedoor, Rossevette    | Variant of **Heyn** name                                                                           |
+| Hes     | Arennan, rarely outside      | Rare saphtri name, may be impacted by ormath culture, as it does not appear natively anywhere else |
+| Heyn    | Whole Baedoor, Rossevette    | Baedoorised name, closest to be mix of **Heim** and **Ain** names                                  |
+| Riyell  | Whole Baedoor, Rossevette    | Baedoorised variant of common tri names                                                            |
 
 <center><span style="color:#668c99"><b>Female names</b></span></center>
 
 | Name     | Localisation              | Description                                  |
 |----------|---------------------------|----------------------------------------------|
+| Direnai  | West Moon, Septei         | Semi-common gender-neutral tri name          |
 | Vei      | Arennan, rarely outside   | Saphtri name                                 |
 | Veronica | Whole Baedoor, Rossevette | Inherited directly from Baedoor, rarely used |
 
