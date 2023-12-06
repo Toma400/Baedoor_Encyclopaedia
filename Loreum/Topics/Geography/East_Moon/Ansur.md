@@ -38,14 +38,21 @@ be finished in year 925 NE.
 - [Timetable of Ansur Isle](/Loreum/Topics/History/New_Era_Ansur.md)
 
 ---
-[📿 Between Shadows and Light](/Mechanicum/Walkthroughs/BSaL/Lore/BSaL_Ansur.md)
-
----
 ### 🗺️ MAPS
 
-|  ![](/Assets/Maps/ansur.jpg)   |                      ![](/Assets/Maps/ansur_by_kari.png)                       |
-|:------------------------------:|:------------------------------------------------------------------------------:|
-| Map of Ansur Isle as of 920 NE | Concept art by [skeletontonguedworld](https://github.com/skeletontonguedworld) |
+<table align="center" width="100%">
+    <tr>
+        <td height="300px"> <img alt="Ansur Map" height="390" src="/Assets/Maps/ansur.jpg" width="520"/>         </td>
+        <td height="300px"> <img alt="Ansur Map" height="390" src="/Assets/Maps/ansur_by_kari.jpg" width="520"/> </td>
+    </tr>
+    <tr>
+        <td> Map of Ansur Isle as of 920 NE </td>
+        <td> Concept art by <a href="https://github.com/skeletontonguedworld">skeletontonguedworld</a> </td>
+    </tr>
+</table>
+
+---
+[📿 Between Shadows and Light](/Mechanicum/Walkthroughs/BSaL/Lore/BSaL_Ansur.md)
 
 ---
 ♜♢✥ + add name to name list + 326 NE into **history** + links to locations and people  

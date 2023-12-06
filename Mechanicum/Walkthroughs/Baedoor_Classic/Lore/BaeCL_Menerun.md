@@ -54,6 +54,59 @@
     </td>
   </tr>
 
+  <!--PHOTO 4-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 4" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_4.jpg" width="416"/></td>
+    <th align="centre">Evrun Warehouse</th>
+  </tr>
+  <tr>
+    <td>
+      This page showcases Warehouse placed on Evrun street, with some odd trades that shows how Lands
+      interpreted differently resources at times - including <i>holiness</i> and <i>fire spell</i> as
+      of those.<br>
+      Building nearby seem to be just regular house, but what makes it interesting is appearance of
+      <i>faraurin</i> in it. This makes it a good source of new item and cultural aspect, especially
+      as <code>D.001:Baedoor</code> was discovered recently containing more information on jitadian
+      resources.
+    </td>
+  </tr>
+
+
+  <!--PHOTO 5-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 5" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_5.jpg" width="416"/></td>
+    <th align="centre">...</th>
+  </tr>
+  <tr>
+    <td>
+      ...
+    </td>
+  </tr>
+
+
+  <!--PHOTO 6-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 6" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_6.jpg" width="416"/></td>
+    <th align="centre">...</th>
+  </tr>
+  <tr>
+    <td>
+      ...
+    </td>
+  </tr>
+
+
+  <!--PHOTO 7-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 7" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_7.jpg" width="416"/></td>
+    <th align="centre">...</th>
+  </tr>
+  <tr>
+    <td>
+      ...
+    </td>
+  </tr>
+
 </table>
 
 ---

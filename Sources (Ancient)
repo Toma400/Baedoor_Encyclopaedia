@@ -28,32 +28,31 @@ L.007:Jitado
 
 ========================================================================
 RESERVED NUMBERS:
+[*] - has respective "D" variant
+
 L:
-    - 001 - Baedoor
+    - 001 - Baedoor [*]
     - 002 - Ghlodds
     - 003 - Moon Lands
     - 004 - Mes Inpea
     - 005 - Mrra
-    - 006 - WesternWald/Kaer
+    - 006 - WesternWald/Kaer [*]
     - 007 - Jitado
     - 008 - Vershaton
     - 009 -
     - 010 - Egypt Colony
-    - 011 - Forewind
+    - 011 - Forewind [*]
     - 012 - Karos
     - 013 -
     - 014 -
     - 015 -
       ...
-D:
-    - 001 - Baedoor
-      ... (see * above)
 I:
     - 001 - Baedoor <> Books
       ...
 M:
     - 001 - Kaer map
-    - 002 - Mes Inpea map
+    - 002 - Mes Inpea map [? it's in L.004:Mes Inpea, not separately]
       ...
 P:
       ...

@@ -20,7 +20,7 @@
 - [ ] Geography
 - [ ] Items
 - [ ] Books
-- [ ] Full screenshots archive
+- [x] Full screenshots archive
 
 ---
 ### Description

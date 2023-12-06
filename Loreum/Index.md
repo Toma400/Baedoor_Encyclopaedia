@@ -30,6 +30,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Evros](Topics/Geography/East_Moon/Cities/Evros.md)
 
 ### F
+- [Faraurin](Topics/Nature/Foods/List/Faraurin.md)
 - [Flower Street](Topics/Geography/Jitado/Cities/Places/Enfrvein.md)
 
 ### G
