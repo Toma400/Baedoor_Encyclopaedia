@@ -114,6 +114,9 @@ or just if you would like to look at cultural differences between civilisations.
 | Silas      | Jitado       | Common name                                                            |
 | Sin        | Jitado       | Common name, may be evolution of *Si*                                  |
 | Sjiniro    | Jitado       | Obscure combination of Sin and Jiro names                              |
+| Tard       | Jitado       | Semi-rare name                                                         |
+| Vico       | Jitado       | Rare name                                                              |
+| Vicolavsin | Jitado       | Extremely rare combination of Vicko and Lavsin                         |
 | Yraeni     | Jitado       | Rare name                                                              |
 
 <center><span style="color:#668c99"><b>Female names</b></span></center>

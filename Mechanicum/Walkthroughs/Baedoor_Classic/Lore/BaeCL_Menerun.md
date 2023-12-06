@@ -75,11 +75,21 @@
   <!--PHOTO 5-->
   <tr>
     <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 5" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_5.jpg" width="416"/></td>
-    <th align="centre">...</th>
+    <th align="centre">Selesas Touer Inn</th>
   </tr>
   <tr>
     <td>
-      ...
+      This area showcased contain building resembling castle, as well as yet another inn, this time
+      for Selesas district.<br>
+      It is a bit strange panel, as castle apparently is used as either library or bookstore, or is
+      at least storing some books in itself - architecture-wise though, it is not jitadic by any
+      means.<br>
+      Selesas Touer Inn, on the other hand, fits just greatly to the concept of new district being
+      artisan Selesas one. The name is interpreted to be proper noun, i.e. "Touer" do not mean
+      different kind of inn (as Roek do), but is part of inn's name alongside district name being
+      included.<br>
+      The only thing breaking immersion with the inn is fact that it is built still on Evrun street,
+      thus making district separation hard to measure.
     </td>
   </tr>
 
@@ -87,11 +97,17 @@
   <!--PHOTO 6-->
   <tr>
     <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 6" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_6.jpg" width="416"/></td>
-    <th align="centre">...</th>
+    <th align="centre">Curt Kurtque Gates</th>
   </tr>
   <tr>
     <td>
-      ...
+      Curt Kurtque gate is shown here by having some weird icy wall, but aside of that, it indicates
+      the change, here also visible by adjusted sign naming. We can see one more warehouse right
+      next to the gate, signifying economical side of Menerun.<br>
+      Lore-wise, this page has one more aspect not inline with current Jitado interpretation, as
+      it states Enfrvein being <i>further into</i> Menerun, while it is nowadays understood as part
+      of Evrun district. We can however defend this panel for bringing <i>Vicolavsin</i> name, so
+      previously awkward <i>Nicolavsin</i> makes now even more sense not being alone.<br>
     </td>
   </tr>
 
@@ -99,11 +115,13 @@
   <!--PHOTO 7-->
   <tr>
     <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 7" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_7.jpg" width="416"/></td>
-    <th align="centre">...</th>
+    <th align="centre">Tard's Inn</th>
   </tr>
   <tr>
     <td>
-      ...
+      Second page of Curt Kurtque district shows us more agricultural side of that area, being
+      fields with herbs, as well as first inn in there, Tard's one.<br>
+      The only comment I could put here is that probably fields would be separated by stone wall.
     </td>
   </tr>
 
