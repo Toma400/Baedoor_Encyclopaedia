@@ -1,7 +1,7 @@
 # 🥮 Faraurin
 
 ---
-<img alt="Dawn Tear" height="154" src="/Assets/Nature/Foods/faraurin.jpg" width="180"/><br><br>
+<img alt="Dawn Tear" height="154" src="/Assets/Nature/Foods/faraurin.jpg" width="180"/><br>
 
 Faraurin is popular jitadian seasoning made out of crushed [dried Dawn Tear flower](/Loreum/Topics/Nature/Herbarium/List/Dawn_Tear.md).
 Its taste is unique combination of salty and bitter taste, with moderate spice felt after a while.  
