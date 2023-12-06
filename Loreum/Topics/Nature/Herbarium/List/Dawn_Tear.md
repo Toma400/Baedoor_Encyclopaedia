@@ -4,7 +4,7 @@
 <span style="color:#90AA62">**plants**</span> [✦](/Loreum/Tags.md#-plants)  
 
 ---
-![](/Assets/Nature/Plants/dawn_tear.jpg)
+<img alt="Dawn Tear" height="244" src="/Assets/Nature/Plants/dawn_tear.jpg" width="200"/><br><br>
 
 **Dawn Tear** is plant inhabiting island of Jitado. Its name comes from glistering of its leaves,
 especially during early morning dew when the colour emphasises water drops lying on it.  
