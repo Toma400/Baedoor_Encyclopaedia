@@ -99,6 +99,36 @@
             <img alt="Jitado Archives, Photo 14" height="280" src="/Assets/Sources/L_007_Jitado/arv_jitado_13.jpg" width="416"/>
         </td>
     </tr>
+    <tr>
+        <td align="center">15</td>
+        <td>
+            <img alt="Jitado Archives, Photo 15" height="280" src="/Assets/Sources/L_007_Jitado/arv_jitado_14.jpg" width="416"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">16</td>
+        <td>
+            <img alt="Jitado Archives, Photo 16" height="280" src="/Assets/Sources/L_007_Jitado/arv_jitado_15.jpg" width="416"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">17</td>
+        <td>
+            <img alt="Jitado Archives, Photo 17" height="280" src="/Assets/Sources/L_007_Jitado/arv_jitado_16.jpg" width="416"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">18</td>
+        <td>
+            <img alt="Jitado Archives, Photo 18" height="280" src="/Assets/Sources/L_007_Jitado/arv_jitado_17.jpg" width="416"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">19</td>
+        <td>
+            <img alt="Jitado Archives, Photo 19" height="280" src="/Assets/Sources/L_007_Jitado/arv_jitado_18.jpg" width="416"/>
+        </td>
+    </tr>
 </table>
 
 ---

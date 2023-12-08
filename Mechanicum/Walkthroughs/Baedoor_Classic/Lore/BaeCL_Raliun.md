@@ -6,18 +6,64 @@
 ---
 <table>
   <!--PHOTO 1-->
-  <!--
   <tr>
-    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 14" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_14.jpg" width="416"/></td>
-    <th align="centre">...</th>
+    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 15" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_15.jpg" width="416"/></td>
+    <th align="centre">Murlun Vesk Inn</th>
   </tr>
   <tr>
     <td>
-      ...
+      Initial Raliun page shows Murl'n Inn, showing however a bit different name: <i>Murlun Vesk</i>.
+      This could be considered as accented form of stranger (Murl'n ~ Murlun), and additional word
+      could be used as quality, giving "Weary Stranger".<br>
+      Actually this archive makes me feel that jitadian should get slowly rid from accented forms
+      and so Murl'n Inn got renamed to Murlun Vesk (so from "pilgrim" to "weary pilgrim").<br>
+      This also makes a case that Murlun should be rather pilgrim that "strangest stranger", because
+      this makes more use cases than some weird graduation on noun.
     </td>
   </tr>
-  -->
 
+  <!--PHOTO 2-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 16" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_16.jpg" width="416"/></td>
+    <th align="centre">Ede's Inn</th>
+  </tr>
+  <tr>
+    <td>
+      There's something unusual about <code>L.007:Jitado</code> placing inns everywhere. Anyway, this
+      probably will lead to all towns having those spread across districts not mentioned in source
+      anyway.<br>
+      The panel itself shows some kind of communal centre which is pretty nice.
+    </td>
+  </tr>
+
+  <!--PHOTO 3-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 17" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_17.jpg" width="416"/></td>
+    <th align="centre">Bathhouse</th>
+  </tr>
+  <tr>
+    <td>
+      It's interesting page, because it shows bathhouse that were quite rare in Jitado, but common in
+      Mes Inpea. This however gives a hint on frequent relations between those civilisations which
+      is very true.<br>
+      Names showcased here are from Menerun's hotel, and just as such, they are renamed (Juls, Salni)
+      or entirely scraped (Jifford).
+    </td>
+  </tr>
+
+  <!--PHOTO 4-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 18" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_18.jpg" width="416"/></td>
+    <th align="centre">Path Towards Altauar Mountains</th>
+  </tr>
+  <tr>
+    <td>
+      This panel is pretty small in contents, but it showcases road that takes you to what is written
+      as <i>wrota</i> which is Polish for "gate". This allows for conclusion that path shown leads you
+      up towards Ino Anor manor and its gate to underground city. Gate is shown in next page.<br>
+      Sign contents, in case its unclear from photo: łaźnia (bathhouse), las (forest), wrota (gate).
+    </td>
+  </tr>
 </table>
 
 ---

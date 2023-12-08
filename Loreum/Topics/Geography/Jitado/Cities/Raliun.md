@@ -11,9 +11,13 @@ During expansion of the city, [Ino Anor](Ino_Anor.md) were built on Altauar slop
 
 ### PLACES
 - Gurdu Street
-- Murl'n Inn
+- Murlun Vesk Inn
+- Ede's Inn
 
 ---
-♢: Gurdu street ("Anxiety of death alley", not really translateable), Murl'n Inn ("Strangest of
-Stranger")  
+📿 [Baedoor Classic](/Mechanicum/Walkthroughs/Baedoor_Classic/Lore/BaeCL_Raliun.md)
+
+---
+♢: Gurdu street ("Anxiety of death alley", not really translateable), Murlun Vesk Inn ("Strangest of
+Stranger"/Murl'n early on, later renamed to "Tired Pilgrim"/Murlun Vesk)  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Jitado.md)

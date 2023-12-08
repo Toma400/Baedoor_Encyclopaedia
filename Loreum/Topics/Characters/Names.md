@@ -95,8 +95,11 @@ or just if you would like to look at cultural differences between civilisations.
 | Abe        | Jitado       | Rare name                                                              |
 | Arentras   | Jitado       | Common name                                                            |
 | Cryan      | Jitado       | Rare name used in harbour towns                                        |
+| Ede        | Jitado       | Rare name                                                              |
 | Eixtijn    | Jitado       | Extremely rare name of foreign origin, possibly from Eimr or Mes Inpea |
 | Entar      | Jitado       | Common name                                                            |
+| Euve       | Jitado       | Semi-rare name                                                         |
+| Frank      | Jitado       | Probably of foreign origin                                             | 
 | Frode      | Jitado       | Common name                                                            |
 | Hord       | Jitado       | Semi-rare name                                                         |
 | Indion     | Jitado       | Rare name originating from jitadean language                           |
@@ -119,7 +122,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Sjiniro    | Jitado       | Obscure combination of Sin and Jiro names                              |
 | Tard       | Jitado       | Semi-rare name                                                         |
 | Vico       | Jitado       | Rare name                                                              |
-| Vicolavsin | Jitado       | Extremely rare combination of Vicko and Lavsin                         |
+| Vicolavsin | Jitado       | Extremely rare combination of Vico and Lavsin                          |
 | Viran      | Jitado       | Semi-common name                                                       |
 | Vivard     | Jitado       | Rare name                                                              |
 | Yraeni     | Jitado       | Rare name                                                              |
@@ -128,6 +131,7 @@ or just if you would like to look at cultural differences between civilisations.
 
 | Name   | Localisation | Description                            |
 |--------|--------------|----------------------------------------|
+| Athe   | Jitado       | Rare name                              |
 | Lorat  | Jitado       | Common name                            |
 | Nyvera | Jitado       | Rare name, female counterpart of Nyver |
 | Salvi  | Jitado       | Common name                            |
