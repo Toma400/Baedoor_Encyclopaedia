@@ -7,7 +7,7 @@
 <table>
   <!--PHOTO 1-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 15" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_15.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 14" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_14.jpg" width="416"/></td>
     <th align="centre">Murlun Vesk Inn</th>
   </tr>
   <tr>
@@ -24,7 +24,7 @@
 
   <!--PHOTO 2-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 16" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_16.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 15" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_15.jpg" width="416"/></td>
     <th align="centre">Ede's Inn</th>
   </tr>
   <tr>
@@ -38,7 +38,7 @@
 
   <!--PHOTO 3-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 17" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_17.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 16" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_16.jpg" width="416"/></td>
     <th align="centre">Bathhouse</th>
   </tr>
   <tr>
@@ -53,7 +53,7 @@
 
   <!--PHOTO 4-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 18" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_18.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Jitado Archives, Photo 17" height="307" src="/Assets/Sources/L_007_Jitado/arv_jitado_17.jpg" width="416"/></td>
     <th align="centre">Path Towards Altauar Mountains</th>
   </tr>
   <tr>
