@@ -4,6 +4,10 @@
 <span style="color:#107C23">**cities**</span> [✦](/Loreum/Tags.md#-cities)  
 
 ---
+| <img src="/Assets/ino_anor_concept_art.png" width="248" height="350"> |
+|:---------------------------------------------------------------------:|
+|                    Ino Anor concept art by Toma400                    |
+
 **Ino Anor** (jit. *silent manor*) is underground city, carved into Altauar Mountains and being
 in fact recognised as part of [Raliun city](Raliun.md).  
 Its name comes from manor which is entrypoint to the city, serving as a gateway, place for visitors
