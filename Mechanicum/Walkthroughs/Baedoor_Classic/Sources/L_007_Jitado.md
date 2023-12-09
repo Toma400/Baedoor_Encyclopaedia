@@ -17,6 +17,7 @@
 - [ ] Literature
 - [ ] Historical events/personas
 - [ ] Historical places
+  - [ ] Translations of their names
 - [ ] Geography
 - [ ] Items
 - [ ] Books

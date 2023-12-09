@@ -93,20 +93,29 @@ or just if you would like to look at cultural differences between civilisations.
 | Name       | Localisation | Description                                                            |
 |------------|--------------|------------------------------------------------------------------------|
 | Abe        | Jitado       | Rare name                                                              |
+| Aial       | Jitado       | Semi-rare name, male variant of *Aiala*                                |
+| Aikatu     | Jitado       | Semi-rare name                                                         |
 | Arentras   | Jitado       | Common name                                                            |
+| Bedein     | Jitado       | Rare name of slightly foreign feel                                     |
 | Cryan      | Jitado       | Rare name used in harbour towns                                        |
 | Ede        | Jitado       | Rare name                                                              |
+| Eidin      | Jitado       | Rare name, common in Pre-Era, gender-neutral                           |
+| Eiriald    | Jitado       | Rare name of slightly foreign feel                                     |
 | Eixtijn    | Jitado       | Extremely rare name of foreign origin, possibly from Eimr or Mes Inpea |
 | Entar      | Jitado       | Common name                                                            |
 | Euve       | Jitado       | Semi-rare name                                                         |
 | Frank      | Jitado       | Probably of foreign origin                                             | 
 | Frode      | Jitado       | Common name                                                            |
 | Hord       | Jitado       | Semi-rare name                                                         |
+| Ilin       | Jitado       | Semi-common gender-neutral name                                        |
+| Ilion      | Jitado       | Semi-rare name, variant of *Ilin* of more masculine form               |
 | Indion     | Jitado       | Rare name originating from jitadean language                           |
 | Invari     | Jitado       | Rare name of north and middle parts of Jitado                          |
 | Isou       | Jitado       | Common name                                                            |
 | Ixrilidas  | Jitado       | Rare name with a bit of foreign feel                                   |
 | Jadir      | Jitado       | Jitadified variant of ghloddish Yathr/Yadr                             |
+| Jiv        | Jitado       | Rare name                                                              |
+| Jino       | Jitado       | Rare name                                                              |
 | Jiro       | Jitado       | Rare name                                                              |
 | Jules      | Jitado       | Common name                                                            |
 | Lavsin     | Jitado       | Common name in Pre Era, got rarer with time                            |
@@ -118,8 +127,10 @@ or just if you would like to look at cultural differences between civilisations.
 | Sayton     | Jitado       | Common name of south parts of Jitado                                   |
 | Si         | Jitado       | Common name in Pre Era                                                 |
 | Silas      | Jitado       | Common name                                                            |
+| Silv       | Jitado       | Semi-rare name                                                         |
 | Sin        | Jitado       | Common name, may be evolution of *Si*                                  |
 | Sjiniro    | Jitado       | Obscure combination of Sin and Jiro names                              |
+| Tanado     | Jitado       | Semi-rare name                                                         |
 | Tard       | Jitado       | Semi-rare name                                                         |
 | Vico       | Jitado       | Rare name                                                              |
 | Vicolavsin | Jitado       | Extremely rare combination of Vico and Lavsin                          |
@@ -129,15 +140,23 @@ or just if you would like to look at cultural differences between civilisations.
 
 <center><span style="color:#668c99"><b>Female names</b></span></center>
 
-| Name   | Localisation | Description                            |
-|--------|--------------|----------------------------------------|
-| Athe   | Jitado       | Rare name                              |
-| Lorat  | Jitado       | Common name                            |
-| Nyvera | Jitado       | Rare name, female counterpart of Nyver |
-| Salvi  | Jitado       | Common name                            |
-| Sana   | Jitado       | Common name                            |
-| Sanae  | Jitado       | Common name, variant of *Sana*         |
-| Sunu   | Jitado       | Rare name                              |
+| Name   | Localisation | Description                                     |
+|--------|--------------|-------------------------------------------------|
+| Alaia  | Jitado       | Semi-common name, more popular variant of Aiala |
+| Aloia  | Jitado       | Semi-common name, variant of Alaia              |
+| Aiala  | Jitado       | Semi-rare name, female variant of *Aial*        |
+| Athe   | Jitado       | Rare name                                       |
+| Bedeia | Jitado       | Female variant of *Bedein*                      |
+| Eida   | Jitado       | Rare name, more feminine variant of Eidin       |
+| Eidin  | Jitado       | Rare name, common in Pre-Era, gender-neutral    |
+| Ilin   | Jitado       | Semi-common gender-neutral name                 |
+| Lorat  | Jitado       | Common name                                     |
+| Nyvera | Jitado       | Rare name, female counterpart of Nyver          |
+| Salvi  | Jitado       | Common name                                     |
+| Sana   | Jitado       | Common name                                     |
+| Sanae  | Jitado       | Common name, variant of *Sana*                  |
+| Sina   | Jitado       | Rare name, female counterpart of Sin            |
+| Sunu   | Jitado       | Rare name                                       |
 
 ---
 ### Mesinpean Names
@@ -219,6 +238,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Name      | Localisation      | Description                     |
 |-----------|-------------------|---------------------------------|
 | Avani     | South-East Jitado | Trader house surname            |
+| Hai       | South-East Jitado | Trader family surname           |
 | Itahmutsi | Jitado            | Very rare surname, from Adelaie |
 | Tio       | Jitado            | Old jitadian surname            |
 
