@@ -1,5 +1,9 @@
 # 🌏 GEOGRAPHY
-All what creates the oververse, but mostly on Baedoor itself
+All what creates the oververse, but mostly on Baedoor itself.
+
+| <img alt="Baedoor Universe map" src="/Assets/Maps/baedoor_universe.png" width="240" height="280"/> |
+|:--------------------------------------------------------------------------------------------------:|
+|                                      Map of Baedoor universe                                       |
 
 ---
 ## 🌌 BAEDOOR MULTIVERSE
@@ -8,7 +12,7 @@ All what creates the oververse, but mostly on Baedoor itself
 #####      🔹 Northern Islands
 #####      🔹 [Baedoor](Geography/Baedoor_Continent/Baedoor.md)
 #####      🔹 Rossevette Islands
-#####      🔹 [Kaer](Geography/Baedoor_Continent/Kaer.md)
+#####      🔹 Kaer <!-- (Geography/Baedoor_Continent/Kaer.md) -->
 #####      🔹 Arennan
 ####   🔷 [Moon Continent](Geography/Moon_Continent.md)
 #####      🔹 West Moon
