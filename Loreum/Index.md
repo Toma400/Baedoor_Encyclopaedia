@@ -7,7 +7,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### A
 - [Adelaie](Topics/Geography/Jitado/Cities/Adelaie.md)
 - [Altauar](Topics/Geography/Jitado/Regions/Altauar.md) (region)
-- [Ansur](Topics/Geography/East_Moon/Ansur.md)
+- [Ansur](Topics/Geography/Moon_Continent/East_Moon/Ansur.md)
 - [Ash Veil](Topics/Nature/Herbarium/List/Ash_Veil.md)
 - [Avani, Si](Topics/Characters/List/Si_Avani.md)
 
@@ -16,19 +16,19 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Baedoor](Topics/Geography/Baedoor.md) (island)
 
 ### C
-- [Cuerven Valley](Topics/Geography/East_Moon/Lands/Cuerven_Valley.md)
+- [Cuerven Valley](Topics/Geography/Moon_Continent/East_Moon/Lands/Cuerven_Valley.md)
 
 ### D
 - [Dawn Tear](Topics/Nature/Herbarium/List/Dawn_Tear.md)
 - [Delai Eir](Topics/Characters/List/Delai_Eir.md)
 
 ### E
-- [East Moon](Topics/Geography/East_Moon.md)
+- [East Moon](Topics/Geography/Moon_Continent/East_Moon.md)
 - [Eir, Delai](Topics/Characters/List/Delai_Eir.md)
 - [Enahr, Esh](Topics/Characters/List/Esh_Enahr.md)
 - [Enfrvein](Topics/Geography/Jitado/Cities/Places/Enfrvein.md)
 - [Esh Enahr](Topics/Characters/List/Esh_Enahr.md)
-- [Evros](Topics/Geography/East_Moon/Cities/Evros.md)
+- [Evros](Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)
 
 ### F
 - [Faraurin](Topics/Nature/Foods/List/Faraurin.md)
@@ -66,7 +66,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Mes Inpea](Topics/Geography/Mes_Inpea.md) (island)
 
 ### N
-- [Nferth](Topics/Geography/East_Moon/Nferth.md)
+- [Nferth](Topics/Geography/Moon_Continent/East_Moon/Nferth.md)
 
 ### O
 - [Order of the Sword](Topics/Guilds/List/Order_of_the_Sword.md)
@@ -88,7 +88,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
 
 ### V
-- [Vaerdena](Topics/Geography/East_Moon/Lands/Vaerdena.md)
+- [Vaerdena](Topics/Geography/Moon_Continent/East_Moon/Lands/Vaerdena.md)
 - [Vulcanic Veil](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
 
 ### W

@@ -4,7 +4,7 @@
 <span style="color:#107C23">**cities**</span> [✦](/Loreum/Tags.md#-cities)  
 
 ---
-**Evros** (bae. *Evros*, "strongly growing") is medium-sized harbour town located on [**Ansur Isle**](/Loreum/Topics/Geography/East_Moon/Ansur.md), 
+**Evros** (bae. *Evros*, "strongly growing") is medium-sized harbour town located on [**Ansur Isle**](/Loreum/Topics/Geography/Moon_Continent/East_Mooninent/East_Moon/Ansur.md), 
 being main transit place for anyone sailing from Baedoor Continent to East Moon and reversely.  
 Since **Norran Gorth** decree, it extended heavily throughout later years.
 
@@ -25,4 +25,4 @@ In the other hand, governor holds his position in Town's Hall.
 ---
 ♢: guilds (FotB is Mage Guild, but exclusive to Ansur and it's one of those rare ones which like
 inputting magic into wands, which is rather unusual for Baedoor magic, but explains BSaL mage)  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/East_Moon.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Moon_Continent/East_Moon.mdnt/East_Moon.md)

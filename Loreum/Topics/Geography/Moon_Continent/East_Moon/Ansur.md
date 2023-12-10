@@ -56,4 +56,4 @@ be finished in year 925 NE.
 
 ---
 ♜♢✥ + add name to name list + 326 NE into **history** + links to locations and people  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/East_Moon.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Moon_Continent/East_Moon.mdnt/East_Moon.md)
