@@ -5,8 +5,8 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ---
 ### A
-- [Adelaie](Topics/Geography/Jitado/Cities/Adelaie.md)
-- [Altauar](Topics/Geography/Jitado/Regions/Altauar.md) (region)
+- [Adelaie](Topics/Geography/Old_Continent/Jitado/Cities/Adelaie.md)
+- [Altauar](Topics/Geography/Old_Continent/Jitado/Regions/Altauar.md) (region)
 - [Ansur](Topics/Geography/Moon_Continent/East_Moon/Ansur.md)
 - [Ash Veil](Topics/Nature/Herbarium/List/Ash_Veil.md)
 - [Avani, Si](Topics/Characters/List/Si_Avani.md)
@@ -26,13 +26,13 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [East Moon](Topics/Geography/Moon_Continent/East_Moon.md)
 - [Eir, Delai](Topics/Characters/List/Delai_Eir.md)
 - [Enahr, Esh](Topics/Characters/List/Esh_Enahr.md)
-- [Enfrvein](Topics/Geography/Jitado/Cities/Places/Enfrvein.md)
+- [Enfrvein](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
 - [Esh Enahr](Topics/Characters/List/Esh_Enahr.md)
 - [Evros](Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)
 
 ### F
 - [Faraurin](Topics/Nature/Foods/List/Faraurin.md)
-- [Flower Street](Topics/Geography/Jitado/Cities/Places/Enfrvein.md)
+- [Flower Street](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
 
 ### G
 - [Ghlodds](Topics/Races/Regular/Ghlodds.md)
@@ -44,12 +44,12 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### I
 - [I'si](Topics/Religions/Small/Temple_of_I'si.md) (Temple of I'si)
-- [Ino Anor](Topics/Geography/Jitado/Cities/Ino_Anor.md)
+- [Ino Anor](Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)
 - [Isuga](Topics/Geography/Baedoor/Cities/Isuga.md)
 
 ### J
 - [Jaspen](Topics/Nature/Herbarium/List/Jaspen.md)
-- [Jitado](Topics/Geography/Jitado.md) (island)
+- [Jitado](Topics/Geography/Old_Continent/Jitado.md) (island)
 
 ### K
 - [Kaer](Topics/Geography/Kaer.md)
@@ -62,8 +62,8 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### M
 - [Madai](Topics/Nature/Herbarium/List/Madai.md)
-- [Menerun](Topics/Geography/Jitado/Cities/Menerun.md)
-- [Mes Inpea](Topics/Geography/Mes_Inpea.md) (island)
+- [Menerun](Topics/Geography/Old_Continent/Jitado/Cities/Menerun.md)
+- [Mes Inpea](Topics/Geography/Old_Continent/Mes_Inpea.md) (island)
 
 ### N
 - [Nferth](Topics/Geography/Moon_Continent/East_Moon/Nferth.md)
@@ -75,7 +75,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Oververse](Topics/World_Mechanics/Oververse.md)
 
 ### R
-- [Raliun](Topics/Geography/Jitado/Cities/Raliun.md)
+- [Raliun](Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
 
 ### S
 - [Si Avani](Topics/Characters/List/Si_Avani.md)

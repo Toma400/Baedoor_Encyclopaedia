@@ -6,11 +6,11 @@ This region is historically known for exporting all sorts of resources, but most
 and minerals.
 
 ### TOWNS
-- [Menerun](/Loreum/Topics/Geography/Jitado/Cities/Menerun.md)
+- [Menerun](/Loreum/Topics/Geography/Old_Continent/Jitadontinent/Jitado/Cities/Menerun.md)
 - Raliun
 - Ino Anor
 - Adelaie
 
 ---
 ♜♢✥ / separate into country and island  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Jitado.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Old_Continent/Jitado.mdnent/Jitado.md)

@@ -33,4 +33,4 @@ After all, modern Menerun is home for several universities and magic guilds.
 
 ---
 ♜✥
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Jitado.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Old_Continent/Jitado.mdnent/Jitado.md)

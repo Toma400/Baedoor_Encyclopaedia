@@ -1,18 +1,18 @@
 # 📿 Lore
 
 ### Alphabetically:
-- [Adelaie](Lore/BaeCL_Adelaie.md) [🔱](/Loreum/Topics/Geography/Jitado/Cities/Adelaie.md)
+- [Adelaie](Lore/BaeCL_Adelaie.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Adelaie.md)
 - [Baedoor](Lore/BaeCL_Baedoor.md) [🔱](/Loreum/Topics/Geography/Baedoor/Cities/Baedoor.md)
 - [Baedoor Surroundings](Lore/BaeCL_Baedoor_Surroundings.md)
 - [Coonhě Forest](Lore/BaeCL_Coonhě_Forest.md)
 - [Dvickhet](Lore/BaeCL_Dvickhet.md)
 - [Fegar County](Lore/BaeCL_Fegar.md)
-- [Ino Anor](Lore/BaeCL_Ino_Anor.md) [🔱](/Loreum/Topics/Geography/Jitado/Cities/Ino_Anor.md)
+- [Ino Anor](Lore/BaeCL_Ino_Anor.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)
 - [Isuga](Lore/BaeCL_Isuga.md) [🔱](/Loreum/Topics/Geography/Baedoor/Cities/Isuga.md)
 - [Kel Desert](Lore/BaeCL_Kel_Desert.md) [🔱](/Loreum/Topics/Geography/Baedoor/Lands/Kel_Desert.md)
-- [Menerun](Lore/BaeCL_Menerun.md) [🔱](/Loreum/Topics/Geography/Jitado/Cities/Menerun.md)
+- [Menerun](Lore/BaeCL_Menerun.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Menerun.md)
 - [Mining Hills](Lore/BaeCL_Mining_Hills.md)
-- [Raliun](Lore/BaeCL_Raliun.md) [🔱](/Loreum/Topics/Geography/Jitado/Cities/Raliun.md)
+- [Raliun](Lore/BaeCL_Raliun.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
 
 ### Per source:
 <table>

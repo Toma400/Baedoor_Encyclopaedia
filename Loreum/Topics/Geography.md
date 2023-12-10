@@ -15,12 +15,10 @@ All what creates the oververse, but mostly on Baedoor itself
 #####      🔹 Moon Islands
 #####      🔹 Central Moon
 #####      🔹 [East Moon](Geography/Moon_Continent/East_Moon.md)
-####   🔷 Old Continent
-#####      🔹 [Mes Inpea](Geography/Mes_Inpea.md)
-#####      🔹 [Jitado](Geography/Jitado.md)
-#####      🔹 Eimr
-#####      🔹 Loesleen
-#####      🔹 Cargo
+####   🔷 [Old Continent](Geography/Old_Continent.md)
+#####      🔹 [Mes Inpea](Geography/Old_Continent/Mes_Inpea.md)
+#####      🔹 [Jitado](Geography/Old_Continent/Jitado.md)
+#####      🔹 Eimr Archipelago
 ####   🔷 Seiteh
 ####   🔷 The Azure Archipelago
 #####      🔹 Oe'os
