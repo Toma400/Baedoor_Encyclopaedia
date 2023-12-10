@@ -4,11 +4,11 @@ All what creates the oververse, but mostly on Baedoor itself
 ---
 ## 🌌 BAEDOOR MULTIVERSE
 ### 🪐 MAIN BRANCH
-####   🔷 Baedoor Continent
+####   🔷 [Baedoor Continent](Geography/Baedoor_Continent.md)
 #####      🔹 Northern Islands
-#####      🔹 [Baedoor](Geography/Baedoor.md)
+#####      🔹 [Baedoor](Geography/Baedoor_Continent/Baedoor.md)
 #####      🔹 Rossevette Islands
-#####      🔹 [Kaer](Geography/Kaer.md)
+#####      🔹 [Kaer](Geography/Baedoor_Continent/Kaer.md)
 #####      🔹 Arennan
 ####   🔷 [Moon Continent](Geography/Moon_Continent.md)
 #####      🔹 West Moon

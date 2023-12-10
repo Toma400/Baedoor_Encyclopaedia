@@ -4,7 +4,7 @@
 ``Simplified map of Ansur Isle as of 920 NE``
 
 **Isle of Ansur** (bae. *Ans Sur*, "land of hope") is small island positioned pretty much in between 
-old **[Baedoor city](/Loreum/Topics/Geography/Baedoor/Cities/Baedoor.md)** and **New Baedoor**, 
+old **[Baedoor city](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)** and **New Baedoor**, 
 being also one of the better places to stay during longer journey to any of those places. 
 Since third decade of New Era, it became known for its wine.
 

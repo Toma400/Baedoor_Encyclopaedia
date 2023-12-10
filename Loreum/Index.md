@@ -12,8 +12,9 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Avani, Si](Topics/Characters/List/Si_Avani.md)
 
 ### B
-- [Baedoor](Topics/Geography/Baedoor/Cities/Baedoor.md) (city)
-- [Baedoor](Topics/Geography/Baedoor.md) (island)
+- [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md) (city)
+- [Baedoor](Topics/Geography/Baedoor_Continent.md) (continent)
+- [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor.md) (island)
 
 ### C
 - [Cuerven Valley](Topics/Geography/Moon_Continent/East_Moon/Lands/Cuerven_Valley.md)
@@ -36,7 +37,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### G
 - [Ghlodds](Topics/Races/Regular/Ghlodds.md)
-- [Golden Lighthouse of Baedoor](Topics/Geography/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
+- [Golden Lighthouse of Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
 
 ### H
 - [Heim Winfleton](Topics/Characters/List/Heim_Winfleton.md)
@@ -45,15 +46,15 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### I
 - [I'si](Topics/Religions/Small/Temple_of_I'si.md) (Temple of I'si)
 - [Ino Anor](Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)
-- [Isuga](Topics/Geography/Baedoor/Cities/Isuga.md)
+- [Isuga](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md)
 
 ### J
 - [Jaspen](Topics/Nature/Herbarium/List/Jaspen.md)
 - [Jitado](Topics/Geography/Old_Continent/Jitado.md) (island)
 
 ### K
-- [Kaer](Topics/Geography/Kaer.md)
-- [Kel Desert](Topics/Geography/Baedoor/Lands/Kel_Desert.md)
+- [Kaer](Topics/Geography/Baedoor_Continent/Kaer.md)
+- [Kel Desert](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Kel_Desert.md)
 
 ### L
 - [Lhue](Topics/Nature/Herbarium/List/Lhue.md)
@@ -64,11 +65,13 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Madai](Topics/Nature/Herbarium/List/Madai.md)
 - [Menerun](Topics/Geography/Old_Continent/Jitado/Cities/Menerun.md)
 - [Mes Inpea](Topics/Geography/Old_Continent/Mes_Inpea.md) (island)
+- [Moon](Topics/Geography/Moon_Continent.md) (continent)
 
 ### N
 - [Nferth](Topics/Geography/Moon_Continent/East_Moon/Nferth.md)
 
 ### O
+- [Old Continent](Topics/Geography/Old_Continent.md)
 - [Order of the Sword](Topics/Guilds/List/Order_of_the_Sword.md)
 - [Ormaths](Topics/Races/Regular/Ormaths.md)
 - [Ostaequa](Topics/Nature/Bestiary/List/Ostaequa.md)
@@ -79,12 +82,12 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### S
 - [Si Avani](Topics/Characters/List/Si_Avani.md)
-- [Skirran](Topics/Geography/Baedoor/Cities/Skirran.md)
+- [Skirran](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)
 - [Starshifters](Topics/Guilds/List/Starshifters.md)
 
 ### T
 - [Temple of I'si](Topics/Religions/Small/Temple_of_I'si.md)
-- [Tom Varteford's Plantation](Topics/Geography/Baedoor/Places/Tom_Varteford_Plantation.md)
+- [Tom Varteford's Plantation](Topics/Geography/Baedoor_Continent/Baedoor/Places/Tom_Varteford_Plantation.md)
 - [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
 
 ### V
