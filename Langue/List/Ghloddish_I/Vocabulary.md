@@ -34,9 +34,11 @@
 |      e'e      | guide, master               | e:e           | e'-e               |                                                                           -                                                                           |
 |     e'oe'     | valley                      | e:oe:         | e'-oe'             |                                                                       e' + oe'                                                                        |
 |      er       | border                      | er            | e-r                |                                                                           -                                                                           |
+|     ethr      | heart, root                 | e:thr         | e-th-r             |                                                                           -                                                                           |
 |      gh'      | become alive/be made        | ghh           | gh'                |                                                                           -                                                                           |
 |      ghe      | soul, spirit                | ghe           | gh-e               |                    possibly inherited from `gh'` as spirit is considered as first creation element of soul, and furthermore, being                    |
 |    nar'se     | alive                       | nar:se        | n-ar'-s-e          |                                   nar + se'; this form is somehow less popular and will be deprecated in second era                                   |
+|    nash'r     | home                        | nash:r        | n-a-sh'-r          |                                                                           -                                                                           |
 |     ne'se     | alive                       | ne:se         | n-e'-s-e           |                                                                       nar + se'                                                                       |
 |      oe'      | land, world                 | oe:           | oe'                |                sometimes portrayed as ehric-influenced `eh`, but this is usually debunked, as `oe'` existed before Ghlodds left caves                 |
 |      s'       | and                         | s:            | s'                 |                                                                           -                                                                           |
@@ -62,8 +64,9 @@
 | ta'r'oesh'a'r | night (moon journey)        | taarroeshhaar | ta-ar'-oe-sh'-a'-r |                                                                    ta'r'oesh + a'r                                                                    |
 | ta'r'oesh's'r | day (sun journey)           | taarroeshhssr | ta-ar'-oe-sh'-s'-r |                                                                    ta'r'oesh + s'r                                                                    |
 |  ta'r'oeshe   | to get to know (somebody)   | taarroeshe    | ta-ar'-oe-sh-e     | ta'r'oe + she, from idea that you need to do something to find someone (word itself means both encountering the person and understanding them deeply) |
-|    ta'shr     | cover, disguise             | taashr        | ta'-sh-r           |                                                                           -                                                                           |
+|    ta'shr     | cover, disguise             | taashr        | ta'-sh-r           |                                 may be related that hiding is art of disappearing, "inside" may have such connections                                 |
 |   ta'shrghe   | shadow                      | taashrghe     | ta'-sh-r-gh-e      |                                                                     ta'shr + ghe                                                                      |
+|   ta'shroa    | (to) hide                   | taashr oa     | ta'-sh-r-oa        |                                                         ta'shr + -oa suffix common for verbs                                                          |
 |    th'se'     | destruction, extinction     | thhse:        | th'-s-e'           |                                                                           -                                                                           |
 |     thar      | yes                         | thar          | th-ar              |                                                                           -                                                                           |
 
@@ -104,8 +107,11 @@
 | (to) get to know (yourself) | ta'r'oeghe               | taarroeghe    | ta-ar'-oe-gh-e      |
 |           (to) go           | ta'r'a'                  | taarra:       | ta-ar'-a'           |
 |            guide            | e'e                      | e:e           | e'-e                |
+|            heart            | ethr                     | e:thr         | e-th-r              |
+|          (to) hide          | ta'shroa                 | taashr oa     | ta'-sh-r-oa         |
 |           higher            | a'- (prefix)             | a:            | a'                  |
 |          highland           | a'oe'                    | a:oe:         | a'-oe'              |
+|            home             | nash'r                   | nash:r        | n-a-sh'-r           |
  |              I              | asa'                     | asa:          | a-s-a'              |
 |           inside            | ta'hr                    | taahr         | ta-ah-r             |
 |           journey           | ta'r'oesh                | taarroesh     | ta-ar'-oe-sh        |
@@ -125,6 +131,7 @@
 |            power            | ah'r                     | ahhr          | ah'-r               |
 |            road             | ta'r'oe                  | taarroe       | ta-ar'-oe           |
 |            rock             | ta'r                     | taar          | ta-ar               |
+|            root             | ethr                     | e:thr         | e-th-r              |
 |           shadow            | ta'shrghe                | taashrghe     | ta'-sh-r-gh-e       |
 |            soul             | ghe                      | ghe           | gh-e                |
 |           spirit            | ghe                      | ghe           | gh-e                |

@@ -60,6 +60,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Mes      | East Baedoor                  | Rare name                                                                  |
 | Mez      | East Baedoor                  | Very unique variant of *Mes*                                               |
 | Nelson   | Whole Baedoor                 | Common name in Old Era, becoming rare in New Era                           |
+| Nemos    | Whole Baedoor                 | Nowadays common mostly in West Baedoor, of jitadian origin                 |
 | Norran   | Whole Baedoor                 | Quite regular baedoorian name                                              |
 | Nyver    | Whole Baedoor                 | Rare name of jitadian origin, with Nyvera as female counterpart            |
 | Ovlan    | Whole Baedoor                 | Common name, usually more frequently found on Rakonnd Coast                |
@@ -119,6 +120,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Jiro       | Jitado       | Rare name                                                              |
 | Jules      | Jitado       | Common name                                                            |
 | Lavsin     | Jitado       | Common name in Pre Era, got rarer with time                            |
+| Nemos      | Jitado       | Common name, usually in coastline towns, associated with sailors       |
 | Nicoi      | Jitado       | Rare name                                                              |
 | Nicolavsin | Jitado       | Rare combination of Nicoi and Lavsin                                   |
 | Niguel     | Jitado       | Rare name of east parts of Jitado                                      |

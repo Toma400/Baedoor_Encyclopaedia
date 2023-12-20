@@ -38,8 +38,10 @@
 |   e'ana    | down, bottom (of something) | e:ana         | e'-a-n-a       |                                                                       e' + ana                                                                        |
 |   e'oe'    | valley                      | e:e:          | e'-oe'         |                                                                       e' + oe'                                                                        |
 |     er     | border                      | er            | e-r            |                                                                           -                                                                           |
+|    ethr    | heart, root                 | e:thr         | e-th-r         |                                                                           -                                                                           |
 |    gh'     | become alive/be made        | khh           | gh'            |                                                                           -                                                                           |
 |    ghe     | soul, spirit                | khe           | gh-e           |                    possibly inherited from `gh'` as spirit is considered as first creation element of soul, and furthermore, being                    |
+|  na'shur   | home                        | naashur       | n-a'-sh-u-r    |                                                                           -                                                                           |
 |   ne'se    | alive                       | ne:se         | n-e'-s-e       |                                                                       nar + se'                                                                       |
 |    oe'     | land, world, island         | oe:           | oe'            |                sometimes portrayed as ehric-influenced `eh`, but this is usually debunked, as `oe'` existed before Ghlodds left caves                 |
 |     s'     | and                         | s:            | s'             |                                                                           -                                                                           |
@@ -65,8 +67,9 @@
 | ta'r'oeshe | to get to know (somebody)   | taarroeshe    | ta-ar'-oe-sh-e | ta'r'oe + she, from idea that you need to do something to find someone (word itself means both encountering the person and understanding them deeply) |
 |  ta'r'aur  | night (moon journey)        | ta:r:aur      | ta-ar'-a-u-r   |                                                                    ta'r'oesh + aur                                                                    |
 |  ta'r'sur  | day (sun journey)           | ta:r:sur      | ta-ar'-s-u-r   |                                                                    ta'r'oesh + sur                                                                    |
-|   ta'shr   | cover, disguise             | taashr        | ta'-sh-r       |                                                                           -                                                                           |
+|   ta'shr   | cover, disguise             | taashr        | ta'-sh-r       |                                 may be related that hiding is art of disappearing, "inside" may have such connections                                 |
 | ta'shrghe  | shadow                      | taashrkhe     | ta'-sh-r-gh-e  |                                                                     ta'shr + ghe                                                                      |
+|  ta'shroa  | (to) hide                   | taashr oa     | ta'-sh-r-oa    |                                                         ta'shr + -oa suffix common for verbs                                                          |
 |    thar    | yes                         | thar          | th-ar          |                                                                           -                                                                           |
 |  th'ere'   | destruction, extinction     | thhere:       | th'-e-r-e'     |                                   solidified harshness with previous melodic effort, merge of `th're` and `the're`                                    |
 |    y'ya    | guide, master               | ijja          | y'-ya          |                                                                   from I era `e'e`                                                                    | 
@@ -100,7 +103,6 @@
 |            down             | e'ana        | e:ana         | e'-a-n-a       |
 |           entity            | she          | she           | sh-e           |
 |         extinction          | th'ere'      | thhere:       | th'-e-r-e'     |
-|            guide            | y'ya         | ijja          | y'-ya          |
 |         fatherland          | ta'hroe'     | taahroe:      | ta-ah-r-oe'    |
 |          feminine           | a'- (prefix) | a:            | a'             |
 |           friend            | ta'hrshe     | taahrshe      | ta-ah-r-sh-e   |
@@ -108,9 +110,12 @@
 | (to) get to know (somebody) | ta'r'oeshe   | taarroeshe    | ta-ar'-oe-sh-e |
 | (to) get to know (yourself) | ta'r'oeghe   | taarroekhe    | ta-ar'-oe-gh-e |
 |           (to) go           | ta'r'a'      | taarra:       | ta-ar'-a'      |
-|            guide            | e'e          | e:e           | e'-e           |
+|            guide            | y'ya         | ijja          | y'-ya          |
+|            heart            | ethr         | e:thr         | e-th-r         |
+|          (to) hide          | ta'shroa     | taashr oa     | ta'-sh-r-oa    |
 |           higher            | a'- (prefix) | a:            | a'             |
 |          highland           | a'oe'        | a:e:          | a'-oe'         |
+|            home             | na'shur      | naashur       | n-a'-sh-u-r    |
  |              I              | asa'         | asa:          | a-s-a'         |
 |           inside            | ta'hr        | taahr         | ta-ah-r        |
 |           journey           | ta'r'oesh    | taarroesh     | ta-ar'-oe-sh   |
@@ -130,6 +135,7 @@
 |            power            | a'r          | a:r           | a'-r           |
 |            road             | ta'r'oe      | taarroe       | ta-ar'-oe      |
 |            rock             | ta'r         | taar          | ta-ar          |
+|            root             | ethr         | e:thr         | e-th-r         |
 |           shadow            | ta'shrghe    | taashrkhe     | ta'-sh-r-gh-e  |
 |            soul             | ghe          | khe           | gh-e           |
 |           spirit            | ghe          | khe           | gh-e           |

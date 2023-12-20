@@ -39,8 +39,10 @@ Between **Second Era** and **Third Era**, some elements of the language changed.
 |   e'ana    | down, bottom (of something) | e:ana         | e'-a-n-a       |                                                                       e' + ana                                                                        |
 |   e'oe'    | valley                      | e:e:          | e'-oe'         |                                                                       e' + oe'                                                                        |
 |     er     | border                      | er            | e-r            |                                                                           -                                                                           |
+|    ethr    | heart, root                 | e:thr         | e-th-r         |                                                                           -                                                                           |
 |    gh'     | become alive/be made        | khh           | gh'            |                                                                           -                                                                           |
 |    ghe     | soul, spirit                | khe           | gh-e           |                    possibly inherited from `gh'` as spirit is considered as first creation element of soul, and furthermore, being                    |
+|  na'shur   | home                        | naashur       | n-a'-sh-u-r    |                                                                           -                                                                           |
 |   ne'se    | alive                       | ne:se         | n-e'-s-e       |                                                                       nar + se'                                                                       |
 |    oe'     | land, world, island         | oe:           | oe'            |                sometimes portrayed as ehric-influenced `eh`, but this is usually debunked, as `oe'` existed before Ghlodds left caves                 |
 |     s'     | and                         | s:            | s'             |                                                                           -                                                                           |
@@ -64,8 +66,9 @@ Between **Second Era** and **Third Era**, some elements of the language changed.
 | ta'r'oeoe' | to get to know (location)   | taarroeoe     | ta-ar'-oe-oe'  |         ta'r'oe + oe', as you need to wander to get somewhere (word means both encountering the place, as well as getting to know it deeply)          |
 | ta'r'oesh  | journey                     | taarroesh     | ta-ar'-oe-sh   |                                                             ta'r'oe + most probably `sh'`                                                             |
 | ta'r'oeshe | to get to know (somebody)   | taarroeshe    | ta-ar'-oe-sh-e | ta'r'oe + she, from idea that you need to do something to find someone (word itself means both encountering the person and understanding them deeply) |
-|   ta'shr   | cover, disguise             | taashr        | t-a'-sh-r      |                                                                           -                                                                           |
+|   ta'shr   | cover, disguise             | taashr        | t-a'-sh-r      |                                 may be related that hiding is art of disappearing, "inside" may have such connections                                 |
 | ta'shrghe  | shadow                      | taashrkhe     | t-a'-sh-r-gh-e |                                                                     ta'shr + ghe                                                                      |
+|  ta'shroa  | (to) hide                   | taashr oa     | ta'-sh-r-oa    |                                                         ta'shr + -oa suffix common for verbs                                                          |
 |  tar'aur   | night (moon journey)        | tar:aur       | t-ar'-a-u-r    |                                                                    ta'r'oesh + aur                                                                    |
 |  tar'sur   | day (sun journey)           | tar:sur       | t-ar'-s-u-r    |                                                                    ta'r'oesh + sur                                                                    |
 |    thar    | yes                         | thar          | th-ar          |                                                                           -                                                                           |
@@ -100,7 +103,6 @@ Between **Second Era** and **Third Era**, some elements of the language changed.
 |          disguise           | ta'shr       | taashr        | t-a'-sh-r      |
 |            down             | e'ana        | e:ana         | e'-a-n-a       |
 |           entity            | she          | she           | sh-e           |
-|            guide            | y'           | ij            | y'             |
 |         extinction          | the're'      | the:re:       | th-e'-r-e'     |
 |         fatherland          | ta'hroe'     | taahroe:      | ta-ah-r-oe'    |
 |          feminine           | a'- (prefix) | a:            | a'             |
@@ -109,9 +111,12 @@ Between **Second Era** and **Third Era**, some elements of the language changed.
 | (to) get to know (somebody) | ta'r'oeshe   | taarroeshe    | ta-ar'-oe-sh-e |
 | (to) get to know (yourself) | ta'r'oeghe   | taarroekhe    | ta-ar'-oe-gh-e |
 |           (to) go           | ta'r'a'      | taarra:       | ta-ar'-a'      |
-|            guide            | e'e          | e:e           | e'-e           |
+|            guide            | y'           | ij            | y'             |
+|            heart            | ethr         | e:thr         | e-th-r         |
+|          (to) hide          | ta'shroa     | taashr oa     | ta'-sh-r-oa    |
 |           higher            | a'- (prefix) | a:            | a'             |
 |          highland           | a'oe'        | a:e:          | a'-oe'         |
+|            home             | na'shur      | naashur       | n-a'-sh-u-r    |
  |              I              | asa'         | asa:          | a-s-a'         |
 |           inside            | ta'hr        | taahr         | t-a-ah-r       |
 |           journey           | ta'r'oesh    | taarroesh     | ta-ar'-oe-sh   |
@@ -131,6 +136,7 @@ Between **Second Era** and **Third Era**, some elements of the language changed.
 |            power            | a'r          | a:r           | a'-r           |
 |            road             | ta'r'oe      | taarroe       | ta-ar'-oe      |
 |            rock             | ta'r         | taar          | ta-ar          |
+|            root             | ethr         | e:thr         | e-th-r         |
 |           shadow            | ta'shrghe    | taashrkhe     | t-a'-sh-r-gh-e |
 |            soul             | ghe          | khe           | gh-e           |
 |           spirit            | ghe          | khe           | gh-e           |
