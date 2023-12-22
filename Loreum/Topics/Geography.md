@@ -38,7 +38,9 @@ All what creates the oververse, but mostly on Baedoor itself.
 
 ####   🔷 Northern Islands
 ####   🔷 Aztec Archipelago
-####   🔷 Snake Islands
+####   🔷 Native African Islands `Ereut` `Dawn Islands`
+####   🔷 Snake Islands `Serpentuan` `Serpent Islands`
+####   🔷 Minotaur Islands
 ####   🔷 Aev Archipelago
 
 ### 💫 DIMENSIONS
