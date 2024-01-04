@@ -134,6 +134,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Sjiniro    | Jitado       | Obscure combination of Sin and Jiro names                              |
 | Tanado     | Jitado       | Semi-rare name                                                         |
 | Tard       | Jitado       | Semi-rare name                                                         |
+| Uni        | Jitado       | Semi-rare name                                                         |
 | Vico       | Jitado       | Rare name                                                              |
 | Vicolavsin | Jitado       | Extremely rare combination of Vico and Lavsin                          |
 | Viran      | Jitado       | Semi-common name                                                       |
@@ -159,6 +160,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Sanae  | Jitado       | Common name, variant of *Sana*                  |
 | Sina   | Jitado       | Rare name, female counterpart of Sin            |
 | Sunu   | Jitado       | Rare name                                       |
+| Uni    | Jitado       | Semi-rare name                                  |
 
 ---
 ### Mesinpean Names

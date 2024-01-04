@@ -343,9 +343,11 @@ TAGS:
 ```
 ㊙️ **General Collabs & Contributions**
 
-| Time of collab     | Tag | Name    | What is the project                                                                                                      |               My role               |                                  URL                                  |
-|--------------------|:---:|---------|--------------------------------------------------------------------------------------------------------------------------|:-----------------------------------:|:---------------------------------------------------------------------:|
-| 2021-12 🔹 2022-03 | 📿  | Desolat | Minecraft mod around desert dimension, Desolat. Eventually made a reference to it in Baedoor universe (Aji'n multiverse) | **Contributor**<br>Made small fixes | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedesolat) |
+| Time of collab     | Tag | Name            | What is the project                                                                                                      |               My role               |                                                       URL                                                        |
+|--------------------|:---:|-----------------|--------------------------------------------------------------------------------------------------------------------------|:-----------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
+| 2021-12 🔹 2022-03 | 📿  | Desolat         | Minecraft mod around desert dimension, Desolat. Eventually made a reference to it in Baedoor universe (Aji'n multiverse) | **Contributor**<br>Made small fixes |                      [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedesolat)                       |
+| 2023-12 🔹 now     | 📿  | Tamriel Rebuilt | Morrowind biggest project aimed on bringing whole Tamriel continent to existence: Morrowind / Argonia section            |          **Interior Dev**           |                             [Nexus](https://www.nexusmods.com/morrowind/mods/42145)                              |
+| 2023-12 🔹 now     | 📿  | Project Tamriel | Morrowind biggest project aimed on bringing whole Tamriel continent to existence: other provinces                        |          **Interior Dev**           | [SHotN](https://www.nexusmods.com/morrowind/mods/44921) 🔹 [PC](https://www.nexusmods.com/morrowind/mods/44922/) |
 
 🔣 **Translating Contributions**  
 This list stores all bigger translations I've made. Aside of them, I also were translating some lyrics

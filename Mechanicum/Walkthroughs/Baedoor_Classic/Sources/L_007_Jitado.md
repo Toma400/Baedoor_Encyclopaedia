@@ -19,9 +19,10 @@
 - [ ] Historical places
   - [ ] Translations of their names
 - [ ] Geography
+- [ ] Symbols
 - [ ] Items
 - [ ] Books
-- [ ] Full screenshots archive
+- [x] Full screenshots archive
 
 ---
 ### Description

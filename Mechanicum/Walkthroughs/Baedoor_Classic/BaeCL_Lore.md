@@ -13,6 +13,7 @@
 - [Menerun](Lore/BaeCL_Menerun.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Menerun.md)
 - [Mining Hills](Lore/BaeCL_Mining_Hills.md)
 - [Raliun](Lore/BaeCL_Raliun.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
+- [Tom Varteford Plantation](Lore/BaeCL_Tom_Varteford_Plantation.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Places/Tom_Varteford_Plantation.md)
 
 ### Per source:
 <table>
@@ -55,6 +56,21 @@
     <tr>
         <th>Location</th>
         <td>Jitado, Altauar Region</td>
+    </tr>
+    <tr>
+        <th colspan="2">Tom Varteford Plantation</th>
+        <td><b>Source ID:</b> <a href="Sources/L_021_Tom_Varteford_Plantation.md">L.021:Tom Varteford Plantation</a></td>
+    </tr>
+    <tr>
+        <th>Timeframe</th>
+        <td>Late Old Era</td>
+        <td rowspan="2">
+            🐲    <a href="Lore/BaeCL_Tom_Varteford_Plantation.md"> Tom Varteford Plantation </a>
+        </td>
+    </tr>
+    <tr>
+        <th>Location</th>
+        <td>Baedoor Isle, near Baedoor city</td>
     </tr>
 
 </table>

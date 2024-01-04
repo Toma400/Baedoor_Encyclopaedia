@@ -33,13 +33,23 @@ LEGEND:
         <td><span style="color:#7700cc">                              Disputed                </span></td>
     </tr>
     <tr align="center">
-        <th><span style="color:#31852B">                            Land            </span></th>
-        <td><a href="Sources/L_007_Jitado.md">        L.007:Jitado        </a></td>
-        <td align="center">                    Notebook for Jitado region </td>
-        <td>                                    <input type="checkbox">   </td>
-        <td>                                    <input type="checkbox">   </td>
-        <td>                                              8/10            </td>
-        <td><span style="color:#31852B">                          Accurate          </span></td>
+        <th><span style="color:#31852B">                                  Land               </span></th>
+        <td><a href="Sources/L_007_Jitado.md">              L.007:Jitado           </a></td>
+        <td align="center">                         Notebook for Jitado region     </td>
+        <td>                                    <input type="checkbox" checked=""> </td>
+        <td>                                         <input type="checkbox">       </td>
+        <td>                                                    8/10               </td>
+        <td><span style="color:#31852B">                                Accurate             </span></td>
     </tr>
+    <tr align="center">
+        <th><span style="color:#31852B">                                                    Land                 </span></th>
+        <td><a href="Sources/L_021_Tom_Varteford_Plantation.md">     L.021:Tom Varteford Plantation    </a></td>
+        <td align="center">                                      Notebook for Tom Varteford plantation </td>
+        <td>                                                       <input type="checkbox" checked="">  </td>
+        <td>                                                            <input type="checkbox">        </td>
+        <td>                                                                     9/10                  </td>
+        <td><span style="color:#31852B">                                                 Accurate                </span></td>
+    </tr>
+
 
 </table>
