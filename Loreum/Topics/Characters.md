@@ -22,4 +22,12 @@ List of all noted characters existing throughout the history of Baedoor universe
 #### 🔹 [Lunatri](Characters/Lunatri_Characters.md)
 
 ---
+### 🎎 FAMILIES
+#### 🔹 [Baedoorians](Characters/Baedoorian_Families.md)
+
+---
+### 🔥 CLANS
+#### 🔹 Ormath Clans
+
+---
 ♜✥

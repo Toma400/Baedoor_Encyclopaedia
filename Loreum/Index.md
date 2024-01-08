@@ -87,11 +87,13 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### T
 - [Temple of I'si](Topics/Religions/Small/Temple_of_I'si.md)
+- [Tom Varteford](Topics/Characters/List/Tom_Varteford.md)
 - [Tom Varteford's Plantation](Topics/Geography/Baedoor_Continent/Baedoor/Places/Tom_Varteford_Plantation.md)
 - [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
 
 ### V
 - [Vaerdena](Topics/Geography/Moon_Continent/East_Moon/Lands/Vaerdena.md)
+- [Varteford](Topics/Characters/Families/Varteford.md)
 - [Vulcanic Veil](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
 
 ### W
