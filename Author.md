@@ -103,9 +103,10 @@ For games I've made for learning purposes, head to [🔨️ section below](Autho
 Wrench means status of support - if the program is still maintained. 🈷️ means open form of language support.  
 For software I've made for learning purposes, head to [🔨️ section below](Author.md#-learning-projects).
 
-| 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                 |                            Lang                             |
-|-----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|:-----------------------------------------------------------:|
-| 🟣  | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE) | <b> 🇬🇧 </b><br> 🇪🇸 🇵🇱 <br> 🇭🇺 🇸🇦 <br> 🇨🇿 <br> ➕ |
+| 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                      |                            Lang                             |
+|-----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|:-----------------------------------------------------------:|
+| 🟣  | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE)      | <b> 🇬🇧 </b><br> 🇪🇸 🇵🇱 <br> 🇭🇺 🇸🇦 <br> 🇨🇿 <br> ➕ |
+| 🟣  | 2023-09-05 | Drawfire  | Simple drawing software made as proof of concept in Nimfire library                                                                                                                                         | [GitHub](https://github.com/Toma400/Drawfire) |                            🇬🇧                             | 
 
 ---
 ### 📖 STORIES  
@@ -343,11 +344,11 @@ TAGS:
 ```
 ㊙️ **General Collabs & Contributions**
 
-| Time of collab     | Tag | Name            | What is the project                                                                                                      |               My role               |                                                       URL                                                        |
-|--------------------|:---:|-----------------|--------------------------------------------------------------------------------------------------------------------------|:-----------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
-| 2021-12 🔹 2022-03 | 📿  | Desolat         | Minecraft mod around desert dimension, Desolat. Eventually made a reference to it in Baedoor universe (Aji'n multiverse) | **Contributor**<br>Made small fixes |                      [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedesolat)                       |
-| 2023-12 🔹 now     | 📿  | Tamriel Rebuilt | Morrowind biggest project aimed on bringing whole Tamriel continent to existence: Morrowind / Argonia section            |          **Interior Dev**           |                             [Nexus](https://www.nexusmods.com/morrowind/mods/42145)                              |
-| 2023-12 🔹 now     | 📿  | Project Tamriel | Morrowind biggest project aimed on bringing whole Tamriel continent to existence: other provinces                        |          **Interior Dev**           | [SHotN](https://www.nexusmods.com/morrowind/mods/44921) 🔹 [PC](https://www.nexusmods.com/morrowind/mods/44922/) |
+| Time of collab     | Tag | Name            | What is the project                                                                                                      |                   My role                    |                                                           URL                                                            |
+|--------------------|:---:|-----------------|--------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|
+| 2021-12 🔹 2022-03 | 📿  | Desolat         | Minecraft mod around desert dimension, Desolat. Eventually made a reference to it in Baedoor universe (Aji'n multiverse) |     **Contributor**<br>Made small fixes      |                          [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedesolat)                           |
+| 2023-12 🔹 now     | 📿  | Tamriel Rebuilt | Morrowind biggest project aimed on bringing whole Tamriel continent to existence: Morrowind / Argonia section            | **Interior Dev**<br>🔹<br>**Concept Artist** |                                 [Nexus](https://www.nexusmods.com/morrowind/mods/42145)                                  |
+| 2023-12 🔹 now     | 📿  | Project Tamriel | Morrowind biggest project aimed on bringing whole Tamriel continent to existence: other provinces                        | **Interior Dev**<br>🔹<br>**Concept Artist** | [SHotN](https://www.nexusmods.com/morrowind/mods/44921) <br>🔹<br> [PC](https://www.nexusmods.com/morrowind/mods/44922/) |
 
 🔣 **Translating Contributions**  
 This list stores all bigger translations I've made. Aside of them, I also were translating some lyrics
@@ -539,7 +540,7 @@ projects being developed as well. Here is the list:
 | 🔧  | Date       | Name       | Description                                                                                                     | Download                                        | Lang |
 |-----|------------|------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------|:----:|
 | 🔴  | 2023-02-21 | Yamlomiser | Small terminal software used to randomise elements of .yaml file. Originated from idea of picking random names. | [GitHub](https://github.com/Toma400/Yamlomiser) | 🇬🇧 |
-
+| 🟠  | 2024-02-08 | HC Tracker | Software letting me track HermitCraft episodes                                                                  | [GitHub](https://github.com/Toma400/HC_Tracker) | 🇬🇧 |
 
 ---
 ### ☠️ LOST AND FOUND
