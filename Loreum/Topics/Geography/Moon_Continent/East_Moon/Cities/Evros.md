@@ -13,16 +13,32 @@ Politically, it is abode of governor and three guilds.
 ### ORGANISATIONS
 - Ansur Vinyards Association
 - Followers of the Bound
-- Thieves Guild `illegal`
+- [Ansur Thieves Guild](/Loreum/Topics/Guilds/List/Ansur_Thieves_Guild.md) `illegal`
 
 All of those guilds are located in center part of Evros, located in two big tenements for first two.
 Location of Thieves Guild is not publicly known.  
 In the other hand, governor holds his position in Town's Hall.
 
+### CITY STRUCTURE & STYLE
+Evros was built by baedoorian settlers, but even thought first structures were built without any
+specific direction, very early in city's life prominent character emerged.  
+Ilvis Sorevo, ambitious architect, was tasked to plan out structure for two districts, as well as
+design overall style unifying Evros architecture. Ilvis had their own vision however, and taking from
+their jitadian heritage, drew uniquely stylised concepts that were later shown to officials.  
+Initially, the idea was met with rather cold response, but it being liked by governor kept it alive
+for long enough to win - concepts were sent later to governor of Baedoor Empire, who saw the opportunity
+for Ansur to be Empire's new beginning, which new architecture style would proudly represent.  
+With such support, Ilvis was given the right to design whole city in their unique design.  
+In next centuries, expansions of the city gave birth to term of "Old City" which refers to districts
+built in Ilvis' style, separating it from the ones done after him, with different structure and
+slightly less cohesive architecture design.
+
 ---
 [📿 Between Shadows and Light](/Mechanicum/Walkthroughs/BSaL/Lore/BSaL_Evros.md)
 
 ---
-♢: guilds (FotB is Mage Guild, but exclusive to Ansur and it's one of those rare ones which like
-inputting magic into wands, which is rather unusual for Baedoor magic, but explains BSaL mage)  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Moon_Continent/East_Moon.mdnt/East_Moon.md)
+
+♢: guilds (FotB is Mage Guild, but exclusive to Ansur and it's one of those rare ones which like
+inputting magic into wands, which is rather unusual for Baedoor magic, but explains BSaL mage); Ilvis
+Sorevo page

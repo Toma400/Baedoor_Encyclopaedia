@@ -111,6 +111,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Hord       | Jitado       | Semi-rare name                                                         |
 | Ilin       | Jitado       | Semi-common gender-neutral name                                        |
 | Ilion      | Jitado       | Semi-rare name, variant of *Ilin* of more masculine form               |
+| Ilvis      | Jitado       | Semi-rare name, is gender-neutral                                      |
 | Indion     | Jitado       | Rare name originating from jitadean language                           |
 | Invari     | Jitado       | Rare name of north and middle parts of Jitado                          |
 | Isou       | Jitado       | Common name                                                            |
@@ -154,6 +155,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Eida   | Jitado       | Rare name, more feminine variant of Eidin       |
 | Eidin  | Jitado       | Rare name, common in Pre-Era, gender-neutral    |
 | Ilin   | Jitado       | Semi-common gender-neutral name                 |
+| Ilvis  | Jitado       | Semi-rare name, is gender neutral               |
 | Lorat  | Jitado       | Common name                                     |
 | Nyvera | Jitado       | Rare name, female counterpart of Nyver          |
 | Salvi  | Jitado       | Common name                                     |
@@ -241,12 +243,13 @@ or just if you would like to look at cultural differences between civilisations.
 ---
 ### Jitadian Surnames
 
-| Name      | Localisation      | Description                     |
-|-----------|-------------------|---------------------------------|
-| Avani     | South-East Jitado | Trader house surname            |
-| Hai       | South-East Jitado | Trader family surname           |
-| Itahmutsi | Jitado            | Very rare surname, from Adelaie |
-| Tio       | Jitado            | Old jitadian surname            |
+| Name      | Localisation           | Description                                         |
+|-----------|------------------------|-----------------------------------------------------|
+| Avani     | South-East Jitado      | Trader house surname                                |
+| Hai       | South-East Jitado      | Trader family surname                               |
+| Itahmutsi | Jitado                 | Very rare surname, from Adelaie                     |
+| Sorevo    | Jitado, Ansur, Baedoor | Popular surname, quite popular in Baedoor diasporas | 
+| Tio       | Jitado                 | Old jitadian surname                                |
 
 ---
 ### Tri Surnames
