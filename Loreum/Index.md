@@ -8,6 +8,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Adelaie](Topics/Geography/Old_Continent/Jitado/Cities/Adelaie.md)
 - [Altauar](Topics/Geography/Old_Continent/Jitado/Regions/Altauar.md) (region)
 - [Ansur](Topics/Geography/Moon_Continent/East_Moon/Ansur.md)
+- [Ansur Thieves Guild](Topics/Guilds/List/Ansur_Thieves_Guild.md)
 - [Ash Veil](Topics/Nature/Herbarium/List/Ash_Veil.md)
 - [Avani, Si](Topics/Characters/List/Si_Avani.md)
 
@@ -32,7 +33,8 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Evros](Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)
 
 ### F
-- [Faraurin](Topics/Nature/Foods/List/Faraurin.md)
+- [Faraurin](Topics/Nature/Foods/List/Faraurin.md
+- [Ferves Navikon](Topics/Characters/List/Ferves_Navikon.md)
 - [Flower Street](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
 
 ### G

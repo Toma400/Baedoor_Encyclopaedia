@@ -77,6 +77,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Name     | Localisation  | Description                                                                                   |
 |----------|---------------|-----------------------------------------------------------------------------------------------|
 | Cryna    | East Baedoor  | Rare name used in Old Era, feminine variant of *Cryan*                                        |
+| Ferves   | Whole Baedoor | Rare name                                                                                     |
 | Florat   | East Baedoor  | Nomathian-influenced form of *Lorat*                                                          |
 | Hanyah   | East Baedoor  | Rare name                                                                                     |
 | Lorat    | Whole Baedoor | Commonly used in Old Era, in New Era mostly seen in aristocratic families. Of jitadian origin |
@@ -228,7 +229,8 @@ or just if you would like to look at cultural differences between civilisations.
 | Inradena   | East Baedoor                  | Common surname in south-west of Baedoor's isle                                                      |
 | Inraerdena | West Baedoor                  | West Baedoor noble family of Inradena, who changed their surname to accent their proletarian origin |
 | Naevos     | Ansur                         | Surname coming from trish Nai and arennian-baedoorian Vos families                                  |
-| Naraho     | Baedoor city and surroundings | Old name of Baedoor city surroundings, considered of nomathian influence                            | 
+| Naraho     | Baedoor city and surroundings | Old name of Baedoor city surroundings, considered of nomathian influence                            |
+| Navikon    | East Baedoor, Ansur           | Fairly spread out name on east side of Baedoor areas                                                |
 | Neerhe     | Isuga and surroundings        | Old Isuga-related house, without aristocratic roots                                                 |
 | Tio        | Mostly Isuga and surroundings | Old Isuga-related family, but also jitadian surname                                                 |
 | Varteford  | Baedoor city                  | Aristocratical surname                                                                              |
