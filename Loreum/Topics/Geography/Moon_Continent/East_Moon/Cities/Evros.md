@@ -20,7 +20,7 @@ Location of Thieves Guild is not publicly known.
 In the other hand, governor holds his position in Town's Hall.
 
 ### CITY STRUCTURE & STYLE
-Evros was built by baedoorian settlers, but even thought first structures were built without any
+Evros was built by baedoorian settlers, but even though first structures were built without any
 specific direction, very early in city's life prominent character emerged.  
 Ilvis Sorevo, ambitious architect, was tasked to plan out structure for two districts, as well as
 design overall style unifying Evros architecture. Ilvis had their own vision however, and taking from
@@ -30,7 +30,7 @@ for long enough to win - concepts were sent later to governor of Baedoor Empire,
 for Ansur to be Empire's new beginning, which new architecture style would proudly represent.  
 With such support, Ilvis was given the right to design whole city in their unique design.  
 In next centuries, expansions of the city gave birth to term of "Old City" which refers to districts
-built in Ilvis' style, separating it from the ones done after him, with different structure and
+built in Ilvis' style, separating it from the ones done after them, with different structure and
 slightly less cohesive architecture design.
 
 ---
