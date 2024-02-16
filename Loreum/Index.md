@@ -11,6 +11,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Ansur Thieves Guild](Topics/Guilds/List/Ansur_Thieves_Guild.md)
 - [Ash Veil](Topics/Nature/Herbarium/List/Ash_Veil.md)
 - [Avani, Si](Topics/Characters/List/Si_Avani.md)
+- [Azure Archipelago](Topics/Geography/Azure_Archipelago.md)
 
 ### B
 - [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md) (city)

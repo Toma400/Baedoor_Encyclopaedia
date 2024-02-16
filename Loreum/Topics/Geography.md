@@ -24,7 +24,7 @@ All what creates the oververse, but mostly on Baedoor itself.
 #####      🔹 [Jitado](Geography/Old_Continent/Jitado.md)
 #####      🔹 Eimr Archipelago
 ####   🔷 Seiteh
-####   🔷 The Azure Archipelago
+####   🔷 [The Azure Archipelago](Geography/Azure_Archipelago.md)
 #####      🔹 Oe'os
 #####      🔹 Septei
 #####      🔹 Vartee
