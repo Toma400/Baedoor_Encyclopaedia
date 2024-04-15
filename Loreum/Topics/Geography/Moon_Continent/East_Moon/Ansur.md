@@ -43,7 +43,7 @@ be finished in year 925 NE.
 <table align="center" width="100%">
     <tr>
         <td height="300px"> <img alt="Ansur Map" height="390" src="/Assets/Maps/ansur.jpg" width="520"/>         </td>
-        <td height="300px"> <img alt="Ansur Map" height="390" src="/Assets/Maps/ansur_by_kari.jpg" width="520"/> </td>
+        <td height="300px"> <img alt="Ansur Map" height="390" src="/Assets/Maps/ansur_by_kari.png" width="520"/> </td>
     </tr>
     <tr>
         <td> Map of Ansur Isle as of 920 NE </td>

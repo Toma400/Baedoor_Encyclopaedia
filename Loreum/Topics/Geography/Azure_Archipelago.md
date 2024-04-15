@@ -1,6 +1,6 @@
 # 🌄 Azure Archipelago
 
-| <img alt="Azure Archipelago map" src="/Assets/Maps/azure_archipelago.jpg" width="500" height="333"/> | <img alt="Azure Archipelago map" src="/Assets/Maps/vartee.jpg" width="500" height="500"/> |
+| <img alt="Azure Archipelago map" src="/Assets/Maps/azure_archipelago.jpg" width="500" height="333"/> | <img alt="Azure Archipelago map" src="/Assets/Maps/vartee.jpg" width="333" height="333"/> |
 |:----------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
 |                                 Incomplete map of Azure Archipelago                                  |                                 Incomplete map of Vartee                                  |
 
