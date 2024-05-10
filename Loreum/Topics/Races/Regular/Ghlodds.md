@@ -40,7 +40,7 @@ This goes quite far when we also see technological advances of ghlodds: a lot of
 advancements in metalurgy (including Seiteh being biggest deposit of cirtain metal) makes them quite
 well with overcoming their limitations of body.
 
-Ghloddish culture were evolving through all thousand years of universe's life, from simple clan-driven
+Ghloddish culture was evolving through all thousand years of universe's life, from simple clan-driven
 civilisation, through aggressive Empire, to now place to-be-cosmopolitan-centre of this part of universe.  
 Despite all those changes, ghloddish culture stayed surprisingly intact, still a bit hermetic,
 traditionalist-yet-enlightened, faithful to their spiritual roots.  
