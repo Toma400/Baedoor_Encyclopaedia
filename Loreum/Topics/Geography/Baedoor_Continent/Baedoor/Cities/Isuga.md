@@ -12,7 +12,7 @@ first purpose was to maintain defense.
 
 ### PLACES
 - Architectural University
-- [Golden Lighthouse of Baedoor](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor_Continent/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
+- [Golden Lighthouse of Baedoor](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
 
 ---
 📿 [Baedoor Classic](/Mechanicum/Walkthroughs/Baedoor_Classic/Lore/BaeCL_Isuga.md)
