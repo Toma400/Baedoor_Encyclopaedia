@@ -28,6 +28,8 @@ All what creates the oververse, but mostly on Baedoor itself.
 #####      🔹 Oe'os
 #####      🔹 Septei
 #####      🔹 Vartee
+####   🔷 [Uruati Land]
+####   🔷 [Nak Land]
 ####   🔷 Vaos Archipelago
 ####   🔷 Loose Islands `outside continents`
 ####   🔷 The Grand Southern Permafrost

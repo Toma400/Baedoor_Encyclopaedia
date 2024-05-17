@@ -7,5 +7,10 @@ may also visit [cultures page](Cultures.md)
 - [Ghlodds](Races/Regular/Ghlodds.md)
 - [Ormaths](Races/Regular/Ormaths.md)
 
+## Creature races
+- [Uruati](Races/Creature/Uruati.md)
+
+## Extinct races
+
 ---
 ✥

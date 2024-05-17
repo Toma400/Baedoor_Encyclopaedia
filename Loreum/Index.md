@@ -94,6 +94,9 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Tom Varteford's Plantation](Topics/Geography/Baedoor_Continent/Baedoor/Places/Tom_Varteford_Plantation.md)
 - [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
 
+### U
+- [Uruati](Topics/Races/Creature/Uruati.md)
+
 ### V
 - [Vaerdena](Topics/Geography/Moon_Continent/East_Moon/Lands/Vaerdena.md)
 - [Varteford](Topics/Characters/Families/Varteford.md)

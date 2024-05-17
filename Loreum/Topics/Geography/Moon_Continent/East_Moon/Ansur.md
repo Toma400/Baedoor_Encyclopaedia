@@ -29,6 +29,7 @@ be finished in year 925 NE.
 **TOWNS**
 - [Evros](Cities/Evros.md)
 - Waine
+- Nyme
 
 **PLACES**
 - Gorthal Stronghold
