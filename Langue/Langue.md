@@ -20,6 +20,7 @@ dictionaries and walkthrough through languages logic.
 
 ---
 ## <center>Regular languages</center>
+### [⛩️ Erdis](Families/Erdis.md)
 
 ---
 ## <center>Old languages</center>
