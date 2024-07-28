@@ -14,10 +14,10 @@ what their tales told them, they were not only surprised, but intrigued. Crew of
 decided to settle in this place, while others went further west (eventually reaching East Moon).
 
 Being exactly in half between two most important cities of early New Era made Ansur slowly 
-growing in importance. They became important point of exchange during those times, connecting two
+growing in importance. It became important point of exchange during those times, connecting two
 parts of Empire.  
 The main change, though, came with new laws introduced in 326 NE by governor **Norran Gorth**, 
-benefitting from **Baedoor Empire** collapse and stating independency, as well as adding several 
+benefiting from **Baedoor Empire** collapse and stating independency, as well as adding several 
 taxes to those who dock in Ansur, but do not plan to stay longer.  
 This brought not only enough money for the island to expand, but also solidified their export and
 created bigger infrastructure. This also lead to Evros getting city walls and small fort on top of the hill, as governor 
