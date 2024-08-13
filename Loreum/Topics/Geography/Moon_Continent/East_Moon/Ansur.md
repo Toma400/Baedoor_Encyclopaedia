@@ -1,5 +1,5 @@
 # 🏞️ Ansur Isle
-<img alt="Ansur Map" height="390" src="/Assets/Maps/ansur.jpg" width="520"/>
+<img alt="Ansur Map" height="390" src="/Assets/Maps/ansur.png" width="520"/>
 
 ``Simplified map of Ansur Isle as of 920 NE``
 
@@ -43,7 +43,7 @@ be finished in year 925 NE.
 
 <table align="center" width="100%">
     <tr>
-        <td height="300px"> <img alt="Ansur Map" height="390" src="/Assets/Maps/ansur.jpg" width="520"/>         </td>
+        <td height="300px"> <img alt="Ansur Map" height="390" src="/Assets/Maps/ansur_old.jpg" width="520"/>         </td>
         <td height="300px"> <img alt="Ansur Map" height="390" src="/Assets/Maps/ansur_by_kari.png" width="520"/> </td>
     </tr>
     <tr>
@@ -57,4 +57,4 @@ be finished in year 925 NE.
 
 ---
 ♜♢✥ + add name to name list + 326 NE into **history** + links to locations and people  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Moon_Continent/East_Moon.mdnt/East_Moon.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Moon_Continent/East_Moon.md)
