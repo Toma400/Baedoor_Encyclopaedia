@@ -24,6 +24,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### D
 - [Dawn Tear](Topics/Nature/Herbarium/List/Dawn_Tear.md)
 - [Delai Eir](Topics/Characters/List/Delai_Eir.md)
+- [Disanteldir](Topics/Geography/Baedoor_Continent/Kaer/Cities/Disanteldir.md)
 
 ### E
 - [East Moon](Topics/Geography/Moon_Continent/East_Moon.md)
@@ -34,7 +35,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Evros](Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)
 
 ### F
-- [Faraurin](Topics/Nature/Foods/List/Faraurin.md
+- [Faraurin](Topics/Nature/Foods/List/Faraurin.md)
 - [Ferves Navikon](Topics/Characters/List/Ferves_Navikon.md)
 - [Flower Street](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
 

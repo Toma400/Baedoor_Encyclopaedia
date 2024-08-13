@@ -11,12 +11,13 @@
     </tr>
 </table>
 
-Kaer (sometimes also *Kaertr*) is island of big size located south of Vershaton.  
+Kaer (sometimes also *Kaertr* or *Khaer*) is island of big size located south of Vershaton.  
 Huge part of island's terrain is covered with forests, covering mountain pass on its eastern coast.
 
 Kaer is home of several cultures, most notably kehts and erds.  
-South of Kaer there's island Martingo that is usually considered politically dependent and
-was count as part of the country during Baedoor occupation.
+South of Kaer there's island Khacari that is usually considered as a local polity more loosely
+bound to Erdic Kingdom despite formally being part of it. This also let it be treated more lightly
+during Baedoor occupation.
 
 ### TOWNS
 #### Somewhere? Needs finding out where (source: old BE)
@@ -49,12 +50,17 @@ was count as part of the country during Baedoor occupation.
 #### Skand (-> Sodthas)
 - Port Bristeldir `Gubera on map`
 
-#### Martingo
+#### Khacari
 - Roda
+- Sorin
+
+#### Disane
+- [Disanteldir](Kaer/Cities/Disanteldir.md)
 
 ### VILLAGES
-#### Martingo
-- Anoltan
+#### Khacari
+- Anoan
+- Anoltan `ruined`
 
 ### LANDSCAPES
 - Miarza River `? name`

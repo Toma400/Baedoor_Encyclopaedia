@@ -1,5 +1,5 @@
 # 🏞️ Ansur Isle
-<img alt="Ansur Map" height="390" src="/Assets/Maps/ansur.png" width="520"/>
+<img alt="Ansur Map" height="561" src="/Assets/Maps/ansur.png" width="482"/>
 
 ``Simplified map of Ansur Isle as of 920 NE``
 
@@ -29,7 +29,7 @@ be finished in year 925 NE.
 **TOWNS**
 - [Evros](Cities/Evros.md)
 - Waine
-- Nyme
+- [Nyme](Cities/Nyme.md)
 
 **PLACES**
 - Gorthal Stronghold

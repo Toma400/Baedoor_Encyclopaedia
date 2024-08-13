@@ -14,6 +14,7 @@ If this section becomes too big, it can be split into linked sections in the fut
 
 * [Adelaie](Topics/Geography/Old_Continent/Jitado/Cities/Adelaie.md)
 * [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)
+* [Disanteldir](Topics/Geography/Baedoor_Continent/Kaer/Cities/Disanteldir.md)
 * [Evros](Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)
 * [Ino Anor](Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)
 * [Isuga](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md)

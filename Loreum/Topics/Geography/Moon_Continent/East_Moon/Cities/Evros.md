@@ -37,7 +37,7 @@ slightly less cohesive architecture design.
 [📿 Between Shadows and Light](/Mechanicum/Walkthroughs/BSaL/Lore/BSaL_Evros.md)
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Moon_Continent/East_Moon.mdnt/East_Moon.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Moon_Continent/East_Moon.md)
 
 ♢: guilds (FotB is Mage Guild, but exclusive to Ansur and it's one of those rare ones which like
 inputting magic into wands, which is rather unusual for Baedoor magic, but explains BSaL mage); Ilvis
