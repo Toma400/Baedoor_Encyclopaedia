@@ -11,7 +11,7 @@
     </tr>
 </table>
 
-Kaer (sometimes also *Kaertr* or *Khaer*) is island of big size located south of Vershaton.  
+Kaer (sometimes also *Kaertr* or *Khaer*, also *Aorat* in erdic) is island of big size located south of Vershaton.  
 Huge part of island's terrain is covered with forests, covering mountain pass on its eastern coast.
 
 Kaer is home of several cultures, most notably kehts and erds.  
