@@ -36,7 +36,7 @@ In 978 OE, he settled on Vartee for longer with his wife and with help of Oe'os 
 his shelter to small manor. At this time, he isolated himself from the world, writing plenty
 of books and poems about his journeys, love, and views on the world.  
 Even though he was not the most explorative, his writings got some following from Baedoor and Arennan
-aristocrats, being published by Oe'os book publisher and later delivered to his homeland.
+aristocrats, being printed by Oe'os book publisher and later delivered to his homeland.
 For ghlodds, it became a way to get insight into "the east culture", as they called civilisation of 
 Baedoor and the Moon.  
 In 989 OE, Tom ended his isolation and came back to his home country. Next years he spent on nostalgic

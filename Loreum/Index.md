@@ -39,6 +39,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Faraurin](Topics/Nature/Foods/List/Faraurin.md)
 - [Ferves Navikon](Topics/Characters/List/Ferves_Navikon.md)
 - [Flower Street](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
+- [Followers of the Bound](Topics/Guilds/List/Followers_of_the_Bound.md)
 
 ### G
 - [Ghlodds](Topics/Races/Regular/Ghlodds.md)
