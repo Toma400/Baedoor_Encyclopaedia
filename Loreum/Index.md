@@ -5,6 +5,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ---
 ### A
+- [Abrahk](Topics/Characters/Families/Abrahk.md)
 - [Adelaie](Topics/Geography/Old_Continent/Jitado/Cities/Adelaie.md)
 - [Altauar](Topics/Geography/Old_Continent/Jitado/Regions/Altauar.md) (region)
 - [Ansur](Topics/Geography/Moon_Continent/East_Moon/Ansur.md)
@@ -49,6 +50,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### I
 - [I'si](Topics/Religions/Small/Temple_of_I'si.md) (Temple of I'si)
+- [Indan](Topics/Characters/Families/Indan.md)
 - [Ino Anor](Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)
 - [Isuga](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md)
 
@@ -111,3 +113,4 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### X
 - [Xaine](Topics/Characters/List/Xaine.md)
+- [Xavier](Topics/Characters/Families/Xavier.md)

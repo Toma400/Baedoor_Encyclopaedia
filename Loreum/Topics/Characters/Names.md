@@ -77,6 +77,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Name     | Localisation  | Description                                                                                   |
 |----------|---------------|-----------------------------------------------------------------------------------------------|
 | Cryna    | East Baedoor  | Rare name used in Old Era, feminine variant of *Cryan*                                        |
+| Elea     | East Baedoor  | Semi-rare name, more often in northern Baedoor                                                |
 | Ferves   | Whole Baedoor | Rare name                                                                                     |
 | Florat   | East Baedoor  | Nomathian-influenced form of *Lorat*                                                          |
 | Hanyah   | East Baedoor  | Rare name                                                                                     |
@@ -224,21 +225,24 @@ or just if you would like to look at cultural differences between civilisations.
 ---
 
 ### Baedoorian Surnames
-| Surname    | Localisation                  | Description                                                                                         |
-|------------|-------------------------------|-----------------------------------------------------------------------------------------------------|
-| Alearis    | Whole Baedoor                 | Common surname in south part of Baedoor's isle                                                      |
-| Gorth      | Whole Baedoor                 | Common surname                                                                                      |
-| Inradena   | East Baedoor                  | Common surname in south-west of Baedoor's isle                                                      |
-| Inraerdena | West Baedoor                  | West Baedoor noble family of Inradena, who changed their surname to accent their proletarian origin |
-| Naevos     | Ansur                         | Surname coming from trish Nai and arennian-baedoorian Vos families                                  |
-| Naraho     | Baedoor city and surroundings | Old name of Baedoor city surroundings, considered of nomathian influence                            |
-| Navikon    | East Baedoor, Ansur           | Fairly spread out name on east side of Baedoor areas                                                |
-| Neerhe     | Isuga and surroundings        | Old Isuga-related house, without aristocratic roots                                                 |
-| Tio        | Mostly Isuga and surroundings | Old Isuga-related family, but also jitadian surname                                                 |
-| Varteford  | Baedoor city                  | Aristocratical surname                                                                              |
-| Velga, le  | East Baedoor                  | Aristocratic surname, of Isuga heritage                                                             |
-| Vos        | Arennan, West Baedoor         | Rare surname connected with Arennan naming                                                          |
-| Winfleton  | West Baedoor                  | Aristocratic name, nowadays recognised with **Heim Winfleton**                                      |
+| Surname    | Localisation                   | Description                                                                                                                                                         |
+|------------|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Abrahk     | Northern coast of East Baedoor | Aristocratic surname, of Al Khasar heritage                                                                                                                         |
+| Alearis    | Whole Baedoor                  | Common surname in south part of Baedoor's isle                                                                                                                      |
+| Gorth      | Whole Baedoor                  | Common surname                                                                                                                                                      |
+| Indan      | East Baedoor                   | Rare aristocratic surname, in NE basically non-existent, few individuals may exist abroad referring to [Indan article](/Loreum/Topics/Characters/Families/Indan.md) |
+| Inradena   | East Baedoor                   | Common surname in south-west of Baedoor's isle                                                                                                                      |
+| Inraerdena | West Baedoor                   | West Baedoor noble family of Inradena, who changed their surname to accent their proletarian origin                                                                 |
+| Naevos     | Ansur                          | Surname coming from trish Nai and arennian-baedoorian Vos families                                                                                                  |
+| Naraho     | Baedoor city and surroundings  | Old name of Baedoor city surroundings, considered of nomathian influence                                                                                            |
+| Navikon    | East Baedoor, Ansur            | Fairly spread out name on east side of Baedoor areas                                                                                                                |
+| Neerhe     | Isuga and surroundings         | Old Isuga-related house, without aristocratic roots                                                                                                                 |
+| Tio        | Mostly Isuga and surroundings  | Old Isuga-related family, but also jitadian surname                                                                                                                 |
+| Varteford  | Baedoor city                   | Aristocratical surname                                                                                                                                              |
+| Velga, le  | East Baedoor                   | Aristocratic surname, of Isuga heritage                                                                                                                             |
+| Vos        | Arennan, West Baedoor          | Rare surname connected with Arennan naming                                                                                                                          |
+| Winfleton  | West Baedoor                   | Aristocratic surname, nowadays recognised with **Heim Winfleton**                                                                                                   |
+| Xavier     | East Baedoor                   | Aristocratic surname, originating from Baedoor city                                                                                                                 |                                                                                
 
 ---
 ### Jitadian Surnames
