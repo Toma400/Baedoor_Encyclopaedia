@@ -2,50 +2,49 @@
 
 ---
 **Tom Varteford** (his full name being Tom Varteford Abrahk Elarik Pheren Anethor) was baedoorian
-adventurer, poet, activist and the only Baedoor ruler from Varteford family.  
-Born in Baedoor, in 947 OE, he became the king of Baedoor Empire in 998 OE, spending most of this time
+adventurer, poet, activist and the only Baedoor ruler from [Varteford family](/Loreum/Topics/Characters/Families/Varteford.md).  
+Born in Baedoor, in 947 OE, he became the king of Baedoor Empire in 994 OE, spending most of this time
 solving tense political situation and letting the Empire's defeat in war be less dramatic.
-He also put a lot of effort into rebuilding its structure after a Great Rebellion.  
 He died in his sleep in 1024 OE, in his home in the same city.
 
 - History
   - [Early Years](#early-years)
-  - [Reign Years](#reign-years)
-- [Relationships](#relationships)
+  - [Reign Years](#reigning-years)
+- [Relationships & Trivia](#relationships--trivia)
 - [Reception](#reception)
 - Books & Poems
 
 ### Early Years
 Beginnings of Tom's history can be traced to his travel to Al Khasar which he made together with
-his uncle, to finalise one of trade contracts. Eventually he became co-partner of the deal,
+his uncle, to finalise one of family's trade contracts. Eventually he became co-partner of the deal,
 making him earn enough financial foundation to organise next journeys across Baedoor island - this
 time with his own money.  
 In next years he helped Varteford family manage interests over Empire's territory, visiting Kaer and
 Rossevette.
 
 His first very long journey happened in 972 OE, when he went to Oe'os to get to know ghloddish culture,
-being tempted by traveller he talked with in one of inns. His visit got unusual turn - he revealed
-a conspiracy against Oe'os leader at the time, ending up in executing whole faction.  
+being tempted by traveller he talked with in one of inns. His visit took an unusual turn - he revealed
+a conspiracy against Oe'os leader at the time, which ended up in the execution of the whole faction.  
 Grateful for saving his life, the leader offered the small island nearby as a symbol of gratitude.
 The island was renamed after Tom's surname - as Ua'rte'thord'oe', shortened to Ua'rte'oe or in 
 baedoorish to just Vartee.  
 He settled there, building a house and organising terrain to better suit him in further journeys.
 
-Next years he spent travelling to nearby Moon Continent and also back to Baedoor - gathering a lot
+During next years he spent visiting nearby Moon Continent and also travelling back to Baedoor - gathering a lot
 of flora to be eventually planted on his island and meeting new people.  
 In 978 OE, he settled on Vartee for longer with his wife and with help of Oe'os ghlodds, he expanded
-his shelter to small manor. At this time, he isolated himself from the world, writing down plenty
-of books and poems, about his journeys, love and views on the world.  
-Even though not most the explorative, his writings got some following from Baedoor and Arennan
+his shelter to small manor. At this time, he isolated himself from the world, writing plenty
+of books and poems about his journeys, love, and views on the world.  
+Even though he was not the most explorative, his writings got some following from Baedoor and Arennan
 aristocrats, being published by Oe'os book publisher and later delivered to his homeland.
 For ghlodds, it became a way to get insight into "the east culture", as they called civilisation of 
-Baedoor and Moon.  
+Baedoor and the Moon.  
 In 989 OE, Tom ended his isolation and came back to his home country. Next years he spent on nostalgic
-journeys, maintaining his family's interests and social activities - he helped for example with
+journeys, maintaining his family's interests and social activities - for example, he helped with the
 building of [the Golden Lighthouse](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md).
 
-### Reign Years
-In 992 OE, the Warthog dynasty of Baedoor Empire ended, resulting in interregnum and dramatic attempts
+### Reigning Years
+In 992 OE, the Warthog dynasty of the Baedoor Empire ended, resulting in interregnum and dramatic attempts
 to keep the power of temporary leaders, being de facto just military generals. Such chaos only brought
 already defunct Empire's power to the state when areas conquered by it started their revolt.  
 With the capital burning (metaphorically) and the Great Rebellion ignited all over Arennan, Kaer and
@@ -61,7 +60,7 @@ claiming the throne. With Ettua, [Indan](/Loreum/Topics/Characters/Families/Inda
 families being against, this ended up in bloody fight on Baedoor's streets.  
 Families united under Varteford's banner had much bigger military power however, and the fight
 resulted in getting opponents to defeat. Family of Indan had also such a big casualties that this
-event basically made it cease to exist.
+event basically made them cease to exist.
 
 In next weeks, in 994 OE, Tom became a ruler. This decision initially leads to him becoming unpopular
 among both opposing families in Empire, some more sceptical aristocracies and guilds, as well as
@@ -72,7 +71,7 @@ however, Varteford's dedication to diplomacy let him get away with a lot of thos
 tried to deal with his previous opponents by wise play on playing to their interests and daunting
 those who clearly sabotaged the king.
 
-Next years, Tom's reign haven't stopped being controversial nor something conflicting interests of
+In next years, Tom's reign haven't stopped being controversial nor something conflicting interests of
 various families, especially those in the capital.  
 His approach however yielded rather successful crisis management - even though the Empire collapse
 and internal tensions couldn't be avoided, his rule allowed the kingdom to somewhat focus on economic
@@ -90,7 +89,7 @@ that is often brought up in defence to Tom's peaceful strategy, as a supposed lo
 In 1024 OE, in age of seventy-seven, Tom Varteford dies of old age in his bedroom in Baedoor Castle.
 His body is burned, and his ashes scattered one-half in Vartee island and one-half in Baedoor City.
 
-### Relationships
+### Relationships & Trivia
 
 Aristocratic origin of Tom obligated him to frequent relations with other Baedoor families from the 
 moment of his birth.
@@ -123,7 +122,7 @@ bringing him in positive context. To this day, most Baedoor families consider hi
 who managed to work well with the difficult times he dealt with.   
 General receipt across Empire - and especially in reflection of history over next centuries - left
 much more varied opinions of his ruling. Many scholars point out mistakes he made that could either
-keep Empire's lands instead of give up to Separatists' demands, or that his reign shown how weak the
+keep Empire's lands instead of giving up to Separatists' demands, or that his reign shown how weak the
 Empire was after Warthog dynasty.  
 Foreign countries tend to see him favourably, with those occupied by Empire considering him sometimes
 as "the only good king" given how much Tom tried to peacefully resolve the Big Rebellion crisis.  

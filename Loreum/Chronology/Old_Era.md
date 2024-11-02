@@ -12,7 +12,7 @@ gave birth to steampunk revolution all around the world.
 ---
 #### [Old Era History](/Loreum/Topics/History/Old_Era.md)
 #### Old Era Factions
-#### Old Era Characters
+#### [Old Era Characters](/Loreum/Topics/Characters/Old_Era_Characters.md)
 
 ---
 ✥♢  
