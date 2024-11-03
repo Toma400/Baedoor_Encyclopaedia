@@ -13,3 +13,5 @@ one enormous repository. link:Entrance.md[Enter the Encyclopaedia].
 - https://baedoor.github.io/projects/_mods_mc.html[Minecraft mods]
 - https://github.com/Toma400/The_Isle_of_Ansur[Isle of Ansur game]
 - https://baedoor.github.io/todo.html[Future projects]
+- https://baedoor.github.io/projects/fsam.html[Future Morrowind mod]
+- Various writings of mine

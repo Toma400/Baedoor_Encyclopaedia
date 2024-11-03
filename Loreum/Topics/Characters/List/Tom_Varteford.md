@@ -88,7 +88,7 @@ of the New Era, also helping Baedoor to survive the destructive effects of post-
 This is also one of the aspects that is often brought up in defence of Tom's peaceful strategy as a
 supposed long-term thinking.
 
-In 1024 OE, at the age of seventy-seven, Tom Varteford died of old age in his bedroom at Varteford
+In 1024 OE, at the age of seventy-seven, Tom Varteford died of old age in his bedroom in the Varteford
 residence. His body was cremated, and his ashes scattered half on Vartee island and half in Baedoor
 City.
 

@@ -4,8 +4,9 @@ Baedoor Encyclopaedia is place made by me to keep track on Baedoor lore, in its 
 
 **🏵️ WHAT IS BAEDOOR?**
 
-If you are stranger to what Baedoor is, head on [here](Baedoor.md). If you want to see author's 
-creative path and all Baedoor-related creations listed, go [here](Author.md).
+If you are stranger to what Baedoor is, head on [here](Baedoor.md).
+<!-- If you want to see author's 
+creative path and all Baedoor-related creations listed, go [here](Author.md). -->
 
 **🏔️ HISTORY**
 
