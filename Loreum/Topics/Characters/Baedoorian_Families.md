@@ -14,12 +14,13 @@ Baedoor:
 #### 🔹 Ettua
 #### 🔹 Flamecoat
 #### 🔹 [Indan](Families/Indan.md)
+#### 🔹 [Kono](Families/Kono.md)
 #### 🔹 Madavel
 #### 🔹 [Varteford](Families/Varteford.md)
 #### 🔹 [Xavier](Families/Xavier.md)
 
 Isuga:
-#### 🔹 Kono
+#### 🔹 [Kono](Families/Kono.md)
 #### 🔹 Neerhe
 #### 🔹 Vertilli
 
