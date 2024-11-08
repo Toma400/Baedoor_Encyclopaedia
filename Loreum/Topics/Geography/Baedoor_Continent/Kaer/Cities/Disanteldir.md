@@ -8,7 +8,7 @@
 |:-----------------------------------:|:------------------------------------------------:|
 |       Disanteldir concept art       | Map of erdic islands, including island of Disane |
 
-**Disanteldir** is small mining town built to excavate metals and stone from Disane island.  
+**Disanteldir** is small mining town built to excavate metals and stone from [Disane island](/Loreum/Topics/Geography/Baedoor_Continent/Kaer/Disane.md).  
 The monumental Sain ruin reigns over the erdic buildings built around, bracing on the small hill
 nearby. Whole city infrastructure is made to support the supply chain from mines.
 

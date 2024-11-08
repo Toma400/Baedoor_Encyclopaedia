@@ -3,11 +3,15 @@
 <table>
     <tr>
         <td>
-            <img alt="Kaer map" height="410" src="/Assets/Maps/kaer_early.jpg" width="301"/>
+            <img alt="Kha/Dis map" width="881" height="600" src="/Assets/Maps/khacari_disane.png">
+        </td>
+        <td>
+            <img alt="Kaer map" width="301" height="410" src="/Assets/Maps/erdic_islands.jpg">
         </td>
     </tr>
     <tr>
-        <td>Sketch of Kaer map, early OE</td>
+        <td> Gridmap of Khacari and Disane islands, New Era </td>
+        <td> Sketch of Kaer map, early OE                   </td>
     </tr>
 </table>
 
@@ -54,7 +58,7 @@ during Baedoor occupation.
 - Roda
 - Sorin
 
-#### Disane
+#### [Disane](Kaer/Disane.md)
 - [Disanteldir](Kaer/Cities/Disanteldir.md)
 
 ### VILLAGES
