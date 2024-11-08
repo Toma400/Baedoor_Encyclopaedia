@@ -26,7 +26,7 @@ LEGEND:
 ```
 
 ---
-### Anahsahei
+### Baedoor Continent
 - Baedoorians 🔹 [🏯](Cultures/Baedoorians/Architecture.md)
 
 ### Seiteh
