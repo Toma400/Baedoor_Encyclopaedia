@@ -25,6 +25,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### D
 - [Dawn Tear](Topics/Nature/Herbarium/List/Dawn_Tear.md)
 - [Delai Eir](Topics/Characters/List/Delai_Eir.md)
+- [Disane](Topics/Geography/Baedoor_Continent/Kaer/Disane.md)
 - [Disanteldir](Topics/Geography/Baedoor_Continent/Kaer/Cities/Disanteldir.md)
 
 ### E

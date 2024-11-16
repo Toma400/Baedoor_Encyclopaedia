@@ -5,7 +5,7 @@
 
 ---
 
-<img alt="Nyme" src="/Assets/ansur_nyme.jpg" width="390" height="520" />
+<img alt="Nyme" src="/Assets/Landscapes/Settlements/ansur_nyme.jpg" width="390" height="520" />
 
 **Nyme** is little village located on western coast of [**Ansur Isle**](/Loreum/Topics/Geography/Moon_Continent/East_Moon/Ansur.md), 
 built to overlook nearby iron mine. Initially it only served as home for administrative building,
