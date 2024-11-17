@@ -9,9 +9,9 @@ Al Khasar:
 #### 🔹 vân Buqan
 
 Baedoor:
-#### 🔹 Calgori
+#### 🔹 [Calgori](Families/Calgori.md)
 #### 🔹 Eschat
-#### 🔹 Ettua
+#### 🔹 [Ettua](Families/Ettua.md)
 #### 🔹 Flamecoat
 #### 🔹 [Indan](Families/Indan.md)
 #### 🔹 [Kono](Families/Kono.md)

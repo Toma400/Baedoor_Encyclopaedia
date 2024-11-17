@@ -20,6 +20,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor.md) (island)
 
 ### C
+- [Calgori](Topics/Characters/Families/Calgori.md)
 - [Cuerven Valley](Topics/Geography/Moon_Continent/East_Moon/Lands/Cuerven_Valley.md)
 
 ### D
@@ -34,6 +35,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Enahr, Esh](Topics/Characters/List/Esh_Enahr.md)
 - [Enfrvein](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
 - [Esh Enahr](Topics/Characters/List/Esh_Enahr.md)
+- [Ettua](Topics/Characters/Families/Ettua.md)
 - [Evros](Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)
 
 ### F

@@ -56,9 +56,10 @@ affairs. Discussing matters with the Abrahk family, he eventually got convinced 
 takeover with support of the few parties within the town.
 
 Leaving his wife in Al Khasar, Tom travelled back to the capital and then together with the [Xavier](/Loreum/Topics/Characters/Families/Xavier.md),
-Madavel and Calgori families and plenty of generals supportive towards him, they rushed towards
-claiming the throne. With the Ettua, [Indan](/Loreum/Topics/Characters/Families/Indan.md) and Eschat
-families opposing, this ended up in bloody fight on Baedoor's streets.  
+Madavel and [Calgori](/Loreum/Topics/Characters/Families/Calgori.md) families and plenty of generals
+supportive towards him, they rushed towards claiming the throne. With the [Ettua](/Loreum/Topics/Characters/Families/Ettua.md),
+[Indan](/Loreum/Topics/Characters/Families/Indan.md) and Eschat families opposing, this ended up 
+in bloody fight on Baedoor's streets.  
 The families united under Varteford's banner had a much bigger military power, however, and the fight
 resulted in defeat for their opponents. The Indan family had also such a big casualties that this
 event basically made them cease to exist.
