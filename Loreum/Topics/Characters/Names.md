@@ -28,6 +28,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Aegar    | Whole Baedoor                 | Common in East Baedoor, rarer elsewhere                                    |
 | Algor    | Whole Baedoor                 | Common name                                                                |
 | Altiner  | Whole Baedoor                 | Semi-rare name, more popular in Old Era                                    |
+| Anaurin  | Whole Baedoor                 | Semi-rare name, more popular in Old Era                                    |
 | Arentras | East Baedoor                  | Common name in Old Era, of jitadish origin                                 |
 | Clayton  | East Baedoor                  | Rare name in early Old Era, possibly derived from jitadian Sayton/Saytoin  |
 | Cryan    | East Baedoor                  | Rare name in early Old Era                                                 |
@@ -59,6 +60,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Marvin   | Whole Baedoor                 | Common name                                                                |
 | Mes      | East Baedoor                  | Rare name                                                                  |
 | Mez      | East Baedoor                  | Very unique variant of *Mes*                                               |
+| Natem    | East Baedoor                  | Semi-popular name in Old Era, rare in New Era, of jitadian origin          |
 | Nelson   | Whole Baedoor                 | Common name in Old Era, becoming rare in New Era                           |
 | Nemos    | Whole Baedoor                 | Nowadays common mostly in West Baedoor, of jitadian origin                 |
 | Norran   | Whole Baedoor                 | Quite regular baedoorian name                                              |
@@ -123,6 +125,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Jiro       | Jitado       | Rare name                                                              |
 | Jules      | Jitado       | Common name                                                            |
 | Lavsin     | Jitado       | Common name in Pre Era, got rarer with time                            |
+| Natem      | Jitado       | Common name, male counterpart of Natemi                                |
 | Nemos      | Jitado       | Common name, usually in coastline towns, associated with sailors       |
 | Nicoi      | Jitado       | Rare name                                                              |
 | Nicolavsin | Jitado       | Rare combination of Nicoi and Lavsin                                   |
@@ -158,6 +161,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Ilin   | Jitado       | Semi-common gender-neutral name                 |
 | Ilvis  | Jitado       | Semi-rare name, is gender neutral               |
 | Lorat  | Jitado       | Common name                                     |
+| Natemi | Jitado       | Common name, female counterpart of Natem        |
 | Nyvera | Jitado       | Rare name, female counterpart of Nyver          |
 | Salvi  | Jitado       | Common name                                     |
 | Sana   | Jitado       | Common name                                     |
@@ -229,6 +233,8 @@ or just if you would like to look at cultural differences between civilisations.
 |------------|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Abrahk     | Northern coast of East Baedoor | Aristocratic surname, of Al Khasar heritage                                                                                                                         |
 | Alearis    | Whole Baedoor                  | Common surname in south part of Baedoor's isle                                                                                                                      |
+| Ettua      | East Baedoor                   | Aristocratic surname                                                                                                                                                |
+| Calgori    | East Baedoor                   | Aristocratic surname                                                                                                                                                |
 | Gorth      | Whole Baedoor                  | Common surname                                                                                                                                                      |
 | Indan      | East Baedoor                   | Rare aristocratic surname, in NE basically non-existent, few individuals may exist abroad referring to [Indan article](/Loreum/Topics/Characters/Families/Indan.md) |
 | Inradena   | East Baedoor                   | Common surname in south-west of Baedoor's isle                                                                                                                      |
