@@ -90,6 +90,9 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Ostaequa](Topics/Nature/Bestiary/List/Ostaequa.md)
 - [Oververse](Topics/World_Mechanics/Oververse.md)
 
+### P
+- [Plate Lizard](Topics/Nature/Bestiary/List/Plate_Lizard.md)
+
 ### R
 - [Raliun](Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
 

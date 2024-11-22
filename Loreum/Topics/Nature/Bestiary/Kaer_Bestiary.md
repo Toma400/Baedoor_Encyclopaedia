@@ -3,17 +3,17 @@ Every creature existing in Kaer and nearby islands.
 
 ---
 ### 🔹 All Islands
-####   🔹 Porcupine
-####   🔹 Lizard
 ####   🔹 Crow
+####   🔹 Lizard
+####   🔹 Porcupine
 
 ### 🔹 Kaer
-####   🔹 Plate Lizard
+####   🔹 [Plate Lizard](List/Plate_Lizard.md)
 ####   🔹 Wolf
 
 ### 🔹 Khacari
-####   🔹 [Haunted Wanderer](List/Haunted_Wanderer.md)
 ####   🔹 Akhad
+####   🔹 [Haunted Wanderer](List/Haunted_Wanderer.md)
 ####   🔹 Nerau
 
 ---
