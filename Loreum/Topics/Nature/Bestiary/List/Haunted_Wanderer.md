@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/Assets/Nature/Creatures/Haunted Wanderer.jpg" width=614px></img>
+<img src="/Assets/Nature/Creatures/haunted_wanderer.jpg" width=307px></img>
 
 **Haunted Wanderer** is a [terten](/Loreum/Topics/Races/Spirit/Terten.md) creature wandering through
 the forests of Khacari, usually treading the old, forgotten paths, keeping its distance from any living

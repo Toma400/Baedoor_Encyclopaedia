@@ -19,7 +19,7 @@ almost an individualistic self-expression.
 
 The difference between tertens and other undeads is that the former usually have purpose to exist.  
 Terten either tries to fulfill that reason, or tries to live in this new form, as biological needs
-no longer bond them to the physical world.
+no longer bond them to the physical world limitations.
 
 ### Terten civilisations
 - Vaerdena Tertens

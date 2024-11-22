@@ -79,6 +79,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Moon](Topics/Geography/Moon_Continent.md) (continent)
 
 ### N
+- [Navennen](Topics/Nature/Bestiary/List/Navennen.md)
 - [Nferth](Topics/Geography/Moon_Continent/East_Moon/Nferth.md)
 - [Nyme](Topics/Geography/Moon_Continent/East_Moon/Cities/Nyme.md)
 
