@@ -16,6 +16,7 @@ LEGEND:
 👘️ - clothing
 🎎 - society
 ⚖️ - law
+⚜️ - politics
 🥮 - food
 🎭 - art
 🎉 - holidays

@@ -49,6 +49,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Golden Lighthouse of Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
 
 ### H
+- [Haunted Wanderer](Topics/Nature/Bestiary/List/Haunted_Wanderer.md)
 - [Heim Winfleton](Topics/Characters/List/Heim_Winfleton.md)
 - [Hyerbitus](Topics/Nature/Herbarium/List/Hyerbitus.md)
 
@@ -98,6 +99,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### T
 - [Temple of I'si](Topics/Religions/Small/Temple_of_I'si.md)
+- [Tertens](Topics/Races/Spirit/Terten.md)
 - [Tom Varteford](Topics/Characters/List/Tom_Varteford.md)
 - [Tom Varteford's Plantation](Topics/Geography/Baedoor_Continent/Baedoor/Places/Tom_Varteford_Plantation.md)
 - [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
