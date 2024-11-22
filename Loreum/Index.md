@@ -94,6 +94,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Raliun](Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
 
 ### S
+- [Separatists](Topics/Factions/List/Separatists.md)
 - [Si Avani](Topics/Characters/List/Si_Avani.md)
 - [Skirran](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)
 - [Starshifters](Topics/Guilds/List/Starshifters.md)
