@@ -80,6 +80,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### N
 - [Navennen](Topics/Nature/Bestiary/List/Navennen.md)
+- [Navikon, Ferves](Topics/Characters/List/Ferves_Navikon.md)
 - [Nferth](Topics/Geography/Moon_Continent/East_Moon/Nferth.md)
 - [Nyme](Topics/Geography/Moon_Continent/East_Moon/Cities/Nyme.md)
 
@@ -115,6 +116,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### V
 - [Vaerdena](Topics/Geography/Moon_Continent/East_Moon/Lands/Vaerdena.md)
 - [Varteford](Topics/Characters/Families/Varteford.md)
+- [Varteford, Tom](Topics/Characters/List/Tom_Varteford.md)
 - [Vulcanic Veil](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
 
 ### W

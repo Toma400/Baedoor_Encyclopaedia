@@ -70,3 +70,6 @@ Calgori family. In reality, the group was also supportive of liberating actions 
 efforts via their connections and services, using fairly peaceful time during Kaer invasion.  
 During interregnum and Separatists taking advantage of Empire collapsing, children of founders 
 fled further inland, afraid of possible pogroms on baedoorians.
+
+---
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Factions.md)
