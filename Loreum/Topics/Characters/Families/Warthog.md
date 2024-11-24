@@ -86,7 +86,7 @@ had - that his blood is of true patriot, who inherited a love for the country fr
 heritage, but a force from nomaths.
 Iilvinim promised invading Arennan quickly and with relentless power, unlike his predecessors.
 
-Iilvinim's oratory skills payed out well, as he was elected as next king of Empire.
+Iilvinim's oratory skills paid out well, as he was elected as next king of Empire.
 He also knew he must fulfill his promise, if for anything then for good of his family. 
 In between November 918 OE and next year's May, he hastily brought Third Grand Fleet into readiness 
 to invade Arennan.  

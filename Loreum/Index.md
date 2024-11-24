@@ -120,6 +120,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Vulcanic Veil](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
 
 ### W
+- [Warthog](Topics/Characters/Families/Warthog.md)
 - [Windy Arista](Topics/Nature/Herbarium/List/Windy_Arista.md)
 - [Winfleton Deck](Topics/Cultures/Baedoorians/List/Winfleton_Deck.md)
 - [Winfleton, Heim](Topics/Characters/List/Heim_Winfleton.md)

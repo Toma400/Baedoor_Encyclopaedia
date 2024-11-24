@@ -29,6 +29,13 @@ there thanks to some form of breach, Rift or his own unknown knowledge.
             It is unsure whether the script is entirely Xaine's creation or just used in their universe
             more commonly. In this second case, starshifter researchers theorise Rham could come before
             Tham, showing evolution of race Xaine come from.
+            <br><br>
+            Xaine used such words to describe oververse:<br>
+            <ul>
+                <li> réalran - ultimate reality, most possibly meaning oververse </li>
+                <li> réfran - subjective sense of worlds that we perceive through dreams, even though
+                              they are part of reality </li>
+            </ul>
         </td>
     </tr>
 </table>

@@ -17,12 +17,17 @@ Baedoor:
 #### 🔹 [Kono](Families/Kono.md)
 #### 🔹 Madavel
 #### 🔹 [Varteford](Families/Varteford.md)
+#### 🔹 [Warthog](Families/Warthog.md)
 #### 🔹 [Xavier](Families/Xavier.md)
+
+Dvickhet:
+#### 🔹 [Warthog](Families/Warthog.md)
 
 Isuga:
 #### 🔹 [Kono](Families/Kono.md)
 #### 🔹 Neerhe
 #### 🔹 Vertilli
+#### 🔹 [Warthog](Families/Warthog.md)
 
 Quarius:
 #### 🔹 Deom

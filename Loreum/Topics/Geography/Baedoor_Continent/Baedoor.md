@@ -22,14 +22,14 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - [Skirran](Baedoor/Cities/Skirran.md)
 
 #### Vershaton
-- Al Khasar `?: [pending]`
+- Al Khasar `?: Alkaesar?`
 - Nejir `x: Nasig (bae-nomathian)`
 - Pervesi `v`
 - Thanbyan `v (bae-nomathian)`
 
 ### VILLAGES
 #### Baedoor
-- Kedalet `?: Kedalen`
+- Kedalet `?: Kedalan`
 - Aqluzar `x: Anlesat`
 - Antaqua `v`
 - Maranan `v`
