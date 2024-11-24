@@ -13,6 +13,7 @@ or just if you would like to look at cultural differences between civilisations.
 **Surnames [🔱](#centersurnamescenter)**
 - [Baedoorian Surnames](#baedoorian-surnames)
 - [Jitadian Surnames](#jitadian-surnames)
+- [Nomathian Surnames](#nomathian-surnames)
 - [Tri Surnames](#tri-surnames)
 
 <hr style="border:2px solid gray">
@@ -52,6 +53,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Heim     | Whole Baedoor                 | Common name, originated from Baedoor Northern Coast                        | 
 | Heimlig  | Ansur, Baedoor Northern Coast | Probably mix of **Heim** and nordwinian suffix                             |
 | Hrevir   | Whole Baedoor                 | Common name used both in Old and New Era                                   |
+| Iilvinim | East Baedoor                  | Semi-rare name                                                             |
 | Indion   | Whole Baedoor                 | Rare name originating from Jitado                                          |
 | Invari   | East Baedoor                  | Rare name of jitadian origin                                               |
 | Isou     | East Baedoor                  | Rare name of jitadian origin, nowadays almost unseen in baedoorian culture |
@@ -65,6 +67,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Nemos    | Whole Baedoor                 | Nowadays common mostly in West Baedoor, of jitadian origin                 |
 | Norran   | Whole Baedoor                 | Quite regular baedoorian name                                              |
 | Nyver    | Whole Baedoor                 | Rare name of jitadian origin, with Nyvera as female counterpart            |
+| Orhat    | East Baedoor                  | Extremely rare, of nomathian origin                                        |
 | Ovlan    | Whole Baedoor                 | Common name, usually more frequently found on Rakonnd Coast                |
 | Pathor   | Whole Baedoor                 | Common name in Old Era                                                     |
 | Reduit   | Whole Baedoor                 | Common name of early Old Era                                               |
@@ -247,6 +250,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Varteford  | Baedoor city                   | Aristocratical surname                                                                                                                                              |
 | Velga, le  | East Baedoor                   | Aristocratic surname, of Isuga heritage                                                                                                                             |
 | Vos        | Arennan, West Baedoor          | Rare surname connected with Arennan naming                                                                                                                          |
+| Warthog    | East Baedoor                   | Aristocratic surname of nomathian origin                                                                                                                            |
 | Winfleton  | West Baedoor                   | Aristocratic surname, nowadays recognised with **Heim Winfleton**                                                                                                   |
 | Xavier     | East Baedoor                   | Aristocratic surname, originating from Baedoor city                                                                                                                 |                                                                                
 
@@ -260,6 +264,11 @@ or just if you would like to look at cultural differences between civilisations.
 | Itahmutsi | Jitado                 | Very rare surname, from Adelaie                     |
 | Sorevo    | Jitado, Ansur, Baedoor | Popular surname, quite popular in Baedoor diasporas | 
 | Tio       | Jitado                 | Old jitadian surname                                |
+
+### Nomathian Surnames
+| Name    | Localisation                                 | Description          |
+|---------|----------------------------------------------|----------------------|
+| Warthog | Western and southern coast of Baedoor island | Aristocratic surname |
 
 ---
 ### Tri Surnames
