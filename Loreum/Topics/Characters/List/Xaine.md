@@ -14,7 +14,7 @@ Według niektórych pogłosek, Xaine może być podróżnikiem spoza uniwersum B
 który dostał się do niego poprzez przerwy między wymiarami.
 
 <img alt="Xaine script" height="212" src="/Assets/xaine_script.jpg" width="464"/><br>
-<code>Xaine script he used to write most of his notes. Transcription uses French pronunciation.</code>
+<code>Skrypt Xaine używał do swoim notatek. Transkrypcja używa francuskiej wymowy.</code>
 
 ---
 ♜✥: make separate page for Xaine's script  

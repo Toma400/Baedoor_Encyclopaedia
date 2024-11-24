@@ -110,14 +110,14 @@ BSaL został pół roku później przepisany, ale zmiana ta była nieznaczna, od
 stabilność i kod, nie poprawiając jednak częstych crashy i błędów. Wraz z utratą motywacji,
 a również pewnym ukończeniem przepisywania, projekt przestał być rozwijany.  
 Zarówno wersja 1.0, jak i 2.0 nie były publicznie dostępne, jako że w obu wypadkach były
-przeszkody nie pozwalające na sensowną grę - pierwsza wersja była zrobiona prywatnie, i dla
+przeszkody niepozwalające na sensowną grę - pierwsza wersja była zrobiona prywatnie, i dla
 takich celów służyła, druga natomiast została zaimplementowana bardzo słabo, przez co
 nie przetrwałaby porównania z większością nawet terminalowych RPGów.  
 BSaL jednak był grą kompletną: można było odwiedzić wyspę Ansur, zrobić zadania, walczyć,
 tworzyć swoją postać. Miała również ona swój plik .exe z amatorską ikoną.  
 Niemniej jednak, była ona po polsku, co powstrzymywało mnie z publikacją.
 
-***Aktualizacja:** BSaL ostatecznie została udostępniona dzięki zaistnieniu tej encyklopedii, i
+***Aktualizacja:** BSaL ostatecznie została udostępniona dzięki zaistnieniu tej encyklopedii - 
 można ją znaleźć na [stronie autorskiej](Author.md).*
 
 ### ❄️ Growa przerwa
@@ -158,10 +158,10 @@ części:
 - **Civilisations** - skupiającym się na cywilizacjach, aspekcie fabularnym, jak i wymiarach
 - **Spires** - dodającym magię i zielarstwo do Minecrafta
 
-Ta decyzja wyszła z faktu, że **Wastelands** samo w sobie nie zmieściłoby w sobie tak wielkiej
-ilości rzeczy, bez stawania się swoją karykaturą.
+Ta decyzja wynikła z tego, że **Wastelands** samo w sobie nie zmieściłoby w sobie wszystkiego,
+jako że mod takiej wielkości byłby bardzo obciążający, zarówno twórczo, jak i technologicznie.
 
-Dodatkowo do tej separacji, moje pomysły wziązane z tworzeniem gier w świecie Baedooru
+Dodatkowo do tej separacji, moje pomysły związane z tworzeniem gier w świecie Baedooru
 powróciły. Pierwszą rzeczą, jaką bardzo chciałem zrobić - będąc też zachęcanym przez moich
 przyjaciół - było przepisanie Between Shadows and Light.  
 To jest też moment, gdy powstaje pomysł **The Isle of Ansur**: pełnego przepisania poprzedniej
