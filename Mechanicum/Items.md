@@ -1,14 +1,14 @@
-# 🌀 Items
+# 🌀 Itemek
 
 ---
-### 🔪 [Weapons](Items/Weapons.md)
-### 🔧 Tools
-### 👘 Clothes
-### 🥮 Food
-### 🌿 Herbs
-### ⚗️ Potions
-### 🧱 Resources
-### 🧭 Miscellaneous
+### 🔪 [Fegyverek](Items/Weapons.md)
+### 🔧 Eszközök
+### 👘 Ruházatok
+### 🥮 Ételek
+### 🌿 Gyógynövények
+### ⚗️ Bájitalok
+### 🧱 Alapanyagok
+### 🧭 Egyéb
 
 ---
 ### 🔍 [Index](Items/Index.md)

@@ -1,17 +1,16 @@
-# Pronunciation symbols
-There's some symbolisation which you may find important during learning pronunciation systems of
-Baedoor languages. Everything about them can be found here.
+# Kiejtési szimbólumok
+Ezek a szimbólumok hasznosak lehetnek a Baedoor nyelveinek kiejtésének megértésében.
 
-| Symbol | Meaning                                                                  | Example |
-|:------:|--------------------------------------------------------------------------|---------|
-|   ↑    | Accent, "heavy" letter                                                   |         | 
-|   ↓    | Hearable, but slightly, "weak" letter                                    |         |
-|   x:   | Slightly longer letter (in this case, `x`)                               |         |
-|   :    | If put alone (at the start), means silence                               |         |
-|   -    | If alone: No equivalent in the language (letter not used)                |         | 
-|  x-x   | Short break between letters                                              |         |
-|  x...  | First letter of the word                                                 |         |
-|  ...x  | Last letter of the word                                                  |         |
-| ..x..  | Between letters                                                          |         |
-|   ʃ    | As ʃ or ʂ of phonetic language, hearable in Polish `sz` or Hungarian `s` |         |
-|   j    | Being yod `j`, not English one                                           |         |
+| Szimbólum | Jelentés                                                                  |  Példa  |
+|:---------:|---------------------------------------------------------------------------|---------|
+|    ↑      | Hangsúly jele, erősebb ejtés                                              |         | 
+|    ↓      | Hallható, de halkabb hang                                                 |         |
+|    x:     | Hosszabb hang (ebben az esetben az `x`)                                   |         |
+|    :      | Ha elől egyedül áll, csöndet jelent                                       |         |
+|    -      | If alone: No equivalent in the language (letter not used)                 |         | 
+|   x-x     | Rövid szünet a hangok között                                              |         |
+|   x...    | A szó első betűje                                                         |         |
+|   ...x    | A szó utolsó betűje                                                       |         |
+|  ..x..    | betűk között                                                              |         |
+|    ʃ      | ʃ vagy ʂ -ként, ugyan az, mint a Lengyel az `sz` vagy a Magyarban az `s`  |         |
+|    j      | Being yod `j`, not English one                                            |         |
