@@ -12,14 +12,16 @@ If this section becomes too big, it can be split into linked sections in the fut
 
 </span>
 
-* [Adelaie](Topics/Geography/Jitado/Cities/Adelaie.md)
-* [Baedoor](Topics/Geography/Baedoor/Cities/Baedoor.md)
-* [Evros](Topics/Geography/East_Moon/Cities/Evros.md)
-* [Ino Anor](Topics/Geography/Jitado/Cities/Ino_Anor.md)
-* [Isuga](Topics/Geography/Baedoor/Cities/Isuga.md)
-* [Menerun](Topics/Geography/Jitado/Cities/Menerun.md)
-* [Raliun](Topics/Geography/Jitado/Cities/Raliun.md)
-* [Skirran](Topics/Geography/Baedoor/Cities/Skirran.md)
+* [Adelaie](Topics/Geography/Old_Continent/Jitado/Cities/Adelaie.md)
+* [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)
+* [Disanteldir](Topics/Geography/Baedoor_Continent/Kaer/Cities/Disanteldir.md)
+* [Evros](Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)
+* [Ino Anor](Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)
+* [Isuga](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md)
+* [Menerun](Topics/Geography/Old_Continent/Jitado/Cities/Menerun.md)
+* [Nyme](Topics/Geography/Moon_Continent/East_Moon/Cities/Nyme.md)
+* [Raliun](Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
+* [Skirran](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)
 
 <span style="color:#90AA62">
 
@@ -28,6 +30,7 @@ If this section becomes too big, it can be split into linked sections in the fut
 </span>
 
 * [Ash Veil](Topics/Nature/Herbarium/List/Ash_Veil.md)
+* [Dawn Tear](Topics/Nature/Herbarium/List/Dawn_Tear.md)
 * [Hyerbitus](Topics/Nature/Herbarium/List/Hyerbitus.md)
 * [Jaspen](Topics/Nature/Herbarium/List/Jaspen.md)
 * [Lhue](Topics/Nature/Herbarium/List/Lhue.md)

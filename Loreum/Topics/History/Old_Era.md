@@ -6,6 +6,7 @@ List of all events that have happened in Old Era.
 ---
 ### Timetable by civilisation
 
+#### 🔹 [Baedoor Timetable](Old_Era_Baedoor.md)
 #### 🔹 [Evývind Timetable](Old_Era_Evývind.md)
 
 ---

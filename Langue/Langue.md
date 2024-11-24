@@ -20,6 +20,7 @@ szótárakat és a betekintő nyelvek logikai felépítésébe.
 
 ---
 ## <center>Átlagos Nyelvek</center>
+### [⛩️ Erdis](Families/Erdis.md)
 
 ---
 ## <center>Régi nyelvek</center>

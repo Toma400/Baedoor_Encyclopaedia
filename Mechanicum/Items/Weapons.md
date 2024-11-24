@@ -32,7 +32,7 @@
 
 ### 🔥 Lőfegyverek
 #### [Revolverek](Revolvers.md)
-#### Sörétes Puskák
+#### [Sörétes Puskák](Shotguns.md)
 #### Rohampuskák
 #### Revolvering Rifles
 #### Automated Firearms

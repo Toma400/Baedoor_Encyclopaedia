@@ -3,6 +3,7 @@ A revolverek általában gyors, rövid hatótávolságú lőfegyverek, amelyek t
 
 ---
 #### [Lefs 8](List/Lefs8.md)
+#### [Lefs 9](List/Lefs9.md)
 
 ---
 ♜: lots of stuff to add

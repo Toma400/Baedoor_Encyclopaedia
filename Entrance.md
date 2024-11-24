@@ -4,7 +4,7 @@ A Baedoor Enciklopédia az a hely, ahol én, a legapróbb részletig dokumentál
 
 **🏵️ MI AZ A BAEDOOR?**
 
-Ha nem ismered a Baedoor-t, akkor kattints [ide](Baedoor.md). Ha szeretnéd a szerző kreatív útját megismerni és megtekinteni az összes Baedoor-hoz kapcsolódó alkotást, menj [ide](Author.md).
+Ha nem ismered a Baedoor-t, akkor kattints [ide](Baedoor.md).
 
 **🏔️ TÖRTÉNELEM**
 
@@ -18,6 +18,5 @@ Az Enciklopédia 4 alappilléren áll:
 - 🎭 [Enciklopédia Langue](Langue/Langue.md) - A Beadoor civilizáció nyelvei és szótárai
 - 📕 Enciklopédia Scribae - A Baedoor civilizációi által írt összes könyv
 - ⚙️ [Enciklopédia Mechanicum](Mechanicum/Mechanicum.md) - Az összes RPG rendszernek, eszköznek és statisztikának dokumentációja
-- 🌌 [Encyclopaedia Quaevismundus](Quaevismundus/Quaevismundus.md) - storing all information of selected foreign multiverses
 
 Kattints egy szekciónevekre, hogy meglátogasd azt.

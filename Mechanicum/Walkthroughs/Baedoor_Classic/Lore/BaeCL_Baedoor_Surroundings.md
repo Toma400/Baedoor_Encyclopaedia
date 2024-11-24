@@ -9,7 +9,7 @@
 <table>
   <!--PHOTO 1-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 17" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_17.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 17" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_17.jpg" width="416"/></td>
     <th align="centre">Wheat Field</th>
   </tr>
   <tr>
@@ -20,7 +20,7 @@
 
   <!--PHOTO 2-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 18" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_18.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 18" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_18.jpg" width="416"/></td>
     <th align="centre">Barley & Rye Field</th>
   </tr>
   <tr>
@@ -31,7 +31,7 @@
 
   <!--PHOTO 3-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 19" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_19.jpg" width="416"/><br><img alt="Baedoor Archives, Photo 20" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_20.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 19" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_19.jpg" width="416"/><br><img alt="Baedoor Archives, Photo 20" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_20.jpg" width="416"/></td>
     <th align="centre">Cemetery</th>
   </tr>
   <tr>
@@ -42,7 +42,7 @@
 
   <!--PHOTO 4-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 21" height="307" src="/Assets/Sources/001_Lnd__Baedoor/arv_baedoor_21.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 21" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_21.jpg" width="416"/></td>
     <th align="centre">Witch House</th>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ Hence, sources on Baedoor from **Baedoor Classic** are treated in specific scope
   follow 200 OE timeframe, it will be used as source for this period)
 - Kel Desert is moved onto Vershaton territory
 
-Notebook source: [**N.1.001_lnd**](/Mechanicum/Walkthroughs/Baedoor_Classic/Sources/001_Lnd__Baedoor.md)
+Notebook source: [**N.1.001_lnd**](/Mechanicum/Walkthroughs/Baedoor_Classic/Sources/L_001_Baedoor.md)
 
 ---
 [💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [📿](/Mechanicum/Walkthroughs/Baedoor_Classic/BaeCL_Lore.md)

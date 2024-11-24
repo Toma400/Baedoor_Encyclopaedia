@@ -17,8 +17,7 @@
 Lefs 8 is one of regular revolvers created by **Lefs** company, produced since 720 NE to today.  
 It became extremely popular few years after initial production, within armies and gunslingers, due to
 its balanced statistics and comfort of use.  
-This popularity came even despite quite high price
-of a revolver itself.
+This popularity came even despite quite high price of a revolver itself.
 
 It has rare variant called **Lefs 8T** with black handle and slightly changed mechanics. It was
 produced for **United Tri Union** in years 901 NE - 907 NE, but didn't reach bigger success due
@@ -26,7 +25,7 @@ to tris bias against firearms.
 
 ---
 ### STATISTICS
-#### 🚂 Wastelands of Baedoor
+#### 🚂 Wastelands of Baedoor `1.14-1.18`
 ```
 OBTAINING:
 |  🦋 BANDIT AIRSHIP

@@ -103,9 +103,10 @@ For games I've made for learning purposes, head to [🔨️ section below](Autho
 Wrench means status of support - if the program is still maintained. 🈷️ means open form of language support.  
 For software I've made for learning purposes, head to [🔨️ section below](Author.md#-learning-projects).
 
-| 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                 |                            Lang                             |
-|-----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|:-----------------------------------------------------------:|
-| 🟣  | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE) | <b> 🇬🇧 </b><br> 🇪🇸 🇵🇱 <br> 🇭🇺 🇸🇦 <br> 🇨🇿 <br> ➕ |
+| 🔧  | Date       | Name      | Description                                                                                                                                                                                                 | Download                                      |                            Lang                             |
+|-----|------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|:-----------------------------------------------------------:|
+| 🟣  | 2022-04-08 | Librerian | Software to create catalogues of your books, movies, games, animes and other stuff, similarly to GoodReads, IMDB and others, but in local scope.<br> Possibly with API integrations between those websites. | [Discord](https://discord.gg/GbTw9KqnrE)      | <b> 🇬🇧 </b><br> 🇪🇸 🇵🇱 <br> 🇭🇺 🇸🇦 <br> 🇨🇿 <br> ➕ |
+| 🟣  | 2023-09-05 | Drawfire  | Simple drawing software made as proof of concept in Nimfire library                                                                                                                                         | [GitHub](https://github.com/Toma400/Drawfire) |                            🇬🇧                             | 
 
 ---
 ### 📖 STORIES  
@@ -290,6 +291,7 @@ All things from previous sections which try to collect several stuff of mine.
 |------------------|----------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------|
 | 2021-01-08       | Duch Nieskończoności | [🇵🇱](https://drive.google.com/file/d/1KgrlGnznHZ3pDogHoa1O0RFGHPC3_Rqq/view?usp=sharing) | Collection of scenes (short texts without true story) |
 | 2021-01-25       | Przez Pustynie Serca | [🇵🇱](https://drive.google.com/file/d/1kdLMS0IhLfuX401W0jzTA20jQ8zQOha3/view?usp=sharing) | Collection of 42 poems, with small corrections        |
+| 2023-08-29       | Świt Nad Tar Tahraes | [🇵🇱](https://drive.google.com/file/d/1G0Z4SNFOL2umYbUr021zLXkSFwH_zhVG/view?usp=sharing) | Second, final collection of scenes                    |
 
 ### 🍁️ ️️SMALLER MODDING PROJECTS
 Aside from mods, I also created some projects related to modding, but not being mods in their strict
@@ -342,9 +344,11 @@ TAGS:
 ```
 ㊙️ **General Collabs & Contributions**
 
-| Time of collab     | Tag | Name    | What is the project                                                                                                      |               My role               |                                  URL                                  |
-|--------------------|:---:|---------|--------------------------------------------------------------------------------------------------------------------------|:-----------------------------------:|:---------------------------------------------------------------------:|
-| 2021-12 🔹 2022-03 | 📿  | Desolat | Minecraft mod around desert dimension, Desolat. Eventually made a reference to it in Baedoor universe (Aji'n multiverse) | **Contributor**<br>Made small fixes | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedesolat) |
+| Time of collab     | Tag | Name            | What is the project                                                                                                      |                   My role                    |                                                           URL                                                            |
+|--------------------|:---:|-----------------|--------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|
+| 2021-12 🔹 2022-03 | 📿  | Desolat         | Minecraft mod around desert dimension, Desolat. Eventually made a reference to it in Baedoor universe (Aji'n multiverse) |     **Contributor**<br>Made small fixes      |                          [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedesolat)                           |
+| 2023-12 🔹 now     | 📿  | Tamriel Rebuilt | Morrowind biggest project aimed on bringing whole Tamriel continent to existence: Morrowind / Argonia section            | **Interior Dev**<br>🔹<br>**Concept Artist** |                                 [Nexus](https://www.nexusmods.com/morrowind/mods/42145)                                  |
+| 2023-12 🔹 now     | 📿  | Project Tamriel | Morrowind biggest project aimed on bringing whole Tamriel continent to existence: other provinces                        | **Interior Dev**<br>🔹<br>**Concept Artist** | [SHotN](https://www.nexusmods.com/morrowind/mods/44921) <br>🔹<br> [PC](https://www.nexusmods.com/morrowind/mods/44922/) |
 
 🔣 **Translating Contributions**  
 This list stores all bigger translations I've made. Aside of them, I also were translating some lyrics
@@ -396,9 +400,10 @@ TAGS:
 ### 🈁 FONTS
 As weirdly as it may sound, I even were creating fonts, usually for Baedoor universe.
 
-| Name                | Purpose                   | License                                        | Link                                                                                        |
-|---------------------|---------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------|
-| Ghloddish Universal | Use of ghloddish alphabet | Free for non-commercial use related to Baedoor | [Drive](https://drive.google.com/file/d/1RZWHZTH8N5n-1uzn4mSEcLsvttTbLYwd/view?usp=sharing) |
+| Name                | Purpose                                                                                | License                                        | Link                                                                                        |
+|---------------------|----------------------------------------------------------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Ghloddish Universal | Use of ghloddish alphabet                                                              | Free for non-commercial use related to Baedoor | [Drive](https://drive.google.com/file/d/1RZWHZTH8N5n-1uzn4mSEcLsvttTbLYwd/view?usp=sharing) |
+| Ferrum Extended     | [Ferrum font](https://www.1001fonts.com/ferrum-font.html) expanded for Polish alphabet | Derived from Ferrum                            | None                                                                                        |
 
 ---
 ### 🖼️ DRAWINGS
@@ -486,6 +491,16 @@ Aside of creating themes for my own software, I also created some themes for oth
 ✼ [**Subnautical theme for Repl.it**](https://replit.com/theme/@Toma400/subnautical)
 
 ---
+### ⛲ LIBRARIES
+Library or framework is programming concept of code that can be used to enhance your coding by
+providing some additional code base. I actually made one:
+
+|   Name    | Language | Description                                                                              |                     Source                     | First release |
+|:---------:|:--------:|:-----------------------------------------------------------------------------------------|:----------------------------------------------:|:-------------:|
+|  Nimfire  |   Nim    | Nim GUI/game library inspired by PyGame and Nigui                                        |  [GitHub](https://github.com/Toma400/Nimfire)  |  2023-09-??   |
+| Tribalify |   Nim    | Nim library with several sugar utilities inspired by my own programming language, Tribal | [GitHub](https://github.com/Toma400/Tribalify) |  2023-08-27   |
+
+---
 ### ⚡️ PLUGINS
 I love some softwares, so there should be no surprise I not only make some mods, but also plugins,
 supporting open-sourceness of those programs that support it.  
@@ -525,7 +540,7 @@ projects being developed as well. Here is the list:
 | 🔧  | Date       | Name       | Description                                                                                                     | Download                                        | Lang |
 |-----|------------|------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------|:----:|
 | 🔴  | 2023-02-21 | Yamlomiser | Small terminal software used to randomise elements of .yaml file. Originated from idea of picking random names. | [GitHub](https://github.com/Toma400/Yamlomiser) | 🇬🇧 |
-
+| 🟠  | 2024-02-08 | HC Tracker | Software letting me track HermitCraft episodes                                                                  | [GitHub](https://github.com/Toma400/HC_Tracker) | 🇬🇧 |
 
 ---
 ### ☠️ LOST AND FOUND

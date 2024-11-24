@@ -1,8 +1,8 @@
 # 📿 Lore
 
 ### Summary:
-- [Ansur](Lore/BSaL_Ansur.md) [🔱](/Loreum/Topics/Geography/East_Moon/Ansur.md)
-- [Evros](Lore/BSaL_Evros.md) [🔱](/Loreum/Topics/Geography/East_Moon/Cities/Evros.md)
+- [Ansur](Lore/BSaL_Ansur.md) [🔱](/Loreum/Topics/Geography/Moon_Continent/East_Moon/Ansur.md)
+- [Evros](Lore/BSaL_Evros.md) [🔱](/Loreum/Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)
 
 ---
 ### Lore accuracy

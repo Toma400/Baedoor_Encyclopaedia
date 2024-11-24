@@ -1,5 +1,5 @@
 # 🈳 Temple of I'si
-Temple of I'si is small religion appearing in part of Jitado, especially prominent in [Adelaie](/Loreum/Topics/Geography/Jitado/Cities/Adelaie.md).  
+Temple of I'si is small religion appearing in part of Jitado, especially prominent in [Adelaie](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Adelaie.md).  
 It is unknown when Temple has started, but it is considered as one of the oldest religions of Old
 Continent - yet, being one of the smallest of them all.
 

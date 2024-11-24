@@ -12,6 +12,7 @@ Lists all guilds and organisations existing in Baedoor universe.
 #### 🔹 [Old Continent Guilds](Guilds/Old_Continent_Guilds.md)
 #### 🔹 Seiteh Guilds
 #### 🔹 Moon Continent Guilds
+####    🔹 [Ansur Guilds](Guilds/Ansur_Guilds.md)
 #### 🔹 [Baedoor Continent Guilds](Guilds/Baedoor_Continent_Guilds.md)
 #### 🔹 Guilds of Azure Archipelago
 #### 🔹 Guilds of Southern Grand Frost

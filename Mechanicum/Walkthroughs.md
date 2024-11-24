@@ -15,7 +15,7 @@
 
 ## Mods
 
-### 🏯 Baedoor Pusztaságai
+### 🏯 [Baedoor Pusztaságai](Walkthroughs/WoB/WoB.md)
 ### 🏯 Baedoor Civilizációi
 
 ## Klasszikus

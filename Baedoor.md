@@ -56,7 +56,7 @@ such as Dungeons & Dragons or systems used in cRPG games,
 like Morrowind, Skyrim, Gothic and so on. 
 It is main system on which I based a lot of gameplay for my games.
 
-All geeky details are available in [Mechanicum](Mechanicum/RPG_System/RPG_System.md) part of the wiki.
+All geeky details are available in [Mechanicum](Mechanicum/RPG_System/3.0/RPG_System.md) part of the wiki.
 
 ***
 # Short History of Baedoor Universe and RPG System
@@ -208,13 +208,13 @@ and who knows, maybe we will meet across the road someday?
 * [2021] [Wastelands of Baedoor](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor)
 ---
 ### Upcoming
-* [2022] The Isle of Ansur `indev`
-* [2022] Civilisations of Baedoor `indev`
-* [2022] Baedooria `indev`
-* [ ` ? ` ] Spires of Baedoor
+* [2024] The Isle of Ansur `indev`
+* [ ` ? ` ] Civilisations of Baedoor `indev`
+* [ ` ? ` ] Spires of Baedoor `indev`
 #### Far future?
-* [ ` ? ` ] Ancient Settlers
+* [ ` ? ` ] Of Lands `temporary name`
 * [ ` ? ` ] Baedoor Travels
+* [ ` ? ` ] Emperor of Eternity
 * [ ` ? ` ] Baedoor
 
 *This list examines only games related to the universe. For stories, poems and music, refer to
