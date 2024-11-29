@@ -2,13 +2,14 @@
 
 <img alt="Baedoor Island map" height="342" src="/Assets/Maps/baedoor_island.jpg" width="520"/>
 
-Baedoor is the biggest island on Baedoor Continent, containing three big lands inside - Baedoor,
-Rakonnd Coast and Vershaton.  
-Since beginnings of Old Era, it got conquered by baedoorians. It also was operating place of
-**Baedoor Empire**, and after its fall, it is now main part of **East Baedoor**.
+Baedoor jest największą wyspą kontynentu Anahsahei, możliwą do podzielenia na trzy regiony - 
+Baedoor, Wybrzeże Rakonnd i wyżynę Vershaton.  
+Już z początków Starej Ery, wyspa ta została podbita przez Baedoorczyków. Była również miejscem
+narodzin **Imperium Baedoor**, a już po jego upadku, jest ona największą częścią **Wschodniego
+Baedoor**.
 
-### TOWNS
-#### Baedoor Region
+### MIASTA
+#### Region Baedoor
 - [Baedoor](Baedoor/Cities/Baedoor.md)
 - [Isuga](Baedoor/Cities/Isuga.md)
 - Dvickhet `v`
@@ -18,16 +19,16 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Fressi `v`
 - Kelvos `v`
 
-#### Rakonnd Coast
+#### Wybrzeże Rakonnd
 - [Skirran](Baedoor/Cities/Skirran.md)
 
-#### Vershaton
+#### Wyżyna Vershaton
 - Al Khasar `?: Alkaesar?`
 - Nejir `x: Nasig (bae-nomathian)`
 - Pervesi `v`
 - Thanbyan `v (bae-nomathian)`
 
-### VILLAGES
+### WIOSKI
 #### Baedoor
 - Kedalet `?: Kedalan`
 - Aqluzar `x: Anlesat`
@@ -45,12 +46,12 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Larains `v`
 - Ynsen `?: Onsen`
 
-#### Rakonnd Coast
+#### Wybrzeże Rakonnd
 - Angidinis (formerly Angides) `v`
 - Badainon `v`
 - Danum `v`
 
-#### Vershaton
+#### Wyżyna Vershaton
 - Moranant `v`
 - Girnes `v`
 - Abo `v`
@@ -63,15 +64,15 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Velkmance `?: Velkmag (nomathian)`
 - Leorrallens `?: Learens`
 
-### LANDSCAPES
-- Asveen Depths `?: Asven`
-- Vershaton Vulcano `v`
-- Coonhe Forest `?: [jitadian vibe, could get baedoorised]`
-- Oarien Pass `v`
-- [Kel Desert](Baedoor/Lands/Kel_Desert.md)
+### KRAJOBRAZY
+- Głębiny Asveen `?: Asven`
+- Wulkan Vershaton `v`
+- Las Coonhe `?: [jitadian vibe, could get baedoorised]`
+- Przełęcz Oarien `v`
+- [Pustynia Kel](Baedoor/Lands/Kel_Desert.md)
 
-### PLACES
-- [Tom Varteford's Plantation](Baedoor/Places/Tom_Varteford_Plantation.md)
+### MIEJSCA
+- [Plantacja Toma Varteforda](Baedoor/Places/Tom_Varteford_Plantation.md)
 
 ---
 ♜♢✥ / "v" is +- good name, "?" is name which should be lore-friendlied, "x" means rejected name  

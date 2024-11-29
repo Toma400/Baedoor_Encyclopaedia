@@ -10,12 +10,11 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 - [Altauar](Topics/Geography/Old_Continent/Jitado/Regions/Altauar.md) (region)
 - [Ansur](Topics/Geography/Moon_Continent/East_Moon/Ansur.md)
 - [Ansurska Gildia Złodziei](Topics/Guilds/List/Ansur_Thieves_Guild.md)
-- [Ash Veil](Topics/Nature/Herbarium/List/Ash_Veil.md)
+- [Archipelag Błękitny](Topics/Geography/Azure_Archipelago.md)
 - [Avani, Si](Topics/Characters/List/Si_Avani.md)
-- [Azure Archipelago](Topics/Geography/Azure_Archipelago.md)
 
 ### B
-- [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md) (miast)
+- [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md) (miasto)
 - [Baedoor](Topics/Geography/Baedoor_Continent.md) (kontynent)
 - [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor.md) (wyspa)
 
@@ -24,7 +23,6 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 - [Cuerven](Topics/Geography/Moon_Continent/East_Moon/Lands/Cuerven_Valley.md) (dolina)
 
 ### D
-- [Dawn Tear](Topics/Nature/Herbarium/List/Dawn_Tear.md)
 - [Delai Eir](Topics/Characters/List/Delai_Eir.md)
 - [Disane](Topics/Geography/Baedoor_Continent/Kaer/Disane.md)
 - [Disanteldir](Topics/Geography/Baedoor_Continent/Kaer/Cities/Disanteldir.md)
@@ -43,12 +41,10 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 - [Followers of the Bound](Topics/Guilds/List/Followers_of_the_Bound.md)
 
 ### G
-- [Ghlodds](Topics/Races/Regular/Ghlodds.md)
-- [Golden Lighthouse of Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
+- [Głoddy](Topics/Races/Regular/Ghlodds.md)
 - [Gwiazdounosiciele](Topics/Guilds/List/Starshifters.md)
 
 ### H
-- [Haunted Wanderer](Topics/Nature/Bestiary/List/Haunted_Wanderer.md)
 - [Heim Winfleton](Topics/Characters/List/Heim_Winfleton.md)
 - [Hyerbitus](Topics/Nature/Herbarium/List/Hyerbitus.md)
 
@@ -60,23 +56,25 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 
 ### J
 - [Jaspen](Topics/Nature/Herbarium/List/Jaspen.md)
-- [Jitado](Topics/Geography/Old_Continent/Jitado.md) (island)
+- [Jitado](Topics/Geography/Old_Continent/Jitado.md) (wyspa)
 
 ### K
 - [Kaer](Topics/Geography/Baedoor_Continent/Kaer.md)
-- [Kel Desert](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Kel_Desert.md)
 - [Kościół I'si](Topics/Religions/Small/Temple_of_I'si.md)
+- [Księżyc](Topics/Geography/Moon_Continent.md) (kontynent)
 
 ### L
 - [Lhue](Topics/Nature/Herbarium/List/Lhue.md)
 - [Lotua](Topics/Nature/Herbarium/List/Lhue.md)
 - [Lyrensi Purpui](Topics/Nature/Herbarium/List/Lyrensi_Purpui.md)
 
+### Ł
+- [Łza Poranka](Topics/Nature/Herbarium/List/Dawn_Tear.md)
+
 ### M
 - [Madai](Topics/Nature/Herbarium/List/Madai.md)
 - [Menerun](Topics/Geography/Old_Continent/Jitado/Cities/Menerun.md)
-- [Mes Inpea](Topics/Geography/Old_Continent/Mes_Inpea.md) (island)
-- [Moon](Topics/Geography/Moon_Continent.md) (continent)
+- [Mes Inpea](Topics/Geography/Old_Continent/Mes_Inpea.md) (wyspa)
 
 ### N
 - [Navennen](Topics/Nature/Bestiary/List/Navennen.md)
@@ -85,12 +83,12 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 - [Nyme](Topics/Geography/Moon_Continent/East_Moon/Cities/Nyme.md)
 
 ### O
-- [Ormaths](Topics/Races/Regular/Ormaths.md)
+- [Ormathowie](Topics/Races/Regular/Ormaths.md)
 - [Ostaequa](Topics/Nature/Bestiary/List/Ostaequa.md)
 
 ### P
 - [Plantacja Toma Varteforda](Topics/Geography/Baedoor_Continent/Baedoor/Places/Tom_Varteford_Plantation.md)
-- [Plate Lizard](Topics/Nature/Bestiary/List/Plate_Lizard.md)
+- [Płytowiec](Topics/Nature/Bestiary/List/Plate_Lizard.md)
 - [Pustynia Kel](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Kel_Desert.md)
 - [Pustynny Całun](Topics/Nature/Herbarium/List/Ash_Veil.md)
 
@@ -98,18 +96,18 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 - [Raliun](Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
 
 ### S
-- [Separatists](Topics/Factions/List/Separatists.md)
+- [Separatyści](Topics/Factions/List/Separatists.md)
 - [Si Avani](Topics/Characters/List/Si_Avani.md)
 - [Skirran](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)
 - [Starożytny Kontynent](Topics/Geography/Old_Continent.md)
 
 ### T
-- [Tertens](Topics/Races/Spirit/Terten.md)
+- [Terteni](Topics/Races/Spirit/Terten.md)
 - [Tom Varteford](Topics/Characters/List/Tom_Varteford.md)
-- [Tom Varteford's Plantation](Topics/Geography/Baedoor_Continent/Baedoor/Places/Tom_Varteford_Plantation.md)
 - [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
 
 ### U
+- [Udręczony Wędrowiec](Topics/Nature/Bestiary/List/Haunted_Wanderer.md)
 - [Ulica Kwiatów](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
 - [Uruati](Topics/Races/Creature/Uruati.md)
 
@@ -117,7 +115,6 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 - [Vaerdena](Topics/Geography/Moon_Continent/East_Moon/Lands/Vaerdena.md)
 - [Varteford](Topics/Characters/Families/Varteford.md)
 - [Varteford, Tom](Topics/Characters/List/Tom_Varteford.md)
-- [Vulcanic Veil](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
 
 ### W
 - [Warthog](Topics/Characters/Families/Warthog.md)

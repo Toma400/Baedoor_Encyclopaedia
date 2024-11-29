@@ -13,4 +13,4 @@ i minerały.
 
 ---
 ♜♢✥ / separate into country and island  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Old_Continent/Jitado.mdnent/Jitado.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Old_Continent/Jitado.md)

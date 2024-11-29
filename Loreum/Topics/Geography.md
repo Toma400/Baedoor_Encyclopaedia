@@ -24,7 +24,7 @@ Wszystko co tworzy wszechwers, lecz głównie Baedoor samo w sobie.
 #####      🔹 [Jitado](Geography/Old_Continent/Jitado.md)
 #####      🔹 Archipelag Eimr
 ####   🔷 Seiteh
-####   🔷 Archipelag Błękitny
+####   🔷 [Archipelag Błękitny](Geography/Azure_Archipelago.md)
 #####      🔹 Oe'os
 #####      🔹 Septei
 #####      🔹 Vartee

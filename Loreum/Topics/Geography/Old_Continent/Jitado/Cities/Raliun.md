@@ -20,4 +20,4 @@ Podczas rozbudowy miasta, [Ino Anor](Ino_Anor.md) zostało zbudowane na zboczu A
 ---
 ♢: Gurdu street ("Anxiety of death alley", not really translateable), Murlun Vesk Inn ("Strangest of
 Stranger"/Murl'n early on, later renamed to "Tired Pilgrim"/Murlun Vesk)  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Old_Continent/Jitado.mdnent/Jitado.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Old_Continent/Jitado.md)
