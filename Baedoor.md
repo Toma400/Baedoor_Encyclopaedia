@@ -51,7 +51,7 @@ System RPG Baedoor to system RPG podobny do innych, takich jak Dungeons & Dragon
 systemy używane przez gry cRPG, jak Morrowind, Skyrim, Gothic i reszta. Jest to główny
 system używany przeze mnie do moich gier opartych na tym uniwersum.
 
-Wszelkie techniczne szczegóły dostępne są w sekcji [Mechanicum](Mechanicum/RPG_System/RPG_System.md).
+Wszelkie techniczne szczegóły dostępne są w sekcji [Mechanicum](Mechanicum/RPG_System/3.0/RPG_System.md).
 
 ---
 # Krótka historia uniwersu Baedoor
@@ -194,13 +194,13 @@ a kto wie, może się spotkamy na skrzyżowaniu dróg?
 * [2021] [Wastelands of Baedoor](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor)
 ---
 ### Nadchodzące
-* [2022] The Isle of Ansur `indev`
-* [2022] Civilisations of Baedoor `indev`
-* [2022] Baedooria `indev`
-* [ ` ? ` ] Spires of Baedoor
+* [2024] The Isle of Ansur `indev`
+* [ ` ? ` ] Civilisations of Baedoor `indev`
+* [ ` ? ` ] Spires of Baedoor `indev`
 #### Daleka przyszłość?
-* [ ` ? ` ] Ancient Settlers
+* [ ` ? ` ] Of Lands `nazwa tymczasowa`
 * [ ` ? ` ] Baedoor Travels
+* [ ` ? ` ] Emperor of Eternity
 * [ ` ? ` ] Baedoor
 
 *Ta lista zawiera jedynie gry związane z uniwersum. Historie, wiersze i muzyka nawiązujące do

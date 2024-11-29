@@ -1,8 +1,8 @@
 # 🈳 Kościół I'si
 Kościół I'si jest małym religijnym ruchem istniejącym w części Jitado, szczególnie w rejonie
-[Adelaie](/Loreum/Topics/Geography/Jitado/Cities/Adelaie.md).  
+[Adelaie](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Adelaie.md).  
 Trudno określić początek tego ruchu, jednak jest on uważany za jedną z najstarszych religii
-na Starożytnym Kontynencie - jednocześnie jednak, jest jedną z najmniejszych.
+na Starożytnym Kontynencie - jednocześnie jednak jest jedną z najmniejszych.
 
 Nazwa I'si jest akcentowanym określeniem *isi*, co oznacza "schronienie wszystkich schronień".  
 Biorąc pod uwagę wysoko filozoficzną formę tej religii, jest to znaczenie bliskie jej charakterowi.

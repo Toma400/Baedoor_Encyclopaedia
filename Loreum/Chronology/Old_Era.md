@@ -12,7 +12,7 @@ wpływ z Jitado i Seiteh na całe uniwersum, dając początek steampunkowej rewo
 ---
 #### [Historia Starej Ery](/Loreum/Topics/History/Old_Era.md)
 #### Stronnictwa Starej Ery
-#### Postacie Starej Ery
+#### [Postacie Starej Ery](/Loreum/Topics/Characters/Old_Era_Characters.md)
 
 ---
 ✥♢  

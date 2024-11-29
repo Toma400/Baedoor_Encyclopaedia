@@ -7,11 +7,12 @@ Lista wszystkich postaci żyjących w uniwersum Baedoor na przestrzeni jego hist
 ---
 ### 🍁 CHRONOLOGICZNIE
 #### 🔹 [Postaci Czasu Przederowego](Characters/Pre_Era_Characters.md)
-#### 🔹 Postaci Starej Ery
+#### 🔹 [Postaci Starej Ery](Characters/Old_Era_Characters.md)
 #### 🔹 [Postaci Nowej Ery](Characters/New_Era_Characters.md)
 
 ---
 ### 🏯 POPRZEZ KRAJ
+#### 🔹 [Postaci Imperium Baedoor](Characters/Baedoor_Characters.md)
 #### 🔹 [Postaci Jitado](Characters/Jitado_Characters.md)
 #### 🔹 [Postaci Zachodniego Baedoor](Characters/West_Baedoor_Characters.md)
 
@@ -20,6 +21,15 @@ Lista wszystkich postaci żyjących w uniwersum Baedoor na przestrzeni jego hist
 #### 🔹 [Baedoorczycy](Characters/Baedoorian_Characters.md)
 #### 🔹 [Jitadczycy](Characters/Jitadian_Characters.md)
 #### 🔹 [Lunatri](Characters/Lunatri_Characters.md)
+
+---
+### 🎎 RODZINY
+#### 🔹 [Baedoorskie](Characters/Baedoorian_Families.md)
+#### 🔹 [Głoddyjskie](Characters/Ghloddish_Families.md)
+
+---
+### 🔥 KLANY
+#### 🔹 Klany Ormackie
 
 ---
 ♜✥

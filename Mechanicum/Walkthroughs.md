@@ -15,7 +15,7 @@
 
 ## Mody
 
-### 🏯 Wastelands of Baedoor
+### 🏯 [Wastelands of Baedoor](Walkthroughs/WoB/WoB.md)
 ### 🏯 Civilisations of Baedoor
 
 ## Classic

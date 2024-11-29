@@ -6,7 +6,7 @@ Baedoor, tak szczegółowo jak to tylko możliwe.
 **🏵️ CZYM JEST BAEDOOR?**
 
 Jeśli nie wiesz, czym jest Baedoor, idź [tutaj](Baedoor.md). 
-Jeśli ciekawi Cię wizja autora i chciałbyś zobaczyć wszystkie jego dzieła, idź [tutaj](Author.md).
+<!-- Jeśli ciekawi Cię wizja autora i chciałbyś zobaczyć wszystkie jego dzieła, idź [tutaj](Author.md). -->
 
 **🏔️ HISTORIA**
 
@@ -23,9 +23,8 @@ Encyklopedia stoi na czterech filarach:
 - 📕 Encyclopaedia Scribae - zbierająca wszystkie książki ze świata Baedoor
 - ⚙️ [Encyclopaedia Mechanicum](Mechanicum/Mechanicum.md) - wyjaśniająca system RPG i 
      zawierająca wszystkie techniczne detale
-- 🌌 [Encyclopaedia Quaevismundus](Quaevismundus/Quaevismundus.md) - opisująca wybrane sąsiednie multiwersa
 
-Kliknij na nazwie sekcji, żeby do niej przejść.
+Kliknij nazwę sekcji, żeby do niej przejść.
 
 ---
 ✥

@@ -16,7 +16,7 @@
 ### OPIS  
 **Lefs 8** jest jednym ze standardowych rewolwerów stworzonych przez firmę **Lefs**,
 produkowanych od roku 720 NE do teraz.  
-W miarę lat stał się niezwykle popularny wśród armii i rewolwerowców, ze względu na
+Z kilkuletnim opóźnieniem, stał się niezwykle popularny wśród armii i rewolwerowców, ze względu na
 swoją jakość i komfort obsługi. Popularność ta nie słabnie mimo wysokiej ceny rynkowej.
 
 Jest również rzadki wariant zwany **Lefs 8T**, z czarną rączką i nieco zmienionymi
@@ -26,7 +26,7 @@ trijczyków wobec bronii palnej.
 
 ---
 ### STATYSTYKI
-#### 🚂 Wastelands of Baedoor
+#### 🚂 Wastelands of Baedoor `1.14-1.18`
 ```
 ZNALEZIENIE:
 |  🦋 STEROWIEC BANDYTÓW

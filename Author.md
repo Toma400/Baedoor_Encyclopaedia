@@ -106,9 +106,10 @@ Dla gier które stworzyłem w celach uczenia się, udaj się do [🔨️ sekcji 
 Klucz symbolizuje status wsparcia. ➕ oznacza otwartą formę wsparcia językowego.
 Dla programów które stworzyłem w celach uczenia się, udaj się do [🔨️ sekcji niżej](Author.md#-learning-projects).
 
-| 🔧  | Data       | Nazwa     | Opis                                                                                                                                                                                                            | Link                                     |   Język     |
-|-----|------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|:-----------:|
-| 🟢  | 2022-04-08 | Librerian | Program do tworzenia katalogów książek, filmów, gier, anime i innych, podobnie do GoodReads, IMDB i innych, jednak będących lokalną bazą danych.<br> Może otrzymać również integrację z API stron tego rodzaju. | [Discord](https://discord.gg/GbTw9KqnrE) | <b> 🇬🇧 </b><br> 🇪🇸 🇵🇱 <br> 🇭🇺 🇸🇦 <br> 🇨🇿 <br> ➕ |
+| 🔧  | Data       | Nazwa     | Opis                                                                                                                                                                                                            | Link                                          |                            Język                            |
+|-----|------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|:-----------------------------------------------------------:|
+| 🟢  | 2022-04-08 | Librerian | Program do tworzenia katalogów książek, filmów, gier, anime i innych, podobnie do GoodReads, IMDB i innych, jednak będących lokalną bazą danych.<br> Może otrzymać również integrację z API stron tego rodzaju. | [Discord](https://discord.gg/GbTw9KqnrE)      | <b> 🇬🇧 </b><br> 🇪🇸 🇵🇱 <br> 🇭🇺 🇸🇦 <br> 🇨🇿 <br> ➕ |
+| 🟣  | 2023-09-05 | Drawfire  | Prosty program graficzny do rysowania, stworzony jako projekt użycia biblioteki Nimfire                                                                                                                         | [GitHub](https://github.com/Toma400/Drawfire) |                            🇬🇧                             |
 
 ---
 
@@ -300,9 +301,10 @@ Sekcja **lang** przeniesie Cię do kolekcji w wybranym języku.
 |----------------|----------------------|--------------------------------------------------------------------------------------------|---------------------------------------------|
 | 2021-01-08     | Duch Nieskończoności | [🇵🇱](https://drive.google.com/file/d/1KgrlGnznHZ3pDogHoa1O0RFGHPC3_Rqq/view?usp=sharing) | Kolekcja scen (krótkich tekstów bez fabuły) |
 | 2021-01-25     | Przez Pustynie Serca | [🇵🇱](https://drive.google.com/file/d/1kdLMS0IhLfuX401W0jzTA20jQ8zQOha3/view?usp=sharing) | Kolekcja 42 wierszy, z małymi korektami     |
+| 2023-08-29     | Świt Nad Tar Tahraes | [🇵🇱](https://drive.google.com/file/d/1G0Z4SNFOL2umYbUr021zLXkSFwH_zhVG/view?usp=sharing) | Druga, ostatnia kolekcja scen               |
 
 ### 🍁️ ️️MNIEJSZE PROJEKTY MODDERSKIE
-Poza modami, tworzyłem również projekty związane z modowaniem, jednak nie będące
+Poza modami tworzyłem również projekty związane z modowaniem, jednak nie będące
 modami w sensie stricte.
 
 <span style="color:#668c99">**🔥️ ADDONY**  
@@ -351,9 +353,11 @@ TAGI:
 ```
 ㊙️ **General Collabs & Contributions**
 
-| Czas współpracy    | Tag | Nazwa   | Czym jest projekt                                                                                                       |                      Moja rola                       |                                  URL                                  |
-|--------------------|:---:|---------|-------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------:|:---------------------------------------------------------------------:|
-| 2021-12 🔹 2022-03 | 📿  | Desolat | Mod dodający nowy wymiar, Desolat. Ostatecznie, uczyniłem referencję do niego w uniwersum Baedoor (multiwersum Aji'n)   | **Kontrybucja**<br>Poprawienie pewnych aspektów moda | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedesolat) |
+| Czas współpracy    | Tag | Nazwa           | Czym jest projekt                                                                                                     |                       Moja rola                       |                                                           URL                                                            |
+|--------------------|:---:|-----------------|-----------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|
+| 2021-12 🔹 2022-03 | 📿  | Desolat         | Mod dodający nowy wymiar, Desolat. Ostatecznie, uczyniłem referencję do niego w uniwersum Baedoor (multiwersum Aji'n) | **Kontrybucja**<br>Poprawienie pewnych aspektów moda  |                          [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedesolat)                           |
+| 2023-12 🔹 teraz   | 📿  | Tamriel Rebuilt | Największy projekt modderski, skupiony na zbudowaniu całego kontynentu Tamriel: sekcja Morrowind / Argonii            | **Designer wnętrz**<br>🔹<br>**Artysta konceptualny** |                                 [Nexus](https://www.nexusmods.com/morrowind/mods/42145)                                  |
+| 2023-12 🔹 teraz   | 📿  | Project Tamriel | Największy projekt modderski, skupiony na zbudowaniu całego kontynentu Tamriel: sekcja pozostałych prowincji          | **Designer wnętrz**<br>🔹<br>**Artysta konceptualny** | [SHotN](https://www.nexusmods.com/morrowind/mods/44921) <br>🔹<br> [PC](https://www.nexusmods.com/morrowind/mods/44922/) |
 
 🔣 **Translating Contributions**  
 This list stores all bigger translations I've made. Aside of them, I also were translating some lyrics
@@ -404,9 +408,10 @@ TAGI:
 ### 🈁 CZCIONKI
 Tworzę również czcionki, zwykle używane dla uniwersum Baedoor.
 
-| Nazwa               | Cel                           | Licencja                                                              | Link                                                                                        |
-|---------------------|-------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| Ghloddish Universal | Użycie alfabetu głoddyjskiego | Darmowy dla projektów niekomercjalnych związanych z uniwersum Baedoor | [Drive](https://drive.google.com/file/d/1RZWHZTH8N5n-1uzn4mSEcLsvttTbLYwd/view?usp=sharing) |
+| Nazwa               | Cel                                                                                       | Licencja                                                              | Link                                                                                        |
+|---------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Ghloddish Universal | Użycie alfabetu głoddyjskiego                                                             | Darmowy dla projektów niekomercjalnych związanych z uniwersum Baedoor | [Drive](https://drive.google.com/file/d/1RZWHZTH8N5n-1uzn4mSEcLsvttTbLYwd/view?usp=sharing) |
+| Ferrum Extended     | [Czcionka Ferrum](https://www.1001fonts.com/ferrum-font.html) poszerzona o polski alfabet | Oparta na Ferrum                                                      | Brak                                                                                        |
 
 ---
 ### 🖼️ OBRAZY
@@ -500,9 +505,10 @@ Aside of creating themes for my own software, I also created some themes for oth
 Library or framework is programming concept of code that can be used to enhance your coding by
 providing some additional code base. I actually made one:
 
-|   Name    | Language | Description                                                                              |                     Source                     |
-|:---------:|:--------:|:-----------------------------------------------------------------------------------------|:----------------------------------------------:|
-| Tribalify |   Nim    | Nim library with several sugar utilities inspired by my own programming language, Tribal | [GitHub](https://github.com/Toma400/Tribalify) | 
+|   Name    | Language | Description                                                                              |                     Source                     | First release |
+|:---------:|:--------:|:-----------------------------------------------------------------------------------------|:----------------------------------------------:|:-------------:|
+|  Nimfire  |   Nim    | Nim GUI/game library inspired by PyGame and Nigui                                        |  [GitHub](https://github.com/Toma400/Nimfire)  |  2023-09-??   |
+| Tribalify |   Nim    | Nim library with several sugar utilities inspired by my own programming language, Tribal | [GitHub](https://github.com/Toma400/Tribalify) |  2023-08-27   |
 
 ---
 ### ⚡️ PLUGINS
@@ -551,7 +557,7 @@ projects being developed as well. Here is the list:
 | 🔧  | Date       | Name       | Description                                                                                                     | Download                                        | Lang |
 |-----|------------|------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------|:----:|
 | 🔴  | 2023-02-21 | Yamlomiser | Small terminal software used to randomise elements of .yaml file. Originated from idea of picking random names. | [GitHub](https://github.com/Toma400/Yamlomiser) | 🇬🇧 |
-
+| 🟠  | 2024-02-08 | HC Tracker | Software letting me track HermitCraft episodes                                                                  | [GitHub](https://github.com/Toma400/HC_Tracker) | 🇬🇧 |
 
 ---
 ### ☠️ ZGUBIONE I ZNALEZIONE

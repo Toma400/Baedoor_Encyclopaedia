@@ -32,7 +32,7 @@
 
 ### 🔥 Broń palna
 #### [Rewolwery](Revolvers.md)
-#### Strzelby
+#### [Strzelby](Shotguns.md)
 #### Karabiny
 #### Karabiny rewolwerowe
 #### Broń automatyczna

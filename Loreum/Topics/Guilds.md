@@ -12,6 +12,7 @@ Lista wszystkich gildii i organizacji istniejących w uniwersum Baedoor.
 #### 🔹 [Gildie Starożytnego Kontynentu](Guilds/Old_Continent_Guilds.md)
 #### 🔹 Gildie Seiteh
 #### 🔹 Gildie Księżyca
+####    🔹 [Gildie Ansur](Guilds/Ansur_Guilds.md)
 #### 🔹 [Gildie Kontynentu Baedoor](Guilds/Baedoor_Continent_Guilds.md)
 #### 🔹 Gildie Błękitnego Archipelagu
 #### 🔹 Gildie Wielkiej Południowej Zmarzliny

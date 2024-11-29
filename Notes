@@ -10,7 +10,20 @@
 - Baedoor_Encyclopaedia\Mechanicum\RPG_System\Statistics\Races.md
   -> rewrite races to be more coherent + make their loreum pages
 - Baedoor_Encyclopaedia\Loreum\Topics\Cultures\Ghlodds\Technologies.md
+- Baedoor_Encyclopaedia\Loreum\Topics\Races\Ormaths.md
+- Baedoor_Encyclopaedia\Loreum\Topics\Geography\Mes_Inpea.md
+- Baedoor_Encyclopaedia\Loreum\Topics\Geography\Baedoor.md
+  -> names should be decided eventually, as they clutter
+     the page - (v)/(x)/(?) symbols
 
+- Baedoor_Encyclopaedia\Loreum\Topics\Geography\Kaer.md
+  -> adjust all things from `kaer_early.jpg` and old BE, especially
+     take a look at countries borders that are not exact in those
+     sources
+  -> adjust to WesternWald notebook
+
+- Set notebook system to differentiate between data and visuals
+  -> Book notebook would be data, just as all "storage" notebooks
 
 0. HOW TO FILL SOURCE FILES IF PHOTO HAS WEIRD ANGLE
 - cut the photo to most correct shape
@@ -95,3 +108,9 @@ V. GHLODDISH REQUESTED WORDS:
 - :ar': for several god-like aspects (to be, letter, sentence, mirror - all of
   them have metaphysical qualities connected to christian The Word, which is
   understood specifically in Baedoor oververse concept, y'remember)
+
+VI. BAEDOORIAN/JITADIAN NOTES
+- In Baedoor, there's Gneis's Tavern (BaeCL sources, 2nd photo) - what >Gneis's<
+  stands for? Is this accented word? If so, is it jitadian?
+  It isn't current owner, as he is called Frode/Frodo, but what does it stand
+  for? Former owner, or something symbolic?

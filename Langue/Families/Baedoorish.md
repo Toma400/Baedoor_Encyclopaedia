@@ -109,6 +109,7 @@ old jitadish → old baedoorish → baedoorish
 |     var     | mountain (less common, look also: `anvar`)             | fvar          |                  jit. "uar"                   |
 |    suri     | hopeful, alone                                         | suri          |                 adj. of "sur"                 |
 |    vaer     | void, wasteland, anxiety related to nothingness        | wer           |                  jit. "vaer"                  |
+|    vaesk    | tiredness, feeling weak                                | wesk          |                  jit. "vesk"                  |
 |    vein     | road, trail                                            | fve↓in        |                  jit. "vein"                  |
 |    veino    | silent                                                 | fveino        |                  jit. "ino"                   |
 |    velae    | night                                                  | fvele:        |                 jit. "velae"                  |

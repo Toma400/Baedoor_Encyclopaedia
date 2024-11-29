@@ -1,4 +1,10 @@
 # 🏺 Kultury
+
+| <img alt="Baedoor Universe map" src="/Assets/Maps/baedoor_universe_cultures.png" width="240" height="280"/> |
+|:-----------------------------------------------------------------------------------------------------------:|
+|                              Mapa kultur i ich interakcji w uniwersum Baedoor                               |
+
+
 Ta sekcja spisuje wszystkie kultury uniwersum, kategoryzując je poprzez kontynenty.
 
 Użyj miniaturek, by szybko przeskoczyć do wybranej sekcji.
@@ -10,6 +16,7 @@ LEGENDA:
 👘️ - ubiór
 🎎 - społeczeństwo
 ⚖️ - prawo
+⚜️ - polityka
 🥮 - jedzenie
 🎭 - sztuka
 🎉 - święta

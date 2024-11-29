@@ -4,6 +4,6 @@ Witaj w Encyklopedii Mechanicum, sekcji Encyklopedii Baedoor poświęconej syste
 oraz innym technicznym aspektom uniwersum.
 
 ---
-### 🎲 [System RPG](RPG_System/RPG_System.md)
+### 🎲 [System RPG](RPG_System/3.0/RPG_System.md)
 ### 🌀 [Właściwości i statystyki przedmiotów](Items.md)
 ### 🗝️ [Przewodniki po grach](Walkthroughs.md)

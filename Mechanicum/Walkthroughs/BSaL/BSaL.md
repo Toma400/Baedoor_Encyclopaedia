@@ -24,4 +24,8 @@ wewnątrz wyspy.
 - [Lokacje](BSaL_Locations.md)
 - [Zadania](BSaL_Quests.md)
 - [NPCe](BSaL_NPCs.md)
+- Przedmioty
 - [Porady i triki](BSaL_Tips.md)
+
+---
+✥

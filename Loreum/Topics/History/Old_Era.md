@@ -6,6 +6,7 @@ Lista wszystkich wydarzeń, które odbyły się w trakcie Starej Ery.
 ---
 ### Kalendarium przez cywilizację
 
+#### 🔹 [Kalendarium Baedoor](Old_Era_Baedoor.md)
 #### 🔹 [Kalendarium Evývind](Old_Era_Evývind.md)
 
 ---

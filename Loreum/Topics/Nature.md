@@ -4,9 +4,9 @@ adaptację.
 
 ---
 ### 🌿 [Herbariusz](Nature/Herbarium.md)
-### 🐊 Bestiariusz
+### 🐊 [Bestiariusz](Nature/Bestiary.md)
 ### 🧊 Minerały
-### 🥮 Pożywienie
+### 🥮 [Pożywienie](Nature/Foods.md)
 
 ---
 ✥

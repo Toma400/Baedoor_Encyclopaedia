@@ -13,5 +13,8 @@ Every plant listed, by lands.
 ### 🔹 Moon Continent
 ####   🔹 [East Moon Herbarium](Herbarium/East_Moon_Herbarium.md)
 
+### 🔹 Old Continent
+####   🔹 [Jitado Herbarium](Herbarium/Jitado_Herbarium.md)
+
 ---
 ♜

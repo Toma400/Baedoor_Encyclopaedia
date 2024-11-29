@@ -12,6 +12,7 @@
 
 ---
 ### 🔍 [Indeks](Items/Index.md)
+### 🐲 [Indeks Growy](Items/Game_Index.md)
 
 ---
 ✥

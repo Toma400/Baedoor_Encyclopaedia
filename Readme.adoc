@@ -1,0 +1,13 @@
+image::Assets/logo2.png[,50%,align="center"]
+
+== Witaj w Encyklopedii Baedoor ==
+
+Witaj w miejscu, w którym możesz poznać całą wiedzę na temat uniwersum Baedoor, wewnątrz jednego
+ogromnego repozytorium. link:Entrance.md[Zacznij czytać].
+
+=== Uniwersum Baedoor istnieje obecnie w... ===
+- https://baedoor.github.io/projects/_mods_mc.html[Modach do Minecrafta]
+- https://github.com/Toma400/The_Isle_of_Ansur[Grze Isle of Ansur]
+- https://baedoor.github.io/todo.html[Przyszłych projektach]
+- https://baedoor.github.io/projects/fsam.html[Przyszłym modzie do Morrowinda]
+- Różnych moich opowiadaniach

@@ -6,7 +6,7 @@
 ### 📖 Literatura
 ### 🌏 [Geografia](Geography.md)
 ### 🍂 [Natura](Nature.md)
-### 💮 Rasy
+### 💮 [Rasy](Races.md)
 ### 🏺 [Kultury](Cultures.md)
 ### 👘️ Języki
 ### 🕌 [Religie](Religions.md)

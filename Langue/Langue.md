@@ -20,6 +20,7 @@ uniwersum Baedoor, wliczając w to słowniki i przewodniki po logice tychże.
 
 ---
 ## <center>Języki regularne</center>
+### [⛩️ Erdyjski](Families/Erdis.md)
 
 ---
 ## <center>Języki stare</center>
