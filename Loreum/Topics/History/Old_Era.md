@@ -1,13 +1,13 @@
-# 🍁 Old Era Timetable
-List of all events that have happened in Old Era.
+# 🍁 Kalendarium Starej Ery
+Lista wszystkich wydarzeń, które odbyły się w trakcie Starej Ery.
 
-### General Timetable
+### Ogólne kalendarium
 
 ---
-### Timetable by civilisation
+### Kalendarium przez cywilizację
 
-#### 🔹 [Baedoor Timetable](Old_Era_Baedoor.md)
-#### 🔹 [Evývind Timetable](Old_Era_Evývind.md)
+#### 🔹 [Kalendarium Baedoor](Old_Era_Baedoor.md)
+#### 🔹 [Kalendarium Evývind](Old_Era_Evývind.md)
 
 ---
 ♜  

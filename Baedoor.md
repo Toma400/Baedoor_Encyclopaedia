@@ -1,221 +1,207 @@
-# 📜 Table of Contents
+# 📜 Spis Treści
 
-* [Overview](Baedoor.md#what-is-baedoor)
-* [Baedoor RPG System](Baedoor.md#what-is-baedoor-rpg-system)
-* [Short History](Baedoor.md#short-history-of-baedoor-universe-and-rpg-system)
-* [List of Baedoor games](Baedoor.md#baedoor-works)
-
-***
-# What Is Baedoor?
-## Short overview
-
-Baedoor is `fantasy/steampunk/sci-fi` universe being created by me
-([Toma400](https://linktr.ee/toma400) or Tomasz Stępień in real life) 
-since around 2004.  
-It is parted into different continents, each having different civilisations, 
-traditions, culture and impact on universe. 
-Its history has about 4 thousands years and three eras, which range from ancient / medieval 
-fantasy theme ("Pre-Era"), 
-through late medieval and early steampunk ("Old Era") to late steampunk and some 
-dieselpunk influences ("New Era"). 
-
-This is how you can label my universe within typical scheme, if you want to.  
-I'd personally suggest reading some of my personal notes further to understand 
-why I perceive that differently, but of course, 
-labelling has its advantages and rights 
-(especially as Baedoor was never made out of context and it was strongly influenced 
-by many games, books, music and other things I enjoyed at the time).  
-
-If you want to hear my story, read on.
-
-## Author's perspective
-
-Since that world became my obsession and life-long journey, 
-I prefer to name myself an "archaeologist" of it, not purely the creator: 
-just because creation process had several parts, ranging from my extreme childhood 
-(I was 7 y/o when I started) to now.  
-Therefore now, when I try to make Baedoor universe more public and organised, 
-I do not only need to fill the holes of what I created recently, but I also discover 
-my neverending notes from childhood, being written in dozens of notebooks.  
-A lot of this knowledge I have forgotten and I rediscover it now, 
-making me feel like I no longer create my universe: I encounter it by dreaming about it and 
-find traces of elder civilisations living in the times when I didn't really have 
-consciousness of what I'm doing. 
-
-Or did I? I will never fully know.  
-And I feel like it truly makes it beautiful, shaping my person in more thoughtful way than 
-it would do being written from scratch.  
-I'm now sharing it with you, with hope that you will find your place in universe that I, 
-fully understanding what that word means, can call my forever home.
-
+* [Ogólny zarys](Baedoor.md#czym-jest-baedoor)
+* [System RPG](Baedoor.md#czym-jest-system-rpg-baedoor)
+* [Krótka historia](Baedoor.md#krtka-historia-uniwersu-baedoor)
+* [Lista gier związanych z Baedoorem](Baedoor.md#gry-zwizane-z-uniwersem-baedoor)
 
 ***
-# What Is Baedoor RPG System
-Baedoor RPG system is RPG system similar to other ones, 
-such as Dungeons & Dragons or systems used in cRPG games, 
-like Morrowind, Skyrim, Gothic and so on. 
-It is main system on which I based a lot of gameplay for my games.
+# Czym jest Baedoor?
+## Ogólny zarys
 
-All geeky details are available in [Mechanicum](Mechanicum/RPG_System/3.0/RPG_System.md) part of the wiki.
+Baedoor to uniwersum `fantasy/steampunk/sci-fi` tworzone przeze mnie ([Toma400](https://linktr.ee/toma400)
+aka Tomasz Stępień) od około roku 2004.  
+Uniwersum to rozrysowane jest na kilku różnych kontynentach, na których żyją różne cywilizacje,
+posiadające własne tradycje, kulturę i wpływ na uniwersum.
+Historia tego świata ma około 4 tysiące lat i jest podzielona na trzy ery, które reprezentują
+różną estetykę - od starożytnego/średniowiecznego fantasy (Okres Przederowy), przez późne
+średniowiecze i wczesny steampunk (Stara Era), aż po późny steampunk i pewne wpływy dieselpunku
+(Nowa Era).
 
-***
-# Short History of Baedoor Universe and RPG System
+Tak mniej więcej można rozpisać moje uniwersum w typowych kategoriach, jeśli jest to potrzebne.  
+Sam osobiście preferuję patrzeć na to inaczej, jednak oczywiście szufladkowanie ma swoje
+zalety i powody (zwłaszcza, że Baedoor nigdy nie było tworzone poza kontekstem i zawsze
+miało ciężar wpływów różnych gier, książek, dźwięków i innej kultury, którą ukochałem w danym
+momencie).
 
-### 🪔 ️Trinity
-Baedoor RPG System was firstly introduced in three games made by me in my childhood, 
-when I liked to create my own paper-based games and started creating Baedoor Universe.  
-They didn't have strict name, being forever "work in progress" in fact, but I refer to them 
-as "Lands", "Other Lands" and "Baedoor" (being made around 2004, 2005 and 2008, but these dates 
-can differ, being ~year earlier/later, I don't remember that precisely).
+Jeśli chcesz poznać jednak moją perspektywę głębiej, czytaj dalej.
 
-First game introduced mostly universe - being, in fact, strategy with loose rules, where player 
-hold power over Ghlodd Empire and several other civilisations.  
-Second game was basically the same as first one, but it was done not on notebooks, but cardboard, 
-using plasticine.  
-Third game, from which whole system and universe take name from, introduced more RPG-aimed 
-alternative for first one. It took place in - in that time - separate world, introducing whole 
-Baedoor continent. For roleplay purposes, RPG system has been made, but it was aimed to be very 
-open for player's initiative: player was both Game Master and Player. Therefore all actions was 
-dependent on him and his will - rules were just small guides to be followed, but not strictly, 
-if that contradicted player's will.
+## Perspektywa autora
 
-### 🪔 Baedoor as notebook RPG
+Jako że to uniwersum stało się moją obsesją i całożyciową wędrówką, preferuję nazywać samego
+siebie "archeologiem" tego świata, niekoniecznie twórcą: jako że proces tworzenia był tak
+niezwykle długi (zaczynając się w wieku siedmiu lat, gdy rozpocząłem).  
+To spowodowało, że obecnie, gdy próbuję uczynić to uniwersum publicznym i zorganizowanym,
+nie tylko muszę zapełnić luki tego, co zrobiłem ostatnio, ale również odkrywać
+ogrom notatek z dzieciństwa, napisane w mnóstwie zeszytów.  
+Wiele z tej wiedzy zapomniałem i odkrywam je na nowo, dając mi poczucie, jakbym już nie tyle
+tworzył swoje uniwersum: odkrywam je poprzez sny i odnajdywanie znaków cywilizacji żyjących
+w czasach, gdy nie miałem pełnej świadomości co tworzę.
 
-There was several iterations of Baedoor RPG games introduced by that time, 
-each one showed also new lands (respectively: Baedoor Island, WesternWald, Vershaton Highlands, 
-Northern Isles, Arennan, Rossevette).  
-They didn't change RPG system a lot though, so we can say about versions such as 1.0, 1.1 etc. 
+A może jednak? Nigdy nie będę już wiedział.  
+I myślę, że to czyni ten proces prawdziwie pięknym, kształtując moją osobę w sposób bardziej
+świadomy teraz, niż gdybym to robił całkowicie od nowa.  
+Dzielę się też tym światem teraz z Wami, mając nadzieję, że znajdziecie dla siebie miejsce
+w tym uniwersum, które ja, całkowicie rozumiejąc znaczenie tego słowa, mogę nazwać swoim
+domem.
 
-Eventually, since I felt bound to the universe more and more, I decided to merge separate universes 
-(Baedoor, Ghlodd Empires, Old Continent, and so on) into one, making it only one universe with 
-separate continents.  
-This, again, wasn't decision which I fully perceive as mine, because in all "universes" I tried 
-to refer to older and newer ones, so merging them seemed rather as logical consequence of my 
-previous path. Lore-wise it even helped that universe, making it more consistent.
+---
+# Czym jest System RPG Baedoor
+System RPG Baedoor to system RPG podobny do innych, takich jak Dungeons & Dragons czy
+systemy używane przez gry cRPG, jak Morrowind, Skyrim, Gothic i reszta. Jest to główny
+system używany przeze mnie do moich gier opartych na tym uniwersum.
 
-In the meantime, New Era was born. 
-It became main era of me using the universe, since I didn't feel that writing brutal or depressing 
-stories in this era would destroy what I created before - being marked with my childhood's innocence 
-(eventually it didn't matter, since newer stories take place in various eras and lands, 
-but it mattered for me at the time).
+Wszelkie techniczne szczegóły dostępne są w sekcji [Mechanicum](Mechanicum/RPG_System/3.0/RPG_System.md).
+
+---
+# Krótka historia uniwersu Baedoor
+
+### 🪔 ️Trójca
+Baedoorski System RPG został po raz pierwszy zainicjowany w trzech grach stworzonych przeze
+mnie w moim dzieciństwie, gdy lubiłem tworzyć gry pisane na papierze i kiedy też zacząłem
+tworzyć uniwersum.  
+Te gry nie miały konkretnej nazwy, lecz określam je nazwami "Kraje", "Inne Kraje" i "Baedoor"
+(stworzone odpowiednio około 2004, 2005 i 2008, choć daty te mogą się różnić, gdyż ciężko
+jest być precyzyjnym retrospektywnie).
+
+Pierwsza z tych gier zainicjowała przede wszystkim uniwersum - będąc, zasadniczo, strategią
+z luźnymi zasadami, gdzie gracz rządził Imperium Głoddyjskim i kilkoma innymi cywilizacjami.  
+Druga gra była zasadniczo tożsama z pierwszą, jednak tym razem zamiast używać zeszytów,
+przeniosłem jej akcję na tektury, używając plasteliny.  
+Trzecia gra natomiast, z której system i uniwersum biorą nazwę, wprowadził bardziej fabularny
+styl rozgrywki. Gra ta toczyła się w - wówczas - oddzielnym świecie, wprowadzającym cały
+kontynent Baedoor. Dla celów rozgrywki, system RPG został stworzony, jednak był bardzo
+otwarty na pomysły gracza: gracz był zarówno Mistrzem Gry, jak i Graczem. Zatem wszystko, co
+zrobił, było zależne od jego decyzji i woli - zasady były bardziej wskazówkami do przestrzegania,
+lecz nie były istotne, jeśli przeszkadzały woli gracza.
+
+### 🪔 Baedoor jako zeszytowe RPG
+
+System RPG miał szereg iteracji w tamtym czasie, gdyż powstało wiele zeszytów pokazujących
+inne krainy (odpowiednio: wyspę Baedoor, WesternWald, Wyżynę Vershaton, Północne Wyspy, 
+Arennan, Rossevette). Nie zmieniły one jednak zbyt dużo w systemie RPG, więc można tu mówić
+o wersjach takich jak 1.0, 1.1 itd.
+
+Ostatecznie, czując więź z uniwersum coraz bardziej, postanowiłem połączyć te kilka uniwersów
+różnych gier (Baedoor, Imperium Głoddyjskie, Starożytny Kontynent) w jeden, czyniąc ze światów
+po prostu kontynenty jednej całości.  
+To była również decyzja, którą odczuwam jako nie w pełni moją, gdyż wszystkie te "uniwersa"
+już wcześniej do siebie nawiązywały - więc połączenie było zasadniczo tylko logiczną konkluzją
+tego, co robiłem wcześniej. Pod względem światotwórczym, pomogło mi to również uczynić uniwersum
+bardziej spójnym.
+
+W tym samym czasie, powstała również Nowa Era.  
+Początkowo mając na celu odseparowanie "starej" chronologii i "starego" świata, którego nie
+chciałem dotykać o tyle, by zachować jego nieskażony brudem charakter niewinności, ostatecznie
+dało mi to również powód, by wprowadzić różne zmiany w narracji i estetyce.   
+Moja pierwotna idea natomiast się rozmyła, gdyż obecnie tworzę na obszarze wszystkich epok,
+wprowadzając tematy o różnej gęstości we wszystkie z nich.
 
 ### 🧱 Between Shadows and Light
 
-The real change for RPG system came in similar time, with Between Shadows and Lights, 
-being my study project to pass lessons. It was written in Python in 2018, using most 
-basic elements of it, such as condition and loops.  
-Nevertheless, for the first time, it tried to conclude Baedoor RPG system within some real 
-boundaries. It suffered from my coding knowledge though, so it resulted in scrapping a lot of ideas, 
-just to make system playable.  
-This is, in historic view, Baedoor RPG System 2.0: very limited and poorly introduced, but definitely 
-more official take on what was limitless before. 
+Prawdziwa zmiana dla systemu RPG nadeszła niedługo później, wraz z Between Shadows and Lights,
+będącym moim projektem zaliczeniowym na studia. Był on napisany w 2018, w Pythonie, używając
+najprostszych elementów tego języka, jak kondycjonowanie i pętle.  
+Mimo wszystko, była to pierwsza próba ujęcia systemu w jakichś konkretnych ramach. Co prawda
+stracił on wiele aspektów przez same moje amatorskie podejście, jednak historycznie patrząc,
+jest to wciąż system RPG, który powstał - oznaczany liczbą 2.0.
 
-BSaL was rewritten after half of a year, but since it was only a bit more stable and code-advanced, 
-it was early abandoned due to frequent crashes and lack of motivation. None of these scrapped 
-features were actually introduced back in 2.0.  
-Both 1.0 and 2.0 version weren't publicly available, though, since first one wasn't made for 
-public use, and second one was extremely badly made and could be declassified easily by any 
-other similar game.  
-Rewritten BSaL, though, was fully done in terms of completeness: you could actually visit Ansur Isle, 
-do quests, fight, create your character. It also had its .exe file with amateurish icon. 
-But even if I would like to publish it, language barrier was a thing, 
-since it was written entirely in Polish.
+BSaL został pół roku później przepisany, ale zmiana ta była nieznaczna, odrobinę poprawiając
+stabilność i kod, nie poprawiając jednak częstych crashy i błędów. Wraz z utratą motywacji,
+a również pewnym ukończeniem przepisywania, projekt przestał być rozwijany.  
+Zarówno wersja 1.0, jak i 2.0 nie były publicznie dostępne, jako że w obu wypadkach były
+przeszkody niepozwalające na sensowną grę - pierwsza wersja była zrobiona prywatnie, i dla
+takich celów służyła, druga natomiast została zaimplementowana bardzo słabo, przez co
+nie przetrwałaby porównania z większością nawet terminalowych RPGów.  
+BSaL jednak był grą kompletną: można było odwiedzić wyspę Ansur, zrobić zadania, walczyć,
+tworzyć swoją postać. Miała również ona swój plik .exe z amatorską ikoną.  
+Niemniej jednak, była ona po polsku, co powstrzymywało mnie z publikacją.
 
-***Revisioning-Toma here:** it eventually became available thanks to this Encyclopaedia. Check [Author](Author.md)
-page to get your hands on Between Shadows and Lights, if you want to.*
+***Aktualizacja:** BSaL ostatecznie została udostępniona dzięki zaistnieniu tej encyklopedii - 
+można ją znaleźć na [stronie autorskiej](Author.md).*
 
-### ❄️ Gaming hiatus
+### ❄️ Growa przerwa
 
-Baedoor universe then became my universe where I tried to write stories more frequently: 
-abandoning cRPG ideas, I decided to focus on stories, which I had written before, but never finished.   
-In late 2019, I wrote short story called "Wolf", which told a story about outlaw gunslinger being 
-lost on Vershaton deserts. It was purely experimental piece of paper, being terrible on technical 
-side, but very personal and I perceive it as one of the most straightforward prose I wrote.  
-Experimental style also lead it to become almost "art cinema" style of uncertainty of interpretation, 
-which I always see as an artistic success, even if poorly made.  
-In the same time, I also expanded some universe aspects - both by finding old notebooks with notes, 
-and by writing it from scratch (such as West of Moon Continent, which history is strongly inspired 
-by historical book on Japan I read back then).  
-It led to Ghlodds having its distinct, really weird language, in which I even tried to write some 
-lore-based poetry, using the name of poet Nansaai Narayana (and somehow, I also included it in 
-"real-life" poetry, such as in [this poem](https://drive.google.com/file/d/1B0GTSDmfjdpSsHbKb8AJquiE6ezEEctf/view?usp=sharing) which uses Ghloddish title).
+Uniwersum Baedoor stało się miejscem, w którym zacząłem umieszczać coraz częściej swoje
+opowiadania: uciekając od tworzenia gier, skupiłem się na dokańczaniu historii, które swego
+czasu zacząłem, ale nigdy nie kończyłem.  
+Pod jesień 2019 roku, napisałem krótkie opowiadanie o tytule "Wilk", w której opowiedziałem
+historię bandyty zgubionego na pustyni Vershaton. Było to bardzo eksperymentalne, koszmarne
+ze strony technicznej, ale bardzo osobiste i nadal uważam to za najbardziej bezpośrednią
+prozę, jaką kiedykolwiek napisałem.  
+W tym samym czasie, rozszerzyłem również swoje uniwersum - zarówno przez znajdywanie kolejnych
+zeszytów, czy też przez pisanie części świata od początku (jak Zachodni Księżyc, inspirowany
+przez historię Japonii, którą czytałem w tamtym czasie).  
+To spowodowało również, że Głoddy stały się cywilizacją bogatszą o swój własny język, w którym
+nawet próbowałem pisać swoje wiersze, używając imienia poety Nansaai Narayana. Ponadto
+udało mi się nawet nawiązać do tego języka w tytule [tego wiersza](https://drive.google.com/file/d/1B0GTSDmfjdpSsHbKb8AJquiE6ezEEctf/view?usp=sharing).
 
-### 📿 Minecraft modding
+### 📿 Modowanie Minecrafta
 
-Next part of Baedoor universe expansion came with 
-[Wastelands of Baedoor](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor) 
-mod for Minecraft, made in MCreator in 2020, and remade from early 2021.   
-There would be no exaggeration to say that this was crucial for me as a creator, because for the
-first time, I revealed the world to the very public. This shaped both start of my community, 
-and my character as a creator - on which I still work on.
+Kolejna część rozszerzania świata Baedoor przyszła z [Wastelands of Baedoor](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor),
+będącym modem do Minecrafta, stworzonym w MCreatorze w 2020 roku, i zremakowanym na początku 2021.  
+Nie będzie przesadą powiedzieć, że był to dla mnie kluczowy czas jako dla twórcy, ponieważ
+był to pierwszy moment, gdy pokazałem swój świat... światu. To pozwoliło mi zdobyć społeczność,
+jak i ukształtować mój charakter jako twórcy - nad którym wciąż pracuję.
 
-Mod idea appeared mostly from me being frustrated that you can't farm sand in vanilla game, 
-but it quickly expanded to several other features I wanted to include in my mod.  
-After all, I decided to make it bound to my universe, since I tend to do that all the time with a 
-lot of my creations. It also helped me with deciding which features and items should go into WoB, 
-because Baedoor universe had grounded features for a lot of time - my work was only to make it 
-Minecraft-friendly.
+Idea moda wyszła z prozaicznej potrzeby poprawienia oryginalnej gry, jednak bardzo szybko
+rozwinęła się do większych rozmiarów.  
+Ostatecznie, zdecydowałem o użyciu swojego świata, gdyż to pozwalało mi mieć spójną wizję
+odnośnie tego, co chciałbym, żeby zostało dodane. Wszystko to w końcu już w uniwersum jest - 
+kwestią było zrobić to jedynie tak, by było spójne z mechanikami Minecrafta.
 
-### 📿 Modding continued
+### 📿 Modowanie kontynuowane
 
-Once WoB got released and I received positive feedback on it, I decided to part it into three pieces:
-- **Wastelands** - being original mod, focusing on steampunk, airships and guns
-- **Civilisations** - focusing on civilisations and more RPG-like interaction, eventually also dimensions
-- **Spires** - adding magic and herbalism to Minecraft
+Gdy WoB zostało wydane i społeczność polubiła mod, zdecydowałem się na podzielenie go na trzy
+części:
+- **Wastelands** - będącym oryginalnym modem, skupiającym się na steampunku, sterowcach i broni palnej
+- **Civilisations** - skupiającym się na cywilizacjach, aspekcie fabularnym, jak i wymiarach
+- **Spires** - dodającym magię i zielarstwo do Minecrafta
 
-This decision came from the fact that **Wastelands** itself wouldn't handle such enormous amount of
-content as one mod.  
+Ta decyzja wynikła z tego, że **Wastelands** samo w sobie nie zmieściłoby w sobie wszystkiego,
+jako że mod takiej wielkości byłby bardzo obciążający, zarówno twórczo, jak i technologicznie.
 
-In addition to that separation, my ideas of games made on Baedoor lore came back. First thing
-I really wanted - also being tempted by my friends - was to rewrite Between Shadows and Light.  
-This is how idea of **The Isle of Ansur** was born: it was meant to be full rewrite of the previous
-game, but this time with way better code (or at least readable enough for me to understand it after 
-a month).   
-[GitHub](https://github.com/Toma400/The_Isle_of_Ansur) for it was created and the project
-is maintained from this point on. Additionally to better code, it also supports modding from the
-earliest version.
+Dodatkowo do tej separacji, moje pomysły związane z tworzeniem gier w świecie Baedooru
+powróciły. Pierwszą rzeczą, jaką bardzo chciałem zrobić - będąc też zachęcanym przez moich
+przyjaciół - było przepisanie Between Shadows and Light.  
+To jest też moment, gdy powstaje pomysł **The Isle of Ansur**: pełnego przepisania poprzedniej
+gry, tym razem z o wiele lepszym kodem i funkcjonalnościami. Założyłem więc [GitHuba](https://github.com/Toma400/The_Isle_of_Ansur)
+projektu i zacząłem pisać kod gry.
 
-### ✨ Current times
+### ✨ Obecne czasy
 
-Well, you can guess that current times are basically maintaining the projects above - because this is
-mostly what I do.  
-Aside from that, though, I have plans. Quite big ones. I have no idea if my time, motivation and money
-let me make everything I've planned - especially as maintaining my old projects also consumes all of
-those - but one can dream.
+Cóż, możecie się domyślić, że obecne czasy to głównie utrzymywanie tych projektów, które
+zostały opisane wyżej - bo to jest w sumie to, co obecnie robię.  
+Jednak, poza tym wszystkim, mam plany. Całkiem spore. Nie mam pewności czy mój czas, motywacja
+i pieniądze mogą mi pozwolić na to wszystko, co planuję - zwłaszcza, że utrzymywanie moich starych
+projektów także kosztuje - ale czemu by nie marzyć.
 
-Just to give you taste of my dream, this is what I wrote originally writing this article for Isle
-of Ansur project:
-```
-In my dreams, there's idea of proper cRPG game, being in vein of Arcanum: Of Steampunk and 
-Magick Obscura, or even Skyrim... but that's just loose idea for the future.  
-When I have enough money, coding knowledge, maybe even people helping me with this project. 
-But I'd love to make such big, sandbox game based on Baedoor universe. 
-This is partly why I decided to make IoA.
-```
-What I know for sure, I have hella lot of learning to do. And thrice as much to work. But I find
-this as a beautiful future: learning stuff by yourself, taking fun projects, is glorious, especially
-if you are led by your dream. So [take the trip with me](https://discord.gg/GbTw9KqnrE), dear reader, 
-and who knows, maybe we will meet across the road someday?
+Mam wiele nauki przed sobą, i wiem to dobrze. I jeszcze więcej pracy. Ale znajduję w tym
+jakieś piękno: uczenia się samemu, tworzenia projektów, a wszystko to z marzeniem w głowie,
+by kiedyś, być może, stworzyć prawdziwie wielką i piękną, grę cRPG, obejmującą cały ogrom
+świata Baedoor w sobie.  
+Więc [dołącz do mnie w podróży](https://discord.gg/GbTw9KqnrE), drogi czytelniku,
+a kto wie, może się spotkamy na skrzyżowaniu dróg?
 
 ---
 
-## Baedoor works
-### Already made
-* [2004] Lands `not official`
-* [2005] Other Lands `not official`
-* [2008] Baedoor `not official`
-* [2018] Between Shadows and Light `not official`
+## Gry związane z uniwersem Baedoor
+### Stworzone
+* [2004] Kraje `nieoficjalne`
+* [2005] Inne Kraje `nieoficjalne`
+* [2008] Baedoor `nieoficjalne`
+* [2018] Between Shadows and Light `nieoficjalne`
 * [2021] [Wastelands of Baedoor](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor)
 ---
-### Upcoming
+### Nadchodzące
 * [2024] The Isle of Ansur `indev`
 * [ ` ? ` ] Civilisations of Baedoor `indev`
 * [ ` ? ` ] Spires of Baedoor `indev`
-#### Far future?
-* [ ` ? ` ] Of Lands `temporary name`
+#### Daleka przyszłość?
+* [ ` ? ` ] Of Lands `nazwa tymczasowa`
 * [ ` ? ` ] Baedoor Travels
 * [ ` ? ` ] Emperor of Eternity
 * [ ` ? ` ] Baedoor
 
-*This list examines only games related to the universe. For stories, poems and music, refer to
-[this](Author.md) page. For lore aspects of those games, head on to [this page](Mechanicum/Walkthroughs.md)*.
+*Ta lista zawiera jedynie gry związane z uniwersum. Historie, wiersze i muzyka nawiązujące do
+uniwersum znajdują się pod [tą](Author.md) stroną.*

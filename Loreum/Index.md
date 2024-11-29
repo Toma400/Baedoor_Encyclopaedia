@@ -1,7 +1,7 @@
-# 🎇 Index
+# 🎇 Indeks
 
 ---
-You can find all possible named entries of Encyclopaedia Loreum here listed.
+Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności alfabetycznej.
 
 ---
 ### A
@@ -9,19 +9,19 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Adelaie](Topics/Geography/Old_Continent/Jitado/Cities/Adelaie.md)
 - [Altauar](Topics/Geography/Old_Continent/Jitado/Regions/Altauar.md) (region)
 - [Ansur](Topics/Geography/Moon_Continent/East_Moon/Ansur.md)
-- [Ansur Thieves Guild](Topics/Guilds/List/Ansur_Thieves_Guild.md)
+- [Ansurska Gildia Złodziei](Topics/Guilds/List/Ansur_Thieves_Guild.md)
 - [Ash Veil](Topics/Nature/Herbarium/List/Ash_Veil.md)
 - [Avani, Si](Topics/Characters/List/Si_Avani.md)
 - [Azure Archipelago](Topics/Geography/Azure_Archipelago.md)
 
 ### B
-- [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md) (city)
-- [Baedoor](Topics/Geography/Baedoor_Continent.md) (continent)
-- [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor.md) (island)
+- [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md) (miast)
+- [Baedoor](Topics/Geography/Baedoor_Continent.md) (kontynent)
+- [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor.md) (wyspa)
 
 ### C
 - [Calgori](Topics/Characters/Families/Calgori.md)
-- [Cuerven Valley](Topics/Geography/Moon_Continent/East_Moon/Lands/Cuerven_Valley.md)
+- [Cuerven](Topics/Geography/Moon_Continent/East_Moon/Lands/Cuerven_Valley.md) (dolina)
 
 ### D
 - [Dawn Tear](Topics/Nature/Herbarium/List/Dawn_Tear.md)
@@ -30,7 +30,6 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Disanteldir](Topics/Geography/Baedoor_Continent/Kaer/Cities/Disanteldir.md)
 
 ### E
-- [East Moon](Topics/Geography/Moon_Continent/East_Moon.md)
 - [Eir, Delai](Topics/Characters/List/Delai_Eir.md)
 - [Enahr, Esh](Topics/Characters/List/Esh_Enahr.md)
 - [Enfrvein](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
@@ -39,14 +38,14 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Evros](Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)
 
 ### F
-- [Faraurin](Topics/Nature/Foods/List/Faraurin.md)
+- [Farauryn](Topics/Nature/Foods/List/Faraurin.md)
 - [Ferves Navikon](Topics/Characters/List/Ferves_Navikon.md)
-- [Flower Street](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
 - [Followers of the Bound](Topics/Guilds/List/Followers_of_the_Bound.md)
 
 ### G
 - [Ghlodds](Topics/Races/Regular/Ghlodds.md)
 - [Golden Lighthouse of Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
+- [Gwiazdounosiciele](Topics/Guilds/List/Starshifters.md)
 
 ### H
 - [Haunted Wanderer](Topics/Nature/Bestiary/List/Haunted_Wanderer.md)
@@ -54,7 +53,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Hyerbitus](Topics/Nature/Herbarium/List/Hyerbitus.md)
 
 ### I
-- [I'si](Topics/Religions/Small/Temple_of_I'si.md) (Temple of I'si)
+- [I'si](Topics/Religions/Small/Temple_of_I'si.md) (Kościół of I'si)
 - [Indan](Topics/Characters/Families/Indan.md)
 - [Ino Anor](Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)
 - [Isuga](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md)
@@ -66,6 +65,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### K
 - [Kaer](Topics/Geography/Baedoor_Continent/Kaer.md)
 - [Kel Desert](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Kel_Desert.md)
+- [Kościół I'si](Topics/Religions/Small/Temple_of_I'si.md)
 
 ### L
 - [Lhue](Topics/Nature/Herbarium/List/Lhue.md)
@@ -85,14 +85,14 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Nyme](Topics/Geography/Moon_Continent/East_Moon/Cities/Nyme.md)
 
 ### O
-- [Old Continent](Topics/Geography/Old_Continent.md)
-- [Order of the Sword](Topics/Guilds/List/Order_of_the_Sword.md)
 - [Ormaths](Topics/Races/Regular/Ormaths.md)
 - [Ostaequa](Topics/Nature/Bestiary/List/Ostaequa.md)
-- [Oververse](Topics/World_Mechanics/Oververse.md)
 
 ### P
+- [Plantacja Toma Varteforda](Topics/Geography/Baedoor_Continent/Baedoor/Places/Tom_Varteford_Plantation.md)
 - [Plate Lizard](Topics/Nature/Bestiary/List/Plate_Lizard.md)
+- [Pustynia Kel](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Kel_Desert.md)
+- [Pustynny Całun](Topics/Nature/Herbarium/List/Ash_Veil.md)
 
 ### R
 - [Raliun](Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
@@ -101,16 +101,16 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Separatists](Topics/Factions/List/Separatists.md)
 - [Si Avani](Topics/Characters/List/Si_Avani.md)
 - [Skirran](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)
-- [Starshifters](Topics/Guilds/List/Starshifters.md)
+- [Starożytny Kontynent](Topics/Geography/Old_Continent.md)
 
 ### T
-- [Temple of I'si](Topics/Religions/Small/Temple_of_I'si.md)
 - [Tertens](Topics/Races/Spirit/Terten.md)
 - [Tom Varteford](Topics/Characters/List/Tom_Varteford.md)
 - [Tom Varteford's Plantation](Topics/Geography/Baedoor_Continent/Baedoor/Places/Tom_Varteford_Plantation.md)
 - [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
 
 ### U
+- [Ulica Kwiatów](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
 - [Uruati](Topics/Races/Creature/Uruati.md)
 
 ### V
@@ -121,10 +121,17 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### W
 - [Warthog](Topics/Characters/Families/Warthog.md)
-- [Windy Arista](Topics/Nature/Herbarium/List/Windy_Arista.md)
+- [Wietrzne Źdźbła](Topics/Nature/Herbarium/List/Windy_Arista.md)
 - [Winfleton Deck](Topics/Cultures/Baedoorians/List/Winfleton_Deck.md)
 - [Winfleton, Heim](Topics/Characters/List/Heim_Winfleton.md)
+- [Wschodni Księżyc](Topics/Geography/Moon_Continent/East_Moon.md)
+- [Wszechwers](Topics/World_Mechanics/Oververse.md)
+- [Wulkaniczny Całun](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
 
 ### X
 - [Xaine](Topics/Characters/List/Xaine.md)
 - [Xavier](Topics/Characters/Families/Xavier.md)
+
+### Z
+- [Zakon Mieczowy](Topics/Guilds/List/Order_of_the_Sword.md)
+- [Złota Latarnia Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)

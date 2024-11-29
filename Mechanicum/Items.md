@@ -1,18 +1,18 @@
-# 🌀 Items
+# 🌀 Przedmioty
 
 ---
-### 🔪 [Weapons](Items/Weapons.md)
-### 🔧 Tools
-### 👘 Clothes
-### 🥮 Food
-### 🌿 Herbs
-### ⚗️ Potions
-### 🧱 Resources
-### 🧭 Miscellaneous
+### 🔪 [Bronie](Items/Weapons.md)
+### 🔧 Narzędzia
+### 👘 Ubrania
+### 🥮 Pożywienie
+### 🌿 Zioła
+### ⚗️ Mikstury
+### 🧱 Surowce
+### 🧭 Różne
 
 ---
-### 🔍 [Index](Items/Index.md)
-### 🐲 [Game Index](Items/Game_Index.md)
+### 🔍 [Indeks](Items/Index.md)
+### 🐲 [Indeks Growy](Items/Game_Index.md)
 
 ---
 ✥

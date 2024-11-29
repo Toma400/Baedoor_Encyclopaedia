@@ -1,22 +1,22 @@
 # 🌆 Adelaie
 
 ---
-<span style="color:#107C23">**cities**</span> [✦](/Loreum/Tags.md#-cities)  
+<span style="color:#107C23">**miasta**</span> [✦](/Loreum/Tags.md#-miasta)  
 
 ---
-**Adelaie** (jit. *Nightly Sky*) is small village at the edge of Altauar region. Its main ways of
-earning are - aside from exporting wood and wheat - visitors coming to **I'si altar**.
+**Adelaie** (jit. *Nocne Niebo*) jest małą wioską na skraju regionu Altauar. Jej głównym źródłem
+zarobku są - poza eksportem drewna i pszenicy - pielgrzymi zmierzający do **ołtarza I'si**.
 
-In years 1008 OE - 7 NE, Adelaie was administrated by **Sjiniro Itahmutsi**.  
-Adelaie is also known to be home of Hai family, known trader family who owns some orchards in area.
+W latach 1008 SE - 7 NE, Adelaie było zarządzane przez **Sjiniro Itahmutsi**.  
+Adelaie jest również znane jako dom rodziny Hai, znanych kupców którzy posiadają część okolicznych sadów.
 
-### PLACES
+### MIEJSCA
 - Novi Selonoia
-- I'si Temple
+- Świątynia I'si
 
 ---
 📿 [Baedoor Classic](/Mechanicum/Walkthroughs/Baedoor_Classic/Lore/BaeCL_Adelaie.md)
 
 ---
 ♜✥
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Old_Continent/Jitado.mdnent/Jitado.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Old_Continent/Jitado.md)

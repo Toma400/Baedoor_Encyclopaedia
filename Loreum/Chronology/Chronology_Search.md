@@ -1,9 +1,9 @@
-# 🪔 Chronology Search
+# 🪔 Szukanie chronologiczne
 
 ---
-### ⚱️ [Pre Era](Pre_Era.md)
-### ⚱️ [Old Era](Old_Era.md)
-### ⚱️ [New Era](New_Era.md)
+### ⚱️ [Czas Przederowy](Pre_Era.md)
+### ⚱️ [Stara Era](Old_Era.md)
+### ⚱️ [Nowa Era](New_Era.md)
 
 --- 
 ✥

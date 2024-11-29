@@ -1,18 +1,18 @@
-# 📿 Eras
+# 📿 Ery
 
 ---
-Baedoor universe dates time by three eras, separating different epochs.  
-Although we don't have precise event for what separated Pre Era from Old Era, Old Era ended
-with so called **Cataclysm** or **Exodus**.  
+Uniwersum Baedoor datuje czas poprzez trzy ery, oddzielające różne epoki.  
+Choć nie jest dokładnie znane co separuje Czas Przederowy od Starej Ery, Starą Erę kończy
+wydarzenie znane jako **Kataklizm** lub **Exodus**.
 
-Pre Era is counted backwards, therefore its years go descending.  
-Commonly used abbreviations for eras are PE (Pre Era), OE (Old Era) and NE (New Era).
+Czas Przederowy jest dekrementacyjnie, przez co lata w nim liczone są malejąco.  
+Zwyczajowymi skrótami dla er są CP (Czas Przederowy), SE (Stara Era) i NE (Nowa Era).
 
 ---
 
-### ⚱️ [Pre Era (... - 0 PE)](/Loreum/Chronology/Pre_Era.md)
-### ⚱️ [Old Era (1 OE - 1027 OE)](/Loreum/Chronology/Old_Era.md)
-### ⚱️ [New Era (1 NE - now)](/Loreum/Chronology/New_Era.md)
+### ⚱️ [Czas Przederowy (... - 0 CP)](/Loreum/Chronology/Pre_Era.md)
+### ⚱️ [Stara Era (1 SE - 1027 SE)](/Loreum/Chronology/Old_Era.md)
+### ⚱️ [Nowa Era (1 NE - teraz)](/Loreum/Chronology/New_Era.md)
 
 --- 
 ✥♢: cataclysm, exodus  

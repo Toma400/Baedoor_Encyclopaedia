@@ -1,5 +1,6 @@
-# 🔥 Revolvers
-Revolvers are usually fast, short-ranged firearms able to shot several times before they need to reload.
+# 🔥 Rewolwery
+Rewolwery są szybką, krótkodystansową bronią palną, zazwyczaj umożliwiającą wystrzelenie
+więcej niż jednego pocisku bez przeładowania.
 
 ---
 #### [Lefs 8](List/Lefs8.md)

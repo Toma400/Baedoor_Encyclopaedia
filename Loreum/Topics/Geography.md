@@ -1,60 +1,60 @@
-# 🌏 GEOGRAPHY
-All what creates the oververse, but mostly on Baedoor itself.
+# 🌏 GEOGRAFIA
+Wszystko co tworzy wszechwers, lecz głównie Baedoor samo w sobie.
 
 | <img alt="Baedoor Universe map" src="/Assets/Maps/baedoor_universe.png" width="240" height="280"/> |
 |:--------------------------------------------------------------------------------------------------:|
-|                                      Map of Baedoor universe                                       |
+|                                       Mapa uniwersum Baedoor                                       |
 
 ---
-## 🌌 BAEDOOR MULTIVERSE
-### 🪐 MAIN BRANCH
-####   🔷 [Baedoor Continent](Geography/Baedoor_Continent.md)
-#####      🔹 Northern Islands
+## 🌌 MULTIWERSUM BAEDOOR
+### 🪐 GŁÓWNA GAŁĄŹ
+####   🔷 [Kontynent Baedoor](Geography/Baedoor_Continent.md)
+#####      🔹 Północne Wyspy
 #####      🔹 [Baedoor](Geography/Baedoor_Continent/Baedoor.md)
-#####      🔹 Rossevette Islands
+#####      🔹 Wyspy Rossevette
 #####      🔹 [Kaer](Geography/Baedoor_Continent/Kaer.md)
 #####      🔹 Arennan
-####   🔷 [Moon Continent](Geography/Moon_Continent.md)
-#####      🔹 West Moon
-#####      🔹 Moon Islands
-#####      🔹 Central Moon
-#####      🔹 [East Moon](Geography/Moon_Continent/East_Moon.md)
-####   🔷 [Old Continent](Geography/Old_Continent.md)
+####   🔷 [Księżyc](Geography/Moon_Continent.md)
+#####      🔹 Zachodni Księżyc
+#####      🔹 Wyspy Księżyca
+#####      🔹 Kraje Księżycowe
+#####      🔹 [Wschodni Księżyc](Geography/Moon_Continent/East_Moon.md)
+####   🔷 [Starożytny Kontynent](Geography/Old_Continent.md)
 #####      🔹 [Mes Inpea](Geography/Old_Continent/Mes_Inpea.md)
 #####      🔹 [Jitado](Geography/Old_Continent/Jitado.md)
-#####      🔹 Eimr Archipelago
+#####      🔹 Archipelag Eimr
 ####   🔷 Seiteh
-####   🔷 [The Azure Archipelago](Geography/Azure_Archipelago.md)
+####   🔷 Archipelag Błękitny
 #####      🔹 Oe'os
 #####      🔹 Septei
 #####      🔹 Vartee
 ####   🔷 [Uruati Land]
 ####   🔷 [Nak Land]
-####   🔷 Vaos Archipelago
-####   🔷 Loose Islands `outside continents`
-####   🔷 The Grand Southern Permafrost
+####   🔷 Archipelag Vaos
+####   🔷 Pozostałe Wyspy
+####   🔷 Wielka Południowa Zmarzlina
 
-<!-- #####      🔹 Aragonian Library -->
+<!-- #####      🔹 Biblioteka Aragońska -->
 
 ####          🛠️ WIP (Names will change):
 
-####   🔷 Northern Islands
+####   🔷 Wyspy Północne
 ####   🔷 Aztec Archipelago
 ####   🔷 Native African Islands `Ereut` `Dawn Islands`
 ####   🔷 Snake Islands `Serpentuan` `Serpent Islands`
 ####   🔷 Minotaur Islands
-####   🔷 Aev Archipelago
+####   🔷 Archipelag Aev
 
-### 💫 DIMENSIONS
+### 💫 WYMIARY
 
-### 🎇 BEYOND SPECTRUM
-#####   🔷 Lands of the Dead
-#####   🔷 Crossing
-#####   🔷 The Void
-#####   🔷 The Library of Worlds
+### 🎇 POZA SPEKTRUM
+#### 🔷 Światy Umarłych
+#### 🔷 Przejście
+#### 🔷 Pustka
+#### 🔷 Biblioteka Światów
 
 ---
-## 🎆 OTHER KNOWN MULTIVERSES
+## 🎆 INNE ZNANE MULTIWERSA
 #### 🔷 Tamariel
 #### 🔷 Uru'ai
 #### 🔷 Osde'in

@@ -1,11 +1,11 @@
-# 🏰 Altauar Region
-**Altauar** (or Aldauar, jit. *Alduar* - "mountain of boar") is region located in north-eastern side
-of Jitado, spanning across Altauar mountain range and filling huge "U"-shaped highland between its
-corners.  
-This region is historically known for exporting all sorts of resources, but mostly copper, iron
-and minerals.
+# 🏰 Region Altauar
+**Altauar** (lub Aldauar, jit. *Alduar* - "góra dzika") to region położony na północno-wschodniej
+części Jitado, rozciągający się wzdłuż pasma górskiego Altauar i tworzący dużą wyżynę w kształcie
+litery "U" pomiędzy jego granicami.  
+Region ten jest historycznie znany z eksportu różnych surowców, z naciskiem na miedź, żelazo
+i minerały.
 
-### TOWNS
+### MIASTA
 - [Menerun](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Menerun.md)
 - [Raliun](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
 - [Ino Anor](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)

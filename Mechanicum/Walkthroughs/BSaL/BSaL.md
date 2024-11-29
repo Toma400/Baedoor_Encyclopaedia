@@ -1,30 +1,31 @@
 # 🏹 Between Shadows and Light
-**Between Shadows and Light** (or BSaL) is name of first game happening in Baedoor universe, created
-in year 2018, and remade shortly after.  
-At first it was just project to pass Python learning subject, but I quickly realised this is more of
-my personal project (for me) than actually doing anything for university.
+**Between Shadows and Light** (lub BSaL) to nazwa pierwszej gry komputerowej mającej miejsce w 
+uniwersum Baedoor, stworzonej w roku 2018.  
+Na początku był to projekt zaliczeniowy, ale dość szybko zrozumiałem, że jest to bardziej
+projekt osobisty, niż cokolwiek co chciałbym tworzyć dla akademii.
 
-### MECHANICS
-BSaL used system which can be known as Baedoor RPG System 2.0 - fairly unfinished system which was
-meant to be what I envisioned earlier for my paper games, but this time in game.  
-Due to unfinished
-state, it is not recommended to use it, as even within the game itself there are some lacking
-features and several skills are not even used once.
+### MECHANIKI
+BSaL używał systemu, który może być znany jako Baedoor RPG System 2.0 - będący dość naprędce
+zrobionym systemem, odwzorowującym ten z papierowych gier, które tworzyłem wcześniej.  
+Z racji tego, że nie został on nawet w pełni wykorzystany, odradzane jest używanie go w innych
+sytuacjach - obecnie tworzony system 3.0 (i 4.0) są zasadniczo formą dostosowania 2.0 do
+obecnej jakości.
 
-### STORY
-BSaL starts in 216 NE, on ship "Arennan", travelling to the isle of Ansur. For game itself, it serves
-as sort of tutorial, in which you can learn how to move, talk to NPCs, and, eventually, to fight - as
-ship is attacked by pirates.  
-After pirate attack, "Arennan" docks in Evron port, giving you full freedom on what to do. No main
-story is set, but you can get some quests or jobs on the island.
+### HISTORIA
+BSaL rozpoczyna się w roku 216 NE, na statku "Arennan", podróżującego na wyspę Ansur. W samej
+grze, jest to pewnego rodzaju tutorial, w którym uczysz się podstaw poruszania, rozmowy z NPCami,
+ostatecznie walki - gdyż statek jest zaatakowany przez piratów.  
+Po tym ataku jednak, "Arennan" dociera do portu Evros, dając pełną wolność w tym, co należy
+robić. Brak co prawda głównego wątku, ale wciąż możliwe jest wykonanie wielu zadań i prac
+wewnątrz wyspy.
 
-### GUIDE
-- [Lore](BSaL_Lore.md)
-- [Locations](BSaL_Locations.md)
-- [Quests](BSaL_Quests.md)
-- [NPCs](BSaL_NPCs.md)
-- Items
-- [Tips and tricks](BSaL_Tips.md)
+### PRZEWODNIK
+- [Świat](BSaL_Lore.md)
+- [Lokacje](BSaL_Locations.md)
+- [Zadania](BSaL_Quests.md)
+- [NPCe](BSaL_NPCs.md)
+- Przedmioty
+- [Porady i triki](BSaL_Tips.md)
 
 ---
 ✥

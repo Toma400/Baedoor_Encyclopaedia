@@ -1,23 +1,25 @@
-# 🏞️ Nferth Isle
+# 🏞️ Wyspa Nferth
 <img alt="Nferth Map" height="216" src="/Assets/Maps/nferth.png" width="384"/>
 
-``Simplified map of Nferth Isle``
+``Uproszczona mapa wyspy Nferth``
 
-**Nferth** (called also "Isle of Demons") is lone island located at far south of East Moon. 
-Despite having lighthouse build, it is avoided with superstitious fear. Lighthouse itself is called
-as "haunted", as it is always lit, despite noone living in the building.  
+**Nferth** (zwana też "Wyspą Demonów") jest samotną wyspą na południu Wschodniego Księżyca.
+Mimo posiadania latarni morskiej, jest ona omijana z zabobonną trwogą. Latarnia sama w sobie jest
+nazywana "nawiedzoną", jako że jest wiecznie zapalona, mimo, iż nikt od dawna w niej już nie
+mieszka.
 
-Nferth is wastelandic island, full of semi-dead trees, in which three ruins are crucial points - 
-Assirnetomel on the northern-east side, Affaitelvaneissi near the coast, and Telvyanyevalyashi in
-southern-west side. All of those are shrine ruins, being main reason of fear towards this island.  
-Their creation time, builders, name origins or purpose is unknown. There is also not really anything 
-in Baedoor universe reminding shapes or alphabet to what is found on Nferth.
+Nferth jest pustkowiem, pełnym dziwnych, jakby-umarłych drzew, z trzema ruinami wyznaczającymi
+punkty orientacyjne - Assirnetomel na północno-wschodniej części, Affaitelvaneissi obok 
+wybrzeża, i Telvyanyevalyashi na południowo-zachodniej części.  
+Wszystkie te miejsca są ruinami świątyń, będąc głównym powodem lęku wobec wyspy.  
+Ich czas stworzenia, twórcy, pochodzenie nazw czy cel jest nieznany. Nie ma również niczego o
+podobnym stylu architektonicznym w całym uniwersum Baedoor.
 
-**PLACES**
-- Edrasur Lighthouse
-- Assirnetomel Shrine
-- Affaitelvaneissi Shrine
-- Telvyanyevalyashi Shrine
+**MIEJSCA**
+- Latarnia Edrasur
+- Assirnetomel
+- Affaitelvaneissi
+- Telvyanyevalyashi
 
 ---
 ♜♢✥
