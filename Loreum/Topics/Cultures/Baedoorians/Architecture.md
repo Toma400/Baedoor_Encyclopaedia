@@ -11,6 +11,15 @@ yet elegant brick buildings, quite often in white colour. Not so many ornaments 
 
 `Baedoor city, High District, in early baedoorian style`
 
+### Vershaton style
+Vershaton from beginning of its nomathian rule was unique, as desert and alpine character forced
+nomaths to adjust. When baedoorians conquered Vershaton, they largely kept to the traditional nomathian
+style and so this influence is felt much stronger on eastern side.  
+Baedoorian-nomathian architecture over Vershaton is heavily based on bricks, often featuring two-story
+buildings that differentiate those buildings from taller ones popular on western side of the Island.
+That doesn't mean Vershaton towns do not feature taller buildings, but they are rather rare and usually
+serve more important function (such as administration or banking).
+
 ### Ansurian style
 Ansurian style is quite interesting case for baedoorian architecture, as it differs from what was
 popular in times of Ansur establishing. The reason may be that Evros, being yet small village town

@@ -8,16 +8,9 @@
 being main transit place for anyone sailing from Baedoor Continent to East Moon and reversely.  
 Since **Norran Gorth** decree, it extended heavily throughout later years.
 
-Politically, it is abode of governor and three guilds.
+Politically, it is abode of governor, as well as few guilds and groups.
 
-### ORGANISATIONS
-- Ansur Vinyards Association
-- Followers of the Bound
-- [Ansur Thieves Guild](/Loreum/Topics/Guilds/List/Ansur_Thieves_Guild.md) `illegal`
-
-All of those guilds are located in center part of Evros, located in two big tenements for first two.
-Location of Thieves Guild is not publicly known.  
-In the other hand, governor holds his position in Town's Hall.
+- [Ansur Guilds](/Loreum/Topics/Guilds/Ansur_Guilds.md)
 
 ### CITY STRUCTURE & STYLE
 Evros was built by baedoorian settlers, but even though first structures were built without any

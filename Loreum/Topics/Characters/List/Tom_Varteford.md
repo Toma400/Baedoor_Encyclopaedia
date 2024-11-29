@@ -15,7 +15,7 @@ He died in his sleep in 1024 OE, in his home in the same city.
 - Books & Poems
 
 ### Early Years
-Beginnings of Tom's history can be traced to his travel to Al Khasar which he made together with
+Beginnings of Tom's history can be traced to his travel to Alkaesar which he made together with
 his uncle, to finalise one of family's trade contracts. Eventually he became co-partner of the deal,
 making him earn enough financial foundation to organise next journeys across Baedoor island - this
 time with his own money.  
@@ -49,13 +49,13 @@ attempts to keep the power of temporary leaders, being de facto just military ge
 Such chaos only brought the already defunct Empire's power to the state when areas conquered by it
 started their revolt.  
 With the capital burning (metaphorically) and the Great Rebellion ignited all over Arennan, Kaer and
-Rossevette, Tom Varteford migrated initially to Al Khasar to avoid family fights that also started
+Rossevette, Tom Varteford migrated initially to Alkaesar to avoid family fights that also started
 happening. The Abrahk family sheltered him.  
 Over time, Tom exchanged letters frequently with people he trusted who informed him about state of
 affairs. Discussing matters with the Abrahk family, he eventually got convinced to perform an organised
 takeover with support of the few parties within the town.
 
-Leaving his wife in Al Khasar, Tom travelled back to the capital and then together with the [Xavier](/Loreum/Topics/Characters/Families/Xavier.md),
+Leaving his wife in Alkaesar, Tom travelled back to the capital and then together with the [Xavier](/Loreum/Topics/Characters/Families/Xavier.md),
 Madavel and [Calgori](/Loreum/Topics/Characters/Families/Calgori.md) families and plenty of generals
 supportive towards him, they rushed towards claiming the throne. With the [Ettua](/Loreum/Topics/Characters/Families/Ettua.md),
 [Indan](/Loreum/Topics/Characters/Families/Indan.md) and Eschat families opposing, this ended up 
