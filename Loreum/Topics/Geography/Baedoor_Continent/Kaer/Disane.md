@@ -3,10 +3,10 @@
 <table>
     <tr>
         <td>
-            <img alt="Disane Map" width="881" height="600" src="/Assets/Maps/erdic_islands.png"/>
+            <img alt="Disane Map" width="440" height="300" src="/Assets/Maps/erdic_islands.png"/>
         </td>
         <td>
-            <img alt="Disane Map" width="700" height="500" src="/Assets/disane_tes3.png"/>
+            <img alt="Disane Map" width="350" height="250" src="/Assets/disane_tes3.png"/>
         </td>
     </tr>
     <tr>
@@ -14,8 +14,6 @@
         <td> Drawing showcasing Disane island and two neighboring ones </td>
     </tr>
 </table>
-
-``Gridmap of erdic islands``
 
 **Disane** is small island located west of Khacari, and south of Kaer. It is part of Erdic Kingdom,
 but in the past was frequently exchanged between erds and saphtri.
