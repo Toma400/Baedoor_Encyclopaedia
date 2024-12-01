@@ -2,6 +2,7 @@
 
 ### Alphabetically:
 - [Adelaie](Lore/BaeCL_Adelaie.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Adelaie.md)
+- [Alkaesar](Lore/BaeCL_Alkaesar.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Alkaesar.md)
 - [Baedoor](Lore/BaeCL_Baedoor.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)
 - [Baedoor Surroundings](Lore/BaeCL_Baedoor_Surroundings.md)
 - [Coonhě Forest](Lore/BaeCL_Coonhě_Forest.md)
@@ -37,7 +38,22 @@
     </tr>
     <tr>
         <th>Location</th>
-        <td>Baedoor Isle</td>
+        <td>Baedoor Isle, South-West</td>
+    </tr>
+    <tr>
+        <th colspan="2">Vershaton</th>
+        <td><b>Source ID:</b> <a href="Sources/L_008_Vershaton.md">L.008:Vershaton</a></td>
+    </tr>
+    <tr>
+        <th>Timeframe</th>
+        <td>early / middle Old Era</td>
+        <td rowspan="2">
+            🐪    <a href="Lore/BaeCL_Alkaesar.md">  Alkaesar </a>
+        </td>
+    </tr>
+    <tr>
+        <th>Location</th>
+        <td>Baedoor Isle, Vershaton</td>
     </tr>
     <tr>
         <th colspan="2">Jitado</th>

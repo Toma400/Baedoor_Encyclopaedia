@@ -42,6 +42,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Evilir   | Whole Baedoor                 | Rare name of probably tri influences                                       |
  | Fadest   | Whole Baedoor                 | Common name                                                                |
 | Falcur   | Baedoor city                  | Rare name with unknown origin, possibly baedoorised nomathian name         |
+| Falgor   | East Baedoor                  | Semi-common name, probably with nomathian origins or influences            | 
 | Fathur   | Whole Baedoor                 | Common name in Old Era, rare in New Era. Has nomathian influences          |
 | Frode    | Whole Baedoor                 | Common old name                                                            |
 | Frodo    | Baedoor city                  | Rare variation of *Frode* name                                             |

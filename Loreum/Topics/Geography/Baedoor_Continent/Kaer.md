@@ -2,11 +2,11 @@
 
 <table>
     <tr>
-        <td>
-            <img alt="Kha/Dis map" width="440" height="300" src="/Assets/Maps/erdic_islands.png">
+        <td width="50%">
+            <img alt="Kha/Dis map" height="400" src="/Assets/Maps/erdic_islands.png">
         </td>
-        <td>
-            <img alt="Kaer map" width="150" height="205" src="/Assets/Maps/kaer_early.jpg">
+        <td width="50%">
+            <img alt="Kaer map" height="400" src="/Assets/Maps/kaer_early.jpg">
         </td>
     </tr>
     <tr>
