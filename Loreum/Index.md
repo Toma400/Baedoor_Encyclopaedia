@@ -65,6 +65,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### K
 - [Kaer](Topics/Geography/Baedoor_Continent/Kaer.md)
+- [Kalvhyk](Topics/Nature/Foods/List/Kalvhyk.md)
 - [Kel Desert](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Kel_Desert.md)
 
 ### L

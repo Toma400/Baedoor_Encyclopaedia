@@ -140,7 +140,7 @@ starshifters decided to reveal few their members as emissaries, to communicate w
 share the knowledge.
 
 <span style="color:#0099cc">**OVERVERSE UNIVERSITIES**</span>  
-Oververse concept were known to mages and mystics of Baedoor universes for thousands of years, but
+Oververse concept was known to mages and mystics of Baedoor universes for thousands of years, but
 for huge part of time it was more of a theory, usually split into countless variants and lots of 
 believers arguing about details.  
 This resulted on decision - firstly made by ghlodds - to create some universities focused on studying
