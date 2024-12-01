@@ -2,11 +2,11 @@
 
 <table>
     <tr>
-        <td>
-            <img alt="Disane Map" width="440" height="300" src="/Assets/Maps/erdic_islands.png"/>
+        <td width="50%">
+            <img alt="Disane Map" height="300" src="/Assets/Maps/erdic_islands.png"/>
         </td>
-        <td>
-            <img alt="Disane Map" width="350" height="250" src="/Assets/disane_tes3.png"/>
+        <td width="50%">
+            <img alt="Disane Map" height="300" src="/Assets/disane_tes3.png"/>
         </td>
     </tr>
     <tr>

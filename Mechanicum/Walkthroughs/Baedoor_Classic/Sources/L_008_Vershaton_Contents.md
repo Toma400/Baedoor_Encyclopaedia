@@ -12,7 +12,7 @@
     <tr>
         <td align="center">0</td>
         <td>
-            <img alt="Jitado Archives, Photo 0" height="416" src="/Assets/Sources/L_007_Jitado/arv_jitado_0.jpg" width="280"/>
+            <img alt="Vershaton Archives, Photo 0" width="280" height="416" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_0.jpg"/>
         </td>
     </tr>
 </table>

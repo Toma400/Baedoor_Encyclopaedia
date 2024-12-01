@@ -6,7 +6,7 @@
             <img alt="Kha/Dis map" width="440" height="300" src="/Assets/Maps/erdic_islands.png">
         </td>
         <td>
-            <img alt="Kaer map" width="150" height="205" src="/Assets/Maps/kaer_early.png">
+            <img alt="Kaer map" width="150" height="205" src="/Assets/Maps/kaer_early.jpg">
         </td>
     </tr>
     <tr>

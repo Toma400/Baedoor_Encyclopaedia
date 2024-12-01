@@ -26,25 +26,12 @@
 
 ---
 ### Description
-<!--
-Jitado notebook emerged pretty late in browsing through lore notebooks. It was base on which a lot
-of early BE built its image of Jitado, especially names of towns.  
-It is hard for me to say how many sources supplied this vision, as there are narrative elements that
-are not specifically put in notebook, but I'm unsure whether they came with first analysis of it
-(as background given to establish more information about discovered information, such as I'si cult
-giving purpose to Adelaie) or from some sources I forgot of.
-
-I don't know whether more notebooks on Jitado exist. In those early times I had a tendency to repeat
-myself a lot (thus *Fa desert* is basically in every longer notebook made), and Jitado can have more
-than one notebook showcasing it.  
-In such case, later notebooks would just take place in different area, `L.007` covering Altauar Region.
-
-It is worth noting notebook has precise date on when it started, being 12.08.2008.  
-Every city additionally has date on its own start, showcasing more-less timespan between drawing
-each town.  
-Additionally, we can also see that Jitado was part of Lands game by amount of information seen
-on each screenshots, especially resources for each house. With RPG variant of Baedoor Classic,
-those resource lists were moved to separate notebooks (prefixed by `D` in notebook IDs).-->
+Vershaton is one of the last notebooks that were made for paper version of Baedoor, and I'm honestly
+surprised to see it has so many pages in the first place - I would swear I believed this notebook
+to have only few pages drawn.  
+But it being made so late means that it also is relatively modern in lore depiction. Which is kinda
+true, but also is a monument to the fact that the area had not much actual worldbuilding for itself,
+aside of just general Baedoor. This is changing currently.
 
 ---
 ### Source lore accuracy
