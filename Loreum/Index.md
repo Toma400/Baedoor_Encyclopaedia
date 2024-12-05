@@ -29,6 +29,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Delai Eir](Topics/Characters/List/Delai_Eir.md)
 - [Disane](Topics/Geography/Baedoor_Continent/Kaer/Disane.md)
 - [Disanteldir](Topics/Geography/Baedoor_Continent/Kaer/Cities/Disanteldir.md)
+- [Dvickhet](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Dvickhet.md)
 
 ### E
 - [East Moon](Topics/Geography/Moon_Continent/East_Moon.md)

@@ -6,7 +6,7 @@
 - [Baedoor](Lore/BaeCL_Baedoor.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)
 - [Baedoor Surroundings](Lore/BaeCL_Baedoor_Surroundings.md)
 - [Coonhě Forest](Lore/BaeCL_Coonhě_Forest.md)
-- [Dvickhet](Lore/BaeCL_Dvickhet.md)
+- [Dvickhet](Lore/BaeCL_Dvickhet.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Dvickhet.md)
 - [Fegar County](Lore/BaeCL_Fegar.md)
 - [Ino Anor](Lore/BaeCL_Ino_Anor.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)
 - [Isuga](Lore/BaeCL_Isuga.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md)
