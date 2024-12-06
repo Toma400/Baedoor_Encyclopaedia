@@ -8,6 +8,8 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Abrahk](Topics/Characters/Families/Abrahk.md)
 - [Adelaie](Topics/Geography/Old_Continent/Jitado/Cities/Adelaie.md)
 - [Alkaesar](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Alkaesar.md) (city)
+- [Allaut, Eduard](Topics/Characters/List/Eduard_Allaut.md)
+- [Allaut, Isehir](Topics/Characters/List/Isehir_Allaut.md)
 - [Altauar](Topics/Geography/Old_Continent/Jitado/Regions/Altauar.md) (region)
 - [Ansur](Topics/Geography/Moon_Continent/East_Moon/Ansur.md)
 - [Ansur Thieves Guild](Topics/Guilds/List/Ansur_Thieves_Guild.md)
@@ -32,8 +34,10 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Dvickhet](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Dvickhet.md)
 
 ### E
+- [Eduard Allaut](Topics/Characters/List/Eduard_Allaut.md)
 - [East Moon](Topics/Geography/Moon_Continent/East_Moon.md)
 - [Eir, Delai](Topics/Characters/List/Delai_Eir.md)
+- [Eiron, Zan](Topics/Characters/List/Zan_Eiron.md)
 - [Enahr, Esh](Topics/Characters/List/Esh_Enahr.md)
 - [Enfrvein](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
 - [Esh Enahr](Topics/Characters/List/Esh_Enahr.md)
@@ -59,11 +63,13 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [I'si](Topics/Religions/Small/Temple_of_I'si.md) (Temple of I'si)
 - [Indan](Topics/Characters/Families/Indan.md)
 - [Ino Anor](Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)
+- [Isehir Allaut](Topics/Characters/List/Isehir_Allaut.md)
 - [Isuga](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md)
 
 ### J
 - [Jaspen](Topics/Nature/Herbarium/List/Jaspen.md)
 - [Jitado](Topics/Geography/Old_Continent/Jitado.md) (island)
+- [Joeseh Thon](Topics/Characters/List/Joeseh_Thon.md)
 
 ### K
 - [Kaer](Topics/Geography/Baedoor_Continent/Kaer.md)
@@ -109,6 +115,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### T
 - [Temple of I'si](Topics/Religions/Small/Temple_of_I'si.md)
 - [Tertens](Topics/Races/Spirit/Terten.md)
+- [Thon, Joeseh](Topics/Characters/List/Joeseh_Thon.md)
 - [Tom Varteford](Topics/Characters/List/Tom_Varteford.md)
 - [Tom Varteford's Plantation](Topics/Geography/Baedoor_Continent/Baedoor/Places/Tom_Varteford_Plantation.md)
 - [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
@@ -131,3 +138,6 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### X
 - [Xaine](Topics/Characters/List/Xaine.md)
 - [Xavier](Topics/Characters/Families/Xavier.md)
+
+### Z
+- [Zan Eiron](Topics/Characters/List/Zan_Eiron.md)

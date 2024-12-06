@@ -22,12 +22,18 @@ Baedoor:
 
 Dvickhet:
 #### 🔹 [Warthog](Families/Warthog.md)
+#### 🔹 Thargav
+#### 🔹 Maen
 
 Isuga:
+#### 🔹 Allaut
 #### 🔹 [Kono](Families/Kono.md)
 #### 🔹 Neerhe
 #### 🔹 Vertilli
 #### 🔹 [Warthog](Families/Warthog.md)
+
+Ontero:
+#### 🔹 Thon
 
 Quarius:
 #### 🔹 Deom
