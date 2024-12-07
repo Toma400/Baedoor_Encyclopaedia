@@ -4,8 +4,9 @@
 <span style="color:#107C23">**cities**</span> [✦](/Loreum/Tags.md#-cities)  
 
 ---
-**Baedoor** is capital city of **East Baedoor** and was so by whole time after baedoorians conquered
-whole Baedoor island. Over the time, it became highly separated by districts.
+**Baedoor** (also known as **Old Baedoor** in NE) is capital city of **East Baedoor** and was so by 
+whole time after baedoorians conquered whole Baedoor island. Over time, it became highly separated
+by districts.
 
 - [History](Baedoor.md#-history)
 - [Districts](Baedoor.md#-districts)

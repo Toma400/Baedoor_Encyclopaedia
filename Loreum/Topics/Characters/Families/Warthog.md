@@ -1,10 +1,15 @@
 # 🎎 Warthog Family
 
-**Warthog** is nomatho-baedoorian family living in Baedoor and Dvickhet, and having small appearance 
-in Isuga.  
+**Warthog** is nomatho-baedoorian family living in [Baedoor](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)
+and [Dvickhet](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Dvickhet.md), and having
+small appearance in [Isuga](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md).  
 Their origins date back to the time of nomathian rule of the Island, occupying entirety of western 
-and southern coast.
+and southern coast.  
+The family rule over Dvickhet for entirety of being baedoorian family, though their influence varied.
+Warthog's main focus is on weapon production and industries using metals and stone. This made them
+both connected to [Ettua family](Ettua.md) and their rivals. 
 
+### History
 During the conquest of nation to later become baedoorians, Warthog as one of few nomathian families 
 decided to abase themselves, letting them be part of newly building society.  
 Unlike other families though, they didn't descend into slow decay, but rather embraced their new role 
@@ -111,12 +116,13 @@ Empire in 928 OE. As much of celebrative moment it was, that was only a temporar
 Liberation sentiments were still strong among saphtris, making the victory insufficient to keep proper 
 control over the country.  
 Iilvinim decided to separate part of the army to exclusively keep an order on that desert land, 
-called Desert Divisions. This basically made Arennan a Baedoor army training ground.
-Even though in a way effective, baedoorian forces were a constant target of various guerilla groups. 
-And while official government stance was against those actions, it was an open secret that a lot of 
-political bodies supported the liberation forces one way or another.  
-Warthog eventually agrees with Desert Division mayor on what will be his last nail to the grave - a 
-slaughter of Circle of Blood Swords, group known for their vocal resistance.
+called [Desert Divisions](/Loreum/Topics/Guilds/List/Desert_Divisions.md).
+This basically made Arennan a Baedoor army training ground. Even though in a way effective, 
+baedoorian forces were a constant target of various guerilla groups. And while official government 
+stance was against those actions, it was an open secret that a lot of political bodies supported 
+the liberation forces one way or another.  
+Warthog eventually agrees with Desert Divisions general on what will be his last nail to the grave - a 
+slaughter of **Circle of Blood Swords**, group known for their vocal resistance.
 While it was meant to awake fear in oppositional forces, it radicalised them even further, including 
 enforcing their support among local communities.
 

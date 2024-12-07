@@ -29,6 +29,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### D
 - [Dawn Tear](Topics/Nature/Herbarium/List/Dawn_Tear.md)
 - [Delai Eir](Topics/Characters/List/Delai_Eir.md)
+- [Desert Divisions](Topics/Guilds/List/Desert_Divisions.md)
 - [Disane](Topics/Geography/Baedoor_Continent/Kaer/Disane.md)
 - [Disanteldir](Topics/Geography/Baedoor_Continent/Kaer/Cities/Disanteldir.md)
 - [Dvickhet](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Dvickhet.md)
@@ -94,6 +95,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Nyme](Topics/Geography/Moon_Continent/East_Moon/Cities/Nyme.md)
 
 ### O
+- [Old Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md) (city)
 - [Old Continent](Topics/Geography/Old_Continent.md)
 - [Order of the Sword](Topics/Guilds/List/Order_of_the_Sword.md)
 - [Ormaths](Topics/Races/Regular/Ormaths.md)
@@ -121,12 +123,15 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
 
 ### U
+- [Unteupta](Topics/Cultures/[Vehicles]/List/Unteupta.md)
+- [Unteupta Assassination](Topics/History/List/Unteupta_Assassination.md)
 - [Uruati](Topics/Races/Creature/Uruati.md)
 
 ### V
 - [Vaerdena](Topics/Geography/Moon_Continent/East_Moon/Lands/Vaerdena.md)
 - [Varteford](Topics/Characters/Families/Varteford.md)
 - [Varteford, Tom](Topics/Characters/List/Tom_Varteford.md)
+- [Veno Edran](Topics/Cultures/[Vehicles]/List/Veno_Edran.md)
 - [Vulcanic Veil](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
 
 ### W

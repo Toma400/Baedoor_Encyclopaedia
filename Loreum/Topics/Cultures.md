@@ -4,7 +4,11 @@
 |:-----------------------------------------------------------------------------------------------------------:|
 |                           Map of Baedoor universe cultures and their interactions                           |
 
+## Categories
+- [Cultural Topics](#cultural-topics)
+- [Ships & Other Vehicles](#ships--other-vehicles)
 
+## Cultural Topics
 This section lists all cultures existing in Baedoor universe, sorted by continents.
 
 Use miniatures to quickly jump to section you want.
@@ -32,6 +36,9 @@ LEGEND:
 
 ### Seiteh
 - Ghlodds 🔹 [🏯](Cultures/Ghlodds/Architecture.md) [⚗️](Cultures/Ghlodds/Technologies.md)
+
+## Ships & Other Vehicles
+- [Baedoorian Vehicles](Cultures/[Vehicles]/Baedoorian_Vehicles.md)
 
 ---
 ♜
