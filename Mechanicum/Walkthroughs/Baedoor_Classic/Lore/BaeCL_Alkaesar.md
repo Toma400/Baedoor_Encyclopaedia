@@ -4,7 +4,7 @@
 **🪔 Baedoor** (2008)
 
 ---
-### Baedoor City Showcase
+### Alkaesar City Showcase
 
 <table>
   <!--PHOTO 1-->
@@ -55,6 +55,79 @@
       owner is named Frodo here, exactly as in case of Baedoor city notebook.<br>
       That panel also shows buildings as pueblo-like houses, so it doesn't follow that closely
       modern planning for architecture.
+    </td>
+  </tr>
+
+  <!--PHOTO 4-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo 4" width="416" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_4.jpg"/></td>
+    <th align="centre">Smith House</th>
+  </tr>
+  <tr>
+    <td>
+      The panel continues the street from previous one, and showcases smith house. Aside of criticism
+      I had previously, this is just a regular page with some house and few citizens - including
+      wandering trader, Miguel. I believe the guy could show up after being in Baedoor City notebook?
+      So it kinda nudges the same point of reusing names, and Harald is also very easily visible
+      reference to Harold, which I believe is nordic name, thus related to smith profession.
+    </td>
+  </tr>
+
+  <!--PHOTO 5-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo 5" width="416" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_5.jpg"/></td>
+    <th align="centre">Ending of Port Street</th>
+  </tr>
+  <tr>
+    <td>
+      This is the last page showcasing port street, with single house and signpost saying "main street".
+      As we will see on next panel, to get to next street you will need to come through some tunnel.<br>
+      This panel however showcases a bit more misconception than the pueblo, as it shows the statue
+      that references Moon civilisations - common element of Baedoor lore that existed during drawing
+      notebooks, but which didn't stand test of time. So no such statues should exist, instead some
+      heroes, rulers or religious figures could be used.
+    </td>
+  </tr>
+
+  <!--PHOTO 6-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo 6" width="416" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_6.jpg"/></td>
+    <th align="centre">A Passage</th>
+  </tr>
+  <tr>
+    <td>
+      This panel showcases interesting thing that I think should be partially introduced if we ever
+      come to this city in any artistic medium. It shows underground passage which let people go
+      from one street to the other, with even some utility objects such as lights and benches.<br>
+      While I think the idea of covered passage is great, I don't think it should be translated exactly
+      that way into lore. There are plenty of areas in lore that already use underground trope (such
+      as ghlodds or Ino Anor) and it is very likely this will be common in many areas. So limiting
+      ourselves is sensible, especially as there's no good excuse for bringing this 1:1, as it would
+      require some sort of mountain overlapping with the city.<br>
+      That said, I want to bring it in other form - my two ideas are:
+      <ul>
+        <li>
+          Understreet Passage - similar to what I made once in Minecraft server, would be a street
+          under another street, filled with shops and be quite cosy. The general land level would
+          be similar to photo, but the upper level would be just street going above.
+        </li>
+        <li>
+          Passage Through Massive Building - it would be kinda a street through lower levels of
+          the building, while the upper ones would be part of big monument. Think of it as ancient
+          shopping centre.
+        </li>
+      </ul>
+    </td>
+  </tr>
+
+  <!--PHOTO ...-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo ..." width="416" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_[...].jpg"/></td>
+    <th align="centre">...</th>
+  </tr>
+  <tr>
+    <td>
+      ...
     </td>
   </tr>
 </table>
