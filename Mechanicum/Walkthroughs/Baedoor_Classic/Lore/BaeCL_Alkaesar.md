@@ -18,7 +18,43 @@
       Baedoor map didn't show this detail. But, other than that the photo showcases perfectly correct
       scene: the building looks fairly fitting the Baedoor culture (and considering Alkaesar being
       border town, it could fit, especially in earlier OE times). The fisherman's name is great and
-      fills perfect spot in name list, with potential nomathian influences.
+      fills perfect spot in name list, with potential nomathian influences.<br>
+      Additionally, the panel has side-road to Alkaesar's station, where player could take a train.
+      Its directions and times of leaving are weird, but I think in context of lore this would just
+      be that main railroad across whole Baedoor island.
+    </td>
+  </tr>
+
+  <!--PHOTO 2-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo 2" width="416" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_2.jpg"/></td>
+    <th align="centre">Trader House</th>
+  </tr>
+  <tr>
+    <td>
+      This panel shows house of local trader, Irlangor.<br>
+      I think this panel is one of the best depictions of Alkaesar, showing the old building style
+      that could appear here, while also giving some lush character to the area.
+      On topic of names - I don't actually know if Irlangor is male or female name, the depiction
+      also doesn't clarify that much, so I made it gender-neutral. Ralph name is scrapped.
+    </td>
+  </tr>
+
+  <!--PHOTO 3-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo 3" width="416" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_3.jpg"/></td>
+    <th align="centre">Golden Barrel Inn & Post Office</th>
+  </tr>
+  <tr>
+    <td>
+      Still considered as part of the port (at least considering it being one street), this panel
+      shows Golden Barrel Inn and post office. Player could visit the inn, sleep in there, do the
+      quest for the owner or get more information. Post office allowed player to send mail or package,
+      as well as use telegraph.<br>
+      Lore-wise, only inn has any names and it shows how I tend to overuse certain names, as inn's
+      owner is named Frodo here, exactly as in case of Baedoor city notebook.<br>
+      That panel also shows buildings as pueblo-like houses, so it doesn't follow that closely
+      modern planning for architecture.
     </td>
   </tr>
 </table>

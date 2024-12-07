@@ -8,7 +8,7 @@
 settlements built in this region.
 
 ### PLACES
-...
+- Golden Barrel Inn
 
 ---
 📿 [Baedoor Classic](/Mechanicum/Walkthroughs/Baedoor_Classic/Lore/BaeCL_Alkaesar.md)

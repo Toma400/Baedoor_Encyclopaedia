@@ -39,6 +39,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Devako   | East Baedoor                  | Rare name in early Old Era, with foreign origin (possibly mesinpean Devah) |
 | Dominic  | Whole Baedoor                 | Common name                                                                |
 | Eduard   | Whole Baedoor                 | Semi-common name                                                           |
+| Engar    | Whole Baedoor                 | Common name originating from Jitado                                        |
 | Entar    | Whole Baedoor                 | Common name originating from Jitado                                        |
 | Entor    | Whole Baedoor                 | Baedoorised variant of *Entar*                                             |
 | Evilar   | Whole Baedoor                 | More popular variant of *Evilir*                                           |
@@ -61,6 +62,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Iilvinim | East Baedoor                  | Semi-rare name                                                             |
 | Indion   | Whole Baedoor                 | Rare name originating from Jitado                                          |
 | Invari   | East Baedoor                  | Rare name of jitadian origin                                               |
+| Irlangor | East Baedoor                  | Rare name of jitadian origin, with more feminine form *Irlanda*            |
 | Isehir   | Whole Baedoor                 | Rare name, probably mix of baedoorian Isen and nomathian influences        |
 | Isen     | Whole Baedoor                 | Semi-common name of jitadian origin                                        |
 | Iser     | East Baedoor                  | Rare name, probably nomathian influenced variant of Isen                   |
@@ -97,6 +99,8 @@ or just if you would like to look at cultural differences between civilisations.
 | Ferves   | Whole Baedoor | Rare name                                                                                     |
 | Florat   | East Baedoor  | Nomathian-influenced form of *Lorat*                                                          |
 | Hanyah   | East Baedoor  | Rare name                                                                                     |
+| Irlanda  | East Baedoor  | Rare name of jitadian origin, more feminine form of *Irlangor*                                |
+| Irlangor | East Baedoor  | Rare name of jitadian origin                                                                  |
 | Isena    | Whole Baedoor | Rare name, female variant of *Isen* with slight difference from jitadian origin               |
 | Lorat    | Whole Baedoor | Commonly used in Old Era, in New Era mostly seen in aristocratic families. Of jitadian origin |
 | Nyvera   | Whole Baedoor | Rare name of jitaditan origin, with Nyver as male counterpart                                 |
@@ -122,6 +126,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Eidin      | Jitado       | Rare name, common in Pre-Era, gender-neutral                           |
 | Eiriald    | Jitado       | Rare name of slightly foreign feel                                     |
 | Eixtijn    | Jitado       | Extremely rare name of foreign origin, possibly from Eimr or Mes Inpea |
+| Engar      | Jitado       | Common name                                                            |
 | Entar      | Jitado       | Common name                                                            |
 | Euve       | Jitado       | Semi-rare name                                                         |
 | Frank      | Jitado       | Probably of foreign origin                                             | 
@@ -132,6 +137,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Ilvis      | Jitado       | Semi-rare name, is gender-neutral                                      |
 | Indion     | Jitado       | Rare name originating from jitadean language                           |
 | Invari     | Jitado       | Rare name of north and middle parts of Jitado                          |
+| Irlangor   | Jitado       | Common name, more feminine form of *Irlandia*                          |
 | Isen       | Jitado       | Common name                                                            |
 | Isou       | Jitado       | Common name                                                            |
 | Ixrilidas  | Jitado       | Rare name with a bit of foreign feel                                   |
@@ -166,29 +172,31 @@ or just if you would like to look at cultural differences between civilisations.
 
 <center><span style="color:#668c99"><b>Female names</b></span></center>
 
-| Name   | Localisation | Description                                     |
-|--------|--------------|-------------------------------------------------|
-| Alaia  | Jitado       | Semi-common name, more popular variant of Aiala |
-| Aloia  | Jitado       | Semi-common name, variant of Alaia              |
-| Aiala  | Jitado       | Semi-rare name, female variant of *Aial*        |
-| Athe   | Jitado       | Rare name                                       |
-| Bedeia | Jitado       | Female variant of *Bedein*                      |
-| Cria   | Jitado       | Rare female variant of *Cryan*                  |
-| Eida   | Jitado       | Rare name, more feminine variant of *Eidin*     |
-| Eidia  | Jitado       | Rare name, more feminine variant of *Eidin*     |
-| Eidin  | Jitado       | Rare name, common in Pre-Era, gender-neutral    |
-| Ilin   | Jitado       | Semi-common gender-neutral name                 |
-| Ilvis  | Jitado       | Semi-rare name, is gender neutral               |
-| Isenia | Jitado       | Common name, female variant of *Isen*           |
-| Lorat  | Jitado       | Common name                                     |
-| Natemi | Jitado       | Common name, female counterpart of Natem        |
-| Nyvera | Jitado       | Rare name, female counterpart of Nyver          |
-| Salvi  | Jitado       | Common name                                     |
-| Sana   | Jitado       | Common name                                     |
-| Sanae  | Jitado       | Common name, variant of *Sana*                  |
-| Sina   | Jitado       | Rare name, female counterpart of Sin            |
-| Sunu   | Jitado       | Rare name                                       |
-| Uni    | Jitado       | Semi-rare name                                  |
+| Name     | Localisation | Description                                      |
+|----------|--------------|--------------------------------------------------|
+| Alaia    | Jitado       | Semi-common name, more popular variant of Aiala  |
+| Aloia    | Jitado       | Semi-common name, variant of Alaia               |
+| Aiala    | Jitado       | Semi-rare name, female variant of *Aial*         |
+| Athe     | Jitado       | Rare name                                        |
+| Bedeia   | Jitado       | Female variant of *Bedein*                       |
+| Cria     | Jitado       | Rare female variant of *Cryan*                   |
+| Eida     | Jitado       | Rare name, more feminine variant of *Eidin*      |
+| Eidia    | Jitado       | Rare name, more feminine variant of *Eidin*      |
+| Eidin    | Jitado       | Rare name, common in Pre-Era, gender-neutral     |
+| Ilin     | Jitado       | Semi-common gender-neutral name                  |
+| Ilvis    | Jitado       | Semi-rare name, is gender neutral                |
+| Irlandia | Jitado       | Semi-rare name, more feminine form of *Irlangor* |
+| Irlangor | Jitado       | Semi-common name                                 |                                       
+| Isenia   | Jitado       | Common name, female variant of *Isen*            |
+| Lorat    | Jitado       | Common name                                      |
+| Natemi   | Jitado       | Common name, female counterpart of Natem         |
+| Nyvera   | Jitado       | Rare name, female counterpart of Nyver           |
+| Salvi    | Jitado       | Common name                                      |
+| Sana     | Jitado       | Common name                                      |
+| Sanae    | Jitado       | Common name, variant of *Sana*                   |
+| Sina     | Jitado       | Rare name, female counterpart of Sin             |
+| Sunu     | Jitado       | Rare name                                        |
+| Uni      | Jitado       | Semi-rare name                                   |
 
 ---
 ### Mesinpean Names
