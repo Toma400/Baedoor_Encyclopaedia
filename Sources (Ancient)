@@ -28,7 +28,7 @@ L.007:Jitado
 
 ========================================================================
 RESERVED NUMBERS:
-[*] - has respective "D" variant
+[*] - has respective "D" variant; use [**] for archived data notebook
 
 L:
     - 001 - Baedoor [*]
@@ -38,7 +38,7 @@ L:
     - 005 - Mrra
     - 006 - WesternWald/Kaer [*]
     - 007 - Jitado
-    - 008 - Vershaton
+    - 008 - Vershaton [*]
     - 009 -
     - 010 - Egypt Colony
     - 011 - Forewind [*]

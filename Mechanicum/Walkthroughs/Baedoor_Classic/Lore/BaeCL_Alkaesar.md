@@ -120,6 +120,101 @@
     </td>
   </tr>
 
+  <!--PHOTO 7-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo 7" width="416" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_7.jpg"/></td>
+    <th align="centre">Vinery</th>
+  </tr>
+  <tr>
+    <td>
+      Beginning of main street greets us with vinery, maintained (and possibly owned?) by Rosvin. 
+      I think the idea of having vinery may need second thought whether it would be workable within
+      that environment, but otherwise it is very neat place. In notebook, Rosvin can also give you
+      a job where you would gather grapes.<br>
+      The second house here has not much information on the page alone, but in data notebook the
+      information we gather is that the guy is Corros in Karos. It sounds like weird, baedoorised
+      form of original name of the capital. From the talk we also can understand that he really loves
+      wine (and asks us to get five bottles from Rosvin) and books. Actually the whole discussion is
+      a bit hilarious, because he asks us if we like reading first, and if we agree, he agrees to let
+      us freely read all his books in exchange for the bottles.<br>
+      Lore-wise, I'd say Jarth feels nomathian, so we could maybe imagine his parents were nomathians
+      who settled in Karos, but named their child in baedoorised character? The guy brings the fact
+      that his family was poor, so it could work that he spent a lot of his time earning the money
+      and travelling, thus making his way to Alkaesar which is crazy far from Karos.
+    </td>
+  </tr>
+
+  <!--PHOTO 8-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo 8" width="416" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_8.jpg"/></td>
+    <th align="centre">Alchemist's House</th>
+  </tr>
+  <tr>
+    <td>
+      While the main street ends weirdly fast, there's a neat hill starting in this panel that shows
+      Alkaesar as town built on uneven terrain - proving that there's a lot of potential to build
+      within this theme. The photo showcases house of local alchemist, Dorin, who has her own garden
+      for various plants. Near the tree, there is a person who turns out to be a thief. In data
+      notebook, he gives you a quest to steal one of Dorin's recipes.<br>
+      Opot's name is ridiculous, so I'd scrap it. Dorin is quite the opposite, as it lands perfectly
+      where it should.
+    </td>
+  </tr>
+
+  <!--PHOTO 9-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo 9" width="416" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_9.jpg"/></td>
+    <th align="centre">Governor's Manor</th>
+  </tr>
+  <tr>
+    <td>
+      On the hill we can see governor's manor. It has quite a lot of guards and be weirdly fortified,
+      but aside of those details, it shows major administrative point of the town.<br>
+      With current planning of Baedoor state, existing of governor could work out only if it would
+      follow similar character to Baedoor's king - where governor is elected or hereditary from one
+      of town's families. This however may be still precised more precisely in future planning, giving
+      answer on how much will be taken from this panel. That said, one thing it tells us is that
+      at one point someone with name of Norvin was important person for the city.<br>
+      Name survey: Norvin and Facon are great. Changes to others:<br>
+      <ul>
+        <li>
+          <b>Fred -> Frem</b>
+        </li>
+        <li>
+          <b>Gop -> Goni</b><br>Since that person has a helmet, let's make it a female name to equal them a bit
+        </li>
+        <li>
+          <b>Nick -> Nim</b>
+        </li>
+        <li>
+          <b>Garguin -> Argin</b>
+        </li>
+      </ul>
+    </td>
+  </tr>
+
+  <!--PHOTO 10-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo 10" width="416" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_10.jpg"/></td>
+    <th align="centre">Artisan Street</th>
+  </tr>
+  <tr>
+    <td>
+      While formally still part of main street, I think in real town planning this would at least
+      be separated from other areas by the fact we had whole manor in between.<br>
+      The panel shows very artisan-centered area, with guild of adventurers taking first spot.
+      It has Brutus, who claims to be mesinpean and be cofounder of the guild together with Sulth
+      (whose name feels a bit nomathian). Which could mean that the whole existence of the guild
+      can be tied to the timespan when the notebook is taking place.<br>
+      The next two houses are shops of shoemaker and woodsman - existence of the latter is a bit
+      surprising given the region. The woodsman has also difficult name case, since land notebook
+      and data notebook have different names for him (or one is written badly). So I will include
+      both Eretus and Enetus. Both have <code>-us</code> that kinda gives me thinking if this wouldn't
+      be a district of some mesinpean minority? Since nothing is said about this person's origin, I
+      will also make those names follow the pattern.
+    </td>
+  </tr>
+
   <!--PHOTO ...-->
   <tr>
     <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo ..." width="416" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_[...].jpg"/></td>
