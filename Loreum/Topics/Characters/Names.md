@@ -228,6 +228,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Devah  | Mes Inpea         | Common name (has also female form)                                      |
 | Iner   | Mes Inpea         | Common name                                                             |
 | Ineald | Outside Mes Inpea | Rare name with jitadean/baedoorian influences, possibly Iner derivation |
+| Sul    | Mes Inpea         | Semi-rare name                                                          |
 
 <center><span style="color:#668c99"><b>Female names</b></span></center>
 

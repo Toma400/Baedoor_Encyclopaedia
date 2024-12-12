@@ -204,8 +204,8 @@
       be separated from other areas by the fact we had whole manor in between.<br>
       The panel shows very artisan-centered area, with guild of adventurers taking first spot.
       It has Brutus, who claims to be mesinpean and be cofounder of the guild together with Sulth
-      (whose name feels a bit nomathian). Which could mean that the whole existence of the guild
-      can be tied to the timespan when the notebook is taking place.<br>
+      (whose name feels a bit nomathian, so I'd rename him to Sul). Which could mean that the whole
+      existence of the guild can be tied to the timespan when the notebook is taking place.<br>
       The next two houses are shops of shoemaker and woodsman - existence of the latter is a bit
       surprising given the region. The woodsman has also difficult name case, since land notebook
       and data notebook have different names for him (or one is written badly). So I will include

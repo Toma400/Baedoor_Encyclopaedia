@@ -1,16 +1,18 @@
 # 💮 Goblins
 
 <table>
-    <tr><td>
-        <img src="/Assets/goblins_distribution.png" height="700px">
-    </td></tr>
-    <tr><td>
-        Map of distribution of goblins across Baedoor continent. Here's the legend:<br>
-        🟪 - goblins still live there<br>
-        🟨 - goblins can be found rarely/in small groups there<br>
-        🟥 - goblins existed there, but were wiped out by baedoorians/migrated<br>
-        ⬜ - no goblins
-    </td></tr>
+    <tr>
+        <td>
+            <img src="/Assets/goblins_distribution.png" height="500px">
+        </td>
+        <td>
+            Map of distribution of goblins across Baedoor continent. Here's the legend:<br>
+            🟪 - goblins still live there<br>
+            🟨 - goblins can be found rarely/in small groups there<br>
+            🟥 - goblins existed there, but were wiped out by baedoorians/migrated<br>
+            ⬜ - no goblins
+        </td>
+    </tr>
 </table>
 
 Goblins are creature race inhabiting [Baedoor continent](/Loreum/Topics/Geography/Baedoor_Continent.md),

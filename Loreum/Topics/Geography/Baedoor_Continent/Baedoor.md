@@ -7,16 +7,15 @@ Rakonnd Coast and Vershaton.
 Since beginnings of Old Era, it got conquered by baedoorians. It also was operating place of
 **Baedoor Empire**, and after its fall, it is now main part of **East Baedoor**.
 
-### TOWNS
+### CITIES
 #### Baedoor Region
 - [Baedoor](Baedoor/Cities/Baedoor.md)
 - [Isuga](Baedoor/Cities/Isuga.md)
 - Dvickhet `v`
 - Sargin `v`
-- Qarius `?: Quarius`
+- Quarius
 - Ontero `v`
 - Fressi `v`
-- Kelvos `v`
 
 #### Rakonnd Coast
 - [Skirran](Baedoor/Cities/Skirran.md)
@@ -26,6 +25,11 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Nejir `x: Nasig (bae-nomathian)`
 - Pervesi `v`
 - Thanbyan `v (bae-nomathian)`
+
+### TOWNS
+#### Baedoor Region
+- [Fegar](Baedoor/Cities/Fegar.md)
+- Kelvos `v`
 
 ### VILLAGES
 #### Baedoor

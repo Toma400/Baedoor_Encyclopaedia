@@ -18,6 +18,7 @@ If this section becomes too big, it can be split into linked sections in the fut
 * [Disanteldir](Topics/Geography/Baedoor_Continent/Kaer/Cities/Disanteldir.md)
 * [Dvickhet](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Dvickhet.md)
 * [Evros](Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)
+* [Fegar](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Fegar.md)
 * [Ino Anor](Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)
 * [Isuga](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md)
 * [Menerun](Topics/Geography/Old_Continent/Jitado/Cities/Menerun.md)
