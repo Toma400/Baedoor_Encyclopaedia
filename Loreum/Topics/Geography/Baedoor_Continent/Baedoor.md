@@ -22,7 +22,7 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - [Skirran](Baedoor/Cities/Skirran.md)
 
 #### Vershaton
-- Alkaesar
+- [Alkaesar](Baedoor/Cities/Alkaesar.md)
 - Nejir `x: Nasig (bae-nomathian)`
 - Pervesi `v`
 - Thanbyan `v (bae-nomathian)`

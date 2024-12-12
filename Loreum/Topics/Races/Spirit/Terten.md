@@ -28,4 +28,5 @@ no longer bond them to the physical world limitations.
 - [Haunted Wanderer](/Loreum/Topics/Nature/Bestiary/List/Haunted_Wanderer.md)
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [💮](/Loreum/Topics/Races.md)

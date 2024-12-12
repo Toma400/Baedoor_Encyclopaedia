@@ -8,6 +8,7 @@ may also visit [cultures page](Cultures.md).
 ####   🔹 [Ormaths](Races/Regular/Ormaths.md)
 
 ### Creature races
+####   🔹 [Goblins](Races/Creature/Goblins.md)
 ####   🔹 [Uruati](Races/Creature/Uruati.md)
 
 ### Spiritual races

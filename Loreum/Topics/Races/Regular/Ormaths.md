@@ -34,4 +34,5 @@ main ormath's religious pillar.
 - Ormaths' clans
 
 ---
-✥: Arennan & other things, but also - and mostly - those connections listed below
+✥: Arennan & other things, but also - and mostly - those connections listed below  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [💮](/Loreum/Topics/Races.md)

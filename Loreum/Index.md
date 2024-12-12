@@ -53,6 +53,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### G
 - [Ghlodds](Topics/Races/Regular/Ghlodds.md)
+- [Goblins](Topics/Races/Creature/Goblins.md)
 - [Golden Lighthouse of Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
 
 ### H

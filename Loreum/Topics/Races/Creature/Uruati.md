@@ -5,4 +5,5 @@
 Uruati are ape-like creatures living on [Ape Isles].
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [💮](/Loreum/Topics/Races.md)

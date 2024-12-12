@@ -57,4 +57,5 @@ are said to be used in science and art, being gift from ghloddish gods to the mo
 - Ghlodds' beliefs
 
 ---
-✥
+✥  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [💮](/Loreum/Topics/Races.md)

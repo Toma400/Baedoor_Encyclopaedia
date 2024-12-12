@@ -135,8 +135,8 @@
       information we gather is that the guy is Corros in Karos. It sounds like weird, baedoorised
       form of original name of the capital. From the talk we also can understand that he really loves
       wine (and asks us to get five bottles from Rosvin) and books. Actually the whole discussion is
-      a bit hilarious, because he asks us if we like reading first, and if we agree, he agrees to let
-      us freely read all his books in exchange for the bottles.<br>
+      a bit hilarious, because he asks us if we like reading first, and if we agree, he lets us
+      freely read all his books in exchange for the bottles.<br>
       Lore-wise, I'd say Jarth feels nomathian, so we could maybe imagine his parents were nomathians
       who settled in Karos, but named their child in baedoorised character? The guy brings the fact
       that his family was poor, so it could work that he spent a lot of his time earning the money
