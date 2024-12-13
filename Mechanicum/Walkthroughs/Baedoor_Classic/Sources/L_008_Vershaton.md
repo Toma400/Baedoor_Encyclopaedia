@@ -48,9 +48,6 @@ My nitpicks are related primarily to architecture, with minor ones towards names
   exclude `L.008` which also used this trope; current planning has very different idea on
   Vershaton building style
   - That said, town of Radpat surprisingly follows much better (though simplified) depiction
-- There is very little reason why there would be goblin tribe, even if we would consider their
-  habitat to be broader than Kaer; some creature race residing on Vershaton could work, even
-  being similar to goblins, but they would probably live further inland
 - Names used across the notebook seem random, so they should be filtered through conlang lens
 
 ---
