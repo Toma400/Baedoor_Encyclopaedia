@@ -63,6 +63,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Hastings | East Baedoor                  | Variant of *Hasting* name                                                  |
 | Heim     | Whole Baedoor                 | Common name, originated from Baedoor Northern Coast                        | 
 | Heimlig  | Ansur, Baedoor Northern Coast | Probably mix of **Heim** and nordwinian suffix                             |
+| Hem      | Whole Baedoor                 | Semi-common name, started appearing in NE; possibly evolution of Heim      |
 | Hrevir   | Whole Baedoor                 | Common name used both in Old and New Era                                   |
 | Iilvinim | East Baedoor                  | Semi-rare name                                                             |
 | Indion   | Whole Baedoor                 | Rare name originating from Jitado                                          |
@@ -77,6 +78,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Joeseh   | East Baedoor                  | Rare name of jitadian origin                                               |
 | Kin      | Whole Baedoor                 | Semi-rare name                                                             |
 | Kirs     | East Baedoor                  | Rare name of possibly nomath origin                                        |
+| Lovrem   | East Baedoor                  | Semi-common name                                                           |
 | Malcolm  | Whole Baedoor                 | Semi-rare name                                                             |
 | Marvin   | Whole Baedoor                 | Common name                                                                |
 | Mes      | East Baedoor                  | Rare name                                                                  |
@@ -114,6 +116,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Ferves   | Whole Baedoor | Rare name                                                                                     |
 | Florat   | East Baedoor  | Nomathian-influenced form of *Lorat*                                                          |
 | Hanyah   | East Baedoor  | Rare name                                                                                     |
+| Idris    | East Baedoor  | Semi-common name                                                                              |
 | Irlanda  | East Baedoor  | Rare name of jitadian origin, more feminine form of *Irlangor*                                |
 | Irlangor | East Baedoor  | Rare name of jitadian origin                                                                  |
 | Isena    | Whole Baedoor | Rare name, female variant of *Isen* with slight difference from jitadian origin               |
@@ -225,6 +228,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Brutus | Mes Inpea         | Semi-common name                                                        |
 | Enetus | Mes Inpea         | Semi-common name                                                        |
 | Eretus | Mes Inpea         | Semi-common name                                                        |
+| Fleon  | Mes Inpea         | Semi-common name                                                        |
 | Devah  | Mes Inpea         | Common name (has also female form)                                      |
 | Iner   | Mes Inpea         | Common name                                                             |
 | Ineald | Outside Mes Inpea | Rare name with jitadean/baedoorian influences, possibly Iner derivation |
@@ -326,6 +330,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Itahmutsi | Jitado                 | Very rare surname, from Adelaie                     |
 | Sorevo    | Jitado, Ansur, Baedoor | Popular surname, quite popular in Baedoor diasporas | 
 | Tio       | Jitado                 | Old jitadian surname                                |
+| Vantasi   | Jitado, Baedoor        | Semi-rare surname                                   |
 
 ### Nomathian Surnames
 | Name    | Localisation                                 | Description          |

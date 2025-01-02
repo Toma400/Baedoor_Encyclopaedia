@@ -22,4 +22,5 @@ Radpat's guild was bought much earlier after its owner's death.
 
 ---
 ♜✥: when was it founded? see sources on the guild and try to get date fitting whole story  
+If possible also include names of founders (Sul, Brutus - Alkaesar; Fleon - Radpat)  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Guilds.md)

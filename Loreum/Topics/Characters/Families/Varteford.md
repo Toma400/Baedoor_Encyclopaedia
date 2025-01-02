@@ -2,7 +2,7 @@
 
 Varteford family is one of older aristocratic families of [Baedoor city](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md),
 known for their dedication to virtues of diplomacy and trade-based growth.  
-Varteford came into power at the very end of Old Era, with [Tom Varteford](/Loreum/Topics/Characters/List/Tom_Varteford.md)
+Varteford came into power at the very end of Old Era, with [Tom Varteford](/Loreum/Topics/Characters/List/Varteford_Tom.md)
 being the only king related. This time not only made Varteford's ties with [Abrahk family](Abrahk.md)
 much closer, but also engaged it into political tensions between families.  
 In addition, Tom's rule significantly depleted family's resources, although the effects on that were

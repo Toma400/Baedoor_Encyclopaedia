@@ -3,15 +3,16 @@ Characters bound to **Baedoorian** heritage and nationality.
 
 ---
 ### 🕋 OLD ERA
-#### [Eduard Allaut](List/Eduard_Allaut.md)
-#### [Isehir Allaut](List/Isehir_Allaut.md)
-#### [Joeseh Thon](List/Joeseh_Thon.md)
-#### [Tom Varteford](List/Tom_Varteford.md)
-#### [Zan Eiron](List/Zan_Eiron.md)
+#### [Eduard Allaut](List/Allaut_Eduard.md)
+#### [Isehir Allaut](List/Allaut_Isehir.md)
+#### [Joeseh Thon](List/Thon_Joeseh.md)
+#### [Lovrem Vantasi](List/Vantasi_Lovrem.md)
+#### [Tom Varteford](List/Varteford_Tom.md)
+#### [Zan Eiron](List/Eiron_Zan.md)
 
 ### 🕋 NEW ERA
-#### [Ferves Navikon](List/Ferves_Navikon.md)
-#### [Heim Winfleton](List/Heim_Winfleton.md)
+#### [Ferves Navikon](List/Navikon_Ferves.md)
+#### [Heim Winfleton](List/Winfleton_Heim.md)
 
 ---
 ♜

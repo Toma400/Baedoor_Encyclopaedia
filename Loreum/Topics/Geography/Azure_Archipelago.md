@@ -4,7 +4,7 @@
 |:----------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
 |                                 Incomplete map of Azure Archipelago                                  |                                 Incomplete map of Vartee                                  |
 
-...
+Small group of islands located in between Seiteh and West Moon.
 
 ### ISLANDS
 

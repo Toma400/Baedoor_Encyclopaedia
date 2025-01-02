@@ -9,9 +9,9 @@ supporting liberation fight set up bombs inside the airship.
 Unteupta was torn apart with the explosion, killing almost entirety of transported people.
 
 ### Related characters
-- [Eduard Allaut](/Loreum/Topics/Characters/List/Eduard_Allaut.md)
-- [Joeseh Thon](/Loreum/Topics/Characters/List/Joeseh_Thon.md)
-- [Zan Eiron](/Loreum/Topics/Characters/List/Zan_Eiron.md)
+- [Eduard Allaut](/Loreum/Topics/Characters/List/Allaut_Eduard.md)
+- [Joeseh Thon](/Loreum/Topics/Characters/List/Thon_Joeseh.md)
+- [Zan Eiron](/Loreum/Topics/Characters/List/Eiron_Zan.md)
 
 ---
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🎎️](/Loreum/Topics/History.md) 〰️ [🍁](/Loreum/Topics/History/Old_Era.md)

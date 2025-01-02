@@ -4,7 +4,7 @@
 General of [Desert Divisions](/Loreum/Topics/Guilds/List/Desert_Divisions.md), known for his 
 faithfulness and experience in battles.
 Born in 923 OE in [Isuga](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md), 
-he was teached by his father, general [Isehir Allaut](Isehir_Allaut.md). Being eighteen years old, 
+he was teached by his father, general [Isehir Allaut](Allaut_Isehir.md). Being eighteen years old, 
 he joined the army.
 
 Eduard Allaut is known mostly from commanding Baedoor army during peace, and for his two 

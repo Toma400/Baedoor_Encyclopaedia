@@ -49,8 +49,8 @@ If this section becomes too big, it can be split into linked sections in the fut
 
 </span>
 
-* [Esh Enahr](Topics/Characters/List/Esh_Enahr.md)
+* [Esh Enahr](Topics/Characters/List/Enahr_Esh.md)
 * [Oververse](Topics/World_Mechanics/Oververse.md)
-* [Si Avani](Topics/Characters/List/Si_Avani.md)
+* [Si Avani](Topics/Characters/List/Avani_Si.md)
 * [Starshifters](Topics/Guilds/List/Starshifters.md)
 * [Xaine](Topics/Characters/List/Xaine.md)

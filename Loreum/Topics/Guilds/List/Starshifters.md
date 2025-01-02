@@ -16,8 +16,8 @@ Their identities are unknown for public except for few messengers revealed durin
 **International Council of Oververse Exploration**.
 
 ### Notable starshifters
-- [Esh Enahr](/Loreum/Topics/Characters/List/Esh_Enahr.md)
-- [Si Avani](/Loreum/Topics/Characters/List/Si_Avani.md)
+- [Esh Enahr](/Loreum/Topics/Characters/List/Enahr_Esh.md)
+- [Si Avani](/Loreum/Topics/Characters/List/Avani_Si.md)
 - [Xaine](/Loreum/Topics/Characters/List/Xaine.md)
 
 ---
