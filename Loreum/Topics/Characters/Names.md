@@ -25,6 +25,12 @@ or just if you would like to look at cultural differences between civilisations.
 
 ---
 ### Baedoorian Names
+Male names tend to end with *n* and *s*, with use of vowels, *d* and *m* being rarer.  
+The usage of *r* is rather rare and tend to clearly indicate foreign influences.
+
+General idea about baedoorian names is that they follow rather simple wovel-consonant flow,
+with consonants forming groups of two. With time the usage of *y* letter got rarer.
+
 <center><span style="color:#668c99"><b>Male names</b></span></center>
 
 | Name     | Localisation                  | Description                                                                |
@@ -39,12 +45,13 @@ or just if you would like to look at cultural differences between civilisations.
 | Cryan    | East Baedoor                  | Rare name in early Old Era                                                 |
 | Cubati   | East Baedoor                  | Rare name of unknown roots                                                 |
 | Devako   | East Baedoor                  | Rare name in early Old Era, with foreign origin (possibly mesinpean Devah) |
+| Devan    | East Baedoor                  | Semi-common name of mesinpean origin (from Devah)                          |
 | Dominic  | Whole Baedoor                 | Common name                                                                |
 | Eduard   | Whole Baedoor                 | Semi-common name                                                           |
 | Engar    | Whole Baedoor                 | Common name originating from Jitado                                        |
 | Entar    | Whole Baedoor                 | Common name originating from Jitado                                        |
 | Entor    | Whole Baedoor                 | Baedoorised variant of *Entar*                                             |
-| Evilar   | Whole Baedoor                 | More popular variant of *Evilir*                                           |
+| Evilar   | Whole Baedoor                 | More popular, baedoorised variant of *Evilir*                              |
 | Evilir   | Whole Baedoor                 | Rare name of probably tri influences                                       |
 | Eyd      | East Baedoor                  | Rare name                                                                  |
 | Facon    | Whole Baedoor                 | Rare name                                                                  |
@@ -141,6 +148,7 @@ or just if you would like to look at cultural differences between civilisations.
 | Argin      | Jitado       | Semi-rare name, mostly popular on northern coast                       |
 | Bedein     | Jitado       | Rare name of slightly foreign feel                                     |
 | Cryan      | Jitado       | Rare name used in harbour towns                                        |
+| Devan      | Jitado       | Semi-common name, of mesinpean origin (from Devah)                     |
 | Ede        | Jitado       | Rare name                                                              |
 | Eidin      | Jitado       | Rare name, common in Pre-Era, gender-neutral                           |
 | Eiriald    | Jitado       | Rare name of slightly foreign feel                                     |

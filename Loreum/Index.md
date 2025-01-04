@@ -30,6 +30,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### D
 - [Dawn Tear](Topics/Nature/Herbarium/List/Dawn_Tear.md)
 - [Delai Eir](Topics/Characters/List/Eir_Delai.md)
+- [Dem](Topics/Cultures/Baedoorians/List/Dem.md)
 - [Desert Divisions](Topics/Guilds/List/Desert_Divisions.md)
 - [Disane](Topics/Geography/Baedoor_Continent/Kaer/Disane.md)
 - [Disanteldir](Topics/Geography/Baedoor_Continent/Kaer/Cities/Disanteldir.md)
@@ -52,6 +53,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Ferves Navikon](Topics/Characters/List/Navikon_Ferves.md)
 - [Flower Street](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
 - [Followers of the Bound](Topics/Guilds/List/Followers_of_the_Bound.md)
+- [Funt](Topics/Cultures/Baedoorians/List/Funt.md)
 
 ### G
 - [Ghlodds](Topics/Races/Regular/Ghlodds.md)
