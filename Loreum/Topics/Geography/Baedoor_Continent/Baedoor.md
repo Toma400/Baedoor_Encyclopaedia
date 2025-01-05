@@ -73,6 +73,7 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Coonhe Forest `?: Konheg Forest (nomathian)`
 - Oarien Pass `v`
 - [Kel Desert](Baedoor/Lands/Kel_Desert.md)
+- [Terrean Savannah](Baedoor/Lands/Terrean_Savannah.md)
 
 ### PLACES
 - [Tom Varteford's Plantation](Baedoor/Places/Tom_Varteford_Plantation.md)

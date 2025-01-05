@@ -215,6 +215,27 @@
     </td>
   </tr>
 
+  <!--PHOTO 11-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo 11" width="416" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_11.jpg"/></td>
+    <th align="centre">Exit Gates</th>
+  </tr>
+  <tr>
+    <td>
+      Shows the gates leading outside of the town, to Terrean Praerie wilderness. With very little
+      info shown in data notebook, I came to following conclusions:
+      <ul>
+        <li> Opugat is nomathian name, thus the guard is hired from local population </li>
+        <li> Franc, while almost fitting, can be renamed to Fran </li>
+      </ul>
+      This page also shows what is described in Adventurer's Guild in Alkaesar (in data notebook)
+      as Boh flower - I think the name feels nomathian, so I'd say baedoorised version would be
+      "Vaen". There's no other info I found by far about the flower.<br>
+      <br>
+      The Terrean Backwoods also got renamed to Terrean Savannah, so it fits the new region planning.
+    </td>
+  </tr>
+
   <!--PHOTO ...-->
   <tr>
     <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo ..." width="416" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_[...].jpg"/></td>

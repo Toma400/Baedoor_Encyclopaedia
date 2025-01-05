@@ -123,6 +123,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### T
 - [Temple of I'si](Topics/Religions/Small/Temple_of_I'si.md)
+- [Terrean Savannah](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Terrean_Savannah.md)
 - [Tertens](Topics/Races/Spirit/Terten.md)
 - [Thon, Joeseh](Topics/Characters/List/Thon_Joeseh.md)
 - [Tom Varteford](Topics/Characters/List/Varteford_Tom.md)
@@ -135,6 +136,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Uruati](Topics/Races/Creature/Uruati.md)
 
 ### V
+- [Vaen](Topics/Nature/Herbarium/List/Vaen.md)
 - [Vaerdena](Topics/Geography/Moon_Continent/East_Moon/Lands/Vaerdena.md)
 - [Vantasi, Lovrem](Topics/Characters/List/Vantasi_Lovrem.md)
 - [Varteford](Topics/Characters/Families/Varteford.md)

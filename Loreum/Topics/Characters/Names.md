@@ -59,6 +59,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Falcur   | Baedoor city                  | Rare name with unknown origin, possibly baedoorised nomathian name         |
 | Falgor   | East Baedoor                  | Semi-common name, probably with nomathian origins or influences            | 
 | Fathur   | Whole Baedoor                 | Common name in Old Era, rare in New Era. Has nomathian influences          |
+| Fran     | East Baedoor                  | Semi-rare name                                                             |
 | Frem     | Whole Baedoor                 | Semi-common name                                                           |
 | Frode    | Whole Baedoor                 | Common old name                                                            |
 | Frodo    | Mostly Baedoor city           | Rare variation of *Frode* name                                             |
@@ -262,9 +263,10 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 ### Nomathian Names
 <center><span style="color:#668c99"><b>Male names</b></span></center>
 
-| Name | Localisation   | Description |
-|------|----------------|-------------|
-| Arth | Baedoor Island | Semi-common |
+| Name   | Localisation   | Description |
+|--------|----------------|-------------|
+| Arth   | Baedoor Island | Semi-common |
+| Opugat | Baedoor Island | Semi-rare   |
 
 ---
 ### Tri Names

@@ -4,9 +4,11 @@
 <span style="color:#107C23">**cities**</span> [✦](/Loreum/Tags.md#-cities)  
 
 ---
-**Alkaesar** is a large town located at the entrance of Vershaton region. It is one of few bigger
-settlements built in this region, ruled by [Abrahk](/Loreum/Topics/Characters/Families/Abrahk.md)
+**Alkaesar** is a large town located in the heart of [Terrean Savannah](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Lands/Terrean_Savannah.md).
+It is one of few bigger settlements built in this region, ruled by [Abrahk](/Loreum/Topics/Characters/Families/Abrahk.md)
 and **vân Buqan** families.
+
+One of town's most significant landmarks is the bazaar located in underground pathway.
 
 ### PLACES
 - Golden Barrel Inn
