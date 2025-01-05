@@ -235,17 +235,6 @@
       The Terrean Backwoods also got renamed to Terrean Savannah, so it fits the new region planning.
     </td>
   </tr>
-
-  <!--PHOTO ...-->
-  <tr>
-    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo ..." width="416" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_[...].jpg"/></td>
-    <th align="centre">...</th>
-  </tr>
-  <tr>
-    <td>
-      ...
-    </td>
-  </tr>
 </table>
 
 ---

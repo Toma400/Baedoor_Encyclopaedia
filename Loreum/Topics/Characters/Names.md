@@ -60,6 +60,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Falgor   | East Baedoor                  | Semi-common name, probably with nomathian origins or influences            | 
 | Fathur   | Whole Baedoor                 | Common name in Old Era, rare in New Era. Has nomathian influences          |
 | Fran     | East Baedoor                  | Semi-rare name                                                             |
+| Fred     | East Baedoor                  | Rare name, used mostly in OE                                               |
 | Frem     | Whole Baedoor                 | Semi-common name                                                           |
 | Frode    | Whole Baedoor                 | Common old name                                                            |
 | Frodo    | Mostly Baedoor city           | Rare variation of *Frode* name                                             |
@@ -241,6 +242,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Devah  | Mes Inpea         | Common name (has also female form)                                      |
 | Iner   | Mes Inpea         | Common name                                                             |
 | Ineald | Outside Mes Inpea | Rare name with jitadean/baedoorian influences, possibly Iner derivation |
+| Ottus  | Mes Inpea         | Semi-common name                                                        |
 | Sul    | Mes Inpea         | Semi-rare name                                                          |
 
 <center><span style="color:#668c99"><b>Female names</b></span></center>

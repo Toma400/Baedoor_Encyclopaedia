@@ -14,6 +14,7 @@
 - [Menerun](Lore/BaeCL_Menerun.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Menerun.md)
 - [Mining Hills](Lore/BaeCL_Mining_Hills.md)
 - [Raliun](Lore/BaeCL_Raliun.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
+- [Terrean Savannah](Lore/BaeCL_Terrean_Wilderness.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Lands/Terrean_Savannah.md)
 - [Tom Varteford Plantation](Lore/BaeCL_Tom_Varteford_Plantation.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Places/Tom_Varteford_Plantation.md)
 
 ### Per source:
@@ -48,7 +49,8 @@
         <th>Timeframe</th>
         <td>early / middle Old Era</td>
         <td rowspan="2">
-            🐪    <a href="Lore/BaeCL_Alkaesar.md">  Alkaesar </a>
+            🐪    <a href="Lore/BaeCL_Alkaesar.md">            Alkaesar            </a> <br>
+            🏜️    <a href="Lore/BaeCL_Terrean_Wilderness.md">  Terrean Wildnerness </a>
         </td>
     </tr>
     <tr>
