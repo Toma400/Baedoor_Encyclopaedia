@@ -1,5 +1,5 @@
 # 🍁 Unteupta Assassination
-Assassination done on 12th November 999 OE, on military airship [Unteupta](/Loreum/Topics/Cultures/[Vehicles]/List/Unteupta.md).
+Assassination done on 12th November 999 OE, on military airship [Unteupta](/Loreum/Topics/Cultures/Baedoorians/Vehicles/Unteupta.md).
 In early morning hours, Unteupta started from Tharie port. Airship was transporting group of esteemed
 generals, ending their year-end campaign on Arennan lands.
 

@@ -130,7 +130,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
 
 ### U
-- [Unteupta](Topics/Cultures/[Vehicles]/List/Unteupta.md)
+- [Unteupta](Topics/Cultures/Baedoorians/Vehicles/Unteupta.md)
 - [Unteupta Assassination](Topics/History/List/Unteupta_Assassination.md)
 - [Uruati](Topics/Races/Creature/Uruati.md)
 
@@ -139,7 +139,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Vantasi, Lovrem](Topics/Characters/List/Vantasi_Lovrem.md)
 - [Varteford](Topics/Characters/Families/Varteford.md)
 - [Varteford, Tom](Topics/Characters/List/Varteford_Tom.md)
-- [Veno Edran](Topics/Cultures/[Vehicles]/List/Veno_Edran.md)
+- [Veno Edran](Topics/Cultures/Baedoorians/Vehicles/Veno_Edran.md)
 - [Vulcanic Veil](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
 
 ### W

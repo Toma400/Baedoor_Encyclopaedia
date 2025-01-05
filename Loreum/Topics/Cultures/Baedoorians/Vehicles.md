@@ -4,10 +4,10 @@ List of all vehicles of baedoorian culture.
 ### 🚂 Trains
 
 ### ⛵ Ships
-- [Veno Edran](List/Veno_Edran.md)
+- [Veno Edran](Vehicles/Veno_Edran.md)
 
 ### 🛩️ Airships
-- [Unteupta](List/Unteupta.md)
+- [Unteupta](Vehicles/Unteupta.md)
 
 ---
 ♜: trains, include split into "named" vehicles and vehicle subtypes (aka TEM in PTR)  

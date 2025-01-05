@@ -10,4 +10,4 @@ silver and has star shape on both sides of the coin. The currency is often abbre
 One **funt** was equal to twelve [dems](Dem.md), cheaper currency concurrently used in early Empire.
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures/Baedoorians/[Culture].md)

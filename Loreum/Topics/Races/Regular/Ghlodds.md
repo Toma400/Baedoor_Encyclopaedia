@@ -51,10 +51,11 @@ Despite this, peaceful values tend to be embraced just as heavily, and often tho
 are said to be used in science and art, being gift from ghloddish gods to the mortals.
 
 
-- Ghlodds' culture
-  - [Ghlodds' architecture](/Loreum/Topics/Cultures/Ghlodds/Architecture.md)
-  - Ghlodds' art
-- Ghlodds' beliefs
+- [Ghloddish culture](/Loreum/Topics/Cultures/Ghlodds/[Culture].md)
+  - [Ghloddish architecture](/Loreum/Topics/Cultures/Ghlodds/Architecture.md)
+  - Ghloddish art
+- Ghloddish beliefs
+- [Ghloddish Technology](/Loreum/Topics/Cultures/Ghlodds/Technologies.md)
 
 ---
 ✥  

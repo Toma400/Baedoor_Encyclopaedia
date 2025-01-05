@@ -4,11 +4,7 @@
 |:-----------------------------------------------------------------------------------------------------------:|
 |                           Map of Baedoor universe cultures and their interactions                           |
 
-## Categories
-- [Cultural Topics](#cultural-topics)
-- [Ships & Other Vehicles](#ships--other-vehicles)
 
-## Cultural Topics
 This section lists all cultures existing in Baedoor universe, sorted by continents.
 
 Use miniatures to quickly jump to section you want.
@@ -28,17 +24,17 @@ LEGEND:
 💮 - languages
 📚 - education 
 ⚗️ - technologies
+🚂 - vehicles
 ```
 
 ---
 ### Baedoor Continent
-- Baedoorians 🔹 [🏯](Cultures/Baedoorians/Architecture.md)
+- [Baedoorians](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [🚂](Cultures/Baedoorians/Vehicles.md)
 
 ### Seiteh
-- Ghlodds 🔹 [🏯](Cultures/Ghlodds/Architecture.md) [⚗️](Cultures/Ghlodds/Technologies.md)
-
-## Ships & Other Vehicles
-- [Baedoorian Vehicles](Cultures/[Vehicles]/Baedoorian_Vehicles.md)
+- [Ghlodds](Cultures/Ghlodds/[Culture].md) 🔹 [🏯](Cultures/Ghlodds/Architecture.md) [⚗️](Cultures/Ghlodds/Technologies.md)
 
 ---
-♜
+♜: may be useful to also include subpages? (as in, if the culture has multiple local divisions, like
+would be the case with Colovian and Nibenayan in TES lore)  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)
