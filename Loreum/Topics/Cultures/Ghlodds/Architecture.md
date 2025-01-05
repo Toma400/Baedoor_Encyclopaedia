@@ -29,8 +29,8 @@ for individual's heart.
 
 <table>
   <tr>
-    <td width="264"><img alt="Ghloddish House" height="312" src="/Assets/cult_ghloddish_house_1.jpg" width="244"/></td>
-    <td width="436"><img alt="Ghloddish House" height="312" src="/Assets/cult_ghloddish_house_2.jpg" width="416"/></td>
+    <td width="264"><img alt="Ghloddish House" height="312" src="/Assets/Culture/Architecture/ghloddish_house_1.jpg" width="244"/></td>
+    <td width="436"><img alt="Ghloddish House" height="312" src="/Assets/Culture/Architecture/cult_ghloddish_house_2.jpg" width="416"/></td>
   </tr>
   <tr>
     <td colspan="2" align="center">Drawing of ghloddish houses</td>
@@ -51,7 +51,7 @@ can serve some meaning.
     <th colspan="2" align="center">Ghloddish Chapel</th>
   </tr>
   <tr>
-    <td width="436"><img alt="Ghloddish Chapel" height="312" src="/Assets/cult_ghloddish_chapel.jpg" width="416"/></td>
+    <td width="436"><img alt="Ghloddish Chapel" height="312" src="/Assets/Culture/Architecture/ghloddish_chapel.jpg" width="416"/></td>
     <td>
       Good representation of sphere use is <b>Ghloddish Chapel</b> building which is built commonly in 
       cities.<br>
@@ -64,7 +64,7 @@ can serve some meaning.
     <th colspan="2" align="center">Ghloddish Observatorium</th>
   </tr>
   <tr>
-    <td width="436"><img alt="Ghloddish Observatorium" height="312" src="/Assets/cult_ghloddish_observatorium.jpg" width="416"/></td>
+    <td width="436"><img alt="Ghloddish Observatorium" height="312" src="/Assets/Culture/Architecture/ghloddish_observatorium.jpg" width="416"/></td>
     <td>
       Another religious building which is seen in ghloddish areas is observatorium, split into three
       constructions connected to each other. Similarly to housing levels, they all serve different 
