@@ -113,6 +113,35 @@ and contacts with cultures living on the island shaped kaerian goblins to be muc
 in rituals and contacts with spirits, which also built quite different societal structure compared
 to tribes living elsewhere.
 
+### Graphs
+#### Focus
+|     \      | Mountainers | Wastelanders | Lowlanders | Islanders | Kaerian |
+|:----------:|:-----------:|:------------:|:----------:|:---------:|:-------:|
+| Metallurgy |      ▲      |      〇       |     ▽      |     ▽     |    〇    |
+|   Social   |      ▽      |      ▽       |     〇      |     〇     |    ▽    |
+|    Wild    |      ▽      |      ▲       |     ▽      |     〇     |    〇    |
+|  Religion  |      ▽      |      ▽       |     ▽      |     〇     |    ▲    |
+|  Settled?  |      〇      |      〇       |     ▽      |     ▲     |    〇    |
+|   Caves?   |      ▲      |      ▲       |     ▽      |     ▽     |    〇    |
+
+#### Religion
+|    Group     | Religious themes |
+|:------------:|:----------------:|
+| Mountainers  |     Spirits      |
+| Wastelanders | Demons, nihilism |
+|  Lowlanders  |    Animalism     |
+|  Islanders   |   Nature (sun)   |
+|   Kaerian    | Spirits, nature  |
+
+#### Art
+|    Group     |               Art themes                |
+|:------------:|:---------------------------------------:|
+| Mountainers  |                Abstract                 |
+| Wastelanders |              Death themes               |
+|  Lowlanders  |      Environment, animals, hunting      |
+|  Islanders   | Everyday life, nature, religious motifs |
+|   Kaerian    |     Everyday life, nature, rituals      |
+
 ---
 ♜:  
 More things to note (in doc or here, or both):
