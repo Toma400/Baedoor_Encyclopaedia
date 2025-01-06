@@ -134,13 +134,13 @@ to tribes living elsewhere.
 |   Kaerian    | Spirits, nature  |
 
 #### Art
-|    Group     |               Art themes                |
-|:------------:|:---------------------------------------:|
-| Mountainers  |                Abstract                 |
-| Wastelanders |              Death themes               |
-|  Lowlanders  |      Environment, animals, hunting      |
+|    Group     | Art themes                              |
+|:------------:|:----------------------------------------|
+| Mountainers  | Abstract                                |
+| Wastelanders | Death themes                            |
+|  Lowlanders  | Environment, animals, hunting           |
 |  Islanders   | Everyday life, nature, religious motifs |
-|   Kaerian    |     Everyday life, nature, rituals      |
+|   Kaerian    | Everyday life, nature, rituals          |
 
 ---
 ♜:  

@@ -79,12 +79,26 @@ By the time of New Era, with Baedoor city expansion, the overcrowding issue was 
 tram systems allowing to bypass the district.
 
 #### 🏰 DISTRICT OF BLACK PAVING
-District of Black Paving is district that was separated from Castle's District in 626 OE, right after
-enthronement of Soltan II. It was meant to be additional fortificative system to defend Castle from
-enemies entering the city.  
-New walls were created inside castle, and reinforced with special black coloured material, from which 
-district'a name appeared.  
-Until second century of New Era, the district was ruled by Varteford and Xavier families.
+<table>
+    <tr>
+        <td rowspan="2">
+            District of Black Paving is district that was separated from Castle's District in 626 OE, right after
+            enthronement of Soltan II. It was meant to be additional fortificative system to defend Castle from
+            enemies entering the city.  
+            New walls were created inside castle, and reinforced with special black coloured material, from which 
+            district'a name appeared.  
+            Until second century of New Era, the district was ruled by Varteford and Xavier families.
+        </td>
+        <td width="50%">
+            <img alt="Black Paving sketch" width="100%" src="/Assets/Maps/black_district.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td height="30px">
+            Sketch of District of Black Paving made in short story "Baedoor Incident"
+        </td>
+    </tr>
+</table>
 
 ---
 ### 🗡️ EMBLEMS
