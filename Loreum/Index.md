@@ -22,6 +22,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md) (city)
 - [Baedoor](Topics/Geography/Baedoor_Continent.md) (continent)
 - [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor.md) (island)
+- [Baedoorians](Topics/Cultures/Baedoorians/[Culture].md)
 
 ### C
 - [Calgori](Topics/Characters/Families/Calgori.md)
@@ -56,7 +57,8 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Funt](Topics/Cultures/Baedoorians/List/Funt.md)
 
 ### G
-- [Ghlodds](Topics/Races/Regular/Ghlodds.md)
+- [Ghlodds](Topics/Races/Regular/Ghlodds.md) (Race)
+- [Ghlodds](Topics/Cultures/Ghlodds/[Culture].md) (Culture)
 - [Goblins](Topics/Races/Creature/Goblins.md)
 - [Golden Lighthouse of Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
 - [Guild of Adventurers](Topics/Guilds/List/Alkaesar_Adventurers_Guild.md) (Alkaesar/Radpat)
@@ -125,6 +127,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Temple of I'si](Topics/Religions/Small/Temple_of_I'si.md)
 - [Terrean Savannah](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Terrean_Savannah.md)
 - [Tertens](Topics/Races/Spirit/Terten.md)
+- [Tertens](Topics/Cultures/Tertens_Vaerdena/[Culture].md) (Vaerdena)
 - [Thon, Joeseh](Topics/Characters/List/Thon_Joeseh.md)
 - [Tom Varteford](Topics/Characters/List/Varteford_Tom.md)
 - [Tom Varteford's Plantation](Topics/Geography/Baedoor_Continent/Baedoor/Places/Tom_Varteford_Plantation.md)
@@ -138,6 +141,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### V
 - [Vaen](Topics/Nature/Herbarium/List/Vaen.md)
 - [Vaerdena](Topics/Geography/Moon_Continent/East_Moon/Lands/Vaerdena.md)
+- [Vaerdena Tertens](Topics/Cultures/Tertens_Vaerdena/[Culture].md)
 - [Vantasi, Lovrem](Topics/Characters/List/Vantasi_Lovrem.md)
 - [Varteford](Topics/Characters/Families/Varteford.md)
 - [Varteford, Tom](Topics/Characters/List/Varteford_Tom.md)

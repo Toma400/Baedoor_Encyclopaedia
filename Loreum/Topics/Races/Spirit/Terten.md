@@ -22,7 +22,7 @@ Terten either tries to fulfill that reason, or tries to live in this new form, a
 no longer bond them to the physical world limitations.
 
 ### Terten civilisations
-- Vaerdena Tertens
+- [Vaerdena Tertens](/Loreum/Topics/Cultures/Tertens_Vaerdena/[Culture].md)
 
 ### Terten creatures
 - [Haunted Wanderer](/Loreum/Topics/Nature/Bestiary/List/Haunted_Wanderer.md)

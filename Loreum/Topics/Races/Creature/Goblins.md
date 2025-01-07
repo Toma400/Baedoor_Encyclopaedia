@@ -147,6 +147,7 @@ to tribes living elsewhere.
 More things to note (in doc or here, or both):
 - characterisation of each group
 - technology alignment
+- passing knowledge through art and apprentice between generations
 - religion
 - art
 - gender-blindness?
