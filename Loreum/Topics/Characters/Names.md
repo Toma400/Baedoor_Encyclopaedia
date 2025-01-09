@@ -7,14 +7,14 @@ or just if you would like to look at cultural differences between civilisations.
 - [Baedoorian Names](#baedoorian-names)
 - [Jitadian Names](#jitadian-names)
 - [Mesinpean Names](#mesinpean-names)
-- [Nomathian Names](#nomathian-names)
+- [Nomathian Names](Names/Nomathian.md#names)
 - [Ghloddish Names](#ghloddish-names)
 - [Tri Names](#tri-names)
 
 **Surnames [🔱](#centersurnamescenter)**
 - [Baedoorian Surnames](#baedoorian-surnames)
 - [Jitadian Surnames](#jitadian-surnames)
-- [Nomathian Surnames](#nomathian-surnames)
+- [Nomathian Surnames](Names/Nomathian.md#surnames)
 - [Tri Surnames](#tri-surnames)
 
 **Cultural & Inheritance Rules [🔱](#cultural--inheritance-rules)**
@@ -262,15 +262,6 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Yadr    | Seiteh and outside | Modern variant of Yathr                    |
 
 ---
-### Nomathian Names
-<center><span style="color:#668c99"><b>Male names</b></span></center>
-
-| Name   | Localisation   | Description |
-|--------|----------------|-------------|
-| Arth   | Baedoor Island | Semi-common |
-| Opugat | Baedoor Island | Semi-rare   |
-
----
 ### Tri Names
 <center><span style="color:#668c99"><b>Male names</b></span></center>
 
@@ -343,11 +334,6 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Sorevo    | Jitado, Ansur, Baedoor | Popular surname, quite popular in Baedoor diasporas | 
 | Tio       | Jitado                 | Old jitadian surname                                |
 | Vantasi   | Jitado, Baedoor        | Semi-rare surname                                   |
-
-### Nomathian Surnames
-| Name    | Localisation                                 | Description          |
-|---------|----------------------------------------------|----------------------|
-| Warthog | Western and southern coast of Baedoor island | Aristocratic surname |
 
 ---
 ### Tri Surnames
