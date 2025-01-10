@@ -9,7 +9,10 @@ or just if you would like to look at cultural differences between civilisations.
 - [Jitadian](Names/Jitadian.md#names)
 - [Mesinpean](Names/Mesinpean.md#names)
 - [Nomathian](Names/NomathianBae.md#names) (Baedoor)
-- [Tri Names](#tri-names)
+- Tric
+  - [Lunatric](Names/TriLunatri.md#names)
+  - [Saphtric](Names/TriSaphtri.md#names)
+  - [Voitric](Names/TriVoitri.md#names)
 
 **Surnames [🔱](#centersurnamescenter)**
 - [Baedoorian Surnames](#baedoorian-surnames)
@@ -17,7 +20,10 @@ or just if you would like to look at cultural differences between civilisations.
 - [Jitadian](Names/Jitadian.md#surnames)
 - [Mesinpean](Names/Mesinpean.md#surnames)
 - [Nomathian](Names/NomathianBae.md#surnames) (Baedoor)
-- [Tri Surnames](#tri-surnames)
+- Tric
+  - [Lunatric](Names/TriLunatri.md#surnames)
+  - [Saphtric](Names/TriSaphtri.md#surnames)
+  - [Voitric](Names/TriVoitri.md#surnames)
 
 <hr style="border:2px solid gray">
 
@@ -137,30 +143,6 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Veronica | Whole Baedoor | Commonly used, especially among lower aristocratic families                                   |
 | Wenyah   | East Baedoor  | Rare name used in Old Era, nomathian-influenced variant of *Hanyah*                           |
 
----
-### Tri Names
-<center><span style="color:#668c99"><b>Male names</b></span></center>
-
-| Name    | Localisation                 | Description                                                                                        |
-|---------|------------------------------|----------------------------------------------------------------------------------------------------|
-| Ain     | West Moon                    | Semi-common tri name among all classes                                                             |
-| Ainji   | Whole Baedoor, Moon, Arennan | Common derivation of **Ain** appearing in New Era                                                  |
-| Asaai   | Arennan                      | Rare saphtri name                                                                                  |
-| Delai   | West Moon                    | Common tri name                                                                                    |
-| Direnai | West Moon, Septei            | Semi-common gender-neutral tri name                                                                |
-| Heiyn   | Whole Baedoor, Rossevette    | Variant of **Heyn** name                                                                           |
-| Hes     | Arennan, rarely outside      | Rare saphtri name, may be impacted by ormath culture, as it does not appear natively anywhere else |
-| Heyn    | Whole Baedoor, Rossevette    | Baedoorised name, closest to be mix of **Heim** and **Ain** names                                  |
-| Riyell  | Whole Baedoor, Rossevette    | Baedoorised variant of common tri names                                                            |
-
-<center><span style="color:#668c99"><b>Female names</b></span></center>
-
-| Name     | Localisation              | Description                                  |
-|----------|---------------------------|----------------------------------------------|
-| Direnai  | West Moon, Septei         | Semi-common gender-neutral tri name          |
-| Vei      | Arennan, rarely outside   | Saphtri name                                 |
-| Veronica | Whole Baedoor, Rossevette | Inherited directly from Baedoor, rarely used |
-
 <hr style="border:2px solid gray">
 
 ## <center>Surnames</center>
@@ -198,14 +180,6 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Warthog    | East Baedoor                   | Aristocratic surname of nomathian origin                                                                                                                            |
 | Winfleton  | West Baedoor                   | Aristocratic surname, nowadays recognised with **Heim Winfleton**                                                                                                   |
 | Xavier     | East Baedoor                   | Aristocratic surname, originating from Baedoor city                                                                                                                 |                                                                                
-
----
-### Tri Surnames
-| Surname | Localisation                      | Description                                                        |
-|---------|-----------------------------------|--------------------------------------------------------------------|
-| Aranai  | Whole Baedoor, but mostly Arennan | Saphtri noble surname, sometimes taken as gods' patronage          |
-| Eir     | West Moon                         | Common surname, usually of western and northern parts of continent |
-| Nai     | West Moon, Rossevette             | Rare surname, sometimes bound to lower  aristocratic families      |
 
 ---
 ♜: Cubati name - should it be baedoorian? [Source](/Mechanicum/Walkthroughs/Baedoor_Classic/Lore/BaeCL_Fegar.md)
