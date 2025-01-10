@@ -1,17 +1,13 @@
 # 🏺 Funt
 
 ---
-| ![](/Assets/coin_baedoorian.png) | ![](/Assets/coin_baedoorian_fsam.png)                     |
-|----------------------------------|-----------------------------------------------------------|
-| Concept art of regular funt      | Funt asset made for From Steam and Magic mod, by Revenant |
-
 <table>
     <tr>
-        <td width="60%">
-            <img alt="Funt concept art" src="/Assets/coin_baedoorian.png" height="100%">
+        <td height="30px">
+            <img alt="Funt concept art" src="/Assets/coin_baedoorian.png">
         </td>
-        <td width="40%">
-            <img alt="Funt in FSAM" src="/Assets/coin_baedoorian_fsam.png" height="100%">
+        <td height="30px">
+            <img alt="Funt in FSAM" src="/Assets/coin_baedoorian_fsam.png">
         </td>
     </tr>
     <tr>

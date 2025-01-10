@@ -39,17 +39,13 @@ forming naturally in between and stairs letting you get to the district.
 Tertens worship Gods of Destruction alongside their own saints, as their look at divine is not divided
 into good and evil - they rather perceive things are intertwined unity.
 
-| ![](/Assets/Culture/Architecture/terten_city.jpg) | ![](/Assets/terten_armour_colour.png) |
-|:-------------------------------------------------:|:-------------------------------------:|
-|                    Terten city                    |   Ceremonial armour worn by guards    |
-
 <table>
     <tr>
-        <td width="50%">
-            <img alt="" src="/Assets/Culture/Architecture/terten_city.jpg" height="100%">
+        <td height="30px">
+            <img alt="" src="/Assets/Culture/Architecture/terten_city.jpg">
         </td>
-        <td width="50%">
-            <img alt="" src="/Assets/terten_armour_colour.png" height="100%">
+        <td height="30px">
+            <img alt="" src="/Assets/terten_armour_colour.png">
         </td>
     </tr>
     <tr>

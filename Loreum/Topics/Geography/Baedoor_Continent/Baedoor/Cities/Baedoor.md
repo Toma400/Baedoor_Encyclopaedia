@@ -97,7 +97,7 @@ tram systems allowing to bypass the district.
             district'a name appeared.  
             Until second century of New Era, the district was ruled by Varteford and Xavier families.
         </td>
-        <td width="50%">
+        <td width="40%">
             <img alt="Black Paving sketch" width="100%" src="/Assets/Maps/black_district.jpg">
         </td>
     </tr>
@@ -111,7 +111,7 @@ tram systems allowing to bypass the district.
 #### 👑 CASTLE
 <table>
     <tr>
-        <td rowspan="4">
+        <td rowspan="3">
             Castle is a focal point of the city, overseeing the area from the high hill it is on.
             Being home to king, its closest family and administrative body of the city - and also
             the Empire - the place was always considered a symbolic "heart" of the state.<br>
@@ -119,23 +119,19 @@ tram systems allowing to bypass the district.
             reign changed a little. New kings can prefer to keep themselves closer to their own
             homes in city, while keeping private guards or even army under their own rule.
         </td>
-        <td width="50%">
+        <td width="40%">
             <img alt="Baedoor Castle sketch" width="100%" src="/Assets/Maps/baedoor_castle.jpg">
         </td>
     </tr>
     <tr>
-        <td height="30px">
-            Sketch of Baedoor Castle and its gardens in short story "Baedoor Incident"
-        </td>
-    </tr>
-    <tr>
-        <td height="30px">
+        <td width="40%">
             <img alt="Baedoor Castle underground sketch" width="100%" src="/Assets/Maps/baedoor_castle_underground.jpg">
         </td>
     </tr>
     <tr>
         <td height="30px">
-            Sketch of underground section of Baedoor Castle in short story "Baedoor Incident"
+            Sketches of Baedoor Castle with its gardens, and underground section of it. Taken from
+            short story "Baedoor Incident"
         </td>
     </tr>
 </table>
