@@ -43,6 +43,25 @@ into good and evil - they rather perceive things are intertwined unity.
 |:-------------------------------------------------:|:-------------------------------------:|
 |                    Terten city                    |   Ceremonial armour worn by guards    |
 
+<table>
+    <tr>
+        <td width="50%">
+            <img alt="" src="/Assets/Culture/Architecture/terten_city.jpg" height="100%">
+        </td>
+        <td width="50%">
+            <img alt="" src="/Assets/terten_armour_colour.png" height="100%">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Terten city
+        </td>
+        <td>
+            Ceremonial armour worn by guards
+        </td>
+    </tr>
+</table>
+
 ---
 ♜  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures.md)

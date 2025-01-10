@@ -4,13 +4,21 @@
 <span style="color:#107C23">**cities**</span> [✦](/Loreum/Tags.md#-cities)  
 
 ---
+| ![](/Assets/Landscapes/Settlements/west_bae_old_bae.png) |
+|:--------------------------------------------------------:|
+|                  Sketch of Baedoor city                  |
+
 **Baedoor** (also known as **Old Baedoor** in NE) is capital city of **East Baedoor** and was so by 
 whole time after baedoorians conquered whole Baedoor island. Over time, it became highly separated
 by districts.
 
-- [History](Baedoor.md#-history)
-- [Districts](Baedoor.md#-districts)
-- [Emblems](Baedoor.md#-emblems)
+- [History](#-history)
+- [Districts](#-districts)
+  - [Aristocratic District](#-aristocratic-district-high-district)
+  - [Vessin District](#-vessin-district)
+  - [District of Black Paving](#-district-of-black-paving)
+  - [Castle](#-castle)
+- [Emblems](#-emblems)
 
 ---
 ### 🪔 HISTORY
@@ -96,6 +104,38 @@ tram systems allowing to bypass the district.
     <tr>
         <td height="30px">
             Sketch of District of Black Paving made in short story "Baedoor Incident"
+        </td>
+    </tr>
+</table>
+
+#### 👑 CASTLE
+<table>
+    <tr>
+        <td rowspan="4">
+            Castle is a focal point of the city, overseeing the area from the high hill it is on.
+            Being home to king, its closest family and administrative body of the city - and also
+            the Empire - the place was always considered a symbolic "heart" of the state.<br>
+            That being said, with fall of the Empire and increased distrust between families, the
+            reign changed a little. New kings can prefer to keep themselves closer to their own
+            homes in city, while keeping private guards or even army under their own rule.
+        </td>
+        <td width="50%">
+            <img alt="Baedoor Castle sketch" width="100%" src="/Assets/Maps/baedoor_castle.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td height="30px">
+            Sketch of Baedoor Castle and its gardens in short story "Baedoor Incident"
+        </td>
+    </tr>
+    <tr>
+        <td height="30px">
+            <img alt="Baedoor Castle underground sketch" width="100%" src="/Assets/Maps/baedoor_castle_underground.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td height="30px">
+            Sketch of underground section of Baedoor Castle in short story "Baedoor Incident"
         </td>
     </tr>
 </table>
