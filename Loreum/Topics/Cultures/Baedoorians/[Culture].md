@@ -5,6 +5,7 @@ various influences - primarily jitadian and nomathic.
 ### Cultural Topics
 - [🏯 Architecture](Architecture.md)
 - [🚂 Vehicles](Vehicles.md)
+- [㊙️ Names](/Loreum/Topics/Characters/Names/Baedoorian.md)
 
 ### Cultural Elements
 - Items

@@ -1,0 +1,151 @@
+# ⚜️ Baedoorian Naming
+- [Names](#names)
+  - [Male](#male)
+  - [Female](#female)
+- [Surnames](#surnames)
+
+## Names
+Male names tend to end with *n* and *s*, with use of vowels, *d* and *m* being rarer.  
+The usage of *r* is rather rare and tend to clearly indicate foreign influences.
+
+General idea about baedoorian names is that they follow rather simple wovel-consonant flow,
+with consonants forming groups of two. With time the usage of *y* letter got rarer.
+
+### Male
+| Name     | Localisation        | Rarity         | Description                                                                |
+|----------|---------------------|----------------|----------------------------------------------------------------------------|
+| Aegar    | Whole Baedoor       | 🔥 Common      | Common in East Baedoor, rarer elsewhere                                    |
+| Algor    | Whole Baedoor       | 🔥 Common      |                                                                            |
+| Altiner  | Whole Baedoor       | 🏵️ Semi-rare  | More popular in OE                                                         |
+| Anaurin  | Whole Baedoor       | 🏵️ Semi-rare  | More popular in OE                                                         |
+| Arentras | East Baedoor        | 🔥 Common      | Common name in Old Era, of jitadish origin                                 |
+| Argin    | Whole Baedoor       | ⚜️ Rare        | Of jitadian origin                                                         |
+| Clayton  | East Baedoor        | ⚜️ Rare        | Rare name in early Old Era, possibly derived from jitadian Sayton/Saytoin  |
+| Cryan    | East Baedoor        | ⚜️ Rare        | Rare name in early Old Era                                                 |
+| Cubati   | East Baedoor        | ⚜️ Rare        | Of unknown roots                                                           |
+| Devako   | East Baedoor        | ⚜️ Rare        | Rare name in early Old Era, with foreign origin (possibly mesinpean Devah) |
+| Devan    | East Baedoor        | 🔆 Semi-common | Of mesinpean origin (from Devah)                                           |
+| Dominic  | Whole Baedoor       | 🔥 Common      |                                                                            |
+| Eduard   | Whole Baedoor       | 🔆 Semi-common |                                                                            |
+| Engar    | Whole Baedoor       | 🔥 Common      | Name originating from Jitado                                               |
+| Entar    | Whole Baedoor       | 🔥 Common      | Name originating from Jitado                                               |
+| Entor    | Whole Baedoor       | 🔆 Semi-common | Variant of *Entar*                                                         |
+| Evilar   | Whole Baedoor       | 🏵️ Semi-rare  | More popular, baedoorised variant of *Evilir*                              |
+| Evilir   | Whole Baedoor       | ⚜️ Rare        | Probably of tri influences                                                 |
+| Eyd      | East Baedoor        | ⚜️ Rare        |                                                                            |
+| Facon    | Whole Baedoor       | ⚜️ Rare        |                                                                            |
+ | Fadest   | Whole Baedoor       | 🔥 Common      |                                                                            |
+| Falcur   | Baedoor city        | ⚜️ Rare        | Unknown origin, possibly baedoorised nomathian name                        |
+| Falgor   | East Baedoor        | 🔆 Semi-common | Probably with nomathian origins or influences                              | 
+| Fathur   | Whole Baedoor       | 🏵️ Semi-rare  | Common name in Old Era, rare in New Era. Has nomathian influences          |
+| Fran     | East Baedoor        | 🏵️ Semi-rare  |                                                                            |
+| Fred     | East Baedoor        | ⚜️ Rare        | Used mostly in OE                                                          |
+| Frem     | Whole Baedoor       | 🔆 Semi-common |                                                                            |
+| Frode    | Whole Baedoor       | 🔥 Common      | Old name                                                                   |
+| Frodo    | Mostly Baedoor city | ⚜️ Rare        | Variation of *Frode* name                                                  |
+| Fudar    | East Baedoor        | ⚜️ Rare        | Rare name that was common in Old Era                                       |
+| Hadan    | East Baedoor        | 🔥 Common      | Used mostly in Old Era                                                     |
+| Hanyah   | East Baedoor        | ⚜️ Rare        |                                                                            |
+| Harald   | East Baedoor        | ⚜️ Rare        |                                                                            |
+| Hasting  | East Baedoor        | ⚜️ Rare        | Used mostly in Old Era                                                     |
+| Hastings | East Baedoor        | 🏵️ Semi-rare  | Variant of *Hasting* name                                                  |
+| Heim     | Whole Baedoor       | 🔥 Common      | Originated from Rakonnd Coast                                              | 
+| Heimlig  | Ansur, Rakonnd      | 🏵️ Semi-rare  | Probably mix of **Heim** and nordwinian suffix                             |
+| Hem      | Whole Baedoor       | 🔆 Semi-common | Started appearing in NE; possibly evolution of Heim                        |
+| Hrevir   | Whole Baedoor       | 🔥 Common      | Used both in Old and New Era                                               |
+| Iilvinim | East Baedoor        | 🏵️ Semi-rare  |                                                                            |
+| Indion   | Whole Baedoor       | ⚜️ Rare        | Name originating from Jitado                                               |
+| Invari   | East Baedoor        | ⚜️ Rare        | Of jitadian origin                                                         |
+| Irlangor | East Baedoor        | ⚜️ Rare        | Of jitadian origin, with more feminine form *Irlanda*                      |
+| Isehir   | Whole Baedoor       | ⚜️ Rare        | Probably mix of baedoorian Isen and nomathian influences                   |
+| Isen     | Whole Baedoor       | 🔆 Semi-common | Of jitadian origin                                                         |
+| Iser     | East Baedoor        | ⚜️ Rare        | Probably nomathian influenced variant of Isen                              |
+| Isou     | East Baedoor        | ⚜️ Rare        | Of jitadian origin, nowadays almost unseen in baedoorian culture           |
+| Issu     | East Baedoor        | ❌ Extinct      | Variant of *Isou*, nowadays not used                                       |
+| Jarth    | East Baedoor        | ⚜️ Rare        | From nomathian *Arth*                                                      |
+| Joeseh   | East Baedoor        | ⚜️ Rare        | Of jitadian origin                                                         |
+| Kin      | Whole Baedoor       | 🏵️ Semi-rare  |                                                                            |
+| Kirs     | East Baedoor        | ⚜️ Rare        | Of possibly nomath origin                                                  |
+| Lovrem   | East Baedoor        | 🔆 Semi-common |                                                                            |
+| Malcolm  | Whole Baedoor       | 🏵️ Semi-rare  |                                                                            |
+| Marvin   | Whole Baedoor       | 🔥 Common      |                                                                            |
+| Mes      | East Baedoor        | ⚜️ Rare        |                                                                            |
+| Mez      | East Baedoor        | ⚜️ Rare        | Very unique variant of *Mes*                                               |
+| Natem    | East Baedoor        | ⚜️ Rare        | Semi-popular name in Old Era, rare in New Era, of jitadian origin          |
+| Nelson   | Whole Baedoor       | 🏵️ Semi-rare  | Common name in Old Era, becoming rare in New Era                           |
+| Nemos    | Whole Baedoor       | 🔆 Semi-common | Nowadays common mostly in West Baedoor, of jitadian origin                 |
+| Nicoris  | Whole Baedoor       | 🏵️ Semi-rare  |                                                                            |
+| Nim      | Whole Baedoor       | 🏵️ Semi-rare  |                                                                            |
+| Noelm    | Whole Baedoor       | 🏵️ Semi-rare  | Common name in Old Era, became rarer in New Era                            |
+| Norran   | Whole Baedoor       | 🔥 Common      |                                                                            |
+| Norvin   | Whole Baedoor       | 🔆 Semi-common | Specifically popular on Rakonnd coast                                      |
+| Nyver    | Whole Baedoor       | ⚜️ Rare        | Of jitadian origin, with Nyvera as female counterpart                      |
+| Orhat    | East Baedoor        | ⚜️ Rare        | Extremely rare, of nomathian origin                                        |
+| Ovlan    | Whole Baedoor       | 🔥 Common      | Usually more frequently found on Rakonnd Coast                             |
+| Pathor   | Whole Baedoor       | 🏵️ Semi-rare  | Common name in Old Era                                                     |
+| Reduit   | Whole Baedoor       | 🏵️ Semi-rare  | Common name of early Old Era                                               |
+| Rosvin   | East Baedoor        | 🏵️ Semi-rare  | Common name on Rakonnd coast, semi-rare elsewhere, of jitadian origin      |
+| Rvana    | Whole Baedoor       | ⚜️ Rare        | Extremely rare name, nowadays almost unseen, with possible nomath origin   |
+| Slavod   | East Baedoor        | ⚜️ Rare        | Of nomathian origin                                                        |
+| Tom      | Whole Baedoor       | 🔥 Common      |                                                                            |
+| Vada     | East Baedoor        | ⚜️ Rare        | Used in Old Era                                                            |
+| Vrode    | West Baedoor        | ⚜️ Rare        | Used in New Era, possibly being baedoorised *Frode*                        |
+| Yraeni   | East Baedoor        | ⚜️ Rare        | Originating from Jitado, used in early Old Era                             |
+| Zan      | East Baedoor        | ⚜️ Rare        | With influence of nomathian language                                       |
+
+### Female
+| Name     | Localisation  | Rarity         | Description                                                                                   |
+|----------|---------------|----------------|-----------------------------------------------------------------------------------------------|
+| Cryna    | East Baedoor  | ⚜️ Rare        | Used in Old Era, feminine variant of *Cryan*                                                  |
+| Dorin    | Whole Baedoor | 🔆 Semi-common | Common name in Old Era, a bit more rare in New Era                                            |
+| Eida     | East Baedoor  | ⚜️ Rare        | Of jitadian origin                                                                            |
+| Elea     | East Baedoor  | 🏵️ Semi-rare  | Found more often in northern Baedoor                                                          |
+| Ferves   | Whole Baedoor | ⚜️ Rare        |                                                                                               |
+| Florat   | East Baedoor  | 🏵️ Semi-rare  | Nomathian-influenced form of *Lorat*                                                          |
+| Hanyah   | East Baedoor  | ⚜️ Rare        |                                                                                               |
+| Idris    | East Baedoor  | 🔆 Semi-common |                                                                                               |
+| Irlanda  | East Baedoor  | ⚜️ Rare        | Of jitadian origin, more feminine form of *Irlangor*                                          |
+| Irlangor | East Baedoor  | ⚜️ Rare        | Of jitadian origin                                                                            |
+| Isena    | Whole Baedoor | ⚜️ Rare        | Female variant of *Isen* with slight difference from jitadian origin                          |
+| Lorat    | Whole Baedoor | 🏵️ Semi-rare  | Commonly used in Old Era, in New Era mostly seen in aristocratic families. Of jitadian origin |
+| Nyvera   | Whole Baedoor | ⚜️ Rare        | Of jitaditan origin, with Nyver as male counterpart                                           |
+| Sana     | Whole Baedoor | 🔥 Common      | Name originated from Jitado                                                                   |
+| Sanae    | Whole Baedoor | 🔥 Common      | Variant of *Sana*                                                                             |
+| Sara     | Whole Baedoor | 🔥 Common      | Less popular variant of *Sana*                                                                |
+| Veronica | Whole Baedoor | 🔥 Common      | Commonly used, especially among lower aristocratic families                                   |
+| Wenyah   | East Baedoor  | ⚜️ Rare        | Used in Old Era, nomathian-influenced variant of *Hanyah*                                     |
+
+
+---
+## Surnames
+
+| Name       | Localisation                  | Description                                                                                                                                                         |
+|------------|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Abrahk     | Rakonnd                       | Aristocratic surname, of Al Khasar heritage                                                                                                                         |
+| Alearis    | Whole Baedoor                 | Common surname in south part of Baedoor's isle                                                                                                                      |
+| Allaut     | East Baedoor                  | Aristocratic surname from Isuga                                                                                                                                     |
+| Buqan, vân | East Baedoor                  | Aristocratic name from Alkaesar of nomathian origin                                                                                                                 |
+| Eiron      | East Baedoor                  | Aristocratic surname from Skirran                                                                                                                                   |
+| Ettua      | East Baedoor                  | Aristocratic surname                                                                                                                                                |
+| Calgori    | East Baedoor                  | Aristocratic surname                                                                                                                                                |
+| Gorth      | Whole Baedoor                 | Common surname                                                                                                                                                      |
+| Ien, vân   | East Baedoor                  | Aristocratic surname from Thanbyan of nomathian origin                                                                                                              |
+| Indan      | East Baedoor                  | Rare aristocratic surname, in NE basically non-existent, few individuals may exist abroad referring to [Indan article](/Loreum/Topics/Characters/Families/Indan.md) |
+| Inradena   | East Baedoor                  | Common surname in south-west of Baedoor's isle                                                                                                                      |
+| Inraerdena | West Baedoor                  | West Baedoor noble family of Inradena, who changed their surname to accent their proletarian origin                                                                 |
+| Kono       | East Baedoor                  | Aristocratic surname                                                                                                                                                |
+| Maen       | Whole Baedoor                 | Aristocratic surname in Dvickhet, but also not uncommon name among commonfolk in West Baedoor                                                                       |
+| Mevren     | Whole Baedoor                 | Semi-common surname                                                                                                                                                 |
+| Naevos     | Ansur                         | Surname coming from trish Nai and arennian-baedoorian Vos families                                                                                                  |
+| Naraho     | Baedoor city and surroundings | Old name of Baedoor city surroundings, considered of nomathian influence                                                                                            |
+| Navikon    | East Baedoor, Ansur           | Fairly spread out name on east side of Baedoor areas                                                                                                                |
+| Neerhe     | Isuga and surroundings        | Old Isuga-related house, without aristocratic roots                                                                                                                 |
+| Thargav    | East Baedoor                  | Aristocratic surname of nomathian origin                                                                                                                            |
+| Thon       | East Baedoor                  | Aristocratic surname from Ontero                                                                                                                                    |
+| Tio        | Mostly Isuga and surroundings | Old Isuga-related family, but also jitadian surname                                                                                                                 |
+| Varteford  | Baedoor city                  | Aristocratical surname                                                                                                                                              |
+| Velga, le  | East Baedoor                  | Aristocratic surname, of Isuga heritage                                                                                                                             |
+| Vos        | Arennan, West Baedoor         | Rare surname connected with Arennan naming                                                                                                                          |
+| Warthog    | East Baedoor                  | Aristocratic surname of nomathian origin                                                                                                                            |
+| Winfleton  | West Baedoor                  | Aristocratic surname, nowadays recognised with **Heim Winfleton**                                                                                                   |
+| Xavier     | East Baedoor                  | Aristocratic surname, originating from Baedoor city                                                                                                                 | 
