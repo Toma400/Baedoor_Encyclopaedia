@@ -25,6 +25,7 @@ LEGEND:
 📚 - education 
 ⚗️ - technologies
 🚂 - vehicles
+㊙️ - names
 ```
 
 ---
@@ -35,7 +36,7 @@ LEGEND:
 - [Vaerdena Tertens](Cultures/Tertens_Vaerdena/[Culture].md)
 
 ### Seiteh
-- [Ghlodds](Cultures/Ghlodds/[Culture].md) 🔹 [🏯](Cultures/Ghlodds/Architecture.md) [⚗️](Cultures/Ghlodds/Technologies.md)
+- [Ghlodds](Cultures/Ghlodds/[Culture].md) 🔹 [🏯](Cultures/Ghlodds/Architecture.md) [⚗️](Cultures/Ghlodds/Technologies.md) [㊙️](/Loreum/Topics/Characters/Names/Ghlodds.md)
 
 ---
 ♜: may be useful to also include subpages? (as in, if the culture has multiple local divisions, like

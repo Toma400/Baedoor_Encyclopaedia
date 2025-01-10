@@ -5,16 +5,17 @@ or just if you would like to look at cultural differences between civilisations.
 ## Table of contents:
 **Names [🔱](#centernamescenter)**
 - [Baedoorian Names](#baedoorian-names)
+- [Ghloddish](Names/Ghlodds.md#names)
 - [Jitadian Names](#jitadian-names)
 - [Mesinpean Names](#mesinpean-names)
-- [Nomathian Names](Names/Nomathian.md#names)
-- [Ghloddish Names](#ghloddish-names)
+- [Nomathian](Names/NomathianBae.md#names) (Baedoor)
 - [Tri Names](#tri-names)
 
 **Surnames [🔱](#centersurnamescenter)**
 - [Baedoorian Surnames](#baedoorian-surnames)
+- [Ghloddish](Names/Ghlodds.md)
 - [Jitadian Surnames](#jitadian-surnames)
-- [Nomathian Surnames](Names/Nomathian.md#surnames)
+- [Nomathian](Names/NomathianBae.md#surnames) (Baedoor)
 - [Tri Surnames](#tri-surnames)
 
 **Cultural & Inheritance Rules [🔱](#cultural--inheritance-rules)**
@@ -250,16 +251,6 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Name  | Localisation | Description                      |
 |-------|--------------|----------------------------------|
 | Devah | Mes Inpea    | Common name (has also male form) |
-
----
-### Ghloddish Names
-<center><span style="color:#668c99"><b>Male names</b></span></center>
-
-| Name    | Localisation       | Description                                |
-|---------|--------------------|--------------------------------------------|
-| T'sheit | Outside Seiteh     | Rare name with hearable foreign influences |
-| Yathr   | Seiteh and outside | Semi-rare name across whole Seiteh         |
-| Yadr    | Seiteh and outside | Modern variant of Yathr                    |
 
 ---
 ### Tri Names

@@ -6,6 +6,7 @@ specifically such as local community, family and religious tales and values.
 ### Cultural Topics
 - [🏯 Architecture](Architecture.md)
 - [⚗️ Technologies](Technologies.md)
+- [㊙️ Names](/Loreum/Topics/Characters/Names/Ghlodds.md)
 
 ---
 ♜  

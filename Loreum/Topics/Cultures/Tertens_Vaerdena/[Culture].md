@@ -41,11 +41,11 @@ into good and evil - they rather perceive things are intertwined unity.
 
 <table>
     <tr>
-        <td height="30px">
-            <img alt="" src="/Assets/Culture/Architecture/terten_city.jpg">
+        <td width="60%">
+            <img alt="" src="/Assets/Culture/Architecture/terten_city.jpg" height="100%">
         </td>
-        <td height="30px">
-            <img alt="" src="/Assets/terten_armour_colour.png">
+        <td width="40%">
+            <img alt="" src="/Assets/terten_armour_colour.png" height="100%">
         </td>
     </tr>
     <tr>

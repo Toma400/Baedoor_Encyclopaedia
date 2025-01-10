@@ -7,7 +7,7 @@
             <img alt="Funt concept art" src="/Assets/coin_baedoorian.png">
         </td>
         <td height="30px">
-            <img alt="Funt in FSAM" src="/Assets/coin_baedoorian_fsam.png">
+            <img alt="Funt in FSAM" src="/Assets/coin_baedoorian_fsam.png" height="100%">
         </td>
     </tr>
     <tr>
