@@ -77,6 +77,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### J
 - [Jaspen](Topics/Nature/Herbarium/List/Jaspen.md)
+- [Jitadeans](Topics/Cultures/Jitadians/[Culture].md)
 - [Jitado](Topics/Geography/Old_Continent/Jitado.md) (island)
 - [Joeseh Thon](Topics/Characters/List/Thon_Joeseh.md)
 

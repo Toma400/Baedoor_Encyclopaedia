@@ -3,11 +3,11 @@
 ---
 <table>
     <tr>
-        <td height="30px">
+        <td width="70%">
             <img alt="Funt concept art" src="/Assets/coin_baedoorian.png">
         </td>
-        <td height="30px">
-            <img alt="Funt in FSAM" src="/Assets/coin_baedoorian_fsam.png" height="100%">
+        <td width="30%">
+            <img alt="Funt in FSAM" src="/Assets/coin_baedoorian_fsam.png">
         </td>
     </tr>
     <tr>

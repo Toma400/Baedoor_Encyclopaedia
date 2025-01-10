@@ -107,7 +107,7 @@ earning some wealth, and after that to marriage, from which Tom gained a second 
 Tom's travel to Jitado was one of the most fruitful, keeping him there for over a year.  
 For this time, Tom learned local weaponry and culture, which he fell in love with - the famous jitado
 shotgun from there became his indispensable companion, and also his attribute.  
-Staying for a long time with the Jitadean hunters, he took from them their custom of naming
+Staying for a long time with the Jitadian hunters, he took from them their custom of naming
 weapons - he called his shotgun by the name of "Pheren", meaning "faithful" in Jitadish.  
 Similarly to his first love, it enriched his surname with yet another name.
 

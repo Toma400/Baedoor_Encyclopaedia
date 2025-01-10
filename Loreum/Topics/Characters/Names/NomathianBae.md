@@ -5,7 +5,6 @@
 - [Surnames](#surnames)
 
 ## Names
-(possible rules)
 
 ### Male
 | Name   | Localisation | Rarity         | Description |
@@ -20,7 +19,6 @@
 
 ---
 ## Surnames
-(possible rules)
 
 | Name    | Localisation               | Description          |
 |---------|----------------------------|----------------------|

@@ -1,16 +1,15 @@
-# ⚜️ Baedoor Nomathian Naming
+# ⚜️ Ghloddish Naming
 - [Names](#names)
   - [Male](#male)
   - [Female](#female)
 - [Surnames](#surnames)
 
 ## Names
-(possible rules)
 
 ### Male
 | Name    | Localisation       | Rarity        | Description                 |
 |---------|--------------------|---------------|-----------------------------|
-| T'sheit | Outside Seiteh     | ⚜ Rare        | Hearable foreign influences |
+| T'sheit | Outside Seiteh     | ⚜️ Rare       | Hearable foreign influences |
 | Yathr   | Seiteh and outside | 🏵️ Semi-rare |                             |
 | Yadr    | Seiteh and outside | 🔥 Common     | Modern variant of Yathr     |
 
@@ -21,7 +20,6 @@
 
 ---
 ## Surnames
-(possible rules)
 
 | Name     | Localisation                                    | Description                                                           |
 |----------|-------------------------------------------------|-----------------------------------------------------------------------|
