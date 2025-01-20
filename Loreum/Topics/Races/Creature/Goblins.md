@@ -46,9 +46,12 @@ That said, there are tribes herding animals, and it is not that rare sight. Espe
 living in Baedoor Island, where risk of being killed is higher.
 
 Goblins do not write or read, their communication is built upon speech and art which is a main way
-to convey ideas throughout time.  
+to convey ideas throughout time. Ideas and values are transferred through stories, while skills
+and craft through teaching practice and complex painted scenes.  
 Art serves goblins broadly, meaning even items of everyday use can have some shapes carved into
-them.
+them. There are two main ways for goblins to make art - through carving and painting, usually on
+materials available. That doesn't mean though that other forms are not present, as goblins like
+sewing their clothes with simple patterns.
 
 Goblins do not understand human speech, but have role of translator, who is usually skilled with
 languages enough and communicates between humans and goblins in those rare situations that happens.  
@@ -147,8 +150,7 @@ to tribes living elsewhere.
 More things to note (in doc or here, or both):
 - characterisation of each group
 - technology alignment
-- passing knowledge through art and apprentice between generations
-- religion
+- religion, rituals, demons etc.
 - art
 - gender-blindness?
 - structure of power and society day-to-day life

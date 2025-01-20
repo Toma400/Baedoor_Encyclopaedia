@@ -55,7 +55,7 @@ are said to be used in science and art, being gift from ghloddish gods to the mo
   - [Ghloddish architecture](/Loreum/Topics/Cultures/Ghlodds/Architecture.md)
   - Ghloddish art
 - Ghloddish beliefs
-- [Ghloddish Technology](/Loreum/Topics/Cultures/Ghlodds/Technologies.md)
+- [Ghloddish technology](/Loreum/Topics/Cultures/Ghlodds/Technologies.md)
 
 ---
 ✥  

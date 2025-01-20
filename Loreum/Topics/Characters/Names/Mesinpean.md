@@ -16,7 +16,7 @@
 | Fleon  | Whole Mes Inpea | 🔆 Semi-common |                                                               |
 | Devah  | Whole Mes Inpea | 🔥 Common      | Has also female form                                          |                                         
 | Iner   | Whole Mes Inpea | 🔥 Common      |
-| Ineald | Outside         | ⚜️ Rare        | With jitadean/baedoorian influences, possibly Iner derivation |
+| Ineald | Outside         | ⚜️ Rare        | With jitadish/baedoorian influences, possibly Iner derivation |
 | Ottus  | Whole Mes Inpea | 🔆 Semi-common |                                                               |
 | Sul    | Whole Mes Inpea | 🏵️ Semi-rare  |                                                               |
 

@@ -10,4 +10,4 @@ It sails under **East Baedoor** banner and serves mostly to transport passengers
 
 ---
 ✥  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures.md) 〰️ [🚂](/Loreum/Topics/Cultures/Baedoorians/Vehicles.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures/Baedoorians/[Culture].md) 〰️ [🚂](/Loreum/Topics/Cultures/Baedoorians/Vehicles.md)

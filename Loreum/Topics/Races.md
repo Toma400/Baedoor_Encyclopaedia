@@ -6,6 +6,8 @@ may also visit [cultures page](Cultures.md).
 ### Regular races
 ####   🔹 [Ghlodds](Races/Regular/Ghlodds.md)
 ####   🔹 [Ormaths](Races/Regular/Ormaths.md)
+####   🔹 Tri
+####     🔹 [Saphtri](Races/Regular/TriSaphtri.md)
 
 ### Creature races
 ####   🔹 [Goblins](Races/Creature/Goblins.md)

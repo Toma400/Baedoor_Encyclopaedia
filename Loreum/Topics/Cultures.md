@@ -32,12 +32,13 @@ LEGEND:
 ---
 ### Baedoor Continent
 - [Baedoorians](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [🚂](Cultures/Baedoorians/Vehicles.md) [㊙️](/Loreum/Topics/Characters/Names/Baedoorian.md)
+- [Saphtris](Cultures/Tri_Saphtris/[Culture].md) 🔹 [⚗️](Cultures/Tri_Saphtris/Technologies.md) [㊙️](/Loreum/Topics/Characters/Names/TriSaphtri.md)
 
 ### East Moon
 - [Vaerdena Tertens](Cultures/Tertens_Vaerdena/[Culture].md)
 
 ### Jitado
-- [Jitadians](Cultures/Jitadians/[Culture].md) 🔹 [🥮](/Loreum/Topics/Nature/Foods/Jitadian.md) [㊙️](/Loreum/Topics/Characters/Names/Jitadean.md)
+- [Jitadians](Cultures/Jitadians/[Culture].md) 🔹 [🥮](/Loreum/Topics/Nature/Foods/Jitadian.md) [㊙️](/Loreum/Topics/Characters/Names/Jitadian.md)
 
 ### Seiteh
 - [Ghlodds](Cultures/Ghlodds/[Culture].md) 🔹 [🏯](Cultures/Ghlodds/Architecture.md) [⚗️](Cultures/Ghlodds/Technologies.md) [㊙️](/Loreum/Topics/Characters/Names/Ghlodds.md)

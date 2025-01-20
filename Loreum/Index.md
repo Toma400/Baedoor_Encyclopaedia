@@ -57,8 +57,8 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Funt](Topics/Cultures/Baedoorians/List/Funt.md)
 
 ### G
-- [Ghlodds](Topics/Races/Regular/Ghlodds.md) (Race)
-- [Ghlodds](Topics/Cultures/Ghlodds/[Culture].md) (Culture)
+- [Ghlodds](Topics/Races/Regular/Ghlodds.md) (race)
+- [Ghlodds](Topics/Cultures/Ghlodds/[Culture].md) (culture)
 - [Goblins](Topics/Races/Creature/Goblins.md)
 - [Golden Lighthouse of Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
 - [Guild of Adventurers](Topics/Guilds/List/Alkaesar_Adventurers_Guild.md) (Alkaesar/Radpat)
@@ -77,7 +77,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### J
 - [Jaspen](Topics/Nature/Herbarium/List/Jaspen.md)
-- [Jitadeans](Topics/Cultures/Jitadians/[Culture].md)
+- [Jitadians](Topics/Cultures/Jitadians/[Culture].md)
 - [Jitado](Topics/Geography/Old_Continent/Jitado.md) (island)
 - [Joeseh Thon](Topics/Characters/List/Thon_Joeseh.md)
 
@@ -119,6 +119,8 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Raliun](Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
 
 ### S
+- [Saphtri](Topics/Cultures/Tri_Saphtris/[Culture].md) (culture)
+- [Saphtri](Topics/Races/Regular/TriSaphtri.md) (race)
 - [Separatists](Topics/Factions/List/Separatists.md)
 - [Si Avani](Topics/Characters/List/Avani_Si.md)
 - [Skirran](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)
