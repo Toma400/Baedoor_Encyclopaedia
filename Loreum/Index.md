@@ -8,6 +8,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Abrahk](Topics/Characters/Families/Abrahk.md)
 - [Adelaie](Topics/Geography/Old_Continent/Jitado/Cities/Adelaie.md)
 - [Adventurers' Guild](Topics/Guilds/List/Alkaesar_Adventurers_Guild.md) (Alkaesar/Radpat)
+- [Aerial Pirates](Topics/Guilds/List/Aerial_Pirates.md)
 - [Alkaesar](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Alkaesar.md) (city)
 - [Allaut, Eduard](Topics/Characters/List/Allaut_Eduard.md)
 - [Allaut, Isehir](Topics/Characters/List/Allaut_Isehir.md)

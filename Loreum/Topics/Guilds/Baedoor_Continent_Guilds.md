@@ -1,6 +1,9 @@
 # 🕌 Baedoor Continent Guilds
 
 ---
+### 🏯 ARENNAN
+#### [Aerial Pirates](List/Aerial_Pirates.md)
+
 ### 🏯 BAEDOOR
 #### [Guild of Adventurers](List/Alkaesar_Adventurers_Guild.md)
 
