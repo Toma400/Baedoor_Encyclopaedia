@@ -19,6 +19,7 @@ List of all noted characters existing throughout the history of Baedoor universe
 ---
 ### 🥮 BY NATION
 #### 🔹 [Baedoorians](Characters/Baedoorian_Characters.md)
+#### 🔹 [Erds](Characters/Erdic_Characters.md)
 #### 🔹 [Jitadians](Characters/Jitadian_Characters.md)
 #### 🔹 [Lunatri](Characters/Lunatri_Characters.md)
 

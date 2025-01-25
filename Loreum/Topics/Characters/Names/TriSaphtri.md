@@ -25,3 +25,4 @@
 | Name   | Description                                               |
 |--------|-----------------------------------------------------------|
 | Aranai | Saphtri noble surname, sometimes taken as gods' patronage |
+| Nirai  | Saphtri common surname                                    |

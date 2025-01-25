@@ -24,6 +24,21 @@ community tend to use different stories (usually with some shared root), there's
 stories that are almost universally brought by saphtris. All of them convey similar meanings and
 values, ensuring coherent character of saphtric culture despite diverse details.
 
+### Art
+Saphtri are known for their particular love towards music and weaving, however they also tend to be
+extraordinary writers and painters.
+
+Music has particular place in saphtri life, since it is omnipresent. It is played on ceremonies,
+weekly masses, on streets and sometimes even in homes - a lot of poorer children learn how to play
+music just to be invited into houses and earn some money (or even a meal together with other house members)
+in exchange.  
+Saphtri prefer wind instruments, and their music is rather ethereal. Stringed instruments are other
+popular choice, specifically ones that emit delicate sound like harps.
+
+Weaving and sewing is special, because this kind of art is often considered as one of most spiritual.  
+This connected to the fact of saphtri faith being more story-based and fluid makes this art particularly
+experimental and abstract.
+
 <table width="60%">
   <tr>
     <td>

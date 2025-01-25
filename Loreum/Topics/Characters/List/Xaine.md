@@ -40,6 +40,10 @@ there thanks to some form of breach, Rift or his own unknown knowledge.
     </tr>
 </table>
 
+### Trivia
+Xaine is a cameo of Lyof, a friend of Toma. That being said, their existence is explained as one of
+multiple selves of Lyof, making it more attached to actual reality and less separated from each other.
+
 ---
 ♜✥: make separate page for Xaine's script  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Characters/Jitado_Characters.md)

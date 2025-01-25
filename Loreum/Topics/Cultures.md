@@ -32,6 +32,7 @@ LEGEND:
 ---
 ### Baedoor Continent
 - [Baedoorians](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [🚂](Cultures/Baedoorians/Vehicles.md) [㊙️](/Loreum/Topics/Characters/Names/Baedoorian.md)
+- [Erds](Cultures/Erds/[Culture].md) 🔹 [🏯](Cultures/Erds/Architecture.md) [㊙️](/Loreum/Topics/Characters/Names/Erds.md)
 - [Saphtris](Cultures/Tri_Saphtris/[Culture].md) 🔹 [⚗️](Cultures/Tri_Saphtris/Technologies.md) [㊙️](/Loreum/Topics/Characters/Names/TriSaphtri.md)
 
 ### East Moon
