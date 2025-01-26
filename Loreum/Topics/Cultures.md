@@ -36,6 +36,7 @@ LEGEND:
 - [Saphtris](Cultures/Tri_Saphtris/[Culture].md) 🔹 [⚗️](Cultures/Tri_Saphtris/Technologies.md) [㊙️](/Loreum/Topics/Characters/Names/TriSaphtri.md)
 
 ### East Moon
+- [Baedoorians](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [🚂](Cultures/Baedoorians/Vehicles.md) [㊙️](/Loreum/Topics/Characters/Names/Baedoorian.md)
 - [Vaerdena Tertens](Cultures/Tertens_Vaerdena/[Culture].md)
 
 ### Jitado
