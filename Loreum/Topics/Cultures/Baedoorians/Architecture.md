@@ -12,25 +12,35 @@ yet elegant brick buildings, quite often in white colour. Not so many ornaments 
 `Baedoor city, High District, in early baedoorian style`
 
 ### Vershaton style
-Vershaton from beginning of its nomathian rule was unique, as desert and alpine character forced
-nomaths to adjust. When baedoorians conquered Vershaton, they largely kept to the traditional nomathian
-style and so this influence is felt much stronger on eastern side.  
-Baedoorian-nomathian architecture over Vershaton is heavily based on bricks, often featuring two-story
-buildings that differentiate those buildings from taller ones popular on western side of the Island.
-That doesn't mean Vershaton towns do not feature taller buildings, but they are rather rare and usually
-serve more important function (such as administration or banking).
+From the beginning of its **Nomathian** rule, Vershaton was unique, as its desert and alpine character 
+forced Nomaths to adjust. When Baedoorians conquered Vershaton they largely kept the traditional 
+Nomathian style, and so its influence is much stronger on the eastern side.  
+Baedoorian-Nomathian architecture in Vershaton is rustic, and heavily based on exposed bricks and in 
+some cases stucco. Many have balconies, overhangs, or porticos over porches, verandas, or lanais.
+Often featuring two-story buildings that can be recognised as different from the taller kind popular 
+on the western side of the island.  
+This doesn't mean Vershaton towns do not feature taller buildings, but they're rather rare and usually
+serve more important functions, such as administration or banking.
 
 ### Ansurian style
 Ansurian style is quite interesting case for baedoorian architecture, as it differs from what was
-popular in times of Ansur establishing. The reason may be that Evros, being yet small village town
-at the beginning, had too little resources to spend money on elegant modern baedoorian style.  
-After a while, ansurians started to prefer their style over continental buildings, so it stayed there.
+popular in times of Ansur establishing.  
+It is in many ways a comeback to early baedoorian architecture - it is simple, white-walled
+and does stay within this jitadian influence of early baedoorian culture. Differently from it, though,
+it incorporates some ornamentalism, especially balconies being way more frequent sight, and colour palette
+shifting to light blue as liked choice for this particular place.
 
-Ansurian style is in much sense comeback to early baedoorian architecture - it is simple, white-walled
-and does stay within this jitadian influence early baedoorian culture were. Differently from it, though,
-it incorporates some ornamentalism, especially balconies being way more often, and colour palette
-shifted to light blue being liked choice for this particular place.
+There are three reasons that contributed into this stark difference:
+- lacking resources of new settlers, making elegant modern baedoorian style not really affordable option
+- influence of jitadian minority
+- and style guidance by Ilvis Sorevo, who being of jitadian origins, wanted to incorporate this
+  character back into baedoorian architecture
 
+The one that had the biggest impact was the fact of Evros government hiring Ilvis Sorevo as an 
+architect to shape more unique style of the city. Even though not without struggles, he succeeded with
+the task, eventually designing what Evros will be remembered from.  
+Despite this project being used primarily for Evros, this visual direction affects also the newly 
+built ones and buildings in Waine, making it fairly universal distinction of ansurian architecture.
 ---
-♜  
+♜✥  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures/Baedoorians/[Culture].md)
