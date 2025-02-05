@@ -11,6 +11,7 @@ or just if you would like to look at cultural differences between civilisations.
 - [Nomathian](Names/NomathianBae.md#names) (Baedoor)
 - Tric
   - [Lunatric](Names/TriLunatri.md#names)
+  - [Pahtric](Names/TriPahtri.md#names)
   - [Saphtric](Names/TriSaphtri.md#names)
   - [Voitric](Names/TriVoitri.md#names)
 
@@ -22,6 +23,7 @@ or just if you would like to look at cultural differences between civilisations.
 - [Nomathian](Names/NomathianBae.md#surnames) (Baedoor)
 - Tric
   - [Lunatric](Names/TriLunatri.md#surnames)
+  - [Pahtric](Names/TriPahtri.md#surnames)
   - [Saphtric](Names/TriSaphtri.md#surnames)
   - [Voitric](Names/TriVoitri.md#surnames)                                                                           
 

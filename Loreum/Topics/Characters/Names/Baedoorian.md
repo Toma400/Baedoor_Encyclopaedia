@@ -87,7 +87,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Rosvin   | East Baedoor        | 🏵️ Semi-rare  | Common name on Rakonnd coast, semi-rare elsewhere, of jitadian origin      |
 | Rvana    | Whole Baedoor       | ⚜️ Rare        | Extremely rare name, nowadays almost unseen, with possible nomath origin   |
 | Slavod   | East Baedoor        | ⚜️ Rare        | Of nomathian origin                                                        |
-| Tom      | Whole Baedoor       | 🔥 Common      |                                                                            |
+| Tom      | Whole Baedoor       | 🔥 Common      | Could have originated from pahtric "Tomai"                                 |
 | Vada     | East Baedoor        | ⚜️ Rare        | Used in Old Era                                                            |
 | Vrode    | West Baedoor        | ⚜️ Rare        | Used in New Era, possibly being baedoorised *Frode*                        |
 | Yraeni   | East Baedoor        | ⚜️ Rare        | Originating from Jitado, used in early Old Era                             |
