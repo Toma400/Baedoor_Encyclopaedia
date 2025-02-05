@@ -5,7 +5,8 @@ nomathian culture disappeared.
 Their language is known for rustly sound, which was often point of baedoorian jokes.
 
 ### Nomathian vocabulary
-| Word  | Translation                                          | Pronunciation | Etymology |
-|:-----:|------------------------------------------------------|---------------|:---------:|
-| skirr | cold coast                                           | ʃ:kirr        |     -     |
-| wešš  | word used at jitadish governors and army, pejorative | weʃ↑:         |     -     |
+|  Word  | Translation                                                                               | Pronunciation | Etymology |
+|:------:|-------------------------------------------------------------------------------------------|---------------|:---------:|
+| nahegh | origin name of [Naven](/Loreum/Topics/Nature/Bestiary/List/Naven.md), means "bloody bird" | nah:ekh       |     -     |
+| skirr  | cold coast                                                                                | ʃ:kirr        |     -     |
+|  wešš  | word used at jitadish governors and army, pejorative                                      | weʃ↑:         |     -     |

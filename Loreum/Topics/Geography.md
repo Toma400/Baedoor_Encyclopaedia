@@ -6,8 +6,7 @@ All what creates the oververse, but mostly on Baedoor itself.
 |                                      Map of Baedoor universe                                       |
 
 ---
-## 🌌 BAEDOOR MULTIVERSE
-### 🪐 MAIN BRANCH
+### 🏞️ LANDS
 ####   🔷 [Baedoor Continent](Geography/Baedoor_Continent.md)
 #####      🔹 Northern Islands
 #####      🔹 [Baedoor](Geography/Baedoor_Continent/Baedoor.md)
@@ -28,8 +27,6 @@ All what creates the oververse, but mostly on Baedoor itself.
 #####      🔹 Oe'os
 #####      🔹 Septei
 #####      🔹 Vartee
-####   🔷 [Uruati Land]
-####   🔷 [Nak Land]
 ####   🔷 Vaos Archipelago
 ####   🔷 Loose Islands `outside continents`
 ####   🔷 The Grand Southern Permafrost
@@ -39,22 +36,25 @@ All what creates the oververse, but mostly on Baedoor itself.
 ####          🛠️ WIP (Names will change):
 
 ####   🔷 Northern Islands
-####   🔷 Aztec Archipelago
+####   🔷 Ixathei `"aztec continent"`
 ####   🔷 Native African Islands `Ereut` `Dawn Islands`
 ####   🔷 Snake Islands `Serpentuan` `Serpent Islands`
 ####   🔷 Minotaur Islands
 ####   🔷 Aev Archipelago
 
-### 💫 DIMENSIONS
+### 🌊 [OCEANS](Geography/[Oceans].md)
+####   🔷 [Ennearic Ocean](Geography/[Oceans]/Ennaeric_Ocean.md)
 
-### 🎇 BEYOND SPECTRUM
-#####   🔷 Lands of the Dead
-#####   🔷 Crossing
-#####   🔷 The Void
-#####   🔷 The Library of Worlds
+### 💫 REGULAR DIMENSIONS
+
+### 🎇 METAPHYSICAL DIMENSIONS
+####   🔷 Lands of the Dead
+####   🔷 Crossing
+####   🔷 The Void
+####   🔷 The Library of Worlds
 
 ---
-## 🎆 OTHER KNOWN MULTIVERSES
+### 🎆 OTHER KNOWN MULTIVERSES
 #### 🔷 Tamariel
 #### 🔷 Uru'ai
 #### 🔷 Osde'in

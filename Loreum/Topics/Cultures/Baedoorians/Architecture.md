@@ -41,6 +41,7 @@ architect to shape more unique style of the city. Even though not without strugg
 the task, eventually designing what Evros will be remembered from.  
 Despite this project being used primarily for Evros, this visual direction affects also the newly 
 built ones and buildings in Waine, making it fairly universal distinction of ansurian architecture.
+
 ---
 ♜✥  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures/Baedoorians/[Culture].md)

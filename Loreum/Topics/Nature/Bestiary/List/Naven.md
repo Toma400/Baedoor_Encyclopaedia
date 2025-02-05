@@ -1,7 +1,8 @@
-# 🐊 Navennen
+# 🐊 Naven
 
 ---
-**Navennen** is native flying creature to Baedoor island, a white, crow-like predator.  
+**Naven** (from nomth. *nahegh*, "bloody bird") is native flying creature to Baedoor island, a white, 
+crow-like predator.  
 Rarely seen, spends most of its life alone in the forests. Navennens can hunt far from their home, 
 thus can be seen on fields searching for small creatures (such as rabbits, mouses, rats and others).
 

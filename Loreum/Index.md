@@ -45,6 +45,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Eiron, Zan](Topics/Characters/List/Eiron_Zan.md)
 - [Enahr, Esh](Topics/Characters/List/Enahr_Esh.md)
 - [Enfrvein](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
+- [Ennaeric Ocean](Topics/Geography/[Oceans]/Ennaeric_Ocean.md)
 - [Esh Enahr](Topics/Characters/List/Enahr_Esh.md)
 - [Ettua](Topics/Characters/Families/Ettua.md)
 - [Evros](Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)
@@ -101,7 +102,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Moon](Topics/Geography/Moon_Continent.md) (continent)
 
 ### N
-- [Navennen](Topics/Nature/Bestiary/List/Navennen.md)
+- [Naven](Topics/Nature/Bestiary/List/Naven.md)
 - [Navikon, Ferves](Topics/Characters/List/Navikon_Ferves.md)
 - [Nferth](Topics/Geography/Moon_Continent/East_Moon/Nferth.md)
 - [Nira, Keno](Topics/Characters/List/Nira_Keno.md)
@@ -124,6 +125,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### S
 - [Saphtri](Topics/Cultures/Tri_Saphtris/[Culture].md) (culture)
 - [Saphtri](Topics/Races/Regular/TriSaphtri.md) (race)
+- [Sea Serpent](Topics/Nature/Bestiary/List/Sea_Serpent.md)
 - [Separatists](Topics/Factions/List/Separatists.md)
 - [Si Avani](Topics/Characters/List/Avani_Si.md)
 - [Skirran](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)

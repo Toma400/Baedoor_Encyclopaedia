@@ -11,7 +11,7 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 #### Baedoor Region
 - [Baedoor](Baedoor/Cities/Baedoor.md)
 - [Isuga](Baedoor/Cities/Isuga.md)
-- Dvickhet `v`
+- [Dvickhet](Baedoor/Cities/Dvickhet.md)
 - Sargin `v`
 - Quarius
 - Ontero `v`

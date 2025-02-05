@@ -60,7 +60,7 @@ old jitadish → old baedoorish → baedoorish
 |    ainsi    | terrestrial, related to land                           | ai-nsi        |                 jit. "aines"                  |
 |     ald     | boar                                                   | ald↑          |                  jit. "ald"                   |
 | anai, ana¹  | entity, being                                          | anai:, ana¹   |    jit. "ana" with trish influence on "āī"    |
-|   anaine    | water being                                            | anai-ne:      |                 jit "anaine"                  |
+|   anaine    | water being                                            | anai-ne:      |                 jit. "anaine"                 |
 |   anairun   | landlord                                               | anai-run      |                jit. "anairun"                 |
 |    anvar    | mountain (more common for `var`)                       | anfvar        |                   ans + var                   |
 |     ane     | sea                                                    | a-ne:         |                  jit. "ane"                   |
@@ -75,7 +75,8 @@ old jitadish → old baedoorish → baedoorish
 |    dena     | vast                                                   | dena:         |                  jit. "dena"                  |
 |    edra     | south                                                  | :dra          |                  jit. "edra"                  |
 |    enda     | north                                                  | :nda          |                  jit. "enda"                  | 
-|    enfre    | flower, blossoming                                     | :nfre         |                  jit. "enfr"                  | 
+|    enfre    | flower, blossoming                                     | :nfre         |                  jit. "enfr"                  |
+|    ennae    | undiscovered, mysterious, mystic, hiding               | :n:ae:        |                 jit. "ennae"                  | 
 |    equa     | howl, squal, weep, sound during pain                   | :qua          |                  jit. "equa"                  |
 |     er      | one                                                    | :r            |                  jit. "aer"                   |
 |     ern     | first                                                  | :rn           |                  jit. "aern"                  |
@@ -106,6 +107,9 @@ old jitadish → old baedoorish → baedoorish
 |     sev     | scales, to measure, to divide                          | sefv          |                  jit. "sev"                   |
 |    suga     | resistance, persistence                                | suga          |                 jit. "saeva"                  |
 |     sur     | star, hope, solitude                                   | sur           |              jit. "sur"/"vosur"               |
+|    tein     | older form of `ten`                                    | te:in         |                  jit. "tein"                  | 
+|     ten     | the dead, usually in reference to necromanted one      | te:n          |                  jit. "tein"                  | 
+|     ter     | pale                                                   | ter           |                   jit. "ter                   |
 |     var     | mountain (less common, look also: `anvar`)             | fvar          |                  jit. "uar"                   |
 |    suri     | hopeful, alone                                         | suri          |                 adj. of "sur"                 |
 |    vaer     | void, wasteland, anxiety related to nothingness        | wer           |                  jit. "vaer"                  |

@@ -81,7 +81,8 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |        curd        | district, long road with many branches                      | surd               |                                        -                                         |
 |        dena        | vast                                                        | dena:              |                                        -                                         |
 |        edra        | south                                                       | :dra               |                                        -                                         |
-|        enda        | north                                                       | :nda               |                                        -                                         | 
+|        enda        | north                                                       | :nda               |                                        -                                         |
+|       ennae        | undiscovered, mysterious, mystic, hiding                    | :n:ae:             |                                        -                                         | 
 |        enfr        | flower, blossoming                                          | :nfr               |                                        -                                         | 
 |        equa        | howl, squal, weep, sound during pain                        | :qua               |                                        -                                         |
 |       evoros       | fertile, able to grow                                       | efvoros            |                                    evos + ros                                    |
@@ -124,6 +125,8 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |       saeva        | resistance, persistence                                     | saefva:, sefva:¹   |             difficult to find out, may be distant influence of `sev`             |
 |        sev         | scales, to measure, to divide                               | sefv               |                                        -                                         |
 |        sur         | star                                                        | sur                |                                        -                                         |
+|        tein        | the dead, usually in reference to necromanted one           | te:in              |                                        -                                         | 
+|        ter         | pale                                                        | ter                |                                        -                                         |
 |        uar         | mountain                                                    | u↑ar               |                                        -                                         |
 |        vaer        | void, wasteland, anxiety related to nothingness             | waer, wer¹         |                                        -                                         |
 |        vein        | road, trail                                                 | fve↓i↑n            |                                        -                                         |

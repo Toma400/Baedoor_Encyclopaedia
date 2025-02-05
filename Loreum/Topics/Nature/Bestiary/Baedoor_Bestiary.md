@@ -5,7 +5,7 @@ Every creature existing on Baedoor Island.
 ### 🔹 Entire Island
 
 ### 🔹 Baedoor Lowlands
-#### 🔹 [Navennen](List/Navennen.md)
+#### 🔹 [Naven](List/Naven.md)
 
 ### 🔹 Vershaton
 #### 🔹 [Ostaequa](List/Ostaequa.md)

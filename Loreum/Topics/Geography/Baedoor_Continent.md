@@ -18,6 +18,9 @@ Aside of it, it saw rise of Baedoor Empire, from which its name come from.
 #####   🔷 [Kaer](Baedoor_Continent/Kaer.md)
 #####   🔷 Arennan
 
+### OCEANS
+####   🔷 [Ennearic Ocean]([Oceans]/Ennaeric_Ocean.md)
+
 ---
 ♜♢✥  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md)
