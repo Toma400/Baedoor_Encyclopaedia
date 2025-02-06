@@ -11,7 +11,6 @@ It had major role in events of Old Era, becoming heart of its industrial revolut
 Aside of it, it saw rise of Baedoor Empire, from which its name come from.
 
 ### ISLANDS
-
 #####   🔷 Northern Islands
 #####   🔷 [Baedoor](Baedoor_Continent/Baedoor.md)
 #####   🔷 Rossevette Islands
@@ -19,7 +18,10 @@ Aside of it, it saw rise of Baedoor Empire, from which its name come from.
 #####   🔷 Arennan
 
 ### OCEANS
-####   🔷 [Ennearic Ocean]([Oceans]/Ennaeric_Ocean.md)
+####   🔷 Endaic Ocean
+####   🔷 [Ennearic Ocean]([Oceans]/Ennaeric_Ocean.md)
+####   🔷 Indraic Ocean
+####   🔷 Manaeic Ocean
 
 ---
 ♜♢✥  

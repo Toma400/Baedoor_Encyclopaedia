@@ -106,7 +106,6 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### N
 - [Naven](Topics/Nature/Bestiary/List/Naven.md)
 - [Navikon, Ferves](Topics/Characters/List/Navikon_Ferves.md)
-- [Negeai Ocean](Topics/Geography/[Oceans]/Negeai_Ocean.md)
 - [Nferth](Topics/Geography/Moon_Continent/East_Moon/Nferth.md)
 - [Nira, Keno](Topics/Characters/List/Nira_Keno.md)
 - [Nyme](Topics/Geography/Moon_Continent/East_Moon/Cities/Nyme.md)
