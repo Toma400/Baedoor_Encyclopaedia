@@ -56,6 +56,8 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Ferves Navikon](Topics/Characters/List/Navikon_Ferves.md)
 - [Flower Street](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
 - [Followers of the Bound](Topics/Guilds/List/Followers_of_the_Bound.md)
+- [Four Kings](Topics/Cultures/Erds/List/Four_Kings.md)
+- [Four Winds](Topics/Cultures/Erds/List/Four_Kings.md)
 - [Funt](Topics/Cultures/Baedoorians/List/Funt.md)
 
 ### G
@@ -104,6 +106,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### N
 - [Naven](Topics/Nature/Bestiary/List/Naven.md)
 - [Navikon, Ferves](Topics/Characters/List/Navikon_Ferves.md)
+- [Negeai Ocean](Topics/Geography/[Oceans]/Negeai_Ocean.md)
 - [Nferth](Topics/Geography/Moon_Continent/East_Moon/Nferth.md)
 - [Nira, Keno](Topics/Characters/List/Nira_Keno.md)
 - [Nyme](Topics/Geography/Moon_Continent/East_Moon/Cities/Nyme.md)

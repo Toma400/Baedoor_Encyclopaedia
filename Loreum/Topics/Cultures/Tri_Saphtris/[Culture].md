@@ -56,6 +56,10 @@ experimental and abstract.
 - [⚗️ Technologies](/Loreum/Topics/Cultures/Tri_Saphtris/Technologies.md)
 - [㊙️ Names](/Loreum/Topics/Characters/Names/TriSaphtri.md)
 
+### Cultural Elements
+- Games
+  - [Four Kings](/Loreum/Topics/Cultures/Erds/List/Four_Kings.md)
+
 ---
 ♜ Missing elements:
 - Tract of Truth by Hes A'Thot - should probably be renamed and the guy should too, as the surname doesn't

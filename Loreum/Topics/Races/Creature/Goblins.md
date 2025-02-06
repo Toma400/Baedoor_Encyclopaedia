@@ -156,5 +156,6 @@ More things to note (in doc or here, or both):
 - structure of power and society day-to-day life
 - more on settlements
 - more on history
+- Four Kings included for kaerian goblins (either here, or if we would make culture page)
 
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [💮](/Loreum/Topics/Races.md)
