@@ -1,7 +1,7 @@
 # 🐊 Ostaequa
 
 ---
-**Ostaequa** (jit. *howl of the wind*) is race of desert fox, existing on Arennan and Vershaton lands.  
+**Ostaequa** (jit. *howl of the wind*) is race of desert fox, existing on Vershaton lands.  
 It has pale golden fur that allows for better blending with sandy environment.
 
 Ostaequa eats small creatures, rarely hares. They usually live alone, connecting to each other only

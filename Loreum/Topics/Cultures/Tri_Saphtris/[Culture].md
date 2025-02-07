@@ -3,7 +3,17 @@ Being isolated through so long time, saphtric culture differ heavily from those 
 it either pahtris from the same continent, or lunatris from distant lands of West Moon.  
 The difficult environment saphtris were born and grown upon made their culture driven on constant will
 to enhance their little of fertile land. The scarcity of it however forced them to be heavily dependent
-on sea, which in turn led them to development of extensive sailing department, including navy.
+on sea, which in turn led them to development of extensive sailing department, including navy.  
+It's worth mentioning as well that saphtric land wasn't always like that - the desertification is process
+that continues across centuries, forcing the nation to migrate to the coast or even outside of their
+lands.
+
+### Political Structure
+Saphtris are known to be very loose on institutional control, and so the ones made hold relatively low
+power, which is usually in hands of grass roots groups and organisations. The system of power is
+relatively decentralised thanks to that, however saphtric culture is still heavily focused on unifying
+the nation - creating interesting clash between what is formal and informal, and the latter being
+of core importance to the culture.
 
 ### Religion & Traditions
 Saphtris value their community highly, which means that even on emigration, they will try to find each
@@ -58,7 +68,7 @@ experimental and abstract.
 
 ### Cultural Elements
 - Games
-  - [Four Kings](/Loreum/Topics/Cultures/Erds/List/Four_Kings.md)
+  - [Four Winds](/Loreum/Topics/Cultures/Erds/List/Four_Kings.md)
 
 ---
 ♜ Missing elements:
