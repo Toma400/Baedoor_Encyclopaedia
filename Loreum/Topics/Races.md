@@ -11,6 +11,7 @@ may also visit [cultures page](Cultures.md).
 
 ### Creature races
 ####   🔹 [Goblins](Races/Creature/Goblins.md)
+####   🔹 [Stheyr](Races/Creature/Stheyr.md)
 ####   🔹 [Uruati](Races/Creature/Uruati.md)
 
 ### Spiritual races

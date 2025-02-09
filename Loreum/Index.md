@@ -133,6 +133,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Si Avani](Topics/Characters/List/Avani_Si.md)
 - [Skirran](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)
 - [Starshifters](Topics/Guilds/List/Starshifters.md)
+- [Stheyr](Topics/Races/Creature/Stheyr.md)
 
 ### T
 - [Temple of I'si](Topics/Religions/Small/Temple_of_I'si.md)

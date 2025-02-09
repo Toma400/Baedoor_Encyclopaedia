@@ -17,7 +17,8 @@ being able to defend themselves without worry of starving population.
 Tertens multidisciplinary skills can be seen in their army maintaining both magic and technology
 to win over enemies.  
 And tertens fighting is truly a sight to behold - aside of big army, they tend to support themselves 
-with mages enchanting their projectiles, and huge walking undead turtles with harpoon turrets.  
+with stheyr riders, flying necromants, and huge walking undead turtles with harpoon turrets mounted on 
+them (with mages enchanting their projectiles to be even more destructive).  
 That's why baedoorians entering the desert were terrified by sole look at their civilisation and
 decided to not progress further south.
 
@@ -26,6 +27,13 @@ actually push for the attack is if they acknowledge already planned offensive an
 before it happens.  
 While their approach is rather defensive, tertens do not like diplomacy - so all such efforts must be
 done fast and effectively for diplomatic action to make sense.
+
+The exception to the overall defensiveness is tertens' hunt for [stheyrs](/Loreum/Topics/Races/Creature/Stheyr.md),
+which are used (either in alive or undead form) as a means of transportation, and also as mounts and 
+fighters. Tertens often kill whole stheyr nests and take young enough ones to teach behaviours serving
+their purpose.  
+Such young stheyrs are then often kept in terten cities to breed under control. While their usage
+could be considered as slavery, tertens do not consider stheyrs as sentient beings.
 
 ### Architecture
 Vaerdena tertens cities are build on massive sandstone mastabas, which allows them to have a lot of
