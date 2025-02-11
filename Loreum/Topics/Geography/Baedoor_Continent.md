@@ -15,7 +15,7 @@ Aside of it, it saw rise of Baedoor Empire, from which its name come from.
 #####   🔷 [Baedoor](Baedoor_Continent/Baedoor.md)
 #####   🔷 Rossevette Islands
 #####   🔷 [Kaer](Baedoor_Continent/Kaer.md)
-#####   🔷 Arennan
+#####   🔷 [Arennan](Baedoor_Continent/Arennan.md)
 
 ### OCEANS
 ####   🔷 Endaic Ocean

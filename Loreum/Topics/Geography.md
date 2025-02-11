@@ -12,7 +12,7 @@ All what creates the oververse, but mostly on Baedoor itself.
 #####      🔹 [Baedoor](Geography/Baedoor_Continent/Baedoor.md)
 #####      🔹 Rossevette Islands
 #####      🔹 [Kaer](Geography/Baedoor_Continent/Kaer.md)
-#####      🔹 Arennan
+#####      🔹 [Arennan](Geography/Baedoor_Continent/Arennan.md)
 ####   🔷 [Moon Continent](Geography/Moon_Continent.md)
 #####      🔹 West Moon
 #####      🔹 Moon Islands
@@ -23,6 +23,7 @@ All what creates the oververse, but mostly on Baedoor itself.
 #####      🔹 [Jitado](Geography/Old_Continent/Jitado.md)
 #####      🔹 Eimr Archipelago
 ####   🔷 Seiteh
+####   🔷 Ixathei
 ####   🔷 [The Azure Archipelago](Geography/Azure_Archipelago.md)
 #####      🔹 Oe'os
 #####      🔹 Septei
@@ -36,7 +37,6 @@ All what creates the oververse, but mostly on Baedoor itself.
 ####          🛠️ WIP (Names will change):
 
 ####   🔷 Northern Islands
-####   🔷 Ixathei `"aztec continent"`
 ####   🔷 Native African Islands `Ereut` `Dawn Islands`
 ####   🔷 Snake Islands `Serpentuan` `Serpent Islands`
 ####   🔷 Minotaur Islands

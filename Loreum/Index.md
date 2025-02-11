@@ -15,6 +15,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Altauar](Topics/Geography/Old_Continent/Jitado/Regions/Altauar.md) (region)
 - [Ansur](Topics/Geography/Moon_Continent/East_Moon/Ansur.md)
 - [Ansur Thieves Guild](Topics/Guilds/List/Ansur_Thieves_Guild.md)
+- [Arennan](Topics/Geography/Baedoor_Continent/Arennan.md)
 - [Ash Veil](Topics/Nature/Herbarium/List/Ash_Veil.md)
 - [Avani, Si](Topics/Characters/List/Avani_Si.md)
 - [Azure Archipelago](Topics/Geography/Azure_Archipelago.md)
@@ -115,7 +116,8 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Old Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md) (city)
 - [Old Continent](Topics/Geography/Old_Continent.md)
 - [Order of the Sword](Topics/Guilds/List/Order_of_the_Sword.md)
-- [Ormaths](Topics/Races/Regular/Ormaths.md)
+- [Ormaths](Topics/Races/Regular/Ormaths.md) (race)
+- [Ormaths](Topics/Cultures/Ormaths/[Culture].md) (culture)
 - [Ostaequa](Topics/Nature/Bestiary/List/Ostaequa.md)
 - [Oververse](Topics/World_Mechanics/Oververse.md)
 
