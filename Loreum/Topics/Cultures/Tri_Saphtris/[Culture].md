@@ -47,17 +47,28 @@ popular choice, specifically ones that emit delicate sound like harps.
 
 Weaving and sewing is special, because this kind of art is often considered as one of most spiritual.  
 This connected to the fact of saphtri faith being more story-based and fluid makes this art particularly
-experimental and abstract.
+experimental and abstract, often using spirals, swirls, dots and lines in repeated manner. The contrasty,
+warm colours are also important part of its characterisation.
 
 <table width="60%">
   <tr>
     <td>
       <img alt="Saphtric Coins" src="/Assets/coin_saphtric.png">
     </td>
+    <td>
+      <img alt="Saphtri Art (colour)" src="/Assets/saphtri_art.png">
+    </td>
+    <td>
+      <img alt="Saphtri Art (ref)" src="/Assets/saphtri_art_ref.png">
+    </td>
   </tr>
   <tr>
     <td>
       Saphtric copper coins with painted shapes, depicting spirits
+    </td>
+    <td colspan="2">
+      Saphtri art uses geometric, repeated patterns to create abstract depiction of environment
+      or religious storytelling. It often uses contrasty, bright colours (art by MammaHyena)
     </td>
   </tr>
 </table>
