@@ -1,5 +1,5 @@
 # 🐊 Kaer Bestiary
-Every creature existing in Kaer and nearby islands.
+Every creature existing in [Kaer](/Loreum/Topics/Geography/Baedoor_Continent/Kaer.md) and nearby islands.
 
 ---
 ### 🔹 All Islands

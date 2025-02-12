@@ -12,6 +12,9 @@ country had place.
 ### LANDSCAPES
 - Altauar Mountains
 
+### TOPICS
+####   🔷 [🌿 Herbarium](/Loreum/Topics/Nature/Herbarium/Jitado_Herbarium.md)
+
 ---
 ♜♢✥ / separate into country and island  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md)

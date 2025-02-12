@@ -20,9 +20,9 @@
     </tr>
 </table>
 
-**Tsua** (also called *tsue* by kehts) is plant native to Kaer. It has long, thin purple stem and
-wide, purple-black petals, making "waves" around blue flower. Tsua emits weird smell, considered by
-most as unpleasant.
+**Tsua** (also called *tsue* by kehts) is plant native to [Kaer](/Loreum/Topics/Geography/Baedoor_Continent/Kaer.md).
+It has long, thin purple stem and wide, purple-black petals, making "waves" around blue flower. 
+Tsua emits weird smell, considered by most as unpleasant.
 
 It is wild plant, but is also sometimes cultivated, as its sap can be used as ink equivalent.
 

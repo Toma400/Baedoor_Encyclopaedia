@@ -8,8 +8,7 @@
 <img alt="Madai" height="166" src="/Assets/Nature/Plants/madai.png" width="170"/><br>
 <code>Sketch of Madai</code><br>
 
-**Madai** (from tri *Madāī*, sometimes also as *Aspis Fertuus*) is flower living in Kaer and East Moon's
-Middle West Valley, being extremely rare for the former.
+**Madai** (from tri *Madāī*, sometimes also as *Aspis Fertuus*) is flower living in [Kaer](/Loreum/Topics/Geography/Baedoor_Continent/Kaer.md).
 It twines around trees with its long ivy, being symbiotic entity. Can grow up to fifteen meters.
 
 It has strong narcotic effect, as it can strengthen you for a while, but it comes with a cost of heavy

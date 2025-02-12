@@ -78,6 +78,11 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 ### PLACES
 - [Tom Varteford's Plantation](Baedoor/Places/Tom_Varteford_Plantation.md)
 
+### TOPICS
+####   🔷 [🐊 Bestiary](/Loreum/Topics/Nature/Bestiary/Baedoor_Bestiary.md)
+####   🔷 [🌿 Vershaton Herbarium](/Loreum/Topics/Nature/Herbarium/Vershaton_Herbarium.md)
+####   🔷 [🌿 Rakonnd Coast Herbarium](/Loreum/Topics/Nature/Herbarium/Rakonnd_Coast_Herbarium.md)
+
 ---
 ♜♢✥ / "v" is +- good name, "?" is name which should be lore-friendlied, "x" means rejected name  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md)

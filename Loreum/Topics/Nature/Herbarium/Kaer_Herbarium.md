@@ -1,5 +1,5 @@
 # 🌿 Kaer Herbarium
-Every plant existing on Kaer island.
+Every plant existing on [Kaer](/Loreum/Topics/Geography/Baedoor_Continent/Kaer.md) island.
 
 ---
 #### 🔹 [Hyerbitus](List/Hyerbitus.md)

@@ -15,6 +15,10 @@ foreign lands, as their existence is in increasing danger as climate becomes mor
 - Sarven `v`
 - Anvare `v`
 
+### TOPICS
+####   🔷 [🐊 Bestiary](/Loreum/Topics/Nature/Bestiary/Arennan_Bestiary.md)
+####   🔷 [🌿 Herbarium](/Loreum/Topics/Nature/Herbarium/Arennan_Herbarium.md)
+
 ---
 ♜♢✥: more towns, villages and all, but I'd say except for three put there, they all need to be
 reimagined, alongside changes to geography and overall gridmap (Tharie is most important to be kept)   

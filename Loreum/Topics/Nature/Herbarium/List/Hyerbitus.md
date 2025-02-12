@@ -9,10 +9,10 @@
 <code>Sketch of Hyerbitus</code><br>
 
 **Hyerbitus** is one of the most common plants in Baedoor universe, growing in practically whole
-world. It is the most common in Kaer, as it prefers dense, dark forest environment, however it doesn't
-restricts its own habitat and can grow basically in any minimally fertile place. It sometimes create
-meadows, which makes it a bit otherworldly considering there can be few colour variants of Hyerbitus
-living in one place.
+world. It is the most common in [Kaer](/Loreum/Topics/Geography/Baedoor_Continent/Kaer.md), as it 
+prefers dense, dark forest environment, however it doesn't restricts its own habitat and can grow 
+basically in any minimally fertile place. It sometimes create meadows, which makes it a bit 
+otherworldly considering there can be few colour variants of Hyerbitus living in one place.
 
 Hyerbitus flower part is loved by [plate lizard](/Loreum/Topics/Nature/Bestiary/List/Plate_Lizard.md)
 and porcupines, but humans use it mostly as alchemic ingredient or addition to brews and teas.

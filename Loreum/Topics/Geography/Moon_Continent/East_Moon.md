@@ -28,6 +28,9 @@ could be a result of some battle, whether between powerful mages or even gods.
 ####   🔷 Manaeic Ocean
 ####   🔷 Negeai Ocean
 
+### TOPICS
+####   🔷 [🌿 Herbarium](/Loreum/Topics/Nature/Herbarium/East_Moon_Herbarium.md)
+
 ---
 ♜♢✥  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md)

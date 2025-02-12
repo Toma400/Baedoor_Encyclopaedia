@@ -77,6 +77,10 @@ during Baedoor occupation.
 ### PLACES
 - ...
 
+### TOPICS
+####   🔷 [🐊 Bestiary](/Loreum/Topics/Nature/Bestiary/Kaer_Bestiary.md)
+####   🔷 [🌿 Herbarium](/Loreum/Topics/Nature/Herbarium/Kaer_Herbarium.md)
+
 ---
 ♜♢✥, incl. link to Martingo + filling up all points from map and sources  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md)

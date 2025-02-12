@@ -1,5 +1,5 @@
 # 🐊 Baedoor Bestiary
-Every creature existing on Baedoor Island.
+Every creature existing on [Baedoor Island](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor.md).
 
 ---
 ### 🔹 Entire Island
