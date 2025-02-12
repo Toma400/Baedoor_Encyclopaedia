@@ -88,6 +88,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### K
 - [Kaer](Topics/Geography/Baedoor_Continent/Kaer.md)
+- [Kaerian](Topics/Cultures/Kaerians/[Culture].md)
 - [Kalvhyk](Topics/Nature/Foods/List/Kalvhyk.md)
 - [Kehts](Topics/Cultures/Kehts/[Culture].md)
 - [Kel Desert](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Kel_Desert.md)
@@ -110,6 +111,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Navikon, Ferves](Topics/Characters/List/Navikon_Ferves.md)
 - [Nferth](Topics/Geography/Moon_Continent/East_Moon/Nferth.md)
 - [Nira, Keno](Topics/Characters/List/Nira_Keno.md)
+- [Nomathians](Topics/Cultures/Kaerians/[Culture].md) (culture, Kaer)
 - [Nyme](Topics/Geography/Moon_Continent/East_Moon/Cities/Nyme.md)
 
 ### O

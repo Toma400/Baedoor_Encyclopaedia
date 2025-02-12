@@ -3,10 +3,10 @@
 <table>
     <tr>
         <td>
-            <img width="272" height="250" src="/Assets/race_ormath.jpg">
+            <img width="272" height="250" src="/Assets/Races/ormath.jpg">
         </td>
         <td>
-            <img width="384" height="216" src="/Assets/ormath_wob.png">
+            <img width="384" height="216" src="/Assets/Races/ormath_wob.png">
         </td>
     </tr>
     <tr>

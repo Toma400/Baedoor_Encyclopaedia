@@ -7,7 +7,7 @@ many fields of life in a way that is not overly extravagant.
 
 ### Cultural Topics
 - [🏯 Architecture](/Loreum/Topics/Cultures/Erds/Architecture.md)
-- [💮 Language](/Langue/Families/Erdis.md)
+- [💮 Language](/Langue/List/Erdis.md)
 - [㊙️ Names](/Loreum/Topics/Characters/Names/Erds.md)
 
 ### Cultural Elements

@@ -1,6 +1,6 @@
 # 💮 Uruati
 
-<img src="/Assets/race_uruati.png" width="100%"></img>
+<img src="/Assets/Races/uruati.png" width="100%"></img>
 
 Uruati are ape-like creatures living on **Ixathei**.
 
