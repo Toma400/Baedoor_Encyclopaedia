@@ -57,12 +57,12 @@ first sacrilegious action Kaer inhabitants can't forgive their occupant.
 The war still needed a lot of time for baedoorians to defeat keht-erd-serj forces, but the front 
 slowly moved towards south. When reached the coast, the army focused on strengthening the conquered 
 areas, being still targeted by guerrillas and other forms of retaliation.  
-Eventually, the next wave targeted Khacari, attacking the port of Roda. The destruction made by ships 
+Eventually, the next wave targeted Kacari, attacking the port of Roda. The destruction made by ships 
 was enough for erds to retreat, hoping for peace treaty giving them some form of protection.
-As vile as Warthog was, exactly this happened, letting Khacari keep some form of independence while 
+As vile as Warthog was, exactly this happened, letting Kacari keep some form of independence while 
 keeping most administration under Empire's rule.
 
-In the next decades, Warthogs together with other families built an infrastructure on Kaer and Khacari, 
+In the next decades, Warthogs together with other families built an infrastructure on Kaer and Kacari, 
 bonding the local culture more with their influence. Baedoorian rule was met with mixed response, 
 as foreigners tend to overuse their power and also break things sacred to cultures they occupied.  
 In return though, they brought relatively big stability, both diplomatic and economic.

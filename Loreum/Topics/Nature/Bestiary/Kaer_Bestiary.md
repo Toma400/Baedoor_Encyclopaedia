@@ -12,7 +12,7 @@ Every creature existing in [Kaer](/Loreum/Topics/Geography/Baedoor_Continent/Kae
 ####   🔹 [Plate Lizard](List/Plate_Lizard.md)
 ####   🔹 Wolf
 
-### 🔹 Khacari
+### 🔹 Kacari
 ####   🔹 [Akad](List/Akad.md)
 ####   🔹 [Haunted Wanderer](List/Haunted_Wanderer.md)
 ####   🔹 [Nerau](List/Nerau.md)

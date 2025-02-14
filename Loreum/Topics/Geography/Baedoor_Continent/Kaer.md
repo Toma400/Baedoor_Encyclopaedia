@@ -10,17 +10,17 @@
         </td>
     </tr>
     <tr>
-        <td colspan="3"> Gridmap of Khacari and Disane islands, New Era </td>
-        <td colspan="3"> Kaer from "Southern Islands" book              </td>
+        <td colspan="3"> Gridmap of Kacari and Disane islands, New Era </td>
+        <td colspan="3"> Kaer from "Southern Islands" book             </td>
     </tr>
     <tr>
-        <td width="40%" align="center" colspan="2">
+        <td width="30%" align="center" colspan="2">
             <img alt="Kaer map, old sketch" height="400" src="/Assets/Maps/kaer_early.jpg">
         </td>
-        <td width="30%" align="center" colspan="2">
+        <td width="35%" align="center" colspan="2">
             <img alt="Kaer map, map excerpt" height="400" src="/Assets/Maps/kaer_early_detailed.jpg">
         </td>
-        <td width="30%" align="center" colspan="2">
+        <td width="35%" align="center" colspan="2">
             <img alt="Kaer map, map excerpt" height="400" src="/Assets/Maps/kaer_late_detailed.jpg">
         </td>
     </tr>
@@ -70,7 +70,7 @@ during Baedoor occupation.
 #### Skand (-> Sodthas)
 - Port Bristeldir `Gubera on map`
 
-#### Khacari
+#### Kacari
 - Roda
 - Sorin
 
@@ -78,7 +78,7 @@ during Baedoor occupation.
 - [Disanteldir](Kaer/Cities/Disanteldir.md)
 
 ### VILLAGES
-#### Khacari
+#### Kacari
 - Anoan
 - Anoltan `ruined`
 

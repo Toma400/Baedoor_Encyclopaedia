@@ -21,4 +21,4 @@
 
 | Name | Localisation | Description                                                                                    |
 |------|--------------|------------------------------------------------------------------------------------------------|
-| Nira | Khacari      | Rare surname, most probably erdified version of saphtric *Nirai* indicating immigration origin |
+| Nira | Kacari       | Rare surname, most probably erdified version of saphtric *Nirai* indicating immigration origin |

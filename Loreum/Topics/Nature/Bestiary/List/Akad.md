@@ -1,7 +1,7 @@
 # 🐊 Akad
 
 ---
-**Akad** is a herbivore creature native to **Khacari** island, being digitigrade of low profile and
+**Akad** is a herbivore creature native to **Kacari** island, being digitigrade of low profile and
 smooth skeleton, moving on four legs. They do have fairly long tusks coming out of their mouth, serving
 primarily to defend, raised just enough to let them eat comfortably.  
 Their natural enemy is [Nerau](Nerau.md) and other carnivores sharing the habitat.

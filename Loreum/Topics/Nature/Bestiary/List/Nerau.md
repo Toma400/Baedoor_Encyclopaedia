@@ -1,7 +1,7 @@
 # 🐊 Nerau
 
 ---
-**Nerau** is a carnivore creature native to **Khacari** island. It has massive, strong body that allows
+**Nerau** is a carnivore creature native to **Kacari** island. It has massive, strong body that allows
 to fast sprint it uses when hunting the prey. It hunts in packs of two or three, making it particularly
 dangerous when approached. Nerau have small, claw-like tusks which often allow them to swift killing
 blow.
