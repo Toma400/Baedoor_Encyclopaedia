@@ -1,4 +1,16 @@
 # 🌄 Arennan
+
+<table width="40%">
+    <tr>
+        <td width="40%">
+            <img alt="Arennan map" height="400" src="/Assets/Maps/arennan_book.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td> Arennan from "Southern Islands" book </td>
+    </tr>
+</table>
+
 **Arennan** is island located furthest south in [Baedoor Continent](/Loreum/Topics/Geography/Baedoor_Continent.md)
 and is home for civilisations of [saphtris](/Loreum/Topics/Cultures/Tri_Saphtris/[Culture].md) and [ormaths](/Loreum/Topics/Cultures/Ormaths/[Culture].md).  
 The island is basically split by the long mountain chain, separating thin western side that is still
