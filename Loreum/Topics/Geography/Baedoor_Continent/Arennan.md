@@ -3,7 +3,7 @@
 <table width="40%">
     <tr>
         <td width="40%">
-            <img alt="Arennan map" height="400" src="/Assets/Maps/arennan_book.jpg">
+            <img alt="Arennan map" height="400" src="/Assets/Maps/arennan_book.png">
         </td>
     </tr>
     <tr>

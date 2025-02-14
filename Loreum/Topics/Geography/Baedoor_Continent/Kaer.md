@@ -2,36 +2,32 @@
 
 <table>
     <tr>
-        <td width="40%">
+        <td width="60%" colspan="3">
             <img alt="Kha/Dis map" height="400" src="/Assets/Maps/erdic_islands.png">
         </td>
-        <td width="30%" align="center">
-            <img alt="Kaer map" height="400" src="/Assets/Maps/kaer_book.jpg">
-        </td>
-        <td width="30%" align="center">
-            <img alt="Kaer map" height="400" src="/Assets/Maps/kacari_book.jpg">
+        <td width="40%" align="center" colspan="3">
+            <img alt="Kaer map" height="400" src="/Assets/Maps/kaer_book.png">
         </td>
     </tr>
     <tr>
-        <td> Gridmap of Khacari and Disane islands, New Era </td>
-        <td> Kaer from "Southern Islands" book              </td>
-        <td> Khacari from "Southern Islands" book           </td>
+        <td colspan="3"> Gridmap of Khacari and Disane islands, New Era </td>
+        <td colspan="3"> Kaer from "Southern Islands" book              </td>
     </tr>
     <tr>
-        <td width="40%" align="center">
+        <td width="40%" align="center" colspan="2">
             <img alt="Kaer map, old sketch" height="400" src="/Assets/Maps/kaer_early.jpg">
         </td>
-        <td width="30%" align="center">
+        <td width="30%" align="center" colspan="2">
             <img alt="Kaer map, map excerpt" height="400" src="/Assets/Maps/kaer_early_detailed.jpg">
         </td>
-        <td width="30%" align="center">
+        <td width="30%" align="center" colspan="2">
             <img alt="Kaer map, map excerpt" height="400" src="/Assets/Maps/kaer_late_detailed.jpg">
         </td>
     </tr>
     <tr>
-        <td> Sketch of Kaer map, early OE                 </td>
-        <td> Excerpt from Baedoor Continent map, early OE </td>
-        <td> Excerpt from Baedoor Continent map, late OE  </td>
+        <td colspan="2"> Sketch of Kaer map, early OE                 </td>
+        <td colspan="2"> Excerpt from Baedoor Continent map, early OE </td>
+        <td colspan="2"> Excerpt from Baedoor Continent map, late OE  </td>
     </tr>
 </table>
 

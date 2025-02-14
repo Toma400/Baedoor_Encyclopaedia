@@ -13,6 +13,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Allaut, Eduard](Topics/Characters/List/Allaut_Eduard.md)
 - [Allaut, Isehir](Topics/Characters/List/Allaut_Isehir.md)
 - [Altauar](Topics/Geography/Old_Continent/Jitado/Regions/Altauar.md) (region)
+- [Akad](Topics/Nature/Bestiary/List/Akad.md)
 - [Ansur](Topics/Geography/Moon_Continent/East_Moon/Ansur.md)
 - [Ansur Thieves Guild](Topics/Guilds/List/Ansur_Thieves_Guild.md)
 - [Arennan](Topics/Geography/Baedoor_Continent/Arennan.md)
@@ -109,6 +110,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### N
 - [Naven](Topics/Nature/Bestiary/List/Naven.md)
 - [Navikon, Ferves](Topics/Characters/List/Navikon_Ferves.md)
+- [Nerau](Topics/Nature/Bestiary/List/Nerau.md)
 - [Nferth](Topics/Geography/Moon_Continent/East_Moon/Nferth.md)
 - [Nira, Keno](Topics/Characters/List/Nira_Keno.md)
 - [Nomathians](Topics/Cultures/Kaerians/[Culture].md) (culture, Kaer)
@@ -134,6 +136,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Saphtri](Topics/Races/Regular/TriSaphtri.md) (race)
 - [Sea Serpent](Topics/Nature/Bestiary/List/Sea_Serpent.md)
 - [Separatists](Topics/Factions/List/Separatists.md)
+- [Serj](Topics/Cultures/Kaerians/[Culture].md)
 - [Si Avani](Topics/Characters/List/Avani_Si.md)
 - [Skirran](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)
 - [Starshifters](Topics/Guilds/List/Starshifters.md)
