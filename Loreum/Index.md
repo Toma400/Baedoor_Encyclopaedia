@@ -136,6 +136,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Saphtri](Topics/Races/Regular/TriSaphtri.md) (race)
 - [Sea Serpent](Topics/Nature/Bestiary/List/Sea_Serpent.md)
 - [Separatists](Topics/Factions/List/Separatists.md)
+- [Septei](Topics/Geography/Azure_Archipelago/Septei.md)
 - [Serj](Topics/Cultures/Kaerians/[Culture].md)
 - [Si Avani](Topics/Characters/List/Avani_Si.md)
 - [Skirran](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)

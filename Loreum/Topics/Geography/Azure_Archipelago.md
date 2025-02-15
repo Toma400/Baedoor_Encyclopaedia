@@ -9,7 +9,7 @@ Small group of islands located in between Seiteh and West Moon.
 ### ISLANDS
 
 #####   🔷 Oe'os
-#####   🔷 Septei
+#####   🔷 [Septei](Azure_Archipelago/Septei.md)
 #####   🔷 Vartee
 
 ---
