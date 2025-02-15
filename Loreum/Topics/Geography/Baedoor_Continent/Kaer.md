@@ -2,32 +2,34 @@
 
 <table>
     <tr>
-        <td width="60%" colspan="3">
+        <td width="60%">
             <img alt="Kha/Dis map" height="400" src="/Assets/Maps/erdic_islands.png">
         </td>
-        <td width="40%" align="center" colspan="3">
+        <td width="40%" align="center">
             <img alt="Kaer map" height="400" src="/Assets/Maps/kaer_book.png">
         </td>
     </tr>
     <tr>
-        <td colspan="3"> Gridmap of Kacari and Disane islands, New Era </td>
-        <td colspan="3"> Kaer from "Southern Islands" book             </td>
+        <td> Gridmap of Kacari and Disane islands, New Era </td>
+        <td> Kaer from "Southern Islands" book             </td>
     </tr>
+</table>
+<table>
     <tr>
-        <td width="30%" align="center" colspan="2">
+        <td width="30%" align="center">
             <img alt="Kaer map, old sketch" height="400" src="/Assets/Maps/kaer_early.jpg">
         </td>
-        <td width="35%" align="center" colspan="2">
+        <td width="35%" align="center">
             <img alt="Kaer map, map excerpt" height="400" src="/Assets/Maps/kaer_early_detailed.jpg">
         </td>
-        <td width="35%" align="center" colspan="2">
+        <td width="35%" align="center">
             <img alt="Kaer map, map excerpt" height="400" src="/Assets/Maps/kaer_late_detailed.jpg">
         </td>
     </tr>
     <tr>
-        <td colspan="2"> Sketch of Kaer map, early OE                 </td>
-        <td colspan="2"> Excerpt from Baedoor Continent map, early OE </td>
-        <td colspan="2"> Excerpt from Baedoor Continent map, late OE  </td>
+        <td> Sketch of Kaer map, early OE                 </td>
+        <td> Excerpt from Baedoor Continent map, early OE </td>
+        <td> Excerpt from Baedoor Continent map, late OE  </td>
     </tr>
 </table>
 
