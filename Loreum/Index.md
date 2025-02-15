@@ -162,6 +162,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Vaen](Topics/Nature/Herbarium/List/Vaen.md)
 - [Vaerdena](Topics/Geography/Moon_Continent/East_Moon/Lands/Vaerdena.md)
 - [Vaerdena Tertens](Topics/Cultures/Tertens_Vaerdena/[Culture].md)
+- [Vancuerto](Topics/Characters/List/Vancuerto.md)
 - [Vantasi, Lovrem](Topics/Characters/List/Vantasi_Lovrem.md)
 - [Varteford](Topics/Characters/Families/Varteford.md)
 - [Varteford, Tom](Topics/Characters/List/Varteford_Tom.md)

@@ -1,5 +1,9 @@
 # 🐊 Naven
 
+|                         <img alt="Xavier crest" height="400" src="/Assets/herb_xavier_family.png">                          |
+|:---------------------------------------------------------------------------------------------------------------------------:|
+| [Xavier family](/Loreum/Topics/Characters/Families/Xavier.md) crest depicting Naven on black background (art by MammaHyena) |
+
 <table width="40%">
     <tr>
         <td width="40%">
@@ -23,7 +27,7 @@ The creature have small line shape around its eyes, usually being strong black c
 or blue peeking through subtly.
 
 For baedoorians, it is a symbol of determinance and expansion, which was also the reason behind 
-Xavier family using it as their symbol.
+[Xavier family](/Loreum/Topics/Characters/Families/Xavier.md) using it as their symbol.
 
 ---
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🐊](/Loreum/Topics/Nature/Bestiary.md)

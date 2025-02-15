@@ -6,6 +6,9 @@ respectable entity in terms of fostering economy and patriotism.
 Their involvement in Varteford takeover in 994 OE made the family lose almost entirety of its members,
 with two descendants emigrating soon after the fight.
 
+Their banner depicted golden sickle surrounded by olive wreath, an anvil on the bottom, and
+eight-pointed star on each corner.
+
 ---
 ♜: needs banner  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🎇](/Loreum/Topics/Characters.md)
