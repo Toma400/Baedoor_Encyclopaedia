@@ -3,8 +3,9 @@
 ---
 **Tom Varteford** (his full name being Tom Varteford Abrahk Elarik Pheren Anethor) was baedoorian
 adventurer, poet, activist and the only Baedoor ruler from [Varteford family](/Loreum/Topics/Characters/Families/Varteford.md).  
-Born in Baedoor, in 947 OE, he became the king of Baedoor Empire in 994 OE, spending most of this time
-solving tense political situation and letting the Empire's defeat in war be less dramatic.
+Born in [Baedoor City](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md), in 947 OE, 
+he became the king of Baedoor Empire in 994 OE, spending most of this time solving tense political
+situation and letting the Empire's defeat in war be less dramatic.  
 He died in his sleep in 1024 OE, in his home in the same city.
 
 - History
@@ -50,7 +51,7 @@ Such chaos only brought the already defunct Empire's power to the state when are
 started their revolt.  
 With the capital burning (metaphorically) and the Great Rebellion ignited all over Arennan, Kaer and
 Rossevette, Tom Varteford migrated initially to Alkaesar to avoid family fights that also started
-happening. The Abrahk family sheltered him.  
+happening. The [Abrahk family](/Loreum/Topics/Characters/Families/Abrahk.md) sheltered him.  
 Over time, Tom exchanged letters frequently with people he trusted who informed him about state of
 affairs. Discussing matters with the Abrahk family, he eventually got convinced to perform an organised
 takeover with support of the few parties within the town.
@@ -99,10 +100,11 @@ Varteford's aristocratic origins obligated him with frequent relations to other 
 from the moment he was born.
 
 The journey he took at the age of nineteen expanded his connections with one particular family - 
-the Abrahk.  
-During said trip, Tom met one of the younger daughters of Abrahk's leader, Elea. Their friendship
-quickly turned to love, writing long letters during their separation and meeting frequently after
-earning some wealth, and after that to marriage, from which Tom gained a second family surname.
+the [Abrahk](/Loreum/Topics/Characters/Families/Abrahk.md).  
+During said trip, Tom met one of the younger daughters of Abrahk's leader, [Elea](Varteford_Elea.md). 
+Their friendship quickly turned to love, writing long letters during their separation and meeting 
+frequently after earning some wealth, and after that to marriage, from which Tom gained a second 
+family surname.
 
 Tom's travel to Jitado was one of the most fruitful, keeping him there for over a year.  
 For this time, Tom learned local weaponry and culture, which he fell in love with - the famous jitado

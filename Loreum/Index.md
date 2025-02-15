@@ -6,6 +6,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ---
 ### A
 - [Abrahk](Topics/Characters/Families/Abrahk.md)
+- [Abrahk, Elea](Topics/Characters/List/Varteford_Elea.md)
 - [Adelaie](Topics/Geography/Old_Continent/Jitado/Cities/Adelaie.md)
 - [Adventurers' Guild](Topics/Guilds/List/Alkaesar_Adventurers_Guild.md) (Alkaesar/Radpat)
 - [Aerial Pirates](Topics/Guilds/List/Aerial_Pirates.md)
@@ -45,6 +46,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [East Moon](Topics/Geography/Moon_Continent/East_Moon.md)
 - [Eir, Delai](Topics/Characters/List/Eir_Delai.md)
 - [Eiron, Zan](Topics/Characters/List/Eiron_Zan.md)
+- [Elea Varteford](Topics/Characters/List/Varteford_Elea.md)
 - [Enahr, Esh](Topics/Characters/List/Enahr_Esh.md)
 - [Enfrvein](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
 - [Ennaeric Ocean](Topics/Geography/[Oceans]/Ennaeric_Ocean.md)
@@ -165,6 +167,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Vancuerto](Topics/Characters/List/Vancuerto.md)
 - [Vantasi, Lovrem](Topics/Characters/List/Vantasi_Lovrem.md)
 - [Varteford](Topics/Characters/Families/Varteford.md)
+- [Varteford, Elea](Topics/Characters/List/Varteford_Elea.md)
 - [Varteford, Tom](Topics/Characters/List/Varteford_Tom.md)
 - [Veno Edran](Topics/Cultures/Baedoorians/Vehicles/Veno_Edran.md)
 - [Vulcanic Veil](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)

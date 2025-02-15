@@ -4,6 +4,7 @@ Characters bound to **Baedoorian** heritage and nationality.
 ---
 ### 🕋 OLD ERA
 #### [Eduard Allaut](List/Allaut_Eduard.md)
+#### [Elea Varteford](List/Varteford_Elea.md)
 #### [Isehir Allaut](List/Allaut_Isehir.md)
 #### [Joeseh Thon](List/Thon_Joeseh.md)
 #### [Lovrem Vantasi](List/Vantasi_Lovrem.md)
