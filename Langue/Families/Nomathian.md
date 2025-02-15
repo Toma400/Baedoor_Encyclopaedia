@@ -14,3 +14,8 @@ Their language is known for rustly sound, which was often point of baedoorian jo
 |  serj  | rooted, old                                                                               | ser:j         |     -     |
 | skirr  | cold coast                                                                                | ʃ:kirr        |     -     |
 |  wešš  | word used at jitadish governors and army, pejorative                                      | weʃ↑:         |     -     |
+
+### Various notes
+**Gh** should have various pronunciation, e.g. while `nahegh` is read as `nahekh`, `neghdit` should
+be just `negdit`; either this should have some rules under which it works, or be a matter of accent
+between Baedoor nomathians and serj I guess

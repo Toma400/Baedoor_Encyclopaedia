@@ -36,8 +36,9 @@
 Kaer (sometimes also *Kaertr* or *Khaer*, also *Aorat* in erdic) is island of big size located south of Vershaton.  
 Huge part of island's terrain is covered with forests, covering mountain pass on its eastern coast.
 
-Kaer is home of several cultures, most notably kehts and erds.  
-South of Kaer there's island Khacari that is usually considered as a local polity more loosely
+Kaer is home of several cultures, most notably [kehts](/Loreum/Topics/Cultures/Kehts/[Culture].md)
+and [erds](/Loreum/Topics/Cultures/Erds/[Culture].md).  
+South of Kaer there's island Kacari that is usually considered as a local polity more loosely
 bound to Erdic Kingdom despite formally being part of it. This also let it be treated more lightly
 during Baedoor occupation.
 

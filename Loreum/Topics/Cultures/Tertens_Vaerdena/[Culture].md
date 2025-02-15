@@ -64,6 +64,16 @@ into good and evil - they rather perceive things are intertwined unity.
             Ceremonial armour worn by guards
         </td>
     </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <img alt="" src="/Assets/terten_tortoise_tank.png" height="500px">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            Terten tortoise tank, with mage enchanting the harpoon missile as it was launched
+        </td>
+    </tr>
 </table>
 
 ---

@@ -9,7 +9,7 @@ Elea is known for her activism in support of women and workers, about which she 
 Her beliefs were sometimes criticised for lack of radicalism and bringing thoughts contradictory to her
 mission, but many found her views as a soothing middle-ground supporting acting without abandonment of
 traditional beliefs.  
-It's worth noting that Elea's husband supported her beliefs, supporting them through some laws passed
+It's worth noting that Elea's husband supported her beliefs, backing them through some laws passed
 during his reign.
 
 ---
