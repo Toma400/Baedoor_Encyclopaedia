@@ -1,6 +1,9 @@
 # 🍁 New Era Characters
 
 ---
+### 🛕 EAST BAEDOOR
+#### [Naevin Manaut](List/Manaut_Naevin.md)
+
 ### 🛕 WEST BAEDOOR
 #### [Delai Eir](List/Eir_Delai.md)
 #### [Ferves Navikon](List/Navikon_Ferves.md)

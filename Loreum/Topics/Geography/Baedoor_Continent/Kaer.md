@@ -42,6 +42,7 @@ South of Kaer there's island Kacari that is usually considered as a local polity
 bound to Erdic Kingdom despite formally being part of it. This also let it be treated more lightly
 during Baedoor occupation.
 
+## -- Old Planning ---
 ### TOWNS
 #### Somewhere? Needs finding out where (source: old BE)
 - Carion
@@ -86,15 +87,82 @@ during Baedoor occupation.
 - Anoltan `ruined`
 
 ### LANDSCAPES
-- Miarza River `? name`
-- Xaroma River `? 'x' in name`
-- As River `? name`
-- Rosiuai River `? name`
+- Miarza River `? name - rename to Mikhyat and make it delta name`
+- Xaroma River `? 'x' in name - rename to Saroma and move to erdic lands`
+- As River `? name - rename it to Har and move to kehtic lands | update, mountains get Har name, river is Lahar`
+- Rosiuai River `? name - rename it to Roisuri and move it to go from Cataris to in between Phyr and Bristeldir`
 - Enkg Mountains
-- Eckhag Forest `around Atakil`
+- Eckhag Forest `around Atakil - can be nomathian side`
 
-### PLACES
-- ...
+## -- New Planning ---
+### TOWNS
+#### Kaerians
+- Ranirsis
+- Moricur
+- Ortaver `Detemardir is old erdic name`
+- Neghdit
+#### Kehts
+- Dahekhris
+- Carion
+- Phyr
+- Vartrekh
+#### Erds
+- Bristeldir
+- Cataris
+- Atakil
+- Sanaran
+#### Kacari
+- Roda
+- Sorin
+### VILLAGES
+#### Kaerians
+- Ardhaved
+- Nivdit
+#### Kehts
+- Ekhalat
+#### Erds
+- Liteil
+#### Kacari
+- Anoan
+- Anoltan `ruined`
+### LANDSCAPES
+- Nemori Mountains `the main chain` `Enkgit in kaerian`
+- Ardhavet Mountains `northern split of the chain`
+- Har Mountains `kehtic`
+- Mavsvi River `the main, leading to delta`
+- Mikhyat `delta`
+- Eckhag Forest `nomathian side of southern forest | kh, yet g.. in one of my bad readings it also ended with -t, making it fully kehtic at least | 'eghad' would be kaeric`
+- Hvernom Forest `northern forest`
+- Marane Forest `southern side of southern forest`
+- Rivers
+  - Saroma `one going through Atakil`
+  - Roisuri `one going near Cataris towards in between Phyr and Bristeldir`
+  - Lahar `one going from Dahegriz and into the sea near Carion`
+  - Hevter `river south of Neghdit`
+  - Namarit `river near Moricur, flowing into Mavsvi close to delta widening`
+  - Gedet `river out of Har mountains, flowing into Mavsvi on delta`
+- Mesaul Mountains `west range on Kacari`
+- Lemeris Mountains `east range on Kacari`
+- Dair River `the river going south of Temple, out of Mesaul`
+
+### General Naming Schemes
+- Kehts
+  - `kh` is unique
+  - `h` is fairly often used
+  - `v` is rare, used only on beginning
+  - usage of heavier letters (such as `r`, `d`) is emphasized
+  - can use `-is` suffix as common to both kehts and erds
+- Kaerians
+  - `g` is unique and popular, often used at the end or in combination as `gh`
+  - `h` is used, but rather rare
+  - `v` is more popular, usually in the middle
+  - usage of stiffer letters (such as `t`, `h`) is emphasized
+  - uses `-dit` suffix
+- Erds
+  - often ends names with `n`, `l`, `s`, `a` and `e`
+    - `i` is rarer but possible option (usually reminiscent of tris however)
+  - uses `-teldir`/`-dir` and `-il` suffix (`-is` being both erdic and kehtic)
+  - more frequent usage of vowels, the words should flow
 
 ### TOPICS
 ####   🔷 [🐊 Bestiary](/Loreum/Topics/Nature/Bestiary/Kaer_Bestiary.md)

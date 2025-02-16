@@ -14,6 +14,7 @@ Characters bound to **Baedoorian** heritage and nationality.
 ### 🕋 NEW ERA
 #### [Ferves Navikon](List/Navikon_Ferves.md)
 #### [Heim Winfleton](List/Winfleton_Heim.md)
+#### [Naevin Manaut](List/Manaut_Naevin.md)
 
 ---
 ♜

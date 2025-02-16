@@ -71,6 +71,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Marvin   | Whole Baedoor       | 🔥 Common      |                                                                            |
 | Mes      | East Baedoor        | ⚜️ Rare        |                                                                            |
 | Mez      | East Baedoor        | ⚜️ Rare        | Very unique variant of *Mes*                                               |
+| Naevin   | Whole Baedoor       | 🔆 Semi-common |                                                                            |
 | Natem    | East Baedoor        | ⚜️ Rare        | Semi-popular name in Old Era, rare in New Era, of jitadian origin          |
 | Nelson   | Whole Baedoor       | 🏵️ Semi-rare  | Common name in Old Era, becoming rare in New Era                           |
 | Nemos    | Whole Baedoor       | 🔆 Semi-common | Nowadays common mostly in West Baedoor, of jitadian origin                 |
@@ -135,6 +136,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Inraerdena | West Baedoor                  | West Baedoor noble family of Inradena, who changed their surname to accent their proletarian origin                                                                 |
 | Kono       | East Baedoor                  | Aristocratic surname                                                                                                                                                |
 | Maen       | Whole Baedoor                 | Aristocratic surname in Dvickhet, but also not uncommon name among commonfolk in West Baedoor                                                                       |
+| Manaut     | East Baedoor                  | Semi-common surname                                                                                                                                                 |
 | Mevren     | Whole Baedoor                 | Semi-common surname                                                                                                                                                 |
 | Naevos     | Ansur                         | Surname coming from trish Nai and arennian-baedoorian Vos families                                                                                                  |
 | Naraho     | Baedoor city and surroundings | Old name of Baedoor city surroundings, considered of nomathian influence                                                                                            |

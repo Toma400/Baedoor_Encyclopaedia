@@ -105,11 +105,13 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### M
 - [Madai](Topics/Nature/Herbarium/List/Madai.md)
+- [Manaut, Naevin](Topics/Characters/List/Manaut_Naevin.md)
 - [Menerun](Topics/Geography/Old_Continent/Jitado/Cities/Menerun.md)
 - [Mes Inpea](Topics/Geography/Old_Continent/Mes_Inpea.md) (island)
 - [Moon](Topics/Geography/Moon_Continent.md) (continent)
 
 ### N
+- [Naevin Manaut](Topics/Characters/List/Manaut_Naevin.md)
 - [Naven](Topics/Nature/Bestiary/List/Naven.md)
 - [Navikon, Ferves](Topics/Characters/List/Navikon_Ferves.md)
 - [Nerau](Topics/Nature/Bestiary/List/Nerau.md)

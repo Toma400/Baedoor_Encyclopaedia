@@ -15,6 +15,7 @@ List of all noted characters existing throughout the history of Baedoor universe
 #### 🔹 [Characters of Baedoor Empire](Characters/Baedoor_Characters.md)
 #### 🔹 [Characters of Jitado](Characters/Jitado_Characters.md)
 #### 🔹 [Characters of Kaer](Characters/Kaer_Characters.md)
+#### 🔹 [Characters of East Baedoor](Characters/East_Baedoor_Characters.md)
 #### 🔹 [Characters of West Baedoor](Characters/West_Baedoor_Characters.md)
 
 ---

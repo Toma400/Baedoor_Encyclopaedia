@@ -27,6 +27,9 @@ foreign lands, as their existence is in increasing danger as climate becomes mor
 - Sarven `v`
 - Anvare `v`
 
+### LANDSCAPES
+- Ivasai Mountains
+
 ### TOPICS
 ####   🔷 [🐊 Bestiary](/Loreum/Topics/Nature/Bestiary/Arennan_Bestiary.md)
 ####   🔷 [🌿 Herbarium](/Loreum/Topics/Nature/Herbarium/Arennan_Herbarium.md)
