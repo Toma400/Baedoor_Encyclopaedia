@@ -54,6 +54,18 @@
       and area further inland that will be more sparse in next panels.
     </td>
   </tr>
+
+  <!--PHOTO 4-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo 15" width="416" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_15.jpg"/></td>
+    <th align="centre">The Lone Tower</th>
+  </tr>
+  <tr>
+    <td>
+      The tower standing in the deserted area. Inhabited by mage, most probably to research the field
+      without interruption from anyone.
+    </td>
+  </tr>
 </table>
 
 ---

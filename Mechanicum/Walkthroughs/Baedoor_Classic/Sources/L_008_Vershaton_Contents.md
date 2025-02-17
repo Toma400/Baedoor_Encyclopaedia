@@ -99,6 +99,18 @@
             <img alt="Vershaton Archives, Photo 14" width="416" height="280" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_14.jpg"/>
         </td>
     </tr>
+    <tr>
+        <td align="center">15</td>
+        <td>
+            <img alt="Vershaton Archives, Photo 15" width="280" height="416" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_15b.jpg"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">16</td>
+        <td>
+            <img alt="Vershaton Archives, Photo 16" width="416" height="280" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_15.jpg"/>
+        </td>
+    </tr>
 </table>
 
 ---

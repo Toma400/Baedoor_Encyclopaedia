@@ -15,6 +15,7 @@ Rakonnd Coast and Vershaton.
 ♜: needs more canonical informations. So far canonical are as follows:
 - name in nomathian (set to such origin because it didn't fit baedoorian)
 - BaeCL picture
+
 What is not canonical is:
 - red colour
 - baedoorian name
