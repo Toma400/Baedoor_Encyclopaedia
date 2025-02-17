@@ -5,11 +5,13 @@
 - [Surnames](#surnames)
 
 ## Names
+Male names not uncommonly end with `-us`, `-is` and `-t`.
 
 ### Male
 | Name   | Localisation    | Rarity         | Description                                                   |
 |--------|-----------------|----------------|---------------------------------------------------------------|
 | Apis   | Whole Mes Inpea | ⚜️ Rare        |                                                               |
+| Brus   | Whole Mes Inpea | ⚜️ Rare        | Deformation of Brutus                                         |
 | Brutus | Whole Mes Inpea | 🔆 Semi-common |                                                               |
 | Enetus | Whole Mes Inpea | 🔆 Semi-common |                                                               |
 | Eretus | Whole Mes Inpea | 🔆 Semi-common |                                                               |
@@ -18,6 +20,7 @@
 | Iner   | Whole Mes Inpea | 🔥 Common      |
 | Ineald | Outside         | ⚜️ Rare        | With jitadish/baedoorian influences, possibly Iner derivation |
 | Ottus  | Whole Mes Inpea | 🔆 Semi-common |                                                               |
+| Sopt   | Whole Mes Inpea | 🏵️ Semi-rare  |                                                               |
 | Sul    | Whole Mes Inpea | 🏵️ Semi-rare  |                                                               |
 
 ### Female

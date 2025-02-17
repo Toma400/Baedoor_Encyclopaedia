@@ -111,6 +111,24 @@
             <img alt="Vershaton Archives, Photo 16" width="416" height="280" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_15.jpg"/>
         </td>
     </tr>
+    <tr>
+        <td align="center">17</td>
+        <td>
+            <img alt="Vershaton Archives, Photo 17" width="416" height="280" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_16.jpg"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">18</td>
+        <td>
+            <img alt="Vershaton Archives, Photo 18" width="416" height="280" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_17.jpg"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">19</td>
+        <td>
+            <img alt="Vershaton Archives, Photo 19" width="416" height="280" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_18.jpg"/>
+        </td>
+    </tr>
 </table>
 
 ---

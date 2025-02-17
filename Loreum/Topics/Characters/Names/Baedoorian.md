@@ -21,6 +21,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Arentras | East Baedoor        | 🔥 Common      | Common name in Old Era, of jitadish origin                                 |
 | Argin    | Whole Baedoor       | ⚜️ Rare        | Of jitadian origin                                                         |
 | Clayton  | East Baedoor        | ⚜️ Rare        | Rare name in early Old Era, possibly derived from jitadian Sayton/Saytoin  |
+| Croy     | East Baedoor        | ⚜️ Rare        | Baedoorised version of nomathian *Khrey*                                   |
 | Cryan    | East Baedoor        | ⚜️ Rare        | Rare name in early Old Era                                                 |
 | Cubati   | East Baedoor        | ⚜️ Rare        | Of unknown roots                                                           |
 | Devako   | East Baedoor        | ⚜️ Rare        | Rare name in early Old Era, with foreign origin (possibly mesinpean Devah) |
@@ -81,6 +82,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Norran   | Whole Baedoor       | 🔥 Common      |                                                                            |
 | Norvin   | Whole Baedoor       | 🔆 Semi-common | Specifically popular on Rakonnd coast                                      |
 | Nyver    | Whole Baedoor       | ⚜️ Rare        | Of jitadian origin, with Nyvera as female counterpart                      |
+| Olli     | Whole Baedoor       | 🏵️ Semi-rare  |                                                                            |
 | Orhat    | East Baedoor        | ⚜️ Rare        | Extremely rare, of nomathian origin                                        |
 | Ovlan    | Whole Baedoor       | 🔥 Common      | Usually more frequently found on Rakonnd Coast                             |
 | Pathor   | Whole Baedoor       | 🏵️ Semi-rare  | Common name in Old Era                                                     |

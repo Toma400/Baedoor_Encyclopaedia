@@ -10,6 +10,7 @@
 | Name   | Localisation | Rarity         | Description |
 |--------|--------------|----------------|-------------|
 | Arth   | Whole Island | 🔆 Semi-common |             |
+| Khrey  | Whole Island | 🏵️ Semi-rare  |             |
 | Opugat | Whole Island | 🏵️ Semi-rare  |             |
 
 ### Female

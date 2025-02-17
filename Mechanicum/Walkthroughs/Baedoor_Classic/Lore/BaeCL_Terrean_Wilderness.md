@@ -66,6 +66,56 @@
       without interruption from anyone.
     </td>
   </tr>
+
+  <!--PHOTO 5-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo 16" width="416" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_16.jpg"/></td>
+    <th align="centre">A Tree Hill</th>
+  </tr>
+  <tr>
+    <td>
+      Just a hilly terrain with tree reigning over the area. You can see the wastelandy, dry environment
+      and some creature roaming over.
+    </td>
+  </tr>
+
+  <!--PHOTO 6-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo 17" width="416" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_17.jpg"/></td>
+    <th align="centre">Wilderness Market</th>
+  </tr>
+  <tr>
+    <td>
+      Market on the outskirts of the city - with some booths and people talking to each other, playing
+      games. The guard is watching over the area.<br>
+      As usual with name-heavy area, here is the survey: Sopt is nice mesinpean name.
+      <ul>
+        <li><b>Ulli -> Olli</b></li>
+        <li><b>Sopt</b> is nice mesinpean name</li>
+        <li><b>Bosm</b> can be pahtric name </li>
+        <li><b>Croy</b>, baedoorised variant of nomathian Khrey </li>
+        <li><b>Bruce -> Brus</b>, would be also mesinpean </li>
+      </ul>
+      I think the general gist of this market could be that it is heavily occupied by non-baedoorians,
+      being there either because of friendlier atmosphere or because they were forced to trade outside.
+      Whether this may be too hostile is up to person reading it once we get to characterisation of
+      Empire and these places - the market's existence wasn't really explained.
+    </td>
+  </tr>
+
+  <!--PHOTO 7-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo 18" width="416" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_18.jpg"/></td>
+    <th align="centre">The Caravan</th>
+  </tr>
+  <tr>
+    <td>
+      This area looks a bit lushier, so we could imagine the town nearby can be in area with a bit
+      denser greenery than usual on this wasteland. The caravaneer is called Aps, so I will assume
+      it's just mesinpean Apis.<br>
+      On fun side note, in notebook he actually complains about the state of the roads.
+    </td>
+  </tr>
 </table>
 
 ---

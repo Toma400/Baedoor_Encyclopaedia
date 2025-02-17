@@ -10,6 +10,7 @@
 | Name  | Localisation | Rarity         | Description                           |
 |-------|--------------|----------------|---------------------------------------|
 | Ain   | All islands  | 🔆 Semi-common | Pan-tric name, used among all classes |
+| Bosm  | All islands  | 🏵️ Semi-rare  |                                       |
 | Tomai | All islands  | 🔆 Semi-common | Gender-neutral pahtric name           |
 
 ### Female
