@@ -31,6 +31,9 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - [Fegar](Baedoor/Cities/Fegar.md)
 - Kelvos `v`
 
+#### Vershaton
+- Morpat
+
 ### VILLAGES
 #### Baedoor
 - Kedalet `?: Kedalan`

@@ -116,6 +116,19 @@
       On fun side note, in notebook he actually complains about the state of the roads.
     </td>
   </tr>
+
+  <!--PHOTO 8-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo 19" width="416" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_19.jpg"/></td>
+    <th align="centre">Gates of Morpat</th>
+  </tr>
+  <tr>
+    <td>
+      That lushier part of previous panel opens us to the city of Morpat (for some reason called
+      differently on sign), guarded by a knightly persona. We can see city banner (or reigning family
+      one) on the tower.
+    </td>
+  </tr>
 </table>
 
 ---

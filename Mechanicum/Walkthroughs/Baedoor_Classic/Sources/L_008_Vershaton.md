@@ -34,6 +34,25 @@ true, but also is a monument to the fact that the area had not much actual world
 aside of just general Baedoor. This is changing currently.
 
 ---
+### Radpat vs Morpat
+The main challenge during analysing of this book was to decide what name should second town have - is
+it Radpat, or rather Morpat? Here is the count of names, with notable examples brought:
+- **Radpat**: 2x | 2x in land notebook
+  - City banner
+  - Sign to the city
+- **Morpat**: 12x | 4x in land notebook and 8x in data notebook
+  - Map at the back
+  - City surroundings banner
+  - City section name in data notebook
+
+I have no idea why city banner got such a name and I'd probably use Radpat as a name of either
+another town/city, nomathic family ruling Morpat in old times, or for the region - with the third
+not being optimal as we already have name of the region.  
+Either way Morpat won by occurences, but I somehow found it a struggle to decide (I may have missed
+some Radpat occurences too, as I would swear there was more equal number of it). It's still quite weird
+two pages opening the city got different name, but even a page after we can find "Morpat" again.
+
+---
 ### Source lore accuracy
 As far as my overview goes, `L.008` seems to be quite accurate with even newest lore towards Vershaton,
 with only few nitpicks here and there. It also has an interesting difference with old planning that
