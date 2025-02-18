@@ -208,12 +208,10 @@ and who knows, maybe we will meet across the road someday?
 * [2021] [Wastelands of Baedoor](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor)
 ---
 ### Upcoming
-* [2024] The Isle of Ansur `indev`
+* [ ` ? ` ] The Isle of Ansur `indev`
 * [ ` ? ` ] Civilisations of Baedoor `indev`
 * [ ` ? ` ] Spires of Baedoor `indev`
 #### Far future?
-* [ ` ? ` ] Of Lands `temporary name`
-* [ ` ? ` ] Baedoor Travels
 * [ ` ? ` ] Emperor of Eternity
 * [ ` ? ` ] Baedoor
 

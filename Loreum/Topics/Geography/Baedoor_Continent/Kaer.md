@@ -101,6 +101,7 @@ during Baedoor occupation.
 - Moricur
 - Ortaver `Detemardir is old erdic name`
 - Neghdit
+- Rolsale `ruined baedoorian city north-west of Ranirsis, with little woodsmen village built nearby`
 #### Kehts
 - Dahekhris
 - Carion
@@ -118,10 +119,17 @@ during Baedoor occupation.
 #### Kaerians
 - Ardhaved
 - Nivdit
+- Kernat `Kerna on Kartograf map, north-east of Neghdit`
 #### Kehts
-- Ekhalat
+- Ekhalat `ekhalad? to make it more kehtic in name; I love ekhalat though and there's vartrekh`
+- Sekhra `Secra on Kartograf map`
+- Khar Ia `Kar Ia on Kartograf map`
+- Elur `Eluva on Kartograf map`
+- Varkhil `Pharkil on Kartograf map`
+- Karg
 #### Erds
 - Liteil
+- Arinis `Atryhian on Kartograf map`
 #### Kacari
 - Anoan
 - Anoltan `ruined`
@@ -151,7 +159,7 @@ during Baedoor occupation.
   - `h` is fairly often used
   - `v` is rare, used only on beginning
   - usage of heavier letters (such as `r`, `d`) is emphasized
-  - can use `-is` suffix as common to both kehts and erds
+  - can use `-is` and `-il` (rare) suffix as common to both kehts and erds
 - Kaerians
   - `g` is unique and popular, often used at the end or in combination as `gh`
   - `h` is used, but rather rare
@@ -161,8 +169,11 @@ during Baedoor occupation.
 - Erds
   - often ends names with `n`, `l`, `s`, `a` and `e`
     - `i` is rarer but possible option (usually reminiscent of tris however)
-  - uses `-teldir`/`-dir` and `-il` suffix (`-is` being both erdic and kehtic)
+  - uses `-teldir`/`-dir` suffix (`-is` and `-il` being both erdic and kehtic)
   - more frequent usage of vowels, the words should flow
+- Summary
+  - Kaerians are heavily influenced by kehts, a mix of hard (`g`) nomathic and stiffier (`kh`) kehtic
+  - Kehts and erds has some melodic parts and letter use shared, but differ heavily in flow and sounds
 
 ### TOPICS
 ####   🔷 [🐊 Bestiary](/Loreum/Topics/Nature/Bestiary/Kaer_Bestiary.md)
