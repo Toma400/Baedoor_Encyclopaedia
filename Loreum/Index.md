@@ -93,7 +93,8 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Kaer](Topics/Geography/Baedoor_Continent/Kaer.md)
 - [Kaerian](Topics/Cultures/Kaerians/[Culture].md)
 - [Kalvhyk](Topics/Nature/Foods/List/Kalvhyk.md)
-- [Kehts](Topics/Cultures/Kehts/[Culture].md)
+- [Kehts](Topics/Races/Regular/Kehts.md) (race)
+- [Kehts](Topics/Cultures/Kehts/[Culture].md) (culture)
 - [Kel Desert](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Kel_Desert.md)
 - [Keno Nira](Topics/Characters/List/Nira_Keno.md)
 
@@ -109,6 +110,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Menerun](Topics/Geography/Old_Continent/Jitado/Cities/Menerun.md)
 - [Mes Inpea](Topics/Geography/Old_Continent/Mes_Inpea.md) (island)
 - [Moon](Topics/Geography/Moon_Continent.md) (continent)
+- [Morpat](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Morpat.md)
 
 ### N
 - [Naevin Manaut](Topics/Characters/List/Manaut_Naevin.md)

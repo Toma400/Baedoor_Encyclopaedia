@@ -12,6 +12,7 @@
 - [Isuga](Lore/BaeCL_Isuga.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md)
 - [Kel Desert](Lore/BaeCL_Kel_Desert.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Lands/Kel_Desert.md)
 - [Menerun](Lore/BaeCL_Menerun.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Menerun.md)
+- [Morpat](Lore/BaeCL_Morpat.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Morpat.md)
 - [Mining Hills](Lore/BaeCL_Mining_Hills.md)
 - [Raliun](Lore/BaeCL_Raliun.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
 - [Terrean Savannah](Lore/BaeCL_Terrean_Wilderness.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Lands/Terrean_Savannah.md)
@@ -49,8 +50,9 @@
         <th>Timeframe</th>
         <td>early / middle Old Era</td>
         <td rowspan="2">
-            🐪    <a href="Lore/BaeCL_Alkaesar.md">            Alkaesar            </a> <br>
-            🏜️    <a href="Lore/BaeCL_Terrean_Wilderness.md">  Terrean Wildnerness </a>
+            🐪    <a href="Lore/BaeCL_Alkaesar.md">                  Alkaesar      </a> <br>
+            🏜️    <a href="Lore/BaeCL_Terrean_Wilderness.md">  Terrean Wildnerness </a> <br>
+            🛕    <a href="Lore/BaeCL_Morpat.md">                     Morpat       </a> 
         </td>
     </tr>
     <tr>
