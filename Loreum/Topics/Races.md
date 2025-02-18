@@ -6,15 +6,16 @@ may also visit [cultures page](Cultures.md).
 ### Regular races
 ####   🔹 [Ghlodds](Races/Regular/Ghlodds.md)
 ####   🔹 [Ormaths](Races/Regular/Ormaths.md)
-####   🔹 Kehts
+####   🔹 [Kehts](Races/Regular/Kehts.md)
 ####   🔹 Erds
 ####   🔹 Etts
 ####   🔹 Latoka
 ####   🔹 Naks
 ####   🔹 Orcs
-####   🔹 [Proto-Ormaths] `not ormath-related, name kept only for reference`
+####   🔹 Naantael `'Ixathei ormaths' (would it be ormaths actually travelling west? before saphtri? or not ormaths at all? or their ancestors who travelled east?)`
+####   🔹 Talaaxi `Ixathei apes`
 ####   🔹 Mesinpeans `previously as human kind, brainstorm`
-####   🔹 Mrras `previously as human kind, brainstorm`
+####   🔹 Mrrans `previously as human kind, brainstorm`
 ####   🔹 Humans
 ####     🔹 Nomathians
 ####     🔹 Vindeans
