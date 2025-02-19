@@ -6,12 +6,12 @@
             <img alt="Kha/Dis map" height="400" src="/Assets/Maps/erdic_islands.png">
         </td>
         <td width="40%" align="center">
-            <img alt="Kaer map" height="400" src="/Assets/Maps/kaer_book.png">
+            <img alt="Kaer map" height="400" src="/Assets/Maps/kaer_book_detail.png">
         </td>
     </tr>
     <tr>
-        <td> Gridmap of Kacari and Disane islands, New Era </td>
-        <td> Kaer from "Southern Islands" book             </td>
+        <td> Gridmap of Kacari and Disane islands, New Era       </td>
+        <td> Kaer from "Southern Islands" book, detailed version </td>
     </tr>
 </table>
 <table>
@@ -93,6 +93,7 @@ during Baedoor occupation.
 - Rosiuai River `? name - rename it to Roisuri and move it to go from Cataris to in between Phyr and Bristeldir`
 - Enkg Mountains
 - Eckhag Forest `around Atakil - can be nomathian side`
+- Oin Mountain `turned into name of the forest, it fits it better imo`
 
 ## -- New Planning ---
 ### TOWNS
@@ -102,11 +103,13 @@ during Baedoor occupation.
 - Ortaver `Detemardir is old erdic name`
 - Neghdit
 - Rolsale `ruined baedoorian city north-west of Ranirsis, with little woodsmen village built nearby`
+- Retevet `on Ehaet`
 #### Kehts
 - Dahekhris
 - Carion
 - Phyr
 - Vartrekh
+- Khar Ia `Kar Ia on Kartograf map`
 #### Erds
 - Bristeldir
 - Cataris
@@ -114,28 +117,41 @@ during Baedoor occupation.
 - Sanaran
 #### Kacari
 - Roda
-- Sorin
+- Kananea
 ### VILLAGES
 #### Kaerians
 - Ardhaved
 - Nivdit
 - Kernat `Kerna on Kartograf map, north-east of Neghdit`
+- Hemantir
+- Govarat
 #### Kehts
 - Ekhalat `ekhalad? to make it more kehtic in name; I love ekhalat though and there's vartrekh`
 - Sekhra `Secra on Kartograf map`
-- Khar Ia `Kar Ia on Kartograf map`
 - Elur `Eluva on Kartograf map`
 - Varkhil `Pharkil on Kartograf map`
 - Karg
+- Vidis
+- Nepekh
+- Eldril
+- Vaktad
+- Rekherad
+- Cortedar
+- Khedaris
 #### Erds
 - Liteil
 - Arinis `Atryhian on Kartograf map`
+- Ninnan
+- Miris
+- Irane
+- Kemsan
+- Ranadir
 #### Kacari
 - Anoan
 - Anoltan `ruined`
 ### LANDSCAPES
 - Nemori Mountains `the main chain` `Enkgit in kaerian`
-- Ardhavet Mountains `northern split of the chain`
+- Misavor Mountains `northern split of the chain`
 - Har Mountains `kehtic`
 - Mavsvi River `the main, leading to delta`
 - Mikhyat `delta`
@@ -143,15 +159,29 @@ during Baedoor occupation.
 - Hvernom Forest `northern forest`
 - Marane Forest `southern side of southern forest`
 - Rivers
+  - Neverat `through Hvernom forest`
   - Saroma `one going through Atakil`
   - Roisuri `one going near Cataris towards in between Phyr and Bristeldir`
   - Lahar `one going from Dahegriz and into the sea near Carion`
-  - Hevter `river south of Neghdit`
-  - Namarit `river near Moricur, flowing into Mavsvi close to delta widening`
-  - Gedet `river out of Har mountains, flowing into Mavsvi on delta`
+  - Dekhaz `river out of Har mountains, flowing into Mavsvi on delta`
+  - Hevter `river south of Neghdit` (not on map)
+  - Namarit `river near Moricur, flowing into Mavsvi close to delta widening` (not on map)
+  - Gedet `river flowing through Sekhra` (not on map)
+- Small Islands
+  - Kaerian Chain
+    - Tavit `west`
+    - Ehaet `east`
+  - Kehtic Chain
+    - Anasakh `south`
+    - Veneis `north`
+  - Eastern Chain
+    - Uktir `the northest one`
+    - Manel `small, south of Uktir`
+    - Asladil `southest, near Sanaran`
 - Mesaul Mountains `west range on Kacari`
 - Lemeris Mountains `east range on Kacari`
 - Dair River `the river going south of Temple, out of Mesaul`
+- Oin Forest `forest south of Roda`
 
 ### General Naming Schemes
 - Kehts
@@ -169,9 +199,11 @@ during Baedoor occupation.
 - Erds
   - often ends names with `n`, `l`, `s`, `a` and `e`
     - `i` is rarer but possible option (usually reminiscent of tris however)
-  - uses `-teldir`/`-dir` suffix (`-is` and `-il` being both erdic and kehtic)
+  - uses `-teldir`/`-dir`, `-an` and `-ne` suffixes (`-is` and `-il` being both erdic and kehtic)
   - more frequent usage of vowels, the words should flow
 - Summary
+  - `-dir` and `-dit` can have some shared meaning/be influenced
+  - does `-an` suffix mean `arennan` is erdic name for the island? (`nn` is used in erdic)
   - Kaerians are heavily influenced by kehts, a mix of hard (`g`) nomathic and stiffier (`kh`) kehtic
   - Kehts and erds has some melodic parts and letter use shared, but differ heavily in flow and sounds
 

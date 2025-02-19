@@ -5,7 +5,7 @@
 long, dark hair that lasts to the elderly age.
 
 ### Origins
-The ancient roots of kehtic race direct us to **Blood Tribes**, goblin tribes that sacrificed themselves
+The ancient roots of kehtic race direct us to **Blood Tribes**, goblins that gave themselves
 to the cults of spirits that required them to perform self-humiliation and sacrifices of blood - both
 the tribesmen and foreign beings.  
 Those spirits rewarded the loyal goblins and ascended their beings into new flesh - they formed them

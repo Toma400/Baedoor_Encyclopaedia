@@ -12,8 +12,7 @@ may also visit [cultures page](Cultures.md).
 ####   🔹 Latoka
 ####   🔹 Naks
 ####   🔹 Orcs
-####   🔹 Naantael `'Ixathei ormaths' (would it be ormaths actually travelling west? before saphtri? or not ormaths at all? or their ancestors who travelled east?)`
-####   🔹 Talaaxi `Ixathei apes`
+####   🔹 Naantael `'Ixathei ormaths' (see notes below)`
 ####   🔹 Mesinpeans `previously as human kind, brainstorm`
 ####   🔹 Mrrans `previously as human kind, brainstorm`
 ####   🔹 Humans
@@ -26,6 +25,7 @@ may also visit [cultures page](Cultures.md).
 ####     🔹 Voitri
 ####     🔹 Pahtri
 ####     🔹 Lunatri
+####   🔹 Zhi `should it be race, or rather rejected culture within tri?`
 ####   🔹 [Agoians]
 ####   🔹 [Underwater Race, Agoi] `see cultures doc`
 ####   🔹 [Underwater Race, Northern Islands] `see cultures doc`
@@ -37,7 +37,7 @@ may also visit [cultures page](Cultures.md).
 ####   🔹 [Serpent Race]
 ####   🔹 [Werewolf Race] `see cultures doc`
 ####   🔹 [Minotaur Race]
-####   🔹 [Southern Apes]
+####   🔹 Talaaxi `Ixathei apes`
 ####   🔹 [Cthulhu-Likes] `see cultures doc`
 
 ### Spiritual races
@@ -52,5 +52,7 @@ may also visit [cultures page](Cultures.md).
 ---
 ♜✥: links, more races still pending (East Moon, West Moon probably to diversify from too human-centric
 perspective? more on Ixathei, more on Eimr and nearby islands, and abundance of races on Serpent
-Islands - not to mention Vaos; also Mesinpeans could be multiple races or cultures within the one race)  
+Islands - not to mention Vaos; also Mesinpeans could be multiple races or cultures within the one race)
+
+Re: Naantael - would it be ormaths actually travelling west? before saphtri? or not ormaths at all? or their ancestors who travelled east?  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)

@@ -3,11 +3,11 @@
 <table width="40%">
     <tr>
         <td width="40%">
-            <img alt="Arennan map" height="400" src="/Assets/Maps/arennan_book.png">
+            <img alt="Arennan map" height="400" src="/Assets/Maps/arennan_book_detail.png">
         </td>
     </tr>
     <tr>
-        <td> Arennan from "Southern Islands" book </td>
+        <td> Arennan from "Southern Islands" book, detailed version </td>
     </tr>
 </table>
 
@@ -26,9 +26,41 @@ foreign lands, as their existence is in increasing danger as climate becomes mor
 - Tharie `v`
 - Sarven `v`
 - Anvare `v`
+- Nevai
+- Haktei
+- Nahti
+- Minau
+- Sinat `Cinalda on map, move to the island`
+- Atuv Nai `Atuuv on map`
+
+### VILLAGES
+- Kennevai `near Nevai`
+- Enam `Enamo on map`
+- Osarat `Osara on map, moved`
+- Ainoin `Ainonindale on map`
+- Vanil `Vhonillan on map`
+- Nanve `Nosarinve on map`
+- Vil `Vilppu + Viena on map`
+- Elanven `v`
+- Avhetei `Avho Tryn on map`
+- Arven Tari `Arveen Tarji on map`
+- Achan `v, moved; let it be the village built by baedoorians`
+- Igavi `Igas on map`
+- Karat
+- Kemminau
+- Nerime `moved`
 
 ### LANDSCAPES
 - Ivasai Mountains
+
+### General Naming Scheme
+- Cities
+  - common suffixes: `-e`/`-i`, tri `-ai`/`-ei`, `-en`
+  - sometimes use double names
+  - flowing letters (`n`, `m`, vowels) used commonly
+  - ...but often partitioned by stiff (`t`/`v`/`h`) or hard (`r`) letters to kinda slow it down
+  - `ke[double the first letter]` prefix to small villages belonging to bigger city polity
+- Landscapes
 
 ### TOPICS
 ####   🔷 [🐊 Bestiary](/Loreum/Topics/Nature/Bestiary/Arennan_Bestiary.md)
