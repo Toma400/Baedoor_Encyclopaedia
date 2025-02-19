@@ -90,6 +90,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Joeseh Thon](Topics/Characters/List/Thon_Joeseh.md)
 
 ### K
+- [Kacari](Topics/Geography/Baedoor_Continent/Kaer/Kacari.md)
 - [Kaer](Topics/Geography/Baedoor_Continent/Kaer.md)
 - [Kaerian](Topics/Cultures/Kaerians/[Culture].md)
 - [Kalvhyk](Topics/Nature/Foods/List/Kalvhyk.md)
@@ -160,6 +161,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
 
 ### U
+- [University of Illusion](Topics/Geography/Baedoor_Continent/Kaer/Places/University_of_Illusion.md)
 - [Unteupta](Topics/Cultures/Baedoorians/Vehicles/Unteupta.md)
 - [Unteupta Assassination](Topics/History/List/Unteupta_Assassination.md)
 - [Uruati](Topics/Races/Creature/Uruati.md)

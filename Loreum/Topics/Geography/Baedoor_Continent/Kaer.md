@@ -74,7 +74,7 @@ during Baedoor occupation.
 #### Skand (-> Sodthas)
 - Port Bristeldir `Gubera on map`
 
-#### Kacari
+#### [Kacari](Kaer/Kacari.md)
 - Roda
 - Sorin
 
@@ -115,9 +115,11 @@ during Baedoor occupation.
 - Cataris
 - Atakil
 - Sanaran
-#### Kacari
+#### [Kacari](Kaer/Kacari.md)
 - Roda
 - Kananea
+#### [Disane](Kaer/Disane.md)
+- [Disanteldir](Kaer/Cities/Disanteldir.md)
 ### VILLAGES
 #### Kaerians
 - Ardhaved
