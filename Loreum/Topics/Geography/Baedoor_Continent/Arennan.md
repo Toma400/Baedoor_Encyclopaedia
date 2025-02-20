@@ -46,7 +46,6 @@ foreign lands, as their existence is in increasing danger as climate becomes mor
 - Arven Tari `Arveen Tarji on map`
 - Achan `v, moved; let it be the village built by baedoorians`
 - Igavi `Igas on map`
-- Karat
 - Kemminau
 - Nerime `moved`
 
