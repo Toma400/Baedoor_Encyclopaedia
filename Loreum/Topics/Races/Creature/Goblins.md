@@ -116,6 +116,16 @@ and contacts with cultures living on the island shaped kaerian goblins to be muc
 in rituals and contacts with spirits, which also built quite different societal structure compared
 to tribes living elsewhere.
 
+Initially living on almost entirety of the island, goblins were pushed further into north-eastern
+**Hvernom Forest**, first by **Talaaxi** and later by kaerians and specifically baedoorians.  
+Among these that witnessed Talaaxi invasion it's worth to note **Blood Tribes**, goblin tribes
+that lived in Pre Era and decided to follow ruthless teachings of certain spirits.
+Their paths required goblins of those tribes to perform sacrifices and self-humiliation rituals.  
+That however gained them favourableness, and so spirits rewarded the loyalty - first, by
+ascending goblins into [kehts](/Loreum/Topics/Races/Regular/Kehts.md), and then driving
+Talaaxi mad and inspiring new kehtic forces to raid their settlements and drive occupants
+into the wild.
+
 ### Graphs
 #### Focus
 |     \      | Mountainers | Wastelanders | Lowlanders | Islanders | Kaerian |

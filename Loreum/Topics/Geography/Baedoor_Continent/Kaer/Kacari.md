@@ -2,11 +2,11 @@
 
 <table>
     <tr>
-        <td width="60%">
-            <img alt="Kac/Dis map" height="400" src="/Assets/Maps/erdic_islands.png">
+        <td width="50%">
+            <img alt="Kac/Dis map" src="/Assets/Maps/erdic_islands.png">
         </td>
-        <td width="40%" align="center">
-            <img alt="Kacari map, book" height="400" src="/Assets/Maps/kacari_book.png">
+        <td width="50%" align="center">
+            <img alt="Kacari map, book" src="/Assets/Maps/kacari_book.png">
         </td>
     </tr>
     <tr>

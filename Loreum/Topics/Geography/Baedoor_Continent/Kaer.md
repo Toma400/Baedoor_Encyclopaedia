@@ -54,7 +54,7 @@ during Baedoor occupation.
 - Rolsale `?`
 
 #### Ertenwald
-- Ortaver
+- [Ortaver](Kaer/Cities/Ortaver.md)
 
 #### Vartawald
 - Moncuri `or Moricuri` `ruins` `???` `according to old BE, it's city of Mora and within Enkg Mountains`
@@ -100,12 +100,12 @@ during Baedoor occupation.
 #### Kaerians
 - Ranirsis
 - Moricur
-- Ortaver `Detemardir is old erdic name`
+- [Ortaver](Kaer/Cities/Ortaver.md) `Detemardir is old erdic name`
 - Neghdit
 - Rolsale `ruined baedoorian city north-west of Ranirsis, with little woodsmen village built nearby`
 - Retevet `on Ehaet`
 #### Kehts
-- Dahekhris
+- [Dahekhris](Kaer/Cities/Dahekhris.md)
 - Carion
 - Phyr
 - Vartrekh
@@ -117,7 +117,7 @@ during Baedoor occupation.
 - Sanaran
 #### [Kacari](Kaer/Kacari.md)
 - Roda
-- Kananea
+- Kananea `rename to Near? per "english-like names are funny" and the fact Kananea exists irl`
 #### [Disane](Kaer/Disane.md)
 - [Disanteldir](Kaer/Cities/Disanteldir.md)
 ### VILLAGES

@@ -33,10 +33,12 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Cuerven Valley](Topics/Geography/Moon_Continent/East_Moon/Lands/Cuerven_Valley.md)
 
 ### D
+- [Dahekhris](Topics/Geography/Baedoor_Continent/Kaer/Cities/Dahekhris.md)
 - [Dawn Tear](Topics/Nature/Herbarium/List/Dawn_Tear.md)
 - [Delai Eir](Topics/Characters/List/Eir_Delai.md)
 - [Dem](Topics/Cultures/Baedoorians/List/Dem.md)
 - [Desert Divisions](Topics/Guilds/List/Desert_Divisions.md)
+- [Detemardir](Topics/Geography/Baedoor_Continent/Kaer/Cities/Ortaver.md)
 - [Disane](Topics/Geography/Baedoor_Continent/Kaer/Disane.md)
 - [Disanteldir](Topics/Geography/Baedoor_Continent/Kaer/Cities/Disanteldir.md)
 - [Dvickhet](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Dvickhet.md)
@@ -129,6 +131,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Order of the Sword](Topics/Guilds/List/Order_of_the_Sword.md)
 - [Ormaths](Topics/Races/Regular/Ormaths.md) (race)
 - [Ormaths](Topics/Cultures/Ormaths/[Culture].md) (culture)
+- [Ortaver](Topics/Geography/Baedoor_Continent/Kaer/Cities/Ortaver.md)
 - [Ostaequa](Topics/Nature/Bestiary/List/Ostaequa.md)
 - [Oververse](Topics/World_Mechanics/Oververse.md)
 

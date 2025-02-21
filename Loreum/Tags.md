@@ -15,6 +15,7 @@ If this section becomes too big, it can be split into linked sections in the fut
 * [Adelaie](Topics/Geography/Old_Continent/Jitado/Cities/Adelaie.md)
 * [Alkaesar](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Alkaesar.md)
 * [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)
+* [Dahekhris](Topics/Geography/Baedoor_Continent/Kaer/Cities/Dahekhris.md)
 * [Disanteldir](Topics/Geography/Baedoor_Continent/Kaer/Cities/Disanteldir.md)
 * [Dvickhet](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Dvickhet.md)
 * [Evros](Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)
@@ -24,6 +25,7 @@ If this section becomes too big, it can be split into linked sections in the fut
 * [Menerun](Topics/Geography/Old_Continent/Jitado/Cities/Menerun.md)
 * [Morpat](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Morpat.md)
 * [Nyme](Topics/Geography/Moon_Continent/East_Moon/Cities/Nyme.md)
+* [Ortaver](Topics/Geography/Baedoor_Continent/Kaer/Cities/Ortaver.md)
 * [Raliun](Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
 * [Skirran](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)
 
