@@ -15,6 +15,7 @@
 | Arentras   | 🔥 Common      |                                                                        |
 | Argin      | 🏵️ Semi-rare  | Mostly popular on northern coast                                       |
 | Bedein     | ⚜️ Rare        | Slightly foreign feel                                                  |
+| Corros     | 🏵️ Semi-rare  |                                                                        |
 | Cryan      | ⚜️ Rare        | Used in harbour towns                                                  |
 | Devan      | 🔆 Semi-common | Of mesinpean origin (from Devah)                                       |
 | Ede        | ⚜️ Rare        |                                                                        |

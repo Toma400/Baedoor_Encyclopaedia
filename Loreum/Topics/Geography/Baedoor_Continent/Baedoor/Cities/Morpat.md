@@ -10,6 +10,22 @@ it was outpaced by quickly developing [Alkaesar](Alkaesar.md). Raising the latte
 Baedoor Empire influence buried Morpat's chances to thrive forever, rerouting the roads in favour of
 new trade centre.
 
+Morpat has walls.
+
+<table>
+  <tr>
+    <td width="420" rowspan="2"><img alt="Morpat Banner" height="67" width="105" src="/Assets/flag_morpat.png"/></td>
+    <th align="centre">Morpat Banner</th>
+  </tr>
+  <tr>
+    <td>
+      Banner of Morpat city, featuring a small blade and star, depicting typical baedoorian
+      iconography - suggesting that it is symbol established after Pre Era. Banner taken from
+      Baedoor Classic depiction of Morpat.
+    </td>
+  </tr>
+</table>
+
 ---
 📿 [Baedoor Classic](/Mechanicum/Walkthroughs/Baedoor_Classic/Lore/BaeCL_Morpat.md)
 

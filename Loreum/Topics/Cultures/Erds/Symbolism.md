@@ -7,8 +7,8 @@ related to shapes and motifs, as well as care of colours.
 Colour is an important part of erdic identity, being used from architecture, clothing, through
 tapestries and tableware, to writing.  
 Erds embrace the richness of colours, however they often pick some specific ones. 
-The most commonly used are intense red, cream white/yellow, purple and dark/regular green, 
-with darker orange and yellow being also seen from time to time.  
+The most commonly used are intense red, cream white/yellow, cream red, purple and 
+dark/regular green, with darker orange and yellow being also seen from time to time.  
 Blue is rare and is never dominant, pure white and black is absent pretty much.
 
 ### The Garden
