@@ -5,10 +5,27 @@ It follows old philosophical idea of "the garden" that influences a lot of its a
 Erds perfected their balance between beautiful ornamentation and simplicity, bringing artistry into
 many fields of life in a way that is not overly extravagant.
 
+### Institutional Houses
+Erdic culture holds the specific institution role, called *Houses*. Unlike actual institutions
+and guilds, House is term used for structure built from incentive of individuals or local
+society and has informal structure and laws, thus not fall within law sanctions beyond what
+is permissible for everyone.  
+That said, Houses can have charter, specific mission and be considered a legitimate 
+partner, or even be funded by state or other donors.  
+One of examples of such high legitimate House structure is **House of Restoration** found 
+on [Kacari](/Loreum/Topics/Geography/Baedoor_Continent/Kaer/Kacari.md) which is House founded
+upon the idea of researching history of the island and erdic culture. Being funded by both
+[University of Illusion](/Loreum/Topics/Geography/Baedoor_Continent/Kaer/Places/University_of_Illusion.md)
+and erdic state, it provides annual reports and has regular contact with donors, proving its
+high trust status for its entire existence.  
+Despite their general idea, Houses are usually seen as effective and trustworthy, as they
+operate heavily on initiative of its members.
+
 ### Cultural Topics
 - [🏯 Architecture](/Loreum/Topics/Cultures/Erds/Architecture.md)
 - [💮 Language](/Langue/List/Erdis.md)
 - [㊙️ Names](/Loreum/Topics/Characters/Names/Erds.md)
+- [🧿 Symbolism](/Loreum/Topics/Cultures/Erds/Symbolism.md)
 
 ### Cultural Elements
 - Games

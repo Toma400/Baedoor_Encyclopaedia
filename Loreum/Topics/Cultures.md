@@ -28,13 +28,14 @@ LEGEND:
 ㊙️ - names
 💮 - languages
 🏛️ - history
+🧿 - symbolism
 📜 - texts (books, newspapers)
 ```
 
 ---
 ### Baedoor Continent
 - [Baedoorians](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [🚂](Cultures/Baedoorians/Vehicles.md) [💮](/Langue/Families/Baedoorish.md) [㊙️](/Loreum/Topics/Characters/Names/Baedoorian.md)
-- [Erds](Cultures/Erds/[Culture].md) 🔹 [🏯](Cultures/Erds/Architecture.md) [💮](/Langue/List/Erdis.md) [㊙️](/Loreum/Topics/Characters/Names/Erds.md)
+- [Erds](Cultures/Erds/[Culture].md) 🔹 [🏯](Cultures/Erds/Architecture.md) [💮](/Langue/List/Erdis.md) [㊙️](/Loreum/Topics/Characters/Names/Erds.md) [🧿](Cultures/Erds/Symbolism.md)
 - [Kaerians](Cultures/Kaerians/[Culture].md) 🔹 [💮](/Langue/Families/Nomathian.md)
 - [Kehts](Cultures/Kehts/[Culture].md) 🔹 [🥮](/Loreum/Topics/Nature/Foods/Kehtic.md)
 - [Ormaths](Cultures/Ormaths/[Culture].md)

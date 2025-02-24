@@ -4,6 +4,7 @@ List of all vehicles of baedoorian culture.
 ### 🚂 Trains
 
 ### ⛵ Ships
+- [Arennan](Vehicles/Arennan.md)
 - [Veno Edran](Vehicles/Veno_Edran.md)
 
 ### 🛩️ Airships
