@@ -12,9 +12,9 @@ state, it is not recommended to use it, as even within the game itself there are
 features and several skills are not even used once.
 
 ### STORY
-BSaL starts in 216 NE, on ship "Arennan", travelling to the isle of Ansur. For game itself, it serves
-as sort of tutorial, in which you can learn how to move, talk to NPCs, and, eventually, to fight - as
-ship is attacked by pirates.  
+BSaL starts in 216 NE, on ship ["Arennan"](/Loreum/Topics/Cultures/Baedoorians/Vehicles/Arennan.md),
+travelling to the isle of Ansur. For game itself, it serves as sort of tutorial, in which you 
+can learn how to move, talk to NPCs, and, eventually, to fight - as ship is attacked by pirates.  
 After pirate attack, "Arennan" docks in Evron port, giving you full freedom on what to do. No main
 story is set, but you can get some quests or jobs on the island.
 

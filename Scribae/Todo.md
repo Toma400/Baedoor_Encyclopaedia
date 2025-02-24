@@ -1,7 +1,7 @@
 # 🖋️ List of Books to be Written
 Here is a list of all books mentioned in Baedoor Encyclopaedia that should be written and included
 in Scribae section.  
-The list also contains authors that are mentioned to be writers or poets, but doesn't have any works
+The list also contains authors that are mentioned to be writers or poets, but don't have any works
 stated in their articles.
 
 ### Specific positions

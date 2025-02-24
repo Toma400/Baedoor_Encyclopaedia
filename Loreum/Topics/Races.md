@@ -54,5 +54,10 @@ may also visit [cultures page](Cultures.md).
 perspective? more on Ixathei, more on Eimr and nearby islands, and abundance of races on Serpent
 Islands - not to mention Vaos; also Mesinpeans could be multiple races or cultures within the one race)
 
+Re: Eirtri, originally said to be found in Kaer, but I don't know if it makes sense, there's
+quite an abundance of cultures there and I also don't know if there would be a space for them
+to actually matter - whereas in other areas they could make more sense?
+(Eirtri, or Eirti, translated as "star tri")
+
 Re: Naantael - would it be ormaths actually travelling west? before saphtri? or not ormaths at all? or their ancestors who travelled east?  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)
