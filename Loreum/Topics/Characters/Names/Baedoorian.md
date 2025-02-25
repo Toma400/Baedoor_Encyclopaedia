@@ -94,7 +94,9 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Rosvin   | East Baedoor        | 🏵️ Semi-rare  | Common name on Rakonnd coast, semi-rare elsewhere, of jitadian origin      |
 | Rvana    | Whole Baedoor       | ⚜️ Rare        | Extremely rare name, nowadays almost unseen, with possible nomath origin   |
 | Slavod   | East Baedoor        | ⚜️ Rare        | Of nomathian origin                                                        |
+| Takil    | East Baedoor        | 🏵️ Semi-rare  |                                                                            |
 | Tom      | Whole Baedoor       | 🔥 Common      | Could have originated from pahtric "Tomai"                                 |
+| Udi      | East Baedoor        | ⚜️ Rare        | Not unlikely with foreign influences or origin                             |
 | Vada     | East Baedoor        | ⚜️ Rare        | Used in Old Era                                                            |
 | Vrode    | West Baedoor        | ⚜️ Rare        | Used in New Era, possibly being baedoorised *Frode*                        |
 | Yraeni   | East Baedoor        | ⚜️ Rare        | Originating from Jitado, used in early Old Era                             |
@@ -116,6 +118,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Isena    | Whole Baedoor | ⚜️ Rare        | Female variant of *Isen* with slight difference from jitadian origin                          |
 | Lorat    | Whole Baedoor | 🏵️ Semi-rare  | Commonly used in Old Era, in New Era mostly seen in aristocratic families. Of jitadian origin |
 | Nyvera   | Whole Baedoor | ⚜️ Rare        | Of jitaditan origin, with Nyver as male counterpart                                           |
+| Run      | Whole Baedoor | 🏵️ Semi-rare  |                                                                                               |
 | Sana     | Whole Baedoor | 🔥 Common      | Name originated from Jitado                                                                   |
 | Sanae    | Whole Baedoor | 🔥 Common      | Variant of *Sana*                                                                             |
 | Sara     | Whole Baedoor | 🔥 Common      | Less popular variant of *Sana*                                                                |

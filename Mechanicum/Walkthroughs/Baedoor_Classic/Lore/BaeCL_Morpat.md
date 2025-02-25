@@ -31,7 +31,7 @@
   <!--PHOTO 2-->
   <tr>
     <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 21" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_21.jpg" width="416"/></td>
-    <th align="centre">Adventurer's Guild</th>
+    <th align="centre">Morpat Adventurer's Guild</th>
   </tr>
   <tr>
     <td>
@@ -73,22 +73,32 @@
   <!--PHOTO 4-->
   <tr>
     <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 23" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_23.jpg" width="416"/></td>
-    <th align="centre">...</th>
+    <th align="centre">Morpat Library</th>
   </tr>
   <tr>
     <td>
-      ...
+      Here we can see Morpat's library, which funnily enough is very empty. I bet it's because
+      I stopped working on this notebook early, otherwise it'd fill with more books I'd write,
+      but if we would like to play on this idea, we could say it was just recently established.
+      The library's caretaker is named Orapto according to data notebook, let him be mesinpean.<br>
+      Ruk is a contact to thieves guild. I'd rename him to Run and maybe make a woman, as we
+      constantly hit the issue of underrepresentation (the new name vibes with this gender too).
     </td>
   </tr>
 
   <!--PHOTO 5-->
   <tr>
     <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 24" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_24.jpg" width="416"/></td>
-    <th align="centre">...</th>
+    <th align="centre">"Cold Beer" Tavern</th>
   </tr>
   <tr>
     <td>
-      ...
+      As funny as the name is, I guess it could be changed in modern Baedoor setting, lol. But
+      yes, in this panel we can see an inn, with Udi, the barkeeper and owner. In the building
+      we can meet Takil, a bit strange man who can tell you a story of some weird portal
+      opening in the desert - whether it is his imagination (fatamorgana?) or real
+      thing (oververse breach?) is not clarified, however the tone used suggest that the guy
+      is just somewhat insane.
     </td>
   </tr>
 </table>

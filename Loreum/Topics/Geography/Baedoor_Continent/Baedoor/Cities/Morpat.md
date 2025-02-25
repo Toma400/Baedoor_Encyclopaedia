@@ -10,7 +10,7 @@ it was outpaced by quickly developing [Alkaesar](Alkaesar.md). Raising the latte
 Baedoor Empire influence buried Morpat's chances to thrive forever, rerouting the roads in favour of
 new trade centre.
 
-Morpat has walls.
+Morpat has walls and holds old thieves' guild. In the past it also held [Adventurer's Guild](/Loreum/Topics/Guilds/List/Alkaesar_Adventurers_Guild.md).
 
 <table>
   <tr>

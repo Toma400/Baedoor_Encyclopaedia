@@ -1,6 +1,8 @@
 # 🌄 Baedoor
 
-<img alt="Baedoor Island map" height="342" src="/Assets/Maps/baedoor_island.jpg" width="520"/>
+| ![](/Assets/Maps/baedoor_island.jpg) | ![](/Assets/Maps/vershaton_classic.png) |
+|:-------------------------------------|:----------------------------------------|
+| Baedoor Island map                   | Vershaton map from Baedoor Classic      |
 
 Baedoor is the biggest island on Baedoor Continent, containing three big lands inside - Baedoor,
 Rakonnd Coast and Vershaton.  
