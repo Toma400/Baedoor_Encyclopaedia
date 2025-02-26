@@ -53,7 +53,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Hasting  | East Baedoor        | ⚜️ Rare        | Used mostly in Old Era                                                     |
 | Hastings | East Baedoor        | 🏵️ Semi-rare  | Variant of *Hasting* name                                                  |
 | Heim     | Whole Baedoor       | 🔥 Common      | Originated from Rakonnd Coast                                              | 
-| Heimlig  | Ansur, Rakonnd      | 🏵️ Semi-rare  | Probably mix of **Heim** and nordwinian suffix                             |
+| Heimlig  | Ansur, Rakonnd      | 🏵️ Semi-rare  | Probably mix of **Heim** and vindean suffix                                |
 | Hem      | Whole Baedoor       | 🔆 Semi-common | Started appearing in NE; possibly evolution of Heim                        |
 | Hrevir   | Whole Baedoor       | 🔥 Common      | Used both in Old and New Era                                               |
 | Iilvinim | East Baedoor        | 🏵️ Semi-rare  |                                                                            |

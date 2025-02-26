@@ -2,7 +2,7 @@
 
 ---
 **Order of the Sword** is guild established in Old Era, precisely in 272 OE. It was made as an Order
-for swordsmen, fully devoted to the gods preached by nordwinians on **Evývind** isle.  
+for swordsmen, fully devoted to the gods preached by vindeans on **Evývind** isle.  
 They had their own residence, going north from **Skand**, in which they prayed and trained themselves.  
 During celebrations or Tarskigg, they were going back to Skand, to lead the ceremonies.
 

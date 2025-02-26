@@ -1,18 +1,18 @@
 # 🏯 Baedoorians Architecture
-Baedoorian architecture is quite varied, as it came through different iterations and forms along the
+Baedoorian architecture is quite varied, as it came through different iterations and forms across
 time. 
 
 ### Early style
-Early baedoorian architecture incarnation was heavily influenced by jitadian architecture, being simple,
-yet elegant brick buildings, quite often in white colour. Not so many ornaments were used, and additions
-(such as balconies) were rare.
+The early incarnation of Baedoorian architecture was heavily influenced by Jitadian architecture,
+being simple yet elegant brick buildings, quite often in white colour. Not so many ornaments
+were used and additions, such as balconies, were rare.
 
-<img alt="Baedoor, High District" height="520" src="/Assets/high_district.jpg" width="390"/>
-
-`Baedoor city, High District, in early baedoorian style`
+| <img alt="Baedoor, High District" height="420" src="/Assets/high_district.jpg"/> |
+|:--------------------------------------------------------------------------------:|
+|            Baedoor city, High District, in the early baedoorian style            |
 
 ### Vershaton style
-From the beginning of its **Nomathian** rule, Vershaton was unique, as its desert and alpine character 
+From the beginning of its **nomathian** rule, Vershaton was unique, as its desert and alpine character 
 forced Nomaths to adjust. When Baedoorians conquered Vershaton they largely kept the traditional 
 Nomathian style, and so its influence is much stronger on the eastern side.  
 Baedoorian-Nomathian architecture in Vershaton is rustic, and heavily based on exposed bricks and in 
@@ -23,24 +23,25 @@ This doesn't mean Vershaton towns do not feature taller buildings, but they're r
 serve more important functions, such as administration or banking.
 
 ### Ansurian style
-Ansurian style is quite interesting case for baedoorian architecture, as it differs from what was
-popular in times of Ansur establishing.  
-It is in many ways a comeback to early baedoorian architecture - it is simple, white-walled
-and does stay within this jitadian influence of early baedoorian culture. Differently from it, though,
-it incorporates some ornamentalism, especially balconies being way more frequent sight, and colour palette
-shifting to light blue as liked choice for this particular place.
+The Ansurian style is quite an interesting case for Baedoorian architecture, as it differs from
+what was popular in the times of Ansur's establishing.  
+It is in many ways a comeback to early Baedoorian architecture - it is simple, white-walled
+and stays within the Jitadian influence of early Baedoorian culture. Differently from it, though,
+it incorporates some ornamentalism, especially balconies being a way more frequent sight, and the
+colour palette shifting to light blue as the popular choice for this particular place.
 
 There are three reasons that contributed into this stark difference:
-- lacking resources of new settlers, making elegant modern baedoorian style not really affordable option
-- influence of jitadian minority
-- and style guidance by Ilvis Sorevo, who being of jitadian origins, wanted to incorporate this
-  character back into baedoorian architecture
+- the lacking resources of new settlers, making the elegant and modern Baedoorian style 
+  not really an affordable option
+- the influence of Jitadian minority
+- the style guidance by Ilvis Sorevo, who being of Jitadian origins, wanted to incorporate
+  this character back into baedoorian architecture
 
 The one that had the biggest impact was the fact of Evros government hiring Ilvis Sorevo as an 
-architect to shape more unique style of the city. Even though not without struggles, he succeeded with
-the task, eventually designing what Evros will be remembered from.  
-Despite this project being used primarily for Evros, this visual direction affects also the newly 
-built ones and buildings in Waine, making it fairly universal distinction of ansurian architecture.
+architect to shape a more unique style for the city. Even though it was not without struggles, he
+succeeded with the task, eventually designing what Evros will be remembered for.  
+Despite this project being used primarily for Evros, this visual direction also affects the newly 
+built ones and buildings in Waine, making it a fairly universal distinction of Ansurian architecture.
 
 ---
 ♜✥  
