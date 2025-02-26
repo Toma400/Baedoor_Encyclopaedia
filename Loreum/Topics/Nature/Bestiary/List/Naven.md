@@ -4,17 +4,6 @@
 |:---------------------------------------------------------------------------------------------------------------------------:|
 | [Xavier family](/Loreum/Topics/Characters/Families/Xavier.md) crest depicting Naven on black background (art by MammaHyena) |
 
-<table width="40%">
-    <tr>
-        <td width="40%">
-            <img alt="Xavier crest" height="400" src="/Assets/herb_xavier_family.png">
-        </td>
-    </tr>
-    <tr>
-        <td> <a href="/Loreum/Topics/Characters/Families/Xavier.md">Xavier family</a> crest depicting Naven on black background (art by MammaHyena) </td>
-    </tr>
-</table>
-
 **Naven** (from nomth. *nahegh*, "bloody bird") is native flying creature to Baedoor island, a white, 
 crow-like predator.  
 Rarely seen, spends most of its life alone in the forests. Navennens can hunt far from their home, 

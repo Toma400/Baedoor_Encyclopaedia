@@ -129,6 +129,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### O
 - [Old Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md) (city)
 - [Old Continent](Topics/Geography/Old_Continent.md)
+- [Orcs](Topics/Races/Regular/Orcs.md)
 - [Order of the Sword](Topics/Guilds/List/Order_of_the_Sword.md)
 - [Ormaths](Topics/Races/Regular/Ormaths.md) (race)
 - [Ormaths](Topics/Cultures/Ormaths/[Culture].md) (culture)

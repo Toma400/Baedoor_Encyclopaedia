@@ -14,7 +14,7 @@ Morpat has walls and holds old thieves' guild. In the past it also held [Adventu
 
 <table>
   <tr>
-    <td width="420" rowspan="2"><img alt="Morpat Banner" height="67" width="105" src="/Assets/flag_morpat.png"/></td>
+    <td width="420" rowspan="2"><img alt="Morpat Banner" height="248" width="420" src="/Assets/flag_morpat.png"/></td>
     <th align="centre">Morpat Banner</th>
   </tr>
   <tr>

@@ -11,7 +11,7 @@ may also visit [cultures page](Cultures.md).
 ####   🔹 Etts
 ####   🔹 Latoka
 ####   🔹 Naks
-####   🔹 Orcs
+####   🔹 [Orcs](Races/Regular/Orcs.md)
 ####   🔹 Naantael `'Ixathei ormaths' (see notes below)`
 ####   🔹 Mesinpeans `previously as human kind, brainstorm`
 ####   🔹 Mrrans `previously as human kind, brainstorm`
