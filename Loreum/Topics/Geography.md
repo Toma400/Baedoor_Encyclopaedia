@@ -23,7 +23,7 @@ All what creates the oververse, but mostly on Baedoor itself.
 #####      🔹 [Jitado](Geography/Old_Continent/Jitado.md)
 #####      🔹 Eimr Archipelago
 ####   🔷 Seiteh
-####   🔷 Ixathei
+####   🔷 [Ixathei](Geography/Ixathei.md)
 ####   🔷 [The Azure Archipelago](Geography/Azure_Archipelago.md)
 #####      🔹 Oe'os
 #####      🔹 [Septei](Geography/Azure_Archipelago/Septei.md)

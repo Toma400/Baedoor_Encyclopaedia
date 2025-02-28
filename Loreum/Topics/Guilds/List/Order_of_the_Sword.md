@@ -16,7 +16,7 @@ Next part of the history is marked with **Baedoor Empire fall** which happened i
 their armies on occupied territories way weaker, giving most of the countries a way to revolt.  
 Evývind, though, revolted very conservatively: they didn't separate themselves from **East Baedoor**,
 but used this situation to consolidate their powers and create **Northern Union** between Evývind and
-Forewind.  
+Forevind.  
 Therefore, Order of the Sword regained big part of their legacy and became again, the leading power
 over the island.
 

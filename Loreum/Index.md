@@ -85,6 +85,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Ino Anor](Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)
 - [Isehir Allaut](Topics/Characters/List/Allaut_Isehir.md)
 - [Isuga](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md)
+- [Ixathei](Topics/Geography/Ixathei.md)
 
 ### J
 - [Jaspen](Topics/Nature/Herbarium/List/Jaspen.md)

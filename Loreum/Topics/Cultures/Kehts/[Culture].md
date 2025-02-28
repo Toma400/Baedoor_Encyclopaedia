@@ -37,5 +37,21 @@ their goblin kind did, as a heritage of their new, ascended culture.
 - [🥮 Foods](/Loreum/Topics/Nature/Foods/Kehtic.md)
 
 ---
-♜  
+♜: 
+> (without arrogance towards goblins, however)  
+
+That's something that could be changed/expanded upon though, as what I would want to avoid
+is that kehts treat goblins as pests to exterminate or slaves - I don't want to imply their
+culture to be too similar to baedoorians nor slavers (or at least not on pure race fear basis)  
+My idea was that kehts and goblins made rather unique relation because of their shared roots,
+maybe an uneasy one or including tensions, but one where there's nuance  
+Possible options that I brainstormed with Nik:
+- serve them (extension of "submission" rule), but in subtle way, as in providing services 
+  maybe? like they could work on farms and as militia, but not as slaves, but rather 
+  through some sort of the deal (possibly more beneficial for kehts, but also to some extent
+  for goblins)
+- be avoided (by thinking that they can "poison" their unholy nature onto kehts)
+
+They can be expanded, and I don't have too much preference here for the time being
+
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures.md)

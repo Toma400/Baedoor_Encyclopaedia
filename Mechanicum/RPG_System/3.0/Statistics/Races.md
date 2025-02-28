@@ -147,7 +147,7 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
 <table>
     <tr>
         <td rowspan="10" width="45%">
-            Subrace that inhabits northern lands of Baedoor, especially Forewind and Evyvind.
+            Subrace that inhabits northern lands of Baedoor, especially Forevind and Evyvind.
         </td>
         <th colspan="3"> No image </th>
     </tr>
