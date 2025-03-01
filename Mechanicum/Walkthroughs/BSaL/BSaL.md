@@ -12,10 +12,11 @@ sytuacjach - obecnie tworzony system 3.0 (i 4.0) są zasadniczo formą dostosowa
 obecnej jakości.
 
 ### HISTORIA
-BSaL rozpoczyna się w roku 216 NE, na statku "Arennan", podróżującego na wyspę Ansur. W samej
-grze, jest to pewnego rodzaju tutorial, w którym uczysz się podstaw poruszania, rozmowy z NPCami,
-ostatecznie walki - gdyż statek jest zaatakowany przez piratów.  
-Po tym ataku jednak, "Arennan" dociera do portu Evros, dając pełną wolność w tym, co należy
+BSaL rozpoczyna się w roku 216 NE, na statku ["Arennan"](/Loreum/Topics/Cultures/Baedoorians/Vehicles/Arennan.md), 
+podróżującego na wyspę Ansur. W samej grze, jest to pewnego rodzaju tutorial, w którym uczysz
+się podstaw poruszania, rozmowy z NPCami, ostatecznie walki - gdyż statek jest zaatakowany
+przez piratów.  
+Po tym ataku jednak "Arennan" dociera do portu Evros, dając pełną wolność w tym, co należy
 robić. Brak co prawda głównego wątku, ale wciąż możliwe jest wykonanie wielu zadań i prac
 wewnątrz wyspy.
 

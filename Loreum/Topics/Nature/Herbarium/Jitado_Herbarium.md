@@ -1,5 +1,5 @@
 # 🌿 Jitado Herbarium
-Every plant existing on Jitado island.
+Every plant existing on [Jitado](/Loreum/Topics/Geography/Old_Continent/Jitado.md) island.
 
 ---
 ### Whole Island

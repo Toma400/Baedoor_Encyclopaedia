@@ -20,7 +20,7 @@ dość niekompletna.
 Encyklopedia stoi na czterech filarach:
 - 🏺 [Encyclopaedia Loreum](Loreum/Loreum.md) - skupiona na wyjaśnianiu świata Baedoor
 - 🎭 [Encyclopaedia Langue](Langue/Langue.md) - opisująca języki i słowniki cywilizacji ze świata Baedoor
-- 📕 Encyclopaedia Scribae - zbierająca wszystkie książki ze świata Baedoor
+- 📕 [Encyclopaedia Scribae](Scribae/Scribae.md) - zbierająca wszystkie książki ze świata Baedoor
 - ⚙️ [Encyclopaedia Mechanicum](Mechanicum/Mechanicum.md) - wyjaśniająca system RPG i 
      zawierająca wszystkie techniczne detale
 

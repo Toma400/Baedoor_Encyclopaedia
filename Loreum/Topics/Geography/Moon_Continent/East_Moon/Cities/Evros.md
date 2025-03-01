@@ -1,24 +1,18 @@
 # 🌆 Evros
 
 ---
-<span style="color:#107C23">**cities**</span> [✦](/Loreum/Tags.md#-cities)  
+<span style="color:#107C23">**miasta**</span> [✦](/Loreum/Tags.md#-miasta)  
 
 ---
 **Evros** (bae. *Evros*, "wzrastający") to średniej wielkości miasto portowe położone na 
-[**Wyspie Ansur**](/Loreum/Topics/Geography/Moon_Continent/East_Moon/Ansur.md), będąc głównym miejscem 
-tranzytowym dla podróżujących z Kontynentu Baedoor do Wschodniego Księżyca i w drugą stronę.  
+[**Wyspie Ansur**](/Loreum/Topics/Geography/Moon_Continent/East_Moon/Ansur.md), będące 
+głównym miejscem tranzytowym dla podróżujących z Kontynentu Baedoor do Wschodniego 
+Księżyca i w drugą stronę.  
 Od czasu dekretu **Norrana Gortha**, miasto rozbudowało się znacznie w kolejnych latach.
 
-Politycznie patrząc, Evros jest siedzibą zarządcy i trzech gildii.
+Politycznie patrząc, Evros jest siedzibą zarządcy, kilku gildii i grup.
 
-### ORGANIZACJE
-- Ansurskie Zrzeszenie Winnic
-- Podążacze Związania
-- [Gildia Złodziei](/Loreum/Topics/Guilds/List/Ansur_Thieves_Guild.md) `nielegalna`
-
-Wszystkie te gildie znajdują się w centralnej części Evros, w dwóch dużych kamienicach. Lokalizacja
-Gildii Złodziei nie jest publicznie znana.  
-Zarządca natomiast zasiada w Radzie Miasta, mającym swoją siedzibę w ratuszu.
+- [Gildie Ansur](/Loreum/Topics/Guilds/Ansur_Guilds.md)
 
 ### STRUKTURA MIASTA & CHARAKTER
 Evros zostało wybudowane przez baedoorskich osadników, jednak mimo braku konkretnej wizji na początku,

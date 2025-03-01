@@ -3,8 +3,8 @@ Postaci związane z **Zachodnim Baedoor*.
 
 ---
 ### 🕋 NEW ERA
-#### [Delai Eir](List/Delai_Eir.md)
-#### [Heim Winfleton](List/Heim_Winfleton.md)
+#### [Delai Eir](List/Eir_Delai.md)
+#### [Heim Winfleton](List/Winfleton_Heim.md)
 
 ---
 ♜

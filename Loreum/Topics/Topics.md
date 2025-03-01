@@ -8,7 +8,6 @@
 ### 🍂 [Natura](Nature.md)
 ### 💮 [Rasy](Races.md)
 ### 🏺 [Kultury](Cultures.md)
-### 👘️ Języki
 ### 🕌 [Religie](Religions.md)
 ### 🏯 [Gildie](Guilds.md)
 ### ⚜️ [Stronnictwa](Factions.md)

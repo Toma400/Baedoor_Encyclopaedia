@@ -2,17 +2,20 @@
 
 ### Alphabetically:
 - [Adelaie](Lore/BaeCL_Adelaie.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Adelaie.md)
+- [Alkaesar](Lore/BaeCL_Alkaesar.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Alkaesar.md)
 - [Baedoor](Lore/BaeCL_Baedoor.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)
 - [Baedoor Surroundings](Lore/BaeCL_Baedoor_Surroundings.md)
 - [Coonhě Forest](Lore/BaeCL_Coonhě_Forest.md)
-- [Dvickhet](Lore/BaeCL_Dvickhet.md)
-- [Fegar County](Lore/BaeCL_Fegar.md)
+- [Dvickhet](Lore/BaeCL_Dvickhet.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Dvickhet.md)
+- [Fegar County](Lore/BaeCL_Fegar.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Fegar.md)
 - [Ino Anor](Lore/BaeCL_Ino_Anor.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)
 - [Isuga](Lore/BaeCL_Isuga.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md)
 - [Kel Desert](Lore/BaeCL_Kel_Desert.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Lands/Kel_Desert.md)
 - [Menerun](Lore/BaeCL_Menerun.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Menerun.md)
+- [Morpat](Lore/BaeCL_Morpat.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Morpat.md)
 - [Mining Hills](Lore/BaeCL_Mining_Hills.md)
 - [Raliun](Lore/BaeCL_Raliun.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
+- [Terrean Savannah](Lore/BaeCL_Terrean_Wilderness.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Lands/Terrean_Savannah.md)
 - [Tom Varteford Plantation](Lore/BaeCL_Tom_Varteford_Plantation.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Places/Tom_Varteford_Plantation.md)
 
 ### Per source:
@@ -37,7 +40,24 @@
     </tr>
     <tr>
         <th>Location</th>
-        <td>Baedoor Isle</td>
+        <td>Baedoor Isle, South-West</td>
+    </tr>
+    <tr>
+        <th colspan="2">Vershaton</th>
+        <td><b>Source ID:</b> <a href="Sources/L_008_Vershaton.md">L.008:Vershaton</a></td>
+    </tr>
+    <tr>
+        <th>Timeframe</th>
+        <td>early / middle Old Era</td>
+        <td rowspan="2">
+            🐪    <a href="Lore/BaeCL_Alkaesar.md">                  Alkaesar      </a> <br>
+            🏜️    <a href="Lore/BaeCL_Terrean_Wilderness.md">  Terrean Wildnerness </a> <br>
+            🛕    <a href="Lore/BaeCL_Morpat.md">                     Morpat       </a> 
+        </td>
+    </tr>
+    <tr>
+        <th>Location</th>
+        <td>Baedoor Isle, Vershaton</td>
     </tr>
     <tr>
         <th colspan="2">Jitado</th>

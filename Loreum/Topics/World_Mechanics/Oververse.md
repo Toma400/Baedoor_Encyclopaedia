@@ -114,8 +114,8 @@ Multiwersa były odkrywane w takiej oto chronologii:
 
 | Data odkrycia | Multiwersum | Odkrywca                                                 | Prawdopodobna nazwa w naszym świecie                               |
 |---------------|-------------|----------------------------------------------------------|--------------------------------------------------------------------|
- | 655 CP        | Tamariel    | [Si Avani](/Loreum/Topics/Characters/List/Si_Avani.md)   | Tamriel, uniwersum Elder Scrolls                                   |
- | 272 CP        | Uru'ai      | [Esh Enahr](/Loreum/Topics/Characters/List/Esh_Enahr.md) | Uniwersum Myst / Uru                                               |
+ | 655 CP        | Tamariel    | [Si Avani](/Loreum/Topics/Characters/List/Avani_Si.md)   | Tamriel, uniwersum Elder Scrolls                                   |
+ | 272 CP        | Uru'ai      | [Esh Enahr](/Loreum/Topics/Characters/List/Enahr_Esh.md) | Uniwersum Myst / Uru                                               |
  | 463 SE        | Osde'in     |                                                          | Świat Dysku                                                        |
  | 431 NE        | Ins'in      | Tehom Aranai                                             | Nalqiwatya                                                         |
  | 637 NE        | Eis'in      |                                                          | End's Phantasm                                                     |

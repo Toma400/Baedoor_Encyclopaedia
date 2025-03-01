@@ -11,7 +11,7 @@ forces to press pirates to respect ATG's status.
 A lot of Ansur's Thieves Guild existence is intertwined with silent support given from officials and
 Ansur Navy, as it allows the hand of law resolve more delicate situations without dirtying their hands.
 
-Current ATG's chef is [Ferves Navikon](/Loreum/Topics/Characters/List/Ferves_Navikon.md), old lady
+Current ATG's chef is [Ferves Navikon](/Loreum/Topics/Characters/List/Navikon_Ferves.md), old lady
 known for her still remarkable shooting skills.
 
 ---

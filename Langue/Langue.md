@@ -16,11 +16,12 @@ uniwersum Baedoor, wliczając w to słowniki i przewodniki po logice tychże.
 ### [⛩️ Baedoorski](Families/Baedoorish.md)
 ### [⛩️ Głoddyjski](Families/Ghloddish.md)
 ### [⛩️ Jitadzki](Families/Jitadish.md)
+### [⛩ Nomathiański](Families/Nomathian.md)
 ### [⛩️ Trijski](Families/Trish.md)
 
 ---
 ## <center>Języki regularne</center>
-### [⛩️ Erdyjski](Families/Erdis.md)
+### [⛩️ Erdyjski](List/Erdis.md)
 
 ---
 ## <center>Języki stare</center>
@@ -29,7 +30,6 @@ uniwersum Baedoor, wliczając w to słowniki i przewodniki po logice tychże.
 ## <center>Języki starożytne</center>
 
 ### [🪔 Ehrijski](List/Ehric.md)
-### [🪔 Nomathiański](List/Nomathian.md)
 
 ---
 ## <center>Języki rytualne</center>

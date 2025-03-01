@@ -27,7 +27,7 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
             <a href="#baedoorian"> Baedoorian  </a><br>
             <a href="#jitadian">   Jitadian    </a><br>
             <a href="#mrran">      Mrran       </a><br>
-            <a href="#nordwinian"> Nordwinian  </a><br>
+            <a href="#vindean">    Vindean     </a><br>
             <a href="moonlanders"> Moonlanders </a><br>
             <a href="mesinpeans">  Mesinpeans  </a>
         </td>
@@ -141,13 +141,13 @@ For more in-depth explanation on races, please visit Encyclopaedia Loreum.
     <tr><td>  ☯️CHA -1  </td><td> smithing (+1) </td><td>           </td></tr>
 </table>
 
-### Nordwinian
+### Vindean
 
-<h1 id="nordwinian" style="display:none"></h1>
+<h1 id="vindean" style="display:none"></h1>
 <table>
     <tr>
         <td rowspan="10" width="45%">
-            Subrace that inhabits northern lands of Baedoor, especially Forewind and Evyvind.
+            Subrace that inhabits northern lands of Baedoor, especially Forevind and Evyvind.
         </td>
         <th colspan="3"> No image </th>
     </tr>

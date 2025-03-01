@@ -6,14 +6,14 @@ Wszystko co tworzy wszechwers, lecz głównie Baedoor samo w sobie.
 |                                       Mapa uniwersum Baedoor                                       |
 
 ---
-## 🌌 MULTIWERSUM BAEDOOR
-### 🪐 GŁÓWNA GAŁĄŹ
-####   🔷 [Kontynent Baedoor](Geography/Baedoor_Continent.md)
+
+### 🏞️ KRAINY
+####   🔷 [Kontynent Baedoorski](Geography/Baedoor_Continent.md)
 #####      🔹 Północne Wyspy
 #####      🔹 [Baedoor](Geography/Baedoor_Continent/Baedoor.md)
 #####      🔹 Wyspy Rossevette
 #####      🔹 [Kaer](Geography/Baedoor_Continent/Kaer.md)
-#####      🔹 Arennan
+#####      🔹 [Arennan](Geography/Baedoor_Continent/Arennan.md)
 ####   🔷 [Księżyc](Geography/Moon_Continent.md)
 #####      🔹 Zachodni Księżyc
 #####      🔹 Wyspy Księżyca
@@ -24,12 +24,11 @@ Wszystko co tworzy wszechwers, lecz głównie Baedoor samo w sobie.
 #####      🔹 [Jitado](Geography/Old_Continent/Jitado.md)
 #####      🔹 Archipelag Eimr
 ####   🔷 Seiteh
+####   🔷 [Ixathei](Geography/Ixathei.md)
 ####   🔷 [Archipelag Błękitny](Geography/Azure_Archipelago.md)
 #####      🔹 Oe'os
-#####      🔹 Septei
+#####      🔹 [Septei](Geography/Azure_Archipelago/Septei.md)
 #####      🔹 Vartee
-####   🔷 [Uruati Land]
-####   🔷 [Nak Land]
 ####   🔷 Archipelag Vaos
 ####   🔷 Pozostałe Wyspy
 ####   🔷 Wielka Południowa Zmarzlina
@@ -37,32 +36,37 @@ Wszystko co tworzy wszechwers, lecz głównie Baedoor samo w sobie.
 <!-- #####      🔹 Biblioteka Aragońska -->
 
 ####          🛠️ WIP (Names will change):
-
 ####   🔷 Wyspy Północne
-####   🔷 Aztec Archipelago
 ####   🔷 Native African Islands `Ereut` `Dawn Islands`
 ####   🔷 Snake Islands `Serpentuan` `Serpent Islands`
 ####   🔷 Minotaur Islands
 ####   🔷 Archipelag Aev
 
-### 💫 WYMIARY
+### 🌊 [OCEANY](Geography/[Oceans].md)
+####   🔷 Ocean Endejski
+####   🔷 [Ocean Ennaeryjski](Geography/[Oceans]/Ennaeric_Ocean.md)
+####   🔷 Ocean Indrajski
+####   🔷 Ocean Manaejski
+####   🔷 Ocean Negeai
 
-### 🎇 POZA SPEKTRUM
-#### 🔷 Światy Umarłych
-#### 🔷 Przejście
-#### 🔷 Pustka
-#### 🔷 Biblioteka Światów
+### 💫 WYMIARY KLASYCZNE
+
+### 🎇 WYMIARY METAFIZYCZNE
+####   🔷 Światy Umarłych
+####   🔷 Przejście
+####   🔷 Pustka
+####   🔷 Biblioteka Światów
 
 ---
-## 🎆 INNE ZNANE MULTIWERSA
-#### 🔷 Tamariel
-#### 🔷 Uru'ai
-#### 🔷 Osde'in
-#### 🔷 Ins'in
-#### 🔷 Eis'in
-#### 🔷 Ne'rin
-#### 🔷 Ne'n
-#### 🔷 Aji'n
+### 🎆 INNE ZNANE MULTIWERSA
+####    🔷 Tamariel
+####    🔷 Uru'ai
+####    🔷 Osde'in
+####    🔷 Ins'in
+####    🔷 Eis'in
+####    🔷 Ne'rin
+####    🔷 Ne'n
+####    🔷 Aji'n
 
 ---
 ✥

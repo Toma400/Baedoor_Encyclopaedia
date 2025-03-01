@@ -4,7 +4,7 @@ Families living by Baedoorian heritage.
 ---
 ### 🕋 EAST BAEDOOR
 
-Al Khasar:
+Alkaesar:
 #### 🔹 [Abrahk](Families/Abrahk.md)
 #### 🔹 vân Buqan
 
@@ -22,12 +22,18 @@ Baedoor:
 
 Dvickhet:
 #### 🔹 [Warthog](Families/Warthog.md)
+#### 🔹 Thargav
+#### 🔹 Maen
 
 Isuga:
+#### 🔹 Allaut
 #### 🔹 [Kono](Families/Kono.md)
 #### 🔹 Neerhe
 #### 🔹 Vertilli
 #### 🔹 [Warthog](Families/Warthog.md)
+
+Ontero:
+#### 🔹 Thon
 
 Quarius:
 #### 🔹 Deom

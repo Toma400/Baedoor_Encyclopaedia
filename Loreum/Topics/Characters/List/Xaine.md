@@ -41,6 +41,10 @@ który dostał się do niego poprzez przerwy między wymiarami.
     </tr>
 </table>
 
+### Trivia
+Xaine is a cameo of Lyof, a friend of Toma. That being said, their existence is explained as one of
+multiple selves of Lyof, making it more attached to actual reality and less separated from each other.
+
 ---
 ♜✥: make separate page for Xaine's script  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Characters/Jitado_Characters.md)

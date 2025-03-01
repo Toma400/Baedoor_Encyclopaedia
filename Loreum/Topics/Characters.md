@@ -14,11 +14,14 @@ Lista wszystkich postaci żyjących w uniwersum Baedoor na przestrzeni jego hist
 ### 🏯 POPRZEZ KRAJ
 #### 🔹 [Postaci Imperium Baedoor](Characters/Baedoor_Characters.md)
 #### 🔹 [Postaci Jitado](Characters/Jitado_Characters.md)
+#### 🔹 [Postaci Kaeru](Characters/Kaer_Characters.md)
+#### 🔹 [Postaci Wschodniego Baedoor](Characters/East_Baedoor_Characters.md)
 #### 🔹 [Postaci Zachodniego Baedoor](Characters/West_Baedoor_Characters.md)
 
 ---
 ### 🥮 POPRZEZ NARODOWOŚĆ
 #### 🔹 [Baedoorczycy](Characters/Baedoorian_Characters.md)
+#### 🔹 [Erdowie](Characters/Erdic_Characters.md)
 #### 🔹 [Jitadczycy](Characters/Jitadian_Characters.md)
 #### 🔹 [Lunatri](Characters/Lunatri_Characters.md)
 

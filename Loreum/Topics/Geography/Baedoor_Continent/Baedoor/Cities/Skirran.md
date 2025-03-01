@@ -11,12 +11,9 @@ Skirran jest również jednym z najważniejszych elementów baedoorskiej kultury
 było to pierwsze miasto wybudowane po wylądowaniu na wyspie, ale również pełni ono istotną rolę
 jako miasto portowe, ułatwiając handel oraz kontrolę militarną terenów położonych na północ.
 
-<table>
-    <td width="832" align="center"><img alt="Skirran City Map" height="548" src="/Assets/Maps/skirran_early_se.jpg" width="520"/></td>
-    <tr>
-        <td>Mapa Skirran ze wczesnej Starej Ery</td>
-    </tr>
-</table>
+|     ![](/Assets/Maps/skirran_early_se.jpg)      |
+|:-----------------------------------------------:|
+|       Mapa Skirran ze wczesnej Starej Ery       |
 
 ---
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor.md)

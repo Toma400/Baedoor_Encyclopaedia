@@ -4,12 +4,21 @@
 <span style="color:#107C23">**cities**</span> [✦](/Loreum/Tags.md#-cities)  
 
 ---
-**Baedoor** is capital city of **East Baedoor** and was so by whole time after baedoorians conquered
-whole Baedoor island. Over the time, it became highly separated by districts.
+| ![](/Assets/Landscapes/Settlements/west_bae_old_bae.png) |
+|:--------------------------------------------------------:|
+|                  Sketch of Baedoor city                  |
 
-- [History](Baedoor.md#-history)
-- [Districts](Baedoor.md#-districts)
-- [Emblems](Baedoor.md#-emblems)
+**Baedoor** (also known as **Old Baedoor** in NE) is capital city of **East Baedoor** and was so by 
+whole time after baedoorians conquered whole Baedoor island. Over time, it became highly separated
+by districts.
+
+- [History](#-history)
+- [Districts](#-districts)
+  - [Aristocratic District](#-aristocratic-district-high-district)
+  - [Vessin District](#-vessin-district)
+  - [District of Black Paving](#-district-of-black-paving)
+  - [Castle](#-castle)
+- [Emblems](#-emblems)
 
 ---
 ### 🪔 HISTORY
@@ -78,12 +87,54 @@ By the time of New Era, with Baedoor city expansion, the overcrowding issue was 
 tram systems allowing to bypass the district.
 
 #### 🏰 DISTRICT OF BLACK PAVING
-District of Black Paving is district that was separated from Castle's District in 626 OE, right after
-enthronement of Soltan II. It was meant to be additional fortificative system to defend Castle from
-enemies entering the city.  
-New walls were created inside castle, and reinforced with special black coloured material, from which 
-district'a name appeared.  
-Until second century of New Era, the district was ruled by Varteford and Xavier families.
+<table>
+    <tr>
+        <td rowspan="2">
+            District of Black Paving is district that was separated from Castle's District in 626 OE, right after
+            enthronement of Soltan II. It was meant to be additional fortificative system to defend Castle from
+            enemies entering the city.  
+            New walls were created inside castle, and reinforced with special black coloured material, from which 
+            district'a name appeared.  
+            Until second century of New Era, the district was ruled by Varteford and Xavier families.
+        </td>
+        <td width="40%">
+            <img alt="Black Paving sketch" width="100%" src="/Assets/Maps/black_district.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td height="30px">
+            Sketch of District of Black Paving made in short story "Baedoor Incident"
+        </td>
+    </tr>
+</table>
+
+#### 👑 CASTLE
+<table>
+    <tr>
+        <td rowspan="3">
+            Castle is a focal point of the city, overseeing the area from the high hill it is on.
+            Being home to king, its closest family and administrative body of the city - and also
+            the Empire - the place was always considered a symbolic "heart" of the state.<br>
+            That being said, with fall of the Empire and increased distrust between families, the
+            reign changed a little. New kings can prefer to keep themselves closer to their own
+            homes in city, while keeping private guards or even army under their own rule.
+        </td>
+        <td width="40%">
+            <img alt="Baedoor Castle sketch" width="100%" src="/Assets/Maps/baedoor_castle.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width="40%">
+            <img alt="Baedoor Castle underground sketch" width="100%" src="/Assets/Maps/baedoor_castle_underground.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td height="30px">
+            Sketches of Baedoor Castle with its gardens, and underground section of it. Taken from
+            short story "Baedoor Incident"
+        </td>
+    </tr>
+</table>
 
 ---
 ### 🗡️ EMBLEMS

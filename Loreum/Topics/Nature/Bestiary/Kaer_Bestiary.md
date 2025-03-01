@@ -1,8 +1,9 @@
 # 🐊 Kaer Bestiary
-Every creature existing in Kaer and nearby islands.
+Every creature existing in [Kaer](/Loreum/Topics/Geography/Baedoor_Continent/Kaer.md) and nearby islands.
 
 ---
 ### 🔹 All Islands
+####   🔹 Cat
 ####   🔹 Crow
 ####   🔹 Lizard
 ####   🔹 Porcupine
@@ -11,10 +12,10 @@ Every creature existing in Kaer and nearby islands.
 ####   🔹 [Plate Lizard](List/Plate_Lizard.md)
 ####   🔹 Wolf
 
-### 🔹 Khacari
-####   🔹 Akhad
+### 🔹 Kacari
+####   🔹 [Akad](List/Akad.md)
 ####   🔹 [Haunted Wanderer](List/Haunted_Wanderer.md)
-####   🔹 Nerau
+####   🔹 [Nerau](List/Nerau.md)
 
 ---
 ♜: lots, LOTS of stuff from LE and old Kaer sources (added some, but more needs to be here)

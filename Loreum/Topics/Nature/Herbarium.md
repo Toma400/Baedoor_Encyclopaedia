@@ -3,6 +3,7 @@ Every plant listed, by lands.
 
 ---
 ### 🔹 Baedoor Continent
+####   🔹 [Rakonnd Coast Herbarium](Herbarium/Rakonnd_Coast_Herbarium.md)
 ####   🔹 [Vershaton Herbarium](Herbarium/Vershaton_Herbarium.md)
 ####   🔹 [Kaer Herbarium](Herbarium/Kaer_Herbarium.md)
 ####   🔹 [Arennan Herbarium](Herbarium/Arennan_Herbarium.md)

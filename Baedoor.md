@@ -90,7 +90,7 @@ już wcześniej do siebie nawiązywały - więc połączenie było zasadniczo ty
 tego, co robiłem wcześniej. Pod względem światotwórczym, pomogło mi to również uczynić uniwersum
 bardziej spójnym.
 
-W tym samym czasie, powstała również Nowa Era.  
+W tym samym czasie powstała również Nowa Era.  
 Początkowo mając na celu odseparowanie "starej" chronologii i "starego" świata, którego nie
 chciałem dotykać o tyle, by zachować jego nieskażony brudem charakter niewinności, ostatecznie
 dało mi to również powód, by wprowadzić różne zmiany w narracji i estetyce.   
@@ -98,7 +98,6 @@ Moja pierwotna idea natomiast się rozmyła, gdyż obecnie tworzę na obszarze w
 wprowadzając tematy o różnej gęstości we wszystkie z nich.
 
 ### 🧱 Between Shadows and Light
-
 Prawdziwa zmiana dla systemu RPG nadeszła niedługo później, wraz z Between Shadows and Lights,
 będącym moim projektem zaliczeniowym na studia. Był on napisany w 2018, w Pythonie, używając
 najprostszych elementów tego języka, jak kondycjonowanie i pętle.  
@@ -168,6 +167,75 @@ To jest też moment, gdy powstaje pomysł **The Isle of Ansur**: pełnego przepi
 gry, tym razem z o wiele lepszym kodem i funkcjonalnościami. Założyłem więc [GitHuba](https://github.com/Toma400/The_Isle_of_Ansur)
 projektu i zacząłem pisać kod gry.
 
+### 🌳 Disillusionment and PTR
+As time has proven, the ambitious strive towards Minecraft modding and games didn't turn out
+as good as I hoped it to do.  
+Wastelands? Well, with new Minecraft versions coming, it became harder and harder to catch up,
+and what's worse, the workspace I worked with got issues that basically prevented me from
+finishing it.  
+Civilisations and Spires? They burdened me with way too big scope they had.  
+Even if those issues didn't exist, Minecraft community being discontent of new versions and
+expressing their sentiment in most ugly, toxic way drove me away from modding for good.  
+Isle of Ansur found itself in a bit better position of sunken cost fallacy - I lost a lot
+of motivation to work on it, primarily because of how long it would take for me to introduce
+even small part of features. Still, the amount of time and love I put into it, and how it kinda
+is close to finish, pushed me further to work on it every few months.
+
+That has changed, however, in autumn 2023, and specifically on January 2024. The autumn itself
+brought me back to TES3: Morrowind, game I loved deeply and had huge desire to come back to.  
+In the same time, I finally played Province Cyrodiil mod that I couldn't play earlier because
+of technical reasons - but which, after experiencing it, motivated me finally to make a
+showcase that would me join **Project Tamriel Rebuilt**.  
+I joined on 31th December 2023, being promoted by Jackimoff Wackimoff. It was quite an abstract
+feeling to me - finally becoming a part of team I admired so much, and achieving something that
+would be a dream I never imagined reaching, for so many years.
+
+Next months were my continued efforts to immerse myself in development - aside of regular
+interiordeving, I put increased care into reorganising some aspects of Project Tamriel
+development, met with overall positive feedback to all changes I proposed and/or implemented.  
+Overall, this goal and perseverence teached me a whole lot about my own self and "dreams". First,
+that it is through hard work and believing in what you do, that you achieve your goals.  
+But also, that humility is absolutely crucial, but it should always refer to how much you take
+on your shoulders and expect from yourself, not if something is possible or not.
+
+It was a combination of understanding how absurdly ambitious PTR goal was to begin with, my
+work to shape PTR as even more effective, finding the team my friends, and eventually dealing
+with my own time constraints that brought my disillusionment back into hope.  
+I understood what I was doing wrong with my projects and how to take the path forward. Instead
+of waiting years doing projects "to prepare myself" which are prone to my probably ADHD slides,
+I should go all in. Don't try half measures that will burn me out, but rather work towards
+goal that I truly believe in - with side projects to rather be tiny breaks instead of main
+focus.  
+And that my dreams matter. That I can achieve them, with enough determination and wise scope
+management. And, what's most important and what I truly understood just after PTR, with team
+of people who I appreciate, trust, and know are interested in being part of this journey.
+
+And so, I started planning of **Baedoor** (also referred as B3D) and **Empire of Eternity**,
+two games I envisioned since my earliest days to eventually exist. I invited some PTR friends
+and announced a new era in what I make. Alea Iacta Est.
+
+In the same time, I moved my already started projects to semi-hiatus. They can be worked on,
+but hold no accountability for maintenance, so it's basically vibe-based-development. And, since
+making the dream game would be an incredible time sink with little prototyping for at least
+year forward, I decided to launch the **From Steam and Magic** project - Morrowind mod that
+would encourage me to produce assets and possibly some initial land that would lure people
+into the idea of the game to come later.
+
+### ✨ Current times
+And so, we are here today. What that basically means is that I am in active phase of gathering
+lore, producing documentation for upcoming game, learning technical details about engine
+development, and working on assets and other things needed for mod and game to exist.
+
+I'm also on search of new collaborators, so if you are interested to take this trip with me,
+feel free to [join the Discord](https://discord.gg/GbTw9KqnrE) and share your ideas or tell
+us what you'd like to do - I will definitely find something for you to do to bring those
+visions to reality.  
+Make sure you read [contribution terms](https://baedoor.github.io/wcontr/_guidelines.html)
+by the way, since I put quite a lot of care to explain those in simple manner.  
+And what more can I say - I hope we will find each other enjoy the work to come in next couple
+of years! Take care and have a nice day ❤︎
+
+<!--
 ### ✨ Obecne czasy
 
 Cóż, możecie się domyślić, że obecne czasy to głównie utrzymywanie tych projektów, które
@@ -182,26 +250,26 @@ by kiedyś, być może, stworzyć prawdziwie wielką i piękną, grę cRPG, obej
 świata Baedoor w sobie.  
 Więc [dołącz do mnie w podróży](https://discord.gg/GbTw9KqnrE), drogi czytelniku,
 a kto wie, może się spotkamy na skrzyżowaniu dróg?
+-->
 
 ---
 
 ## Gry związane z uniwersem Baedoor
 ### Stworzone
-* [2004] Kraje `nieoficjalne`
-* [2005] Inne Kraje `nieoficjalne`
-* [2008] Baedoor `nieoficjalne`
-* [2018] Between Shadows and Light `nieoficjalne`
+* [2004] Lands `niepubliczne`
+* [2005] Other Lands `niepubliczne`
+* [2008] Baedoor `niepubliczne`
+* [2018] Between Shadows and Light `niepubliczne`
 * [2021] [Wastelands of Baedoor](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor)
----
-### Nadchodzące
-* [2024] The Isle of Ansur `indev`
-* [ ` ? ` ] Civilisations of Baedoor `indev`
-* [ ` ? ` ] Spires of Baedoor `indev`
-#### Daleka przyszłość?
-* [ ` ? ` ] Of Lands `nazwa tymczasowa`
-* [ ` ? ` ] Baedoor Travels
-* [ ` ? ` ] Emperor of Eternity
+
+### W trakcie tworzenia
+* [ ` ? ` ] Civilisations of Baedoor
+* [ ` ? ` ] Spires of Baedoor
+* [ ` ? ` ] The Isle of Ansur
+
+### W designie
 * [ ` ? ` ] Baedoor
+* [ ` ? ` ] Emperor of Eternity
 
 *Ta lista zawiera jedynie gry związane z uniwersum. Historie, wiersze i muzyka nawiązujące do
 uniwersum znajdują się pod [tą](Author.md) stroną.*

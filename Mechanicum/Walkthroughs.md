@@ -5,7 +5,7 @@
 
 ### 🛕 Baedoor
 
-### 🛕 Baedoor Travels
+### 🛕 Emperor of Eternity
 
 ### 🛕 The Isle of Ansur
 
@@ -16,12 +16,11 @@
 ## Mody
 
 ### 🏯 [Wastelands of Baedoor](Walkthroughs/WoB/WoB.md)
+
 ### 🏯 Civilisations of Baedoor
+
+### 🏯 Spires of Baedoor
 
 ## Classic
 
 ### ⚒️ [Baedoor](Walkthroughs/Baedoor_Classic/BaeCL.md)
-
-## Gry poboczne
-
-### 🕌 Multiwersum Uraquya

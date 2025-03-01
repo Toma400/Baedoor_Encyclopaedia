@@ -16,8 +16,8 @@ Ich tożsamość jest nieznana dla publiki, z wyjątkiem kilku mediatorów ujawn
 **Międzynarodowej Rady Eksploracji Wszechwersu**.
 
 ### Istotni gwiazdounosiciele
-- [Esh Enahr](/Loreum/Topics/Characters/List/Esh_Enahr.md)
-- [Si Avani](/Loreum/Topics/Characters/List/Si_Avani.md)
+- [Esh Enahr](/Loreum/Topics/Characters/List/Enahr_Esh.md)
+- [Si Avani](/Loreum/Topics/Characters/List/Avani_Si.md)
 - [Xaine](/Loreum/Topics/Characters/List/Xaine.md)
 
 ---

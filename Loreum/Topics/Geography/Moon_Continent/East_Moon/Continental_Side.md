@@ -2,11 +2,10 @@
 Kontynentalna część Wschodniego Księżyca jest potężnym lądem, odseparowanym od reszty Księżyca
 **Skarpą**.
 
-<h1 style="font-size:2vw">Krainy:</h1>
-
-- [Dolina Cuerven](Lands/Cuerven_Valley.md)
-- Południowe Pustkowia
-  - [Vaerdena](Lands/Vaerdena.md)
+### KRAINY
+#####   🔷 [Dolina Cuerven](Lands/Cuerven_Valley.md)
+#####   🔷 Południowe Pustkowia
+#####      🔷 [Vaerdena](Lands/Vaerdena.md)
 
 ---
 ✥♜  

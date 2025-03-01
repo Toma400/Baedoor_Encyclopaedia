@@ -3,7 +3,7 @@ Postaci o narodowości **Jitadzkiej**.
 
 ---
 ### 🕋 CZAS PRZEDEROWY
-#### [Si Avani](List/Si_Avani.md)
+#### [Si Avani](List/Avani_Si.md)
 
 ---
 ♜

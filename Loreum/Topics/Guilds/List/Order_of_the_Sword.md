@@ -3,7 +3,7 @@
 ---
 **Zakon Mieczowy** ma swoje korzenie w początkach Starej Ery, dokładniej w roku 272. 
 Był on z początku stowarzyszeniem wojowników w pełni oddanych bogom wyznawanym przez 
-nordwińczyków na wyspie Evývind.  
+vindczyków na wyspie Evývind.  
 Posiadali oni własną siedzibę na północ od **Skand**, w której mieszkali i szkolili się w walce. 
 W przypadku świąt czy Tarskiggu, przerywali ćwiczenia, przewodnicząc miastowym uroczystościom.
 
@@ -17,7 +17,7 @@ charakterze religijno-wojskowym, jednak w służbie na równi swoich pobratymcó
 Następna część historii Zakonu datuje się na **upadek Imperium** w roku 312 NE. Wydarzenie to
 uczyniło armię Imperium słabszą, pozwalając większości poddanych krajów na rewoltę.  
 Evývind buntowało jednak się bardzo konserwatywnie: nie odseparowali się od **Wschodniego Baedoor**,
-lecz użyli tej sytuacji by połączyć siły z Forewind i utworzyć **Unię Północy**.  
+lecz użyli tej sytuacji by połączyć siły z Forevind i utworzyć **Unię Północy**.  
 Tym samym, Zakon Mieczowy odzyskał sporą część swojej potęgi sprzed podboju.
 
 ---
