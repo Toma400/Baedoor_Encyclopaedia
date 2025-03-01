@@ -16,7 +16,7 @@ Ez az *Első kiadás*, ami azt jelenti, hogy meglehetőleg hiányos lesz.
 Az Enciklopédia 4 alappilléren áll:
 - 🏺 [Enciklopédia Loreum](Loreum/Loreum.md) - A Baedoor univerzum története
 - 🎭 [Enciklopédia Langue](Langue/Langue.md) - A Beadoor civilizáció nyelvei és szótárai
-- 📕 Enciklopédia Scribae - A Baedoor civilizációi által írt összes könyv
+- 📕 [Enciklopédia Scribae](Scribae/Scribae.md) - A Baedoor civilizációi által írt összes könyv
 - ⚙️ [Enciklopédia Mechanicum](Mechanicum/Mechanicum.md) - Az összes RPG rendszernek, eszköznek és statisztikának dokumentációja
 
 Kattints egy szekciónevekre, hogy meglátogasd azt.

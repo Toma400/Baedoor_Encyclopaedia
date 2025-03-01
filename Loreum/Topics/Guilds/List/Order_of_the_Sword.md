@@ -2,7 +2,7 @@
 
 ---
 **Order of the Sword** is guild established in Old Era, precisely in 272 OE. It was made as an Order
-for swordsmen, fully devoted to the gods preached by nordwinians on **Evývind** isle.  
+for swordsmen, fully devoted to the gods preached by vindeans on **Evývind** isle.  
 They had their own residence, going north from **Skand**, in which they prayed and trained themselves.  
 During celebrations or Tarskigg, they were going back to Skand, to lead the ceremonies.
 
@@ -16,7 +16,7 @@ Next part of the history is marked with **Baedoor Empire fall** which happened i
 their armies on occupied territories way weaker, giving most of the countries a way to revolt.  
 Evývind, though, revolted very conservatively: they didn't separate themselves from **East Baedoor**,
 but used this situation to consolidate their powers and create **Northern Union** between Evývind and
-Forewind.  
+Forevind.  
 Therefore, Order of the Sword regained big part of their legacy and became again, the leading power
 over the island.
 

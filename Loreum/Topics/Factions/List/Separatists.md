@@ -31,7 +31,11 @@ investing heavily in an army back then.
 Terrorist liberation group of saphtri, appearing after Empire conquered Arennan.  
 It had minor support until the Circle of Blood Swords' slaughter, after which Vas Sarai became
 the leading force against the Emperor. Their actions were done with extraordinary violence which
-was contested even within other saphtric liberation groups.
+was contested even within other saphtric liberationist groups.
+
+#### [Aerial Pirates](/Loreum/Topics/Guilds/List/Aerial_Pirates.md)
+Group of outlaws that used saphtric aircrafts to banditry, but decided to support the actions
+of other liberationist groups. That earned many of them an amnesty after the war.
 
 ### Kaer
 Kaer resilience was for most its time prevailing as underground military and cultural actions
@@ -72,4 +76,5 @@ During interregnum and Separatists taking advantage of Empire collapsing, childr
 fled further inland, afraid of possible pogroms on baedoorians.
 
 ---
+✥  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Factions.md)

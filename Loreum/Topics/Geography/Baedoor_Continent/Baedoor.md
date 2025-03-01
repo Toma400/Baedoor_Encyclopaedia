@@ -1,31 +1,40 @@
 # 🌄 Baedoor
 
-<img alt="Baedoor Island map" height="342" src="/Assets/Maps/baedoor_island.jpg" width="520"/>
+| ![](/Assets/Maps/baedoor_island.jpg) | ![](/Assets/Maps/vershaton_classic.png) |
+|:-------------------------------------|:----------------------------------------|
+| Baedoor Island map                   | Vershaton map from Baedoor Classic      |
 
 Baedoor is the biggest island on Baedoor Continent, containing three big lands inside - Baedoor,
 Rakonnd Coast and Vershaton.  
 Since beginnings of Old Era, it got conquered by baedoorians. It also was operating place of
 **Baedoor Empire**, and after its fall, it is now main part of **East Baedoor**.
 
-### TOWNS
+### CITIES
 #### Baedoor Region
 - [Baedoor](Baedoor/Cities/Baedoor.md)
 - [Isuga](Baedoor/Cities/Isuga.md)
-- Dvickhet `v`
+- [Dvickhet](Baedoor/Cities/Dvickhet.md)
 - Sargin `v`
-- Qarius `?: Quarius`
+- Quarius
 - Ontero `v`
 - Fressi `v`
-- Kelvos `v`
 
 #### Rakonnd Coast
 - [Skirran](Baedoor/Cities/Skirran.md)
 
 #### Vershaton
-- Al Khasar `?: Alkaesar?`
+- [Alkaesar](Baedoor/Cities/Alkaesar.md)
 - Nejir `x: Nasig (bae-nomathian)`
 - Pervesi `v`
 - Thanbyan `v (bae-nomathian)`
+
+### TOWNS
+#### Baedoor Region
+- [Fegar](Baedoor/Cities/Fegar.md)
+- Kelvos `v`
+
+#### Vershaton
+- [Morpat](Baedoor/Cities/Morpat.md)
 
 ### VILLAGES
 #### Baedoor
@@ -66,12 +75,18 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 ### LANDSCAPES
 - Asveen Depths `?: Asven`
 - Vershaton Vulcano `v`
-- Coonhe Forest `?: [jitadian vibe, could get baedoorised]`
+- Coonhe Forest `?: Konheg Forest (nomathian)`
 - Oarien Pass `v`
 - [Kel Desert](Baedoor/Lands/Kel_Desert.md)
+- [Terrean Savannah](Baedoor/Lands/Terrean_Savannah.md)
 
 ### PLACES
 - [Tom Varteford's Plantation](Baedoor/Places/Tom_Varteford_Plantation.md)
+
+### TOPICS
+####   🔷 [🐊 Bestiary](/Loreum/Topics/Nature/Bestiary/Baedoor_Bestiary.md)
+####   🔷 [🌿 Vershaton Herbarium](/Loreum/Topics/Nature/Herbarium/Vershaton_Herbarium.md)
+####   🔷 [🌿 Rakonnd Coast Herbarium](/Loreum/Topics/Nature/Herbarium/Rakonnd_Coast_Herbarium.md)
 
 ---
 ♜♢✥ / "v" is +- good name, "?" is name which should be lore-friendlied, "x" means rejected name  

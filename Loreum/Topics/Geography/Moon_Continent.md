@@ -5,10 +5,16 @@ qualities do not work as expected, known as **the Scarp**.
 
 ### PARTS
 
-#####   🔷 West Moon
-#####   🔷 Moon Islands
-#####   🔷 Central Moon
-#####   🔷 [East Moon](Moon_Continent/East_Moon.md)
+####   🔷 West Moon
+####   🔷 Moon Islands
+####   🔷 Central Moon
+####   🔷 [East Moon](Moon_Continent/East_Moon.md)
+
+### OCEANS
+####   🔷 Endaic Ocean
+####   🔷 [Ennaeric Ocean]([Oceans]/Ennaeric_Ocean.md)
+####   🔷 Manaeic Ocean
+####   🔷 Negeai Ocean
 
 ---
 ♜♢✥  

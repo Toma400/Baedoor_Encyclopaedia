@@ -1,10 +1,16 @@
 # 🍁 New Era Characters
 
 ---
+### 🛕 EAST BAEDOOR
+#### [Naevin Manaut](List/Manaut_Naevin.md)
+
 ### 🛕 WEST BAEDOOR
-#### [Delai Eir](List/Delai_Eir.md)
-#### [Ferves Navikon](List/Ferves_Navikon.md)
-#### [Heim Winfleton](List/Heim_Winfleton.md)
+#### [Delai Eir](List/Eir_Delai.md)
+#### [Ferves Navikon](List/Navikon_Ferves.md)
+#### [Heim Winfleton](List/Winfleton_Heim.md)
+
+### 🛕 KAER
+#### [Keno Nira](List/Nira_Keno.md)
 
 ---
 ♜

@@ -1,5 +1,5 @@
 # 🌾 Tom Varteford's Plantation
-Cottage built in 967 OE by [Tom Varteford](/Loreum/Topics/Characters/List/Tom_Varteford.md), close to
+Cottage built in 967 OE by [Tom Varteford](/Loreum/Topics/Characters/List/Varteford_Tom.md), close to
 [Baedoor city](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md).
 It had important role in his journeys, but later it became forgotten.
 
@@ -11,4 +11,4 @@ resulting on this place becoming abandoned.
 
 ---
 ♢  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor.mdntinent/Baedoor.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor.md)

@@ -8,8 +8,8 @@
 <img alt="Lhue" height="386" src="/Assets/Nature/Plants/lhue.png" width="168"/><br>
 <code>Sketch of Lhue</code><br>
 
-**Lotua** (or *Lhue* in keht communities) is wild plant growing on wet grounds of Kaer. It has a
-shape of tendrils growing up from the flower living on the surface.
+**Lotua** (or *Lhue* in keht communities) is wild plant growing on wet grounds of [Kaer](/Loreum/Topics/Geography/Baedoor_Continent/Kaer.md).
+It has a shape of tendrils growing up from the flower living on the surface.
 Lotua is predatory, as it catches small insects in its leaves. In return, it is liked
 meal of *płytowiec*, treated by them as aphrodisiac.
 

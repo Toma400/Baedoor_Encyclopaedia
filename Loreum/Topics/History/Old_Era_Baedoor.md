@@ -10,7 +10,7 @@ Baedoor timetable on all events that happened during Old Era period.
 |:----:|:-----------------------------------------------------------|
 | 992  | Warthog Dynasty ended                                      |
 | 994  | Tom Varteford claims the throne after coordinated takeover |
-| 999  | Unteupta Assassination                                     | 
+| 999  | [Unteupta Assassination](List/Unteupta_Assassination.md)   | 
 
 ---
 ♢: pre-era/new-era, elements of events  

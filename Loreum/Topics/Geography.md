@@ -6,14 +6,13 @@ All what creates the oververse, but mostly on Baedoor itself.
 |                                      Map of Baedoor universe                                       |
 
 ---
-## 🌌 BAEDOOR MULTIVERSE
-### 🪐 MAIN BRANCH
+### 🏞️ LANDS
 ####   🔷 [Baedoor Continent](Geography/Baedoor_Continent.md)
 #####      🔹 Northern Islands
 #####      🔹 [Baedoor](Geography/Baedoor_Continent/Baedoor.md)
 #####      🔹 Rossevette Islands
 #####      🔹 [Kaer](Geography/Baedoor_Continent/Kaer.md)
-#####      🔹 Arennan
+#####      🔹 [Arennan](Geography/Baedoor_Continent/Arennan.md)
 ####   🔷 [Moon Continent](Geography/Moon_Continent.md)
 #####      🔹 West Moon
 #####      🔹 Moon Islands
@@ -24,12 +23,11 @@ All what creates the oververse, but mostly on Baedoor itself.
 #####      🔹 [Jitado](Geography/Old_Continent/Jitado.md)
 #####      🔹 Eimr Archipelago
 ####   🔷 Seiteh
+####   🔷 [Ixathei](Geography/Ixathei.md)
 ####   🔷 [The Azure Archipelago](Geography/Azure_Archipelago.md)
 #####      🔹 Oe'os
-#####      🔹 Septei
+#####      🔹 [Septei](Geography/Azure_Archipelago/Septei.md)
 #####      🔹 Vartee
-####   🔷 [Uruati Land]
-####   🔷 [Nak Land]
 ####   🔷 Vaos Archipelago
 ####   🔷 Loose Islands `outside continents`
 ####   🔷 The Grand Southern Permafrost
@@ -39,22 +37,28 @@ All what creates the oververse, but mostly on Baedoor itself.
 ####          🛠️ WIP (Names will change):
 
 ####   🔷 Northern Islands
-####   🔷 Aztec Archipelago
 ####   🔷 Native African Islands `Ereut` `Dawn Islands`
 ####   🔷 Snake Islands `Serpentuan` `Serpent Islands`
 ####   🔷 Minotaur Islands
 ####   🔷 Aev Archipelago
 
-### 💫 DIMENSIONS
+### 🌊 [OCEANS](Geography/[Oceans].md)
+####   🔷 Endaic Ocean
+####   🔷 [Ennearic Ocean](Geography/[Oceans]/Ennaeric_Ocean.md)
+####   🔷 Indraic Ocean
+####   🔷 Manaeic Ocean
+####   🔷 Negeai Ocean
 
-### 🎇 BEYOND SPECTRUM
-#####   🔷 Lands of the Dead
-#####   🔷 Crossing
-#####   🔷 The Void
-#####   🔷 The Library of Worlds
+### 💫 REGULAR DIMENSIONS
+
+### 🎇 METAPHYSICAL DIMENSIONS
+####   🔷 Lands of the Dead
+####   🔷 Crossing
+####   🔷 The Void
+####   🔷 The Library of Worlds
 
 ---
-## 🎆 OTHER KNOWN MULTIVERSES
+### 🎆 OTHER KNOWN MULTIVERSES
 #### 🔷 Tamariel
 #### 🔷 Uru'ai
 #### 🔷 Osde'in

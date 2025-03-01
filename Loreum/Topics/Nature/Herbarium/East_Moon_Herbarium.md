@@ -1,5 +1,5 @@
 # 🌿 East Moon Herbarium
-Every plant existing on East Moon.
+Every plant existing on [East Moon](/Loreum/Topics/Geography/Moon_Continent/East_Moon.md).
 
 ---
 ### Whole Island 

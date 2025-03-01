@@ -2,9 +2,12 @@
 Every creature that is considered as animal, either wild or domesticated.
 
 ---
-#### 🔹 [Navennen](List/Navennen.md)
+#### 🔹 [Akad](List/Akad.md)
+#### 🔹 [Naven](List/Naven.md)
+#### 🔹 [Nerau](List/Nerau.md)
 #### 🔹 [Ostaequa](List/Ostaequa.md)
 #### 🔹 [Plate Lizard](List/Plate_Lizard.md)
+#### 🔹 [Sea Serpent](List/Sea_Serpent.md)
 
 ---
 ♜

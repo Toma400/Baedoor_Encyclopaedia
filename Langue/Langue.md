@@ -16,11 +16,12 @@ szótárakat és a betekintő nyelvek logikai felépítésébe.
 ### [⛩️ Baedoorish](Families/Baedoorish.md)
 ### [⛩️ Ghloddish](Families/Ghloddish.md)
 ### [⛩️ Jitadish](Families/Jitadish.md)
+### [⛩ Nomathian](Families/Nomathian.md)
 ### [⛩️ Trish](Families/Trish.md)
 
 ---
 ## <center>Átlagos Nyelvek</center>
-### [⛩️ Erdis](Families/Erdis.md)
+### [⛩️ Erdis](List/Erdis.md)
 
 ---
 ## <center>Régi nyelvek</center>
@@ -29,7 +30,6 @@ szótárakat és a betekintő nyelvek logikai felépítésébe.
 ## <center>Ősi Nyelvek</center>
 
 ### [🪔 Ehric](List/Ehric.md)
-### [🪔 Nomathian](List/Nomathian.md)
 
 ---
 ## <center>Rituális Nyelvek</center>

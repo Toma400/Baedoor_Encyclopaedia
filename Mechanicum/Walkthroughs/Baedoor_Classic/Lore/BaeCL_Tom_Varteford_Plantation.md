@@ -16,7 +16,7 @@
         This is pretty accurate depiction for late Old Era, as indeed this place were still at good
         shape before Exodus.  
         We can see supervisor of name Ovlan here, as well as two orc workers - Uni name is neat for
-        jitadean, so we will push it for that culture. Devrag feels like baedoorised orcish name,
+        jitadian, so we will push it for that culture. Devrag feels like baedoorised orcish name,
         so will stay as it is, with that cultural influence caveat.
     </td>
   </tr>

@@ -3,10 +3,10 @@
 <table>
     <tr>
         <td align="center" width="20%">
-            <img src="/Assets/race_ghlodd_limbed.jpg">
+            <img src="/Assets/Races/ghlodd_limbed.jpg">
         </td>
         <td align="center" width="20%">
-            <img src="/Assets/race_ghlodd_regular.jpg">
+            <img src="/Assets/Races/ghlodd_regular.jpg">
         </td>
         <td align="center" width="60%">
             <img src="/Assets/Sources/L_001_Baedoor/arv_baedoor_39.jpg">
@@ -51,10 +51,12 @@ Despite this, peaceful values tend to be embraced just as heavily, and often tho
 are said to be used in science and art, being gift from ghloddish gods to the mortals.
 
 
-- Ghlodds' culture
-  - [Ghlodds' architecture](/Loreum/Topics/Cultures/Ghlodds/Architecture.md)
-  - Ghlodds' art
-- Ghlodds' beliefs
+- [Ghloddish culture](/Loreum/Topics/Cultures/Ghlodds/[Culture].md)
+  - [Ghloddish architecture](/Loreum/Topics/Cultures/Ghlodds/Architecture.md)
+  - Ghloddish art
+- Ghloddish beliefs
+- [Ghloddish technology](/Loreum/Topics/Cultures/Ghlodds/Technologies.md)
 
 ---
-✥
+✥  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [💮](/Loreum/Topics/Races.md)

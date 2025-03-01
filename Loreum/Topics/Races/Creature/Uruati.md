@@ -1,8 +1,9 @@
 # 💮 Uruati
 
-<img src="/Assets/race_uruati.png" width="100%"></img>
+<img src="/Assets/Races/uruati.png" width="100%"></img>
 
-Uruati are ape-like creatures living on [Ape Isles].
+Uruati are ape-like creatures living on **Ixathei**.
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [💮](/Loreum/Topics/Races.md)

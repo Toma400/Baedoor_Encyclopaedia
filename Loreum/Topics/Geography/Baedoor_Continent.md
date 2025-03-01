@@ -11,12 +11,24 @@ It had major role in events of Old Era, becoming heart of its industrial revolut
 Aside of it, it saw rise of Baedoor Empire, from which its name come from.
 
 ### ISLANDS
-
 #####   🔷 Northern Islands
+#####     🔷 Evývind
+#####     🔷 Forevind
 #####   🔷 [Baedoor](Baedoor_Continent/Baedoor.md)
 #####   🔷 Rossevette Islands
+#####     🔷 Rossevette
+#####     🔷 Karos
+#####     🔷 Torvos
+#####     🔷 Fariva
+#####     🔷 Veimos
 #####   🔷 [Kaer](Baedoor_Continent/Kaer.md)
-#####   🔷 Arennan
+#####   🔷 [Arennan](Baedoor_Continent/Arennan.md)
+
+### OCEANS
+####   🔷 Endaic Ocean
+####   🔷 [Ennearic Ocean]([Oceans]/Ennaeric_Ocean.md)
+####   🔷 Indraic Ocean
+####   🔷 Manaeic Ocean
 
 ---
 ♜♢✥  

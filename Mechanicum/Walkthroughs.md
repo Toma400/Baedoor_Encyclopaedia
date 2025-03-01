@@ -4,9 +4,7 @@
 ## Fő Baedoor játékok
 
 ### 🛕 Baedoor
-
-### 🛕 Baedoor Utazások
-
+### 🛕 Örökkévalóság Uralkodója
 ### 🛕 Ansur Szigete
 
 ## Kisebb játékok
@@ -17,11 +15,7 @@
 
 ### 🏯 [Baedoor Pusztaságai](Walkthroughs/WoB/WoB.md)
 ### 🏯 Baedoor Civilizációi
+### 🏯 Baedoor Tornyai
 
 ## Klasszikus
-
 ### ⚒️ [Baedoor](Walkthroughs/Baedoor_Classic/BaeCL.md)
-
-## Mellékjátékok
-
-### 🕌 Uraquya Multiverzum

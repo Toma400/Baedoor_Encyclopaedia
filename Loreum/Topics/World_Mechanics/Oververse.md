@@ -99,8 +99,8 @@ Multiverses were discovered in such chronology as the table below showcases:
 
 | Date of discovery | Multiverse | Explorer                                                 | Possible Earth-understanding                 |
 |-------------------|------------|----------------------------------------------------------|----------------------------------------------|
- | 655 PE            | Tamariel   | [Si Avani](/Loreum/Topics/Characters/List/Si_Avani.md)   | Tamriel, Elder Scrolls universe              |
- | 272 PE            | Uru'ai     | [Esh Enahr](/Loreum/Topics/Characters/List/Esh_Enahr.md) | Myst / Uru universe                          |
+ | 655 PE            | Tamariel   | [Si Avani](/Loreum/Topics/Characters/List/Avani_Si.md)   | Tamriel, Elder Scrolls universe              |
+ | 272 PE            | Uru'ai     | [Esh Enahr](/Loreum/Topics/Characters/List/Enahr_Esh.md) | Myst / Uru universe                          |
  | 463 OE            | Osde'in    |                                                          | DiscWorld universe                           |
  | 431 NE            | Ins'in     | Tehom Aranai                                             | Nalqiwatya                                   |
  | 637 NE            | Eis'in     |                                                          | End's Phantasm                               |
@@ -140,7 +140,7 @@ starshifters decided to reveal few their members as emissaries, to communicate w
 share the knowledge.
 
 <span style="color:#0099cc">**OVERVERSE UNIVERSITIES**</span>  
-Oververse concept were known to mages and mystics of Baedoor universes for thousands of years, but
+Oververse concept was known to mages and mystics of Baedoor universes for thousands of years, but
 for huge part of time it was more of a theory, usually split into countless variants and lots of 
 believers arguing about details.  
 This resulted on decision - firstly made by ghlodds - to create some universities focused on studying
