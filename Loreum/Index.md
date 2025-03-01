@@ -29,27 +29,27 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 ### C
 - [Calgori](Topics/Characters/Families/Calgori.md)
 - [Cuerven](Topics/Geography/Moon_Continent/East_Moon/Lands/Cuerven_Valley.md) (dolina)
+- [Czterech Króli](Topics/Cultures/Erds/List/Four_Kings.md)
+- [Cztery Wiatry](Topics/Cultures/Erds/List/Four_Kings.md)
 
 ### D
 - [Dahekhris](Topics/Geography/Baedoor_Continent/Kaer/Cities/Dahekhris.md)
-- [Dawn Tear](Topics/Nature/Herbarium/List/Dawn_Tear.md)
 - [Delai Eir](Topics/Characters/List/Eir_Delai.md)
 - [Dem](Topics/Cultures/Baedoorians/List/Dem.md)
-- [Desert Divisions](Topics/Guilds/List/Desert_Divisions.md)
 - [Detemardir](Topics/Geography/Baedoor_Continent/Kaer/Cities/Ortaver.md)
 - [Disane](Topics/Geography/Baedoor_Continent/Kaer/Disane.md)
 - [Disanteldir](Topics/Geography/Baedoor_Continent/Kaer/Cities/Disanteldir.md)
 - [Dvickhet](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Dvickhet.md)
+- [Dywizje Pustynne](Topics/Guilds/List/Desert_Divisions.md)
 
 ### E
 - [Eduard Allaut](Topics/Characters/List/Allaut_Eduard.md)
-- [East Moon](Topics/Geography/Moon_Continent/East_Moon.md)
 - [Eir, Delai](Topics/Characters/List/Eir_Delai.md)
 - [Eiron, Zan](Topics/Characters/List/Eiron_Zan.md)
 - [Elea Varteford](Topics/Characters/List/Varteford_Elea.md)
 - [Enahr, Esh](Topics/Characters/List/Enahr_Esh.md)
 - [Enfrvein](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
-- [Ennaeric Ocean](Topics/Geography/[Oceans]/Ennaeric_Ocean.md)
+- [Ennaeryjski Ocean](Topics/Geography/[Oceans]/Ennaeric_Ocean.md)
 - [Esh Enahr](Topics/Characters/List/Enahr_Esh.md)
 - [Ettua](Topics/Characters/Families/Ettua.md)
 - [Evros](Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)
@@ -59,8 +59,6 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 - [Fegar](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Fegar.md)
 - [Ferves Navikon](Topics/Characters/List/Navikon_Ferves.md)
 - [Followers of the Bound](Topics/Guilds/List/Followers_of_the_Bound.md)
-- [Four Kings](Topics/Cultures/Erds/List/Four_Kings.md)
-- [Four Winds](Topics/Cultures/Erds/List/Four_Kings.md)
 - [Funt](Topics/Cultures/Baedoorians/List/Funt.md)
 
 ### G
@@ -71,7 +69,6 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 - [Gwiazdounosiciele](Topics/Guilds/List/Starshifters.md)
 
 ### H
-- [Haunted Wanderer](Topics/Nature/Bestiary/List/Haunted_Wanderer.md)
 - [Heim Winfleton](Topics/Characters/List/Winfleton_Heim.md)
 - [Hyerbitus](Topics/Nature/Herbarium/List/Hyerbitus.md)
 
@@ -124,10 +121,11 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 - [Nerau](Topics/Nature/Bestiary/List/Nerau.md)
 - [Nferth](Topics/Geography/Moon_Continent/East_Moon/Nferth.md)
 - [Nira, Keno](Topics/Characters/List/Nira_Keno.md)
-- [Nomathians](Topics/Cultures/Kaerians/[Culture].md) (culture, Kaer)
+- [Nomathiańczycy](Topics/Cultures/Kaerians/[Culture].md) (kultura, Kaer)
 - [Nyme](Topics/Geography/Moon_Continent/East_Moon/Cities/Nyme.md)
 
 ### O
+- [Ocean, Ennaeryjski](Topics/Geography/[Oceans]/Ennaeric_Ocean.md)
 - [Orkowie](Topics/Races/Regular/Orcs.md)
 - [Ormathowie](Topics/Races/Regular/Ormaths.md) (rasa)
 - [Ormathowie](Topics/Cultures/Ormaths/[Culture].md) (kultura)
@@ -147,7 +145,7 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 ### S
 - [Saphtri](Topics/Races/Regular/TriSaphtri.md) (rasa)
 - [Saphtri](Topics/Cultures/Tri_Saphtris/[Culture].md) (kultura)
-- [Sea Serpent](Topics/Nature/Bestiary/List/Sea_Serpent.md)
+- [Sawanna Terreńska](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Terrean_Savannah.md)
 - [Separatyści](Topics/Factions/List/Separatists.md)
 - [Septei](Topics/Geography/Azure_Archipelago/Septei.md)
 - [Serj](Topics/Cultures/Kaerians/[Culture].md)
@@ -158,13 +156,11 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 - [Stheyr](Topics/Races/Creature/Stheyr.md)
 
 ### T
-- [Temple of I'si](Topics/Religions/Small/Temple_of_I'si.md)
-- [Terrean Savannah](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Terrean_Savannah.md)
+- [Talia Winfletona](Topics/Cultures/Baedoorians/List/Winfleton_Deck.md)
 - [Terteni](Topics/Races/Spirit/Terten.md)
 - [Terteni](Topics/Cultures/Tertens_Vaerdena/[Culture].md) (Vaerdena)
 - [Thon, Joeseh](Topics/Characters/List/Thon_Joeseh.md)
 - [Tom Varteford](Topics/Characters/List/Varteford_Tom.md)
-- [Tom Varteford's Plantation](Topics/Geography/Baedoor_Continent/Baedoor/Places/Tom_Varteford_Plantation.md)
 - [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
 
 ### U
@@ -172,13 +168,12 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 - [Ulica Kwiatów](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
 - [Uniwersytet Iluzji](Topics/Geography/Baedoor_Continent/Kaer/Places/University_of_Illusion.md)
 - [Unteupta](Topics/Cultures/Baedoorians/Vehicles/Unteupta.md)
-- [Unteupta Assassination](Topics/History/List/Unteupta_Assassination.md)
 - [Uruati](Topics/Races/Creature/Uruati.md)
 
 ### V
 - [Vaen](Topics/Nature/Herbarium/List/Vaen.md)
 - [Vaerdena](Topics/Geography/Moon_Continent/East_Moon/Lands/Vaerdena.md)
-- [Vaerdena Tertens](Topics/Cultures/Tertens_Vaerdena/[Culture].md)
+- [Vaerdeńscy Terteni](Topics/Cultures/Tertens_Vaerdena/[Culture].md)
 - [Vancuerto](Topics/Characters/List/Vancuerto.md)
 - [Vantasi, Lovrem](Topics/Characters/List/Vantasi_Lovrem.md)
 - [Varteford](Topics/Characters/Families/Varteford.md)
@@ -188,8 +183,8 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 
 ### W
 - [Warthog](Topics/Characters/Families/Warthog.md)
+- [Wąż Morski](Topics/Nature/Bestiary/List/Sea_Serpent.md)
 - [Wietrzne Źdźbła](Topics/Nature/Herbarium/List/Windy_Arista.md)
-- [Winfleton Deck](Topics/Cultures/Baedoorians/List/Winfleton_Deck.md)
 - [Winfleton, Heim](Topics/Characters/List/Winfleton_Heim.md)
 - [Wschodni Księżyc](Topics/Geography/Moon_Continent/East_Moon.md)
 - [Wszechwers](Topics/World_Mechanics/Oververse.md)
@@ -200,6 +195,7 @@ Możesz tu znaleźć wszystkie nazwane wpisy Encyklopedii Loreum w kolejności a
 - [Xavier](Topics/Characters/Families/Xavier.md)
 
 ### Z
+- [Zamach na Unteupcie](Topics/History/List/Unteupta_Assassination.md)
 - [Zan Eiron](Topics/Characters/List/Eiron_Zan.md)
 - [Zakon Mieczowy](Topics/Guilds/List/Order_of_the_Sword.md)
 - [Złota Latarnia Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)

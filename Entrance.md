@@ -17,7 +17,9 @@ To *Pierwsza Edycja* Encyklopedii, co oznacza, że będzie ona zapewne
 dość niekompletna.
 
 **⛩️ SEKCJE**
+
 Encyklopedia stoi na czterech filarach:
+
 - 🏺 [Encyclopaedia Loreum](Loreum/Loreum.md) - skupiona na wyjaśnianiu świata Baedoor
 - 🎭 [Encyclopaedia Langue](Langue/Langue.md) - opisująca języki i słowniki cywilizacji ze świata Baedoor
 - 📕 [Encyclopaedia Scribae](Scribae/Scribae.md) - zbierająca wszystkie książki ze świata Baedoor
