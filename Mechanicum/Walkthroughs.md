@@ -1,26 +1,21 @@
-# 🗝️ Walkthroughs
+# 🗝️ Játék útmutatók
 
 ---
-## Main Baedoor games
+## Fő Baedoor játékok
 
 ### 🛕 Baedoor
+### 🛕 Örökkévalóság Uralkodója
+### 🛕 Ansur Szigete
 
-### 🛕 Emperor of Eternity
+## Kisebb játékok
 
-### 🛕 The Isle of Ansur
-
-## Small games
-
-### 🏹 [Between Shadows and Light](Walkthroughs/BSaL/BSaL.md)
+### 🏹 [Fény és Árnyák között](Walkthroughs/BSaL/BSaL.md)
 
 ## Mods
 
-### 🏯 [Wastelands of Baedoor](Walkthroughs/WoB/WoB.md)
+### 🏯 [Baedoor Pusztaságai](Walkthroughs/WoB/WoB.md)
+### 🏯 Baedoor Civilizációi
+### 🏯 Baedoor Tornyai
 
-### 🏯 Civilisations of Baedoor
-
-### 🏯 Spires of Baedoor
-
-## Classic
-
+## Klasszikus
 ### ⚒️ [Baedoor](Walkthroughs/Baedoor_Classic/BaeCL.md)
