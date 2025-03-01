@@ -43,7 +43,11 @@ All what creates the oververse, but mostly on Baedoor itself.
 ####   🔷 Aev Archipelago
 
 ### 🌊 [OCEANS](Geography/[Oceans].md)
+####   🔷 Endaic Ocean
 ####   🔷 [Ennearic Ocean](Geography/[Oceans]/Ennaeric_Ocean.md)
+####   🔷 Indraic Ocean
+####   🔷 Manaeic Ocean
+####   🔷 Negeai Ocean
 
 ### 💫 REGULAR DIMENSIONS
 

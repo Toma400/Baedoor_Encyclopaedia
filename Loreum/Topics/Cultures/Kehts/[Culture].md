@@ -36,6 +36,10 @@ their goblin kind did, as a heritage of their new, ascended culture.
 ### Cultural Topics
 - [🥮 Foods](/Loreum/Topics/Nature/Foods/Kehtic.md)
 
+| ![](/Assets/Culture/Architecture/kehtic_modern_architecture.png) |                                           ![](/Assets/Landscapes/Settlements/kaer_dahekhris.png)                                           |
+|:----------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|
+|    Kehtic modern architecture, found in cities such as Carion    | Kehtic ancient architecture, seen in monumental design of [Dahekhris](/Loreum/Topics/Geography/Baedoor_Continent/Kaer/Cities/Dahekhris.md) |
+
 ---
 ♜: 
 > (without arrogance towards goblins, however)  
