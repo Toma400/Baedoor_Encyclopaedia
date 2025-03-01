@@ -1,4 +1,4 @@
-# 🕌 Baedoor Continent Guilds
+# 🕌 Gildie Kontynentu Baedoor
 
 ---
 ### 🏯 ARENNAN
@@ -8,7 +8,7 @@
 #### [Guild of Adventurers](List/Alkaesar_Adventurers_Guild.md)
 
 ### 🏯 EVÝVIND
-#### [Order of the Sword](List/Order_of_the_Sword.md)
+#### [Zakon Mieczowy](List/Order_of_the_Sword.md)
 
 ---
 ✥♜: lots of guilds missing

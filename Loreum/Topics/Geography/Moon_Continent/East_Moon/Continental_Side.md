@@ -1,9 +1,10 @@
-# 🏞️ Continental East Moon
-Continental side of East Moon is huge landmass, separated from the rest of Moon Continent by **the Scarp**.
+# 🏞️ Kontynentalny Wschodni Księżyc
+Kontynentalna część Wschodniego Księżyca jest potężnym lądem, odseparowanym od reszty Księżyca
+**Skarpą**.
 
-### LANDS
-#####   🔷 [Cuerven Valley](Lands/Cuerven_Valley.md)
-#####   🔷 Southern Wastelands
+### KRAINY
+#####   🔷 [Dolina Cuerven](Lands/Cuerven_Valley.md)
+#####   🔷 Południowe Pustkowia
 #####      🔷 [Vaerdena](Lands/Vaerdena.md)
 
 ---

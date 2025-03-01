@@ -1,123 +1,123 @@
-# ♟️ Classes
+# ♟️ Klasy
 
-Class is another aspect modifying our hero's background. In case of class, 
-it is mostly bonus to some skills.
+Klasa to kolejny aspekt modyfikowania postaci. W przypadku klasy jednak, jest to głównie
+mały bonus do niektórych umiejętności.
 
 ---
 
-## 🌾 General Classes
+## 🌾 Klasy ogólne
 
-**UNDEFINED**  
-   ♦️Increased experience modifier: ```[INT/5]/10, +1.3```
+**BEZKLASOWIEC**  
+   ♦️Zwiększony modyfikator doświadczenia: ```[INT/5]/10, +1.3```
 
-## ⚔️ Fighting Classes
+## ⚔️ Klasy walczące
 
-**FIGHTER**  
-   ⛏️ Shortswords (+1), Longswords (+1), Toughness (+1), Firearms (-1), Archery (-1)
+**WOJOWNIK**  
+   ⛏️ Broń krótka (+1), Broń długa (+1), Twardość (+1), Broń palna (-1), Łucznictwo (-1)
 
-**ARCHER**  
-   ⛏️ Archery (+1), Sneaking (+1), Toughness (+1)
+**ŁUCZNIK**  
+   ⛏️ Łucznictwo (+1), Skradanie się (+1), Twardość (+1)
 
-**GUNSLINGER**  
+**STRZELEC**  
    ⚙️ Tech (+5)  
    🔮 Magick (-5)  
-   ⛏️ Firearms (+2), Repair (+1), Castspelling (-2)
+   ⛏️ Broń palna (+2), Naprawa (+1), Rzucanie zaklęć (-2)
 
-## 🔮 Magic Classes
+## 🔮 Klasy magiczne
 
-**REGULAR MAGE**  
+**MAG**  
    🔮 Magick (+5)  
    ⚙️ Tech (-5)  
-   ⛏️ Castspelling (+2), Healing (+1), Firearms (-2)
+   ⛏️ Rzucanie zaklęć (+2), Leczenie (+1), Broń palna (-2)
 
-**PRIEST**  
+**KAPŁAN**  
    🔮 Magick (+5)  
    ⚙️ Tech (+5)  
-   ⛏️ Restoration Magic (+2), Herbalism (+1), Firearms (-2)
+   ⛏️ Magia odnowy (+2), Zielarstwo (+1), Broń palna (-2)
 
-**ILLUSIONIST**  
+**ILUZJONISTA**  
    🔮 Magick (+5)  
    ⚙️ Tech (-5)  
-   ⛏️ Transformation Magic (+2), Alchemy (+1), Firearms (-2)
+   ⛏️ Magia transformacji (+2), Alchemia (+1), Broń palna (-2)
 
-**NECROMANT**  
+**NEKROMANTA**  
    🌑 Void (+8)  
-   🌸 Connection (-20)  
+   🌸 Połączenie (-20)  
    🔮 Magick (+5)  
    ⚙️ Tech (-5)  
-   ⛏️ Necromancy (+2), Destruction (+1), Firearms (-1)
+   ⛏️ Nekromancja (+2), Magia destrukcji (+1), Broń palna (-1)
 
-## 🌒 Stealth Classes
+## 🌒 Klasy ukryte
 
-**ROGUE**  
-   ⛏️ Sneaking (+1), Lockpicking (+1), Pickpocketing (+1), Toughness (-2)
+**ŁOTR**  
+   ⛏️ Skradanie się (+1), Otwieranie zamków (+1), Kieszonkostwo (+1), Twardość (-2)
 
-**ASSASSIN**  
-   ♦️ Assassin's Hit  
-   ⛏️ Sneaking (+2), Shortswords (+1), Toughness (-2)
+**ASASYN**  
+   ♦️ Zabójczy Cios  
+   ⛏️ Skradanie się (+2), Krótkie ostrza (+1), Twardość (-2)
 
-## 🎭 Social Classes
+## 🎭 Klasy społeczne
 
-**TRADER**  
-   ♦️ Trader Sight  
-   ⛏️ Trade (+2), Persuasion (+1), Toughness (-2)
+**HANDLARZ**  
+   ♦️ Wzrok kupca  
+   ⛏️ Hander (+2), Perswazja (+1), Twardość (-2)
    
-**ORATOR**  
-   ♦️ No disadvanting effect coming from race or sex  
-   ⛏️ Persuasion (+1)
+**MÓWCA**  
+   ♦️ Brak kar płynących z płci czy rasy  
+   ⛏️ Perswazja (+1)
 
-## ⚒️ Production Classes
+## ⚒️ Klasy produkcyjne
 
-**BLACKSMITH**  
-   ⛏️ Smithing (+1), Tools (+1), Repair (+1), Resource Processing (+1), Shortswords (-1), Longswords (-1), Archery (-1)
+**KOWAL**  
+   ⛏️ Kowalstwo (+1), Narzędzia (+1), Naprawa (+1), Przetwarzanie surowców (+1), Broń krótka (-1), Broń długa (-1), Łucznictwo (-1)
 
-**MECHANIC**  
-   ♦️ Vehicle Driving  
+**MECHANIK**  
+   ♦️ Kierowanie Pojazdami  
    ⚙️ Tech (+15)  
    🔮 Magick (-15)  
-   ⛏️ Repair (+2), Smithing (+1), Castspelling (-2)
+   ⛏️ Naprawa (+2), Kowalstwo (+1), Rzucanie zaklęć (-2)
 
-## 🗝️ Specific Classes
+## 🗝️ Klasy specjalne
 
 **BARD**  
-   ⛏️ Musicality (+1), Persuasion (+1), Pickpocketing (+1), Toughness (-2)
+   ⛏️ Muzykalność (+1), Perswazja (+1), Kieszonkostwo (+1), Twardość (-2)
 
 **OUTLANDER**  
-   ☯️ Charisma (-1)  
-   ⛏️ Survival (+1), Repair (+1), Trapspotting (+1), Healing (+1), Persuasion (-1)
+   ☯️ Charyzma (-1)  
+   ⛏️ Przetrwanie (+1), Naprawa (+1), Zauważanie pułapek (+1), Leczenie (+1), Perswazja (-1)
 
-## 🪔 Classes unique for races
+## 🪔 Klasy ekskluzywne dla ras
 
-**HEAD HUNTER**  
+**ŁOWCA GŁOW**  
    📜 Saphtri  
-   ♦️ Toxin Immunity  
-   ⛏️ Firearms (+1), Archery (+1), Toughness (-1)
+   ♦️ Odporność na toksyny  
+   ⛏️ Broń palna (+1), Łucznictwo (+1), Twardość (-1)
 
-**ANCIENT BUILDER**  
+**STAROŻYTNY BUDOWNICZY**  
    📜 Ghlodd, Ett  
-   📕 Has book of Ancient Builder's patterns  
-   ⛏️ Repairs (+1), Resource Processing (+1), Traps Designing (+1), Stealing (-2), 
+   📕 Posiada książkę ze wzorami Starożytnych Budowniczych  
+   ⛏️ Naprawa (+1), Przetwarzanie surowców (+1), Tworzenie pułapek (+1), Kradzież (-2), 
 
-**ORMATH SHAMAN**  
+**ORMACKI SZAMAN**  
    📜 Ormath  
-   🌸 Connection (+3)  
-   ⛏️ Connection Magic (+3), Toughness (-2)
+   🌸 Zjednoczenie (+3)  
+   ⛏️ Magia zjednoczenia (+3), Twardość (-2)
    
-**BLACK PRIEST**  
+**CZARNY KAPŁAN**  
    📜 Voitri  
    🌑 Void (+5)  
-   🌸 Connection (-5)  
-   ⛏️ Destruction Magic (+2), Castspelling (+2), Firearms (-2), Toughness (-1)
+   🌸 Zjednoczenie (-5)  
+   ⛏️ Magia zniszczenia (+2), Rzucanie zaklęć (+2), Broń palna (-2), Twardość (-1)
    
-**FLYING MONK**  
+**LATAJĄCY MNICH**  
    📜 Erd  
-   ♦️ Flying Monk  
-   ⛏️ Transformation (+2), Toughness (-1)
+   ♦️ Latający Mnich  
+   ⛏️ Magia transformacji (+2), Twardość (-1)
    
-**STEPPING ON WATER**  
+**KROCZĄCY-PO-WODZIE**  
    📜 Erd  
-   ♦️ Stepping on water  
-   ⛏️ Transformation (+2), Toughness (-1)
+   ♦️ Chodzący po wodzie  
+   ⛏️ Magia transformacji (+2), Twardość (-1)
 
 ---
 [💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🎲](/Mechanicum/RPG_System/3.0/RPG_System.mdm.md)

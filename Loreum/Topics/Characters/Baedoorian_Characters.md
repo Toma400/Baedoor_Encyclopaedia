@@ -1,8 +1,8 @@
-# 🥮 Baedoorian Characters
-Characters bound to **Baedoorian** heritage and nationality.
+# 🥮 Postaci Baedoorczyków
+Postaci o narodowości **Baedoorskiej**.
 
 ---
-### 🕋 OLD ERA
+### 🕋 STARA ERA
 #### [Eduard Allaut](List/Allaut_Eduard.md)
 #### [Elea Varteford](List/Varteford_Elea.md)
 #### [Isehir Allaut](List/Allaut_Isehir.md)
@@ -11,7 +11,7 @@ Characters bound to **Baedoorian** heritage and nationality.
 #### [Tom Varteford](List/Varteford_Tom.md)
 #### [Zan Eiron](List/Eiron_Zan.md)
 
-### 🕋 NEW ERA
+### 🕋 NOWA ERA
 #### [Ferves Navikon](List/Navikon_Ferves.md)
 #### [Heim Winfleton](List/Winfleton_Heim.md)
 #### [Naevin Manaut](List/Manaut_Naevin.md)

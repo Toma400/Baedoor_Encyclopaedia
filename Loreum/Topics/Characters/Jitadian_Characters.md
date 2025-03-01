@@ -1,8 +1,8 @@
-# 🥮 Jitadian Characters
-Characters bound to **Jitadian** heritage and nationality.
+# 🥮 Postacie Jitadczyków
+Postaci o narodowości **Jitadzkiej**.
 
 ---
-### 🕋 PRE ERA
+### 🕋 CZAS PRZEDEROWY
 #### [Si Avani](List/Avani_Si.md)
 
 ---

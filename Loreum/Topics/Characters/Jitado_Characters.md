@@ -1,5 +1,5 @@
-# 🏯 Jitado Characters
-Characters bound to country of **Jitado**.
+# 🏯 Postacie Jitado
+Postaci zamieszkujące **Jitado**.
 
 ---
 ### 🕋 PRE ERA

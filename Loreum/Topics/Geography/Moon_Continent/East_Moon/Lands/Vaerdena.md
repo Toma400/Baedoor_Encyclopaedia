@@ -1,11 +1,14 @@
 # 🏕️ Vaerdena
-Vaerdena (bae. *Vaerdena*, "vast wasteland") is desert located on southern side of [East Moon](/Loreum/Topics/Geography/Moon_Continent/East_Moon.md), 
-being home for [terten](/Loreum/Topics/Cultures/Tertens_Vaerdena/[Culture].md) and [stheyr](/Loreum/Topics/Races/Creature/Stheyr.md)
-civilisations. It is desolate wasteland, dotted with rare terten cities and stheyr nests, with very little
-vegetation and dangerous creatures roaming the land.
+Vaerdena (bae. *Vaerdena*, "szerokie pustkowie") to pustynia położona na południowej
+części [Wschodniego Księżyca](/Loreum/Topics/Geography/Moon_Continent/East_Moon.md),
+będąc domem [tertenów](/Loreum/Topics/Cultures/Tertens_Vaerdena/[Culture].md) i [stheyrów](/Loreum/Topics/Races/Creature/Stheyr.md).
+Jest ona pustkowiem, z rzadka jedynie spotykanymi terteńskimi miastami i gniazdami stheyrów,
+z minimalną ilością wegetacji i wielością niebezpiecznych stworzeń przemierzającymi ten
+obszar.
 
-It borders mountains from west and north-east, steppes on north-west, and sparse jungle from south and
-east where it would meet **Manaeic** and **Negeai** oceans.
+Vaerdena graniczy z górami z zachodu i północnego-wschodu, stepami na północnym zachodzie, i
+rzadką dżunglą od strony południowej i wschodniej, gdzie spotykają się one z oceanem Manaeiskim
+i Negeai.
 
 ---
 ♜✥  

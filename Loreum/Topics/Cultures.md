@@ -1,55 +1,56 @@
-# 🏺 Cultures
+# 🏺 Kultury
 
 | <img alt="Baedoor Universe map" src="/Assets/Maps/baedoor_universe_cultures.png" width="240" height="280"/> |
 |:-----------------------------------------------------------------------------------------------------------:|
-|                           Map of Baedoor universe cultures and their interactions                           |
+|                              Mapa kultur i ich interakcji w uniwersum Baedoor                               |
 
 
-This section lists all cultures existing in Baedoor universe, sorted by continents.
+Ta sekcja spisuje wszystkie kultury uniwersum, kategoryzując je poprzez kontynenty.
 
-Use miniatures to quickly jump to section you want.
+Użyj miniaturek, by szybko przeskoczyć do wybranej sekcji.
+
 ```
-LEGEND:
+LEGENDA:
 
-🏯 - architecture
-🕌 - religion & ceremonies
-👘️ - clothing
-🎎 - society
-⚖️ - law
-🗡️ - military
-⚜️ - politics
-🥮 - food
-🎭 - art
-🎉 - holidays
-🗿 - philosophy
-📚 - education 
-⚗️ - technologies
-🚂 - vehicles
-㊙️ - names
-💮 - languages
-🏛️ - history
-🧿 - symbolism
-📜 - texts (books, newspapers)
+🏯 - architektura
+🕌 - religia & ceremonie
+👘️ - ubiór
+🎎 - społeczeństwo
+⚖️ - prawo
+🗡️ - militaria
+⚜️ - polityka
+🥮 - jedzenie
+🎭 - sztuka
+🎉 - święta
+📔 - filozofia
+📚 - edukacja 
+⚗️ - technologie
+🚂 - pojazdy
+㊙️ - imiona
+💮 - języki
+🏛️ - historia
+🧿 - symbolizm
+📜 - teksty (książki, magazyny)
 ```
 
 ---
-### Baedoor Continent
-- [Baedoorians](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [🚂](Cultures/Baedoorians/Vehicles.md) [💮](/Langue/Families/Baedoorish.md) [㊙️](/Loreum/Topics/Characters/Names/Baedoorian.md)
-- [Erds](Cultures/Erds/[Culture].md) 🔹 [🏯](Cultures/Erds/Architecture.md) [💮](/Langue/List/Erdis.md) [㊙️](/Loreum/Topics/Characters/Names/Erds.md) [🧿](Cultures/Erds/Symbolism.md)
-- [Kaerians](Cultures/Kaerians/[Culture].md) 🔹 [💮](/Langue/Families/Nomathian.md)
-- [Kehts](Cultures/Kehts/[Culture].md) 🔹 [🥮](/Loreum/Topics/Nature/Foods/Kehtic.md)
-- [Ormaths](Cultures/Ormaths/[Culture].md)
-- [Saphtris](Cultures/Tri_Saphtris/[Culture].md) 🔹 [⚗️](Cultures/Tri_Saphtris/Technologies.md) [㊙️](/Loreum/Topics/Characters/Names/TriSaphtri.md)
+### Anahsahei
+- [Baedoorczycy](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [🚂](Cultures/Baedoorians/Vehicles.md) [💮](/Langue/Families/Baedoorish.md) [㊙️](/Loreum/Topics/Characters/Names/Baedoorian.md)
+- [Erdowie](Cultures/Erds/[Culture].md) 🔹 [🏯](Cultures/Erds/Architecture.md) [💮](/Langue/List/Erdis.md) [㊙️](/Loreum/Topics/Characters/Names/Erds.md) [🧿](Cultures/Erds/Symbolism.md)
+- [Kaerianie](Cultures/Kaerians/[Culture].md) 🔹 [💮](/Langue/Families/Nomathian.md)
+- [Kehtowie](Cultures/Kehts/[Culture].md) 🔹 [🥮](/Loreum/Topics/Nature/Foods/Kehtic.md)
+- [Ormathowie](Cultures/Ormaths/[Culture].md)
+- [Saphtri](Cultures/Tri_Saphtris/[Culture].md) 🔹 [⚗️](Cultures/Tri_Saphtris/Technologies.md) [㊙️](/Loreum/Topics/Characters/Names/TriSaphtri.md)
 
 ### East Moon
-- [Baedoorians](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [🚂](Cultures/Baedoorians/Vehicles.md) [💮](/Langue/Families/Baedoorish.md) [㊙️](/Loreum/Topics/Characters/Names/Baedoorian.md)
-- [Vaerdena Tertens](Cultures/Tertens_Vaerdena/[Culture].md)
+- [Baedoorczycy](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [🚂](Cultures/Baedoorians/Vehicles.md) [💮](/Langue/Families/Baedoorish.md) [㊙️](/Loreum/Topics/Characters/Names/Baedoorian.md)
+- [Tertenowie Vaerdeńscy](Cultures/Tertens_Vaerdena/[Culture].md)
 
 ### Jitado
-- [Jitadians](Cultures/Jitadians/[Culture].md) 🔹 [🥮](/Loreum/Topics/Nature/Foods/Jitadian.md) [💮](/Langue/Families/Jitadish.md) [㊙️](/Loreum/Topics/Characters/Names/Jitadian.md)
+- [Jitadczycy](Cultures/Jitadians/[Culture].md) 🔹 [🥮](/Loreum/Topics/Nature/Foods/Jitadian.md) [💮](/Langue/Families/Jitadish.md) [㊙️](/Loreum/Topics/Characters/Names/Jitadian.md)
 
 ### Seiteh
-- [Ghlodds](Cultures/Ghlodds/[Culture].md) 🔹 [🏯](Cultures/Ghlodds/Architecture.md) [⚗️](Cultures/Ghlodds/Technologies.md) [💮](/Langue/Families/Ghloddish.md) [㊙️](/Loreum/Topics/Characters/Names/Ghlodds.md)
+- [Głoddy](Cultures/Ghlodds/[Culture].md) 🔹 [🏯](Cultures/Ghlodds/Architecture.md) [⚗️](Cultures/Ghlodds/Technologies.md) [💮](/Langue/Families/Ghloddish.md) [㊙️](/Loreum/Topics/Characters/Names/Ghlodds.md)
 
 ---
 ♜: may be useful to also include subpages? (as in, if the culture has multiple local divisions, like

@@ -1,5 +1,5 @@
-# 🏯 West Baedoor Characters
-Characters bound to country of **West Baedoor**.
+# 🏯 Postaci Zachodniego Baedoor
+Postaci związane z **Zachodnim Baedoor*.
 
 ---
 ### 🕋 NEW ERA

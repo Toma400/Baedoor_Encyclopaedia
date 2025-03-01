@@ -1,42 +1,45 @@
-# 🏞️ Ansur Isle
+# 🏞️ Wyspa Ansur
 <img alt="Ansur Map" height="561" src="/Assets/Maps/ansur.png" width="482"/>
 
-``Simplified map of Ansur Isle as of 920 NE``
+``Uproszczona mapa wyspy Ansur, około 920 NE``
 
-**Isle of Ansur** (bae. *Ans Sur*, "land of hope") is small island positioned pretty much in between 
-old **[Baedoor city](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)** and **New Baedoor**, 
-being also one of the better places to stay during longer journey to any of those places. 
-Since third decade of New Era, it became known for its wine.
+**Wyspa Ansur** (bae. *Ans Sur*, "ląd nadziei") to mała wyspa położona mniej więcej pomiędzy
+starym [miastem Baedoor](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md) a **Nowym
+Baedoor**, będąc również jednym z lepszych miejsc do zatrzymania się podczas dłuższej podróży
+do któregokolwiek z tych celów.  
+Od trzeciej dekady Nowej Ery, stała się znana ze swojego wina.
 
-### 📜 HISTORY  
-Ansur was not colonised before New Era, so during Exodus, when sailors saw the island instead of 
-what their tales told them, they were not only surprised, but intrigued. Crew of two such ships
-decided to settle in this place, while others went further west (eventually reaching East Moon).
+### 📜 HISTORIA
+Ansur nie było kolonizowane przed Nową Erą, więc podczas Exodusu, gdy żeglarze zobaczyli
+wyspę zamiast tego, co opowiadały im legendy, byli zaskoczeni i zaintrygowani. Załoga dwóch
+statków postanowiła się osiedlić w tym miejscu, podczas gdy reszta popłynęła dalej na zachód
+(ostatecznie docierając do Wschodniego Księżyca).
 
-Being exactly in half between two most important cities of early New Era made Ansur slowly 
-growing in importance. It became important point of exchange during those times, connecting two
-parts of Empire.  
-The main change, though, came with new laws introduced in 326 NE by governor **Norran Gorth**, 
-benefiting from **Baedoor Empire** collapse and stating independency, as well as adding several 
-taxes to those who dock in Ansur, but do not plan to stay longer.  
-This brought not only enough money for the island to expand, but also solidified their export and
-created bigger infrastructure. This also lead to Evros getting city walls and small fort on top of the hill, as governor 
-residence and additional fortification.  
+Będąc dokładnie pomiędzy dwoma najważniejszymi miastami wczesnej Nowej Ery, Ansur stawało się 
+powoli coraz to bardziej znaczące. Dzięki swojemu położeniu port w Evros był ważnym punktem 
+wymiany między dwoma częściami Imperium.  
+Największa zmiana przyszła jednak z nowymi prawami nadanymi przez zarządcę **Norrana Gortha**
+w 326 NE, wykorzystującymi upadek **Imperium Baedoor**. Nadały one niezależność wyspie, jak i
+również wprowadziły szereg podatków dla jednostek dokujących w porcie, które nie zamierzały
+zostawać na dłużej.  
+To przyniosło nie tylko wzrost wpływów, pozwalających Ansur się rozrosnąć, ale również wzmocniło
+eksport i stworzyło większą infrastrukturę. Dzięki temu również Evros zyskało mury miejskie
+oraz mały fort na szczycie wzgórza, będący siedzibą zarządcy i będący dodatkową fortyfikacją.
 
-In 917 NE, governor **Heimlig Naevos** recommended building of airship port, which is estimated to
-be finished in year 925 NE.
+W 917 NE zarządca **Heimlig Naevos** polecił budowę portu sterowców, którego ukończenie jest
+przewidywane na rok 925 NE.
 
-**TOWNS**
+**MIASTA**
 - [Evros](Cities/Evros.md)
 - Waine
 - [Nyme](Cities/Nyme.md)
 
-**PLACES**
-- Gorthal Stronghold
-- Fields
+**MIEJSCA**
+- Twierdza Gorthal
+- Pola
 
-**TIMETABLE**
-- [Timetable of Ansur Isle](/Loreum/Topics/History/New_Era_Ansur.md)
+**KALENDARIUM**
+- [Kalendarium wyspy Ansur](/Loreum/Topics/History/New_Era_Ansur.md)
 
 ---
 ### 🗺️ MAPS
@@ -47,8 +50,8 @@ be finished in year 925 NE.
         <td height="300px"> <img alt="Ansur Map" height="390" src="/Assets/Maps/ansur_by_kari.png" width="520"/> </td>
     </tr>
     <tr>
-        <td> Map of Ansur Isle as of 920 NE </td>
-        <td> Concept art by <a href="https://github.com/skeletontonguedworld">skeletontonguedworld</a> </td>
+        <td> Mapa wyspy Ansur w 920 NE </td>
+        <td> Mapa wyspy Ansur autorstwa <a href="https://github.com/skeletontonguedworld">skeletontonguedworld</a> </td>
     </tr>
 </table>
 

@@ -1,18 +1,19 @@
 # 🌆 Skirran
 
 ---
-<span style="color:#107C23">**cities**</span> [✦](/Loreum/Tags.md#-cities)  
+<span style="color:#107C23">**miasta**</span> [✦](/Loreum/Tags.md#-miasta)  
 
 ---
-**Skirran** (nomth-bae. *Skirr* with *-an* suffix, "cold coast") is city positioned on northest part of Baedoor
-island, being the only big city on Rakonnd coast.  
-It is also one of the most important parts of baedoorian culture, as it not only were first city to be 
-built after landing on the island, but still serves important purpose as harbour town, expanding 
-trading and military connections with lands located on the north.
+**Skirran** (nomth-bae. *Skirr* z sufiksem *-an*, "zimne wybrzeże") jest miastem położonym na
+najdalej wysuniętej na północ części wyspy Baedoor, będąc jednocześnie jedynym dużym miastem
+na wybrzeżu Rakonnd.  
+Skirran jest również jednym z najważniejszych elementów baedoorskiej kultury, jako że nie tylko
+było to pierwsze miasto wybudowane po wylądowaniu na wyspie, ale również pełni ono istotną rolę
+jako miasto portowe, ułatwiając handel oraz kontrolę militarną terenów położonych na północ.
 
-| ![](/Assets/Maps/skirran_early_se.jpg) |
-|:--------------------------------------:|
-|       Skirran map from early OE        |
+|     ![](/Assets/Maps/skirran_early_se.jpg)      |
+|:-----------------------------------------------:|
+|       Mapa Skirran ze wczesnej Starej Ery       |
 
 ---
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor.md)

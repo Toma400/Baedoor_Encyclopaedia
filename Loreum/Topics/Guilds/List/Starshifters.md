@@ -1,21 +1,21 @@
-# 🎇 Starshifters
+# 🎇 Gwiazdounosiciele
 
 ---
-<span style="color:#8F3DA5">**universe**</span> [✦](/Loreum/Tags.md#-universe)  
+<span style="color:#8F3DA5">**uniwersum**</span> [✦](/Loreum/Tags.md#-uniwersum)  
 
 ---
-**Starshifters** is secret magical organisation established in **Jitado** by [Xaine](/Loreum/Topics/Characters/List/Xaine.md)
-around 976 PE. Its purpose is not fully known, but one of certain aspects of Starshifters work is
-discovering new multiverses and studying oververse structure.  
-During next centuries, organisation arised to the international rank.
+**Gwiazdounosiciele** to sekretna magiczna organizacja utworzona w **Jitado** przez [Xaine](/Loreum/Topics/Characters/List/Xaine.md)
+około roku 976 CP. Jej celem nie są w pełni znane, lecz jednym ze znanych jest poznawanie nowych
+multiwersów i studiowanie struktury wszechwersu.  
+W kolejnych stuleciach, organizacja poszerzyła się do statusu międzynarodowego.
 
-**Starshifters** members are oneironauts, travellers of dreams, suspected to be able travel between
-worlds. Hence, it is considered that the organisation consists only from wisest and most talented
-mages and scientists.  
-Their identities are unknown for public except for few messengers revealed during establishment of
-**International Council of Oververse Exploration**.
+Członkami **Gwiazdounosicieli** są oneironauci, podróżnicy snów, których podejrzewa się o
+podróżowanie pomiędzy światami. Stąd też, uznaje się, że w skład organizacji wchodzą najmądrzejsi
+i najbardziej utalentowani magowie i naukowcy.  
+Ich tożsamość jest nieznana dla publiki, z wyjątkiem kilku mediatorów ujawnionych podczas utworzenia
+**Międzynarodowej Rady Eksploracji Wszechwersu**.
 
-### Notable starshifters
+### Istotni gwiazdounosiciele
 - [Esh Enahr](/Loreum/Topics/Characters/List/Enahr_Esh.md)
 - [Si Avani](/Loreum/Topics/Characters/List/Avani_Si.md)
 - [Xaine](/Loreum/Topics/Characters/List/Xaine.md)

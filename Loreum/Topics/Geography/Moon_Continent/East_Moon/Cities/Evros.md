@@ -1,30 +1,32 @@
 # 🌆 Evros
 
 ---
-<span style="color:#107C23">**cities**</span> [✦](/Loreum/Tags.md#-cities)  
+<span style="color:#107C23">**miasta**</span> [✦](/Loreum/Tags.md#-miasta)  
 
 ---
-**Evros** (bae. *Evros*, "strongly growing") is medium-sized harbour town located on [**Ansur Isle**](/Loreum/Topics/Geography/Moon_Continent/East_Moon/Ansur.md), 
-being main transit place for anyone sailing from Baedoor Continent to East Moon and reversely.  
-Since **Norran Gorth** decree, it extended heavily throughout later years.
+**Evros** (bae. *Evros*, "wzrastający") to średniej wielkości miasto portowe położone na 
+[**Wyspie Ansur**](/Loreum/Topics/Geography/Moon_Continent/East_Moon/Ansur.md), będące 
+głównym miejscem tranzytowym dla podróżujących z Kontynentu Baedoor do Wschodniego 
+Księżyca i w drugą stronę.  
+Od czasu dekretu **Norrana Gortha**, miasto rozbudowało się znacznie w kolejnych latach.
 
-Politically, it is abode of governor, as well as few guilds and groups.
+Politycznie patrząc, Evros jest siedzibą zarządcy, kilku gildii i grup.
 
-- [Ansur Guilds](/Loreum/Topics/Guilds/Ansur_Guilds.md)
+- [Gildie Ansur](/Loreum/Topics/Guilds/Ansur_Guilds.md)
 
-### CITY STRUCTURE & STYLE
-Evros was built by baedoorian settlers, but even though first structures were built without any
-specific direction, very early in city's life prominent character emerged.  
-Ilvis Sorevo, ambitious architect, was tasked to plan out structure for two districts, as well as
-design overall style unifying Evros architecture. Ilvis had their own vision however, and taking from
-their jitadian heritage, drew uniquely stylised concepts that were later shown to officials.  
-Initially, the idea was met with rather cold response, but it being liked by governor kept it alive
-for long enough to win - concepts were sent later to governor of Baedoor Empire, who saw the opportunity
-for Ansur to be Empire's new beginning, which new architecture style would proudly represent.  
-With such support, Ilvis was given the right to design whole city in their unique design.  
-In next centuries, expansions of the city gave birth to term of "Old City" which refers to districts
-built in Ilvis' style, separating it from the ones done after them, with different structure and
-slightly less cohesive architecture design.
+### STRUKTURA MIASTA & CHARAKTER
+Evros zostało wybudowane przez baedoorskich osadników, jednak mimo braku konkretnej wizji na początku,
+ta pojawiła się w relatywnie wczesnym okresie rozwoju miasta.
+Planowanie dwóch dzielnic, jak i pewnej unifikacji architektury Evros, zostało zlecone ambitnemu
+architektowi, Ilvisowi Sorevo. Miał on swoją własną wizję, czerpiącą z jego jitadzkiego pochodzenia,
+która zarysowana w dokumentach została ukazana później urzędnikom.  
+Początkowo, idea ta została zderzona z chłodnym przyjęciem, jednak wsparcie gubernatora zapewniło
+jej żywotność na tyle długo, by okazała się sukcesem - dokumenty zostały przesłane dalej do władcy
+Imperium Baedoorskiego, a ten ujrzał w nowym projekcie optymistyczną wizję ukazania nowych początków
+Imperium, z nową formą architektury dumnie reprezentującą tę ideę.  
+Z tym poparciem, Ilvis otrzymał pozwolenie by zaprojektować całe miasto w tym unikatowym charakterze.  
+W następnych wiekach i wraz z poszerzaniem się miasta, część zaprojektowana przez Ilvisa jest zwana
+"starym miastem", różniąc się od nowszych dzielnic inną strukturą i większą spójnością.
 
 ---
 [📿 Between Shadows and Light](/Mechanicum/Walkthroughs/BSaL/Lore/BSaL_Evros.md)

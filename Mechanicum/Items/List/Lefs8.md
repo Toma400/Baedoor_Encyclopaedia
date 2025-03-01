@@ -7,49 +7,50 @@
         <th width="180"><img alt="Lefs8T" height="160" src="/Assets/Items/lefs8t.png" width="160" class="center"/></th>
     </tr>
     <tr>
-        <td>✭ Visualisation of Lefs 8 in <b>Wastelands of Baedoor</b> mod</td>
-        <td>✭ Lefs 8T concept art made by Dylan v.h.s</td>
+        <td>✭ Wizualizacja Lefs8 w modzie <b>Wastelands of Baedoor</b> mod</td>
+        <td>✭ Concept Art Lefs 8T, stworzony przez Dylana v.h.s</td>
     </tr>
 </table>
 
 ---
-### DESCRIPTION  
-Lefs 8 is one of regular revolvers created by **Lefs** company, produced since 720 NE to today.  
-It became extremely popular few years after initial production, within armies and gunslingers, due to
-its balanced statistics and comfort of use.  
-This popularity came even despite quite high price of a revolver itself.
+### OPIS  
+**Lefs 8** jest jednym ze standardowych rewolwerów stworzonych przez firmę **Lefs**,
+produkowanych od roku 720 NE do teraz.  
+Z kilkuletnim opóźnieniem, stał się niezwykle popularny wśród armii i rewolwerowców, ze względu na
+swoją jakość i komfort obsługi. Popularność ta nie słabnie mimo wysokiej ceny rynkowej.
 
-It has rare variant called **Lefs 8T** with black handle and slightly changed mechanics. It was
-produced for **United Tri Union** in years 901 NE - 907 NE, but didn't reach bigger success due
-to tris bias against firearms.
+Jest również rzadki wariant zwany **Lefs 8T**, z czarną rączką i nieco zmienionymi
+mechanikami działania. Został wyprodukowany dla **Zjednoczonej Unii Tri** w latach
+901 NE - 907 NE, ale nigdy nie osiągnął większego sukcesu ze względu na uprzedzenia
+trijczyków wobec bronii palnej.
 
 ---
-### STATISTICS
+### STATYSTYKI
 #### 🚂 Wastelands of Baedoor `1.14-1.18`
 ```
-OBTAINING:
-|  🦋 BANDIT AIRSHIP
-|  🦋 MERCHANT AIRSHIP
-|  🧨 STORY
+ZNALEZIENIE:
+|  🦋 STEROWIEC BANDYTÓW
+|  🦋 STEROWIEC HANDLOWY
+|  🧨 HISTORIA
 ├───────────────────────┘
-CRAFTING:                
-|  ❄️ NOT CRAFTABLE
+PRODUKCJA:                
+|  ❄️ BRAK PRZEPISÓW
 ├───────────────────────┘
-BASE STATISTICS:
-│  ⚪️ DURABILITY       ││ 280           ││
-│  ⚫️ POWER * DMG      ││ 6 * 1 (6)     ││
-│  🟠 ROUNDS           ││ 5             ││
-│  🟡 RELOAD TYPE (t*) ││ single (20t)  ││
-│  🔵 SHOT DELAY (t*)  ││ 10t           ││
-│  🟣 AMMO TYPE        ││ small bullet  ││
-├───────────────────────┴────────────────┘
-ADDITIONAL FEATURES:
-│  ❌ SHOT KNOCKBACK
+BAZOWE STATYSTYKI:
+│  ⚪️ ODPORNOŚĆ               ││ 280             ││
+│  ⚫️ SIŁA * OBRAŻENIA        ││ 6 * 1 (6)       ││
+│  🟠 MAGAZYNEK               ││ 5               ││
+│  🟡 TYP PRZEŁADOWANIA (t*)  ││ pojedynczy (20t)││
+│  🔵 OPÓŹNIENIE STRZAŁU (t*) ││ 10t             ││
+│  🟣 TYP AMUNICJI            ││ mały pocisk     ││
+├──────────────────────────────┴──────────────────┘
+DODATKOWE FUNKCJE:
+│  ❌ ODRZUT PO STRZALE
 ```
 
 ---
-**LEGEND**  
-¹ 🔹 ticks (20 ticks = 1 second)
+**LEGENDA**  
+¹ 🔹 tiki (20 tików = 1 sekunda)
 
 ---
 ♢: Lefs company  

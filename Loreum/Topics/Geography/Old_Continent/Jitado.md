@@ -1,16 +1,16 @@
 # 🌄 Jitado
-Jitado is one of the islands creating Old Continent, in which from oldest notable times, **Jitado**
-country had place.
+Jitado jest jedną z wysp tworzących Starożytny Kontynent, na której od najstarszych czasów
+położony jest kraj o tej samej nazwie, **Jitado**.
 
-### TOWNS
-#### [Altauar Region](Jitado/Regions/Altauar.md):
+### MIASTA
+#### [Region Altauar](Jitado/Regions/Altauar.md):
 - [Menerun](Jitado/Cities/Menerun.md)
 - [Raliun](Jitado/Cities/Raliun.md)
 - [Ino Anor](Jitado/Cities/Ino_Anor.md)
 - [Adelaie](Jitado/Cities/Adelaie.md)
 
-### LANDSCAPES
-- Altauar Mountains
+### KRAJOBRAZY
+- Góry Altauar
 
 ### TOPICS
 ####   🔷 [🌿 Herbarium](/Loreum/Topics/Nature/Herbarium/Jitado_Herbarium.md)

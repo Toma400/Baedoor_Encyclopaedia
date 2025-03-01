@@ -1,31 +1,31 @@
-# ⚜️ Names
-Here you will have all names used by Baedoor characters. It may be useful during character creation,
-or just if you would like to look at cultural differences between civilisations.
+# ⚜️ Imiona
+Tutaj znajdują się wszystkie imiona używane przez postacie Baedoor. Mogą być one użyteczne
+podczas tworzenia postaci czy do zauważenia różnic kulturowych pomiędzy cywilizacjami.
 
-## Table of contents:
-### Names
-- [Baedoorian](Names/Baedoorian.md#names)
-- [Ghloddish](Names/Ghlodds.md#names)
-- [Jitadian](Names/Jitadian.md#names)
-- [Mesinpean](Names/Mesinpean.md#names)
-- [Nomathian](Names/NomathianBae.md#names) (Baedoor)
-- Tric
-  - [Lunatric](Names/TriLunatri.md#names)
-  - [Pahtric](Names/TriPahtri.md#names)
-  - [Saphtric](Names/TriSaphtri.md#names)
-  - [Voitric](Names/TriVoitri.md#names)
+## Spis treści:
+### Imiona
+- [Baedoorczycy](Names/Baedoorian.md#names)
+- [Głoddowie](Names/Ghlodds.md#names)
+- [Jitadczycy](Names/Jitadian.md#names)
+- [Mesinpejczycy](Names/Mesinpean.md#names)
+- [Nomathowie](Names/NomathianBae.md#names) (Baedoor)
+- Tri
+  - [Lunatri](Names/TriLunatri.md#names)
+  - [Pahtri](Names/TriPahtri.md#names)
+  - [Saphtri](Names/TriSaphtri.md#names)
+  - [Voitri](Names/TriVoitri.md#names)
 
-### Surnames
-- [Baedoorian](Names/Baedoorian.md#surnames)
-- [Ghloddish](Names/Ghlodds.md)
-- [Jitadian](Names/Jitadian.md#surnames)
-- [Mesinpean](Names/Mesinpean.md#surnames)
-- [Nomathian](Names/NomathianBae.md#surnames) (Baedoor)
-- Tric
-  - [Lunatric](Names/TriLunatri.md#surnames)
-  - [Pahtric](Names/TriPahtri.md#surnames)
-  - [Saphtric](Names/TriSaphtri.md#surnames)
-  - [Voitric](Names/TriVoitri.md#surnames)                                                                           
+### Nazwiska
+- [Baedoorczycy](Names/Baedoorian.md#surnames)
+- [Głoddowie](Names/Ghlodds.md)
+- [Jitadczycy](Names/Jitadian.md#surnames)
+- [Mesinpejczycy](Names/Mesinpean.md#surnames)
+- [Nomathowie](Names/NomathianBae.md#surnames) (Baedoor)
+- Tri
+  - [Lunatri](Names/TriLunatri.md#surnames)
+  - [Pahtri](Names/TriPahtri.md#surnames)
+  - [Saphtri](Names/TriSaphtri.md#surnames)
+  - [Voitri](Names/TriVoitri.md#surnames)
 
 ---
 ♜: Cubati name - should it be baedoorian? [Source](/Mechanicum/Walkthroughs/Baedoor_Classic/Lore/BaeCL_Fegar.md)

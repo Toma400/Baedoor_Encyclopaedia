@@ -1,11 +1,14 @@
-# 🏕️ Cuerven Valley
-Cuerven Valley (sometimes also *Grand Cuerven Valley*, bae. *Cuerven* as for "dense/warm/safe valley") is located in central-east part of East Moon.  
-It is separated from other lands by mountain range, and most of the valley belongs to Cuerven Forest.  
-In New Era, valley was conquered by baedoorians who created **West Baedoor** there.
+# 🏕️ Dolina Cuerven
+Dolina Cuerven (czasem również *Wielka Dolina Cuerven*, bae. *Cuerven* jako "gęsta/ciepła/bezpieczna
+dolina") znajduje się w centralno-wschodniej części Wschodniego Księżyca.  
+Jest odseparowana od reszty lądów poprzez łańcuch górski, a większa część doliny pokrywa
+las Cuerven.  
+Od Nowej Ery, dolina została skolonizowana przez baedoorczyków, którzy stworzyli tam **Zachodnie
+Baedoor**.
 
-<h1 style="font-size:2vw">Places:</h1>
+<h1 style="font-size:2vw">Miejsca:</h1>
 
-- Cuerven Forest
+- Las Cuerven
 
 ---
 ✥♜  
