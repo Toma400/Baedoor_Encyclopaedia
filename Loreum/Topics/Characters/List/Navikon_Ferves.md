@@ -1,6 +1,10 @@
 # 🎎 Ferves Navikon
 
 ---
+| <img src="/Assets/Characters/navikon_ferves.png" height="600px"> |
+|:----------------------------------------------------------------:|
+|  Ferves Navikon concept art, by Tannie, depicting her in 912 NE  |
+
 **Ferves Navikon** is old lady with exquisite skills with revolvers, two of which she keeps always
 near herself.  
 She is current (924 NE) chef of [Ansur Thieves Guild](/Loreum/Topics/Guilds/List/Ansur_Thieves_Guild.md).
