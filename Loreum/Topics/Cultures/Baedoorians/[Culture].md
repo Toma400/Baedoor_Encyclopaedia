@@ -15,6 +15,9 @@ various influences - primarily jitadian and nomathic.
     - [Funt](List/Funt.md)
   - Collectibles
     - [Winfleton Deck](List/Winfleton_Deck.md)
+  - Press
+    - [Eternal Flame of Avantgarde](List/Eternal_Flame_of_Avantgarde.md)
+    - [New Culture of Baedoor](List/New_Culture_of_Baedoor.md)
 
 ---
 ♜  

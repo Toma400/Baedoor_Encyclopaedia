@@ -8,7 +8,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Abrahk](Topics/Characters/Families/Abrahk.md)
 - [Abrahk, Elea](Topics/Characters/List/Varteford_Elea.md)
 - [Adelaie](Topics/Geography/Old_Continent/Jitado/Cities/Adelaie.md)
-- [Adventurers' Guild](Topics/Guilds/List/Alkaesar_Adventurers_Guild.md) (Alkaesar/Radpat)
+- [Adventurers' Guild](Topics/Guilds/List/Alkaesar_Adventurers_Guild.md) (Alkaesar/Morpat)
 - [Aerial Pirates](Topics/Guilds/List/Aerial_Pirates.md)
 - [Alkaesar](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Alkaesar.md) (city)
 - [Allaut, Eduard](Topics/Characters/List/Allaut_Eduard.md)
@@ -54,6 +54,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Enfrvein](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
 - [Ennaeric Ocean](Topics/Geography/[Oceans]/Ennaeric_Ocean.md)
 - [Esh Enahr](Topics/Characters/List/Enahr_Esh.md)
+- [Eternal Flame of Avantgarde](Topics/Cultures/Baedoorians/List/Eternal_Flame_of_Avantgarde.md)
 - [Ettua](Topics/Characters/Families/Ettua.md)
 - [Evros](Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)
 
@@ -72,7 +73,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Ghlodds](Topics/Cultures/Ghlodds/[Culture].md) (culture)
 - [Goblins](Topics/Races/Creature/Goblins.md)
 - [Golden Lighthouse of Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
-- [Guild of Adventurers](Topics/Guilds/List/Alkaesar_Adventurers_Guild.md) (Alkaesar/Radpat)
+- [Guild of Adventurers](Topics/Guilds/List/Alkaesar_Adventurers_Guild.md) (Alkaesar/Morpat)
 
 ### H
 - [Haunted Wanderer](Topics/Nature/Bestiary/List/Haunted_Wanderer.md)
@@ -122,6 +123,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Naven](Topics/Nature/Bestiary/List/Naven.md)
 - [Navikon, Ferves](Topics/Characters/List/Navikon_Ferves.md)
 - [Nerau](Topics/Nature/Bestiary/List/Nerau.md)
+- [New Culture of Baedoor](Topics/Cultures/Baedoorians/List/New_Culture_of_Baedoor.md)
 - [Nferth](Topics/Geography/Moon_Continent/East_Moon/Nferth.md)
 - [Nira, Keno](Topics/Characters/List/Nira_Keno.md)
 - [Nomathians](Topics/Cultures/Kaerians/[Culture].md) (culture, Kaer)
