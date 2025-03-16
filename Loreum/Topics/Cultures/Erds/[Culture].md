@@ -21,6 +21,15 @@ high trust status for its entire existence.
 Despite their general idea, Houses are usually seen as effective and trustworthy, as they
 operate heavily on initiative of its members.
 
+List of Houses:
+- **House of Restoration** - organisation focused on exploring past of the Kacari island, 
+                             independent, yet connected and funded by government and University of Illusion
+
+- **House of Blue Bird** - an art organisation found in Roda's western district, funding independent 
+                           artists and organising events of less known performers and musicians; 
+                           their house is also a place of meetings for many lower-to-middle class
+                           artists
+
 ### Cultural Topics
 - [🏯 Architecture](/Loreum/Topics/Cultures/Erds/Architecture.md)
 - [💮 Language](/Langue/List/Erdis.md)
@@ -30,6 +39,14 @@ operate heavily on initiative of its members.
 ### Cultural Elements
 - Games
   - [Four Kings](List/Four_Kings.md)
+
+### ⚜️ Factions
+- [Temple of the Wheel](/Loreum/Topics/Factions/List/Temple_of_the_Wheel.md)
+- Separatists
+  - Tae Ravo Naehhag
+- Houses
+  - House of Restoration
+  - House of Blue Bird
 
 ---
 ♜  

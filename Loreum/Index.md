@@ -53,6 +53,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Enahr, Esh](Topics/Characters/List/Enahr_Esh.md)
 - [Enfrvein](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
 - [Ennaeric Ocean](Topics/Geography/[Oceans]/Ennaeric_Ocean.md)
+- [Erds](Topics/Cultures/Erds/[Culture].md) (culture)
 - [Esh Enahr](Topics/Characters/List/Enahr_Esh.md)
 - [Eternal Flame of Avantgarde](Topics/Cultures/Baedoorians/List/Eternal_Flame_of_Avantgarde.md)
 - [Ettua](Topics/Characters/Families/Ettua.md)
@@ -160,6 +161,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### T
 - [Temple of I'si](Topics/Religions/Small/Temple_of_I'si.md)
+- [Temple of the Wheel](Topics/Factions/List/Temple_of_the_Wheel.md)
 - [Terrean Savannah](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Terrean_Savannah.md)
 - [Tertens](Topics/Races/Spirit/Terten.md)
 - [Tertens](Topics/Cultures/Tertens_Vaerdena/[Culture].md) (Vaerdena)

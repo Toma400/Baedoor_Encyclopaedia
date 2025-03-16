@@ -1,11 +1,7 @@
-# ⚜️ Baedoor Continent Factions
-List of all factions existing on Baedoor Continent.
+# ⚜️ New Era Factions
+List of all factions existing during New Era period.
 
-### International
-
-#####   🔷 [Separatists](List/Separatists.md)
-
-### Kaer
+### Baedoor Continent
 
 #####   🔷 [Temple of the Wheel](List/Temple_of_the_Wheel.md)
 

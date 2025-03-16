@@ -4,8 +4,8 @@ to erdic and saphtric values, while keeping the general spirit of unity. It does
 more of submissive relation, thus legitimising more autocratic rule and social relations that can
 be seen as more oppressive (however primarily from outside perspective).  
 While kehts do focus heavily on religion, they take much more occult form, keeping spirituality and
-magic as primary forms and also using that submissive character unlike **Temple of the Wheel**, for an
-instance.
+magic as primary forms and also using that submissive character unlike [Temple of the Wheel](/Loreum/Topics/Factions/List/Temple_of_the_Wheel.md),
+for an instance.
 
 Despite kehts having bad press of being a heartless tyrants, their culture is much more relaxed than
 one could expect from the outside. Kehtic culture suffers from being fairly strange and complex to
