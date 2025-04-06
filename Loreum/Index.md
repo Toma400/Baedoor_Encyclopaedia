@@ -85,6 +85,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [I'si](Topics/Religions/Small/Temple_of_I'si.md) (Temple of I'si)
 - [Indan](Topics/Characters/Families/Indan.md)
 - [Ino Anor](Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)
+- [Isanam Lake](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Isanam_Lake.md)
 - [Isehir Allaut](Topics/Characters/List/Allaut_Isehir.md)
 - [Isuga](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md)
 - [Ixathei](Topics/Geography/Ixathei.md)

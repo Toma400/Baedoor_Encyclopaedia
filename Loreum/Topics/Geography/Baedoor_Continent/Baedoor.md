@@ -77,6 +77,7 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Vershaton Vulcano `v`
 - Coonhe Forest `?: Konheg Forest (nomathian)`
 - Oarien Pass `v`
+- [Isanam Lake](Baedoor/Lands/Isanam_Lake.md)
 - [Kel Desert](Baedoor/Lands/Kel_Desert.md)
 - [Terrean Savannah](Baedoor/Lands/Terrean_Savannah.md)
 
