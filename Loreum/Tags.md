@@ -29,6 +29,7 @@ If this section becomes too big, it can be split into linked sections in the fut
 * [Raliun](Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
 * [Roda](Topics/Geography/Baedoor_Continent/Kaer/Cities/Roda.md)
 * [Skirran](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)
+* [Tinanat](Topics/Geography/Baedoor_Continent/Kaer/Cities/Tinanat.md)
 
 <span style="color:#90AA62">
 

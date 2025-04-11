@@ -167,6 +167,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Tertens](Topics/Races/Spirit/Terten.md)
 - [Tertens](Topics/Cultures/Tertens_Vaerdena/[Culture].md) (Vaerdena)
 - [Thon, Joeseh](Topics/Characters/List/Thon_Joeseh.md)
+- [Tinanat](Topics/Geography/Baedoor_Continent/Kaer/Cities/Tinanat.md)
 - [Tom Varteford](Topics/Characters/List/Varteford_Tom.md)
 - [Tom Varteford's Plantation](Topics/Geography/Baedoor_Continent/Baedoor/Places/Tom_Varteford_Plantation.md)
 - [Tsue](Topics/Nature/Herbarium/List/Tsue.md)

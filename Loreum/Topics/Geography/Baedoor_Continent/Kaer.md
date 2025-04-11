@@ -123,10 +123,14 @@ during Baedoor occupation.
 ### VILLAGES
 #### Kaerians
 - Ardhaved
+- Detesset
 - Nivdit
 - Kernat `Kerna on Kartograf map, north-east of Neghdit`
+- Savaher
+- Tavhagot
 - Hemantir
 - Govarat
+- Nihavir
 #### Kehts
 - Ekhalat `ekhalad? to make it more kehtic in name; I love ekhalat though and there's vartrekh`
 - Sekhra `Secra on Kartograf map`
@@ -138,8 +142,10 @@ during Baedoor occupation.
 - Eldril
 - Vaktad
 - Rekherad
+- Mehredirit
 - Cortedar
 - Khedaris
+- Takharit
 #### Erds
 - Liteil
 - Arinis `Atryhian on Kartograf map`
@@ -147,7 +153,8 @@ during Baedoor occupation.
 - Miris
 - Irane
 - Kemsan
-- Ranadir
+- [Tinanat](Kaer/Cities/Tinanat.md)
+- Ranadir `ruined`
 #### Kacari
 - Anoan
 - Anoltan `ruined`
@@ -197,7 +204,7 @@ during Baedoor occupation.
   - `h` is used, but rather rare
   - `v` is more popular, usually in the middle
   - usage of stiffer letters (such as `t`, `h`) is emphasized
-  - uses `-dit` suffix
+  - uses `-dit` and `-at` suffix
 - Erds
   - often ends names with `n`, `l`, `s`, `a` and `e`
     - `i` is rarer but possible option (usually reminiscent of tris however)
