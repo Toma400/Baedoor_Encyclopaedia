@@ -25,25 +25,27 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 #### Vershaton
 - [Alkaesar](Baedoor/Cities/Alkaesar.md)
 - Nejir `x: Nasig (bae-nomathian)`
-- Pervesi `v`
-- Thanbyan `v (bae-nomathian)`
+- Pervesi
+- Thanbyan `(bae-nomathian)`
 
 ### TOWNS
 #### Baedoor Region
 - [Fegar](Baedoor/Cities/Fegar.md)
-- Kelvos `v`
+- Kedalan `Kedalet on old map`
+- Gaernan `Antaqua on old map`
+- Kelvos
+- Maranan
 
 #### Vershaton
 - [Morpat](Baedoor/Cities/Morpat.md)
 
 ### VILLAGES
 #### Baedoor
-- Kedalet `?: Kedalan`
-- Aqluzar `x: Anlesat`
-- Antaqua `v`
-- Maranan `v`
-- Nyem `?: Naem`
-- Avierion (Averion) `v`
+- Anlesat `Aqluzar on old map`
+- Taraghat `old nomathic village`
+- Lisit
+- Naem `Nyem on old map`
+- Averion `Avierion on old map`
 - Tuqogan `x: Tanean`
 - Rinnes `v`
 - Heraille `v`
@@ -51,13 +53,15 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Enbron `v`
 - Xerios `?: Herios`
 - Nawell `v`
-- Larains `v`
+- Larains `v: Larain - to differentiate from Learens`
 - Ynsen `?: Onsen`
 
 #### Rakonnd Coast
-- Angidinis (formerly Angides) `v`
-- Badainon `v`
-- Danum `v`
+- Angadis `Angidinis on old map, "formerly Angides" as an origin for Angidinis?`
+- Badainon
+- Tanaeget `bae-nomathian`
+- Daum `Danum on old map; this town needs Disco Elysium plot somewhere there`
+- Naris
 
 #### Vershaton
 - Moranant `v`
@@ -70,7 +74,7 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Tanses `v`
 - Ovisculi `?: Oviscul`
 - Velkmance `?: Velkmag (nomathian)`
-- Leorrallens `?: Learens`
+- Learens `Leorrallens on old map`
 
 ### LANDSCAPES
 - Asveen Depths `?: Asven`
@@ -83,6 +87,22 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 
 ### PLACES
 - [Tom Varteford's Plantation](Baedoor/Places/Tom_Varteford_Plantation.md)
+
+### General Naming Schemes
+- Baedoorians
+  - `ae`, `ea` are unique and sometimes used
+  - `n`, `s` are frequently used consonants
+  - `a` are frequently used vowels
+  - words usually flow between single vowels and consonants
+  - some consonants can repeat (`nn`, `rr`, `oo`) `shouldn't -rr- be nomathian influence?`
+  - `qu` is rare and likely nomathian-influenced form of `u` (unsure? maybe `k`/`gh` origin?)
+- Nomaths
+  - `g` is unique and popular, often used at the end or in combination as `gh`
+  - `h` is used, but rather rare
+  - `v` is more popular, usually in the middle
+  - usage of stiffer letters (such as `t`, `h`) is emphasized
+  - baedoorian nomaths use `k` quite often
+  - uses `-dit` and `-at` suffix
 
 ### TOPICS
 ####   🔷 [🐊 Bestiary](/Loreum/Topics/Nature/Bestiary/Baedoor_Bestiary.md)
