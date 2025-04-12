@@ -166,6 +166,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Terrean Savannah](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Terrean_Savannah.md)
 - [Tertens](Topics/Races/Spirit/Terten.md)
 - [Tertens](Topics/Cultures/Tertens_Vaerdena/[Culture].md) (Vaerdena)
+- [Thanbyan](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Thanbyan.md)
 - [Thon, Joeseh](Topics/Characters/List/Thon_Joeseh.md)
 - [Tinanat](Topics/Geography/Baedoor_Continent/Kaer/Cities/Tinanat.md)
 - [Tom Varteford](Topics/Characters/List/Varteford_Tom.md)

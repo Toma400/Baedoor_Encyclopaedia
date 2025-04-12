@@ -26,8 +26,8 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - [Alkaesar](Baedoor/Cities/Alkaesar.md)
 - [Morpat](Baedoor/Cities/Morpat.md)
 - Nahsig `Nejir on old map` `(nomathian)`
+- [Thanbyan](Baedoor/Cities/Thanbyan)
 - Pervesi
-- Thanbyan `(bae-nomathian)`
 - Velkmag `Velkmance on old map` `(nomathian)`
 
 ### TOWNS
