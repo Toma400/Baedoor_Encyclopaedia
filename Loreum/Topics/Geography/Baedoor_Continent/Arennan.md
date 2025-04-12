@@ -22,10 +22,10 @@ Arennan is during the process of desertation, meaning that during Pre Era lands 
 to inhabit. The expansion of desert makes saphtri much more eager to emigration and tries of conquering
 foreign lands, as their existence is in increasing danger as climate becomes more and more dry and warm.
 
-### TOWNS
-- Tharie `v`
-- Sarven `v`
-- Anvare `v`
+### CITIES
+- Tharie
+- Sarven
+- Anvare
 - Nevai
 - Haktei
 - Nahti
@@ -33,7 +33,7 @@ foreign lands, as their existence is in increasing danger as climate becomes mor
 - Sinat `Cinalda on map, move to the island`
 - Atuv Nai `Atuuv on map`
 
-### VILLAGES
+### TOWNS
 - Kennevai `near Nevai`
 - Enam `Enamo on map`
 - Osarat `Osara on map, moved`
@@ -49,12 +49,28 @@ foreign lands, as their existence is in increasing danger as climate becomes mor
 - Kemminau
 - Nerime `moved`
 
+### VILLAGES
+- Tonrai
+- Rivi
+- Kepselat
+- Ilat
+- Neterei
+- Lisvait
+- Koi
+- Tehemsi
+- Moilat
+- Netemei
+- Siklit
+- Lantamai
+- Ivotai
+- Nemat Tari
+
 ### LANDSCAPES
 - Ivasai Mountains
 
 ### General Naming Scheme
 - Cities
-  - common suffixes: `-e`/`-i`, tri `-ai`/`-ei`, `-en`
+  - common suffixes: `-e`/`-i`, tri `-ai`/`-ei`, `-en`, `-lat`
   - sometimes use double names
   - flowing letters (`n`, `m`, vowels) used commonly
   - ...but often partitioned by stiff (`t`/`v`/`h`) or hard (`r`) letters to kinda slow it down

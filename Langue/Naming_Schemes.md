@@ -63,7 +63,7 @@ in alphabetical order:
   - Kehts and erds has some melodic parts and letter use shared, but differ heavily in flow and sounds
   
 ### Saphtris
-  - common suffixes: `-e`/`-i`, tri `-ai`/`-ei`, `-en`
+  - common suffixes: `-e`/`-i`, tri `-ai`/`-ei`, `-en`, `-lat`
   - sometimes use double names
   - flowing letters (`n`, `m`, vowels) used commonly
   - ...but often partitioned by stiff (`t`/`v`/`h`) or hard (`r`) letters to kinda slow it down
