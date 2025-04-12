@@ -123,7 +123,7 @@ during Baedoor occupation.
 ### VILLAGES
 #### Kaerians
 - Ardhaved
-- Detesset
+- Detesset `baedoorian origin`
 - Nivdit
 - Kernat `Kerna on Kartograf map, north-east of Neghdit`
 - Savaher

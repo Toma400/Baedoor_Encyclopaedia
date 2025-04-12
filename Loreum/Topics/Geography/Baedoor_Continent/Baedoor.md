@@ -14,67 +14,74 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - [Baedoor](Baedoor/Cities/Baedoor.md)
 - [Isuga](Baedoor/Cities/Isuga.md)
 - [Dvickhet](Baedoor/Cities/Dvickhet.md)
-- Sargin `v`
+- Sargin
 - Quarius
-- Ontero `v`
-- Fressi `v`
+- Ontero
+- Fressi
 
 #### Rakonnd Coast
 - [Skirran](Baedoor/Cities/Skirran.md)
 
 #### Vershaton
 - [Alkaesar](Baedoor/Cities/Alkaesar.md)
-- Nejir `x: Nasig (bae-nomathian)`
+- [Morpat](Baedoor/Cities/Morpat.md)
+- Nasig `Nejir on old map` `(nomathian)`
 - Pervesi
 - Thanbyan `(bae-nomathian)`
+- Velkmag `Velkmance on old map` `(nomathian)`
 
 ### TOWNS
 #### Baedoor Region
 - [Fegar](Baedoor/Cities/Fegar.md)
 - Kedalan `Kedalet on old map`
 - Gaernan `Antaqua on old map`
-- Kelvos
-- Maranan
-
-#### Vershaton
-- [Morpat](Baedoor/Cities/Morpat.md)
-
-### VILLAGES
-#### Baedoor
-- Anlesat `Aqluzar on old map`
-- Taraghat `old nomathic village`
-- Lisit
-- Naem `Nyem on old map`
 - Averion `Avierion on old map`
-- Tuqogan `x: Tanean`
-- Rinnes `v`
-- Heraille `v`
-- Pexisul `?: Perisul`
-- Enbron `v`
-- Xerios `?: Herios`
-- Nawell `v`
-- Larains `v: Larain - to differentiate from Learens`
-- Ynsen `?: Onsen`
+- Kelvos
+- Tanean `Tuqogan on old map`
+- Rinnes
+- Maranon `Maranan on old map`
+- Heraille
+- Perisul `Pexisul on old map`
+- Enbron
+- Heros `Xerios on old map`
+- Nawell
+- Larain `Larains on old map - 's' removed to differentiate from Learens`
 
 #### Rakonnd Coast
 - Angadis `Angidinis on old map, "formerly Angides" as an origin for Angidinis?`
 - Badainon
-- Tanaeget `bae-nomathian`
 - Daum `Danum on old map; this town needs Disco Elysium plot somewhere there`
+- Onsen `Ynsen on old map`
+
+#### Vershaton
+- Moranant
+- Girnes
+- Abotis `Abo on old map`
+- Cantodar `Cantodus on old map`
+- Tessetes `Teccetes on old map`
+- Viseg `Viscocus on old map` `old nomathian town`
+- Arindun `Arindusc on old map`
+- Tanses
+- Oviscul `Ovisculi on old map`
+- Learens `Leorrallens on old map`
+
+### VILLAGES
+#### Baedoor
+- Anlesat `Aqluzar on old map`
+- Taraghat `old nomathian village`
+- Lisit
+- Naem `Nyem on old map`
+- Sannon
+- Madais
+- Lekset
+
+#### Rakonnd Coast
+- Tanaeget `bae-nomathian`
 - Naris
 
 #### Vershaton
-- Moranant `v`
-- Girnes `v`
-- Abo `v`
-- Cantodus `v`
-- Teccetes `?: Tessetant`
-- Viscocus `?: Viscosus`
-- Arindusc `?: Arindun`
-- Tanses `v`
-- Ovisculi `?: Oviscul`
-- Velkmance `?: Velkmag (nomathian)`
-- Learens `Leorrallens on old map`
+- Laesalis
+- Tagarom `nomathian`
 
 ### LANDSCAPES
 - Asveen Depths `?: Asven`
@@ -92,10 +99,11 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Baedoorians
   - `ae`, `ea` are unique and sometimes used
   - `n`, `s` are frequently used consonants
-  - `a` are frequently used vowels
+  - `a`, `i` are frequently used vowels
   - words usually flow between single vowels and consonants
-  - some consonants can repeat (`nn`, `rr`, `oo`) `shouldn't -rr- be nomathian influence?`
+  - some consonants can repeat (`nn`, `rr`, `ee`, `oo`, `ll`) `shouldn't -rr- be nomathian influence?`
   - `qu` is rare and likely nomathian-influenced form of `u` (unsure? maybe `k`/`gh` origin?)
+  - repeated suffixes are rare, but exist (`-on`)
 - Nomaths
   - `g` is unique and popular, often used at the end or in combination as `gh`
   - `h` is used, but rather rare
