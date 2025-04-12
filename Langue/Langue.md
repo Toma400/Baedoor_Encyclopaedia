@@ -1,14 +1,10 @@
 # 🎭 Encyclopaedia Langue
 
 ---
-Welcome in Encyclopaedia Langue in which stored is everything about Baedoor universe languages, including
-dictionaries and walkthrough through languages logic.
+Welcome in Encyclopaedia Langue in which stored is everything about Baedoor universe languages, 
+including dictionaries and walkthrough through languages logic.
 
-- [Language Families](Langue.md#centerfamiliescenter)
-- Regular Languages
-- Old Languages
-- [Ancient Languages](Langue.md#centerancient-languagescenter)
-- Ritual Languages
+- [Naming Schemes](Naming_Schemes.md)
 
 ---
 ## <center>Families</center>
@@ -16,7 +12,7 @@ dictionaries and walkthrough through languages logic.
 ### [⛩️ Baedoorish](Families/Baedoorish.md)
 ### [⛩️ Ghloddish](Families/Ghloddish.md)
 ### [⛩️ Jitadish](Families/Jitadish.md)
-### [⛩ Nomathian](Families/Nomathian.md)
+### [⛩️ Nomathian](Families/Nomathian.md)
 ### [⛩️ Trish](Families/Trish.md)
 
 ---

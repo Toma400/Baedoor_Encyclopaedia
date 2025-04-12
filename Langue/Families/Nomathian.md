@@ -7,6 +7,9 @@ With such far spread of their cultures, nomathian language differs heavily betwe
 
 Their language is known for rustly sound, which was often point of baedoorian jokes.
 
+### Nomathian sections
+#### [🕉️ Naming Schemes](/Langue/Naming_Schemes.md#nomathian)
+
 ### Nomathian vocabulary
 |  Word  | Translation                                                                               | Pronunciation | Etymology |
 |:------:|-------------------------------------------------------------------------------------------|---------------|:---------:|

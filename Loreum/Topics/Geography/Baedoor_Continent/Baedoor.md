@@ -25,7 +25,7 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 #### Vershaton
 - [Alkaesar](Baedoor/Cities/Alkaesar.md)
 - [Morpat](Baedoor/Cities/Morpat.md)
-- Nasig `Nejir on old map` `(nomathian)`
+- Nahsig `Nejir on old map` `(nomathian)`
 - Pervesi
 - Thanbyan `(bae-nomathian)`
 - Velkmag `Velkmance on old map` `(nomathian)`

@@ -25,6 +25,10 @@ old jitadish → old baedoorish → baedoorish
                  nomathian
 ```
 
+### Baedoorish sections
+#### [🕉️ Naming Schemes](/Langue/Naming_Schemes.md#nomathians-baedoorian) (Baedoorian)
+#### [🕉️ Naming Schemes](/Langue/Naming_Schemes.md#nomathians-kaerian) (Kaerian)
+
 ### Baedoorish pronunciation
 
 |  Key   | Sound  | Rule / Example in English to follow                         |

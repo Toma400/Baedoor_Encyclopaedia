@@ -33,6 +33,9 @@ Middle-era north  ╔══════════════╗    Middle-era
                                     ╚═══════════════╝
 ```
 
+### Tris sections
+#### [🕉️ Naming Schemes](/Langue/Naming_Schemes.md#saphtris) (Saphtric)
+
 ### General trish vocabulary
 |  Word  | Translation                                   | Pronunciation | Etymology |
 |:------:|-----------------------------------------------|---------------|:---------:|
