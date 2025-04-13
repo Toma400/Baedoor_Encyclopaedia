@@ -40,6 +40,9 @@ state had other costs to cover.
 This is also the time when Maen, backed by baedoorian families from other cities, started to matter,
 serving as a puppet to control Warthog.
 
+### RELATED
+- [Great Baedoorian Railroad](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Places/Great_Baedoorian_Railroad.md)
+
 ---
 📿 [Baedoor Classic](/Mechanicum/Walkthroughs/Baedoor_Classic/Lore/BaeCL_Dvickhet.md)
 

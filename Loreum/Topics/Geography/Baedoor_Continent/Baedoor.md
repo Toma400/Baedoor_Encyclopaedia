@@ -26,12 +26,15 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - [Alkaesar](Baedoor/Cities/Alkaesar.md)
 - [Morpat](Baedoor/Cities/Morpat.md)
 - Nahsig `Nejir on old map` `(nomathian)`
-- [Thanbyan](Baedoor/Cities/Thanbyan)
+- [Thanbyan](Baedoor/Cities/Thanbyan.md)
 - Pervesi
 - Velkmag `Velkmance on old map` `(nomathian)`
 
 ### TOWNS
 #### Baedoor Region
+- Dallaim
+- Quinaet
+- Follori
 - [Fegar](Baedoor/Cities/Fegar.md)
 - Kedalan `Kedalet on old map`
 - Gaernan `Antaqua on old map`
@@ -40,6 +43,9 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Tanean `Tuqogan on old map`
 - Rinnes
 - Maranon `Maranan on old map`
+- Tallamit
+- Silevat
+- Lancres `Disc World reference, from Lancre`
 - Heraille
 - Perisul `Pexisul on old map`
 - Enbron
@@ -67,13 +73,25 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 
 ### VILLAGES
 #### Baedoor
+- Kennusa
+- Lepom
+- Leftet
+- Tenki
 - Anlesat `Aqluzar on old map`
+- Hogrot `old nomathian village`
+- Sagitta
 - Taraghat `old nomathian village`
 - Lisit
 - Naem `Nyem on old map`
+- Nillat
+- Takrim
 - Sannon
+- Tilquit
+- Nekaer
+- Kiria
 - Madais
 - Lekset
+- Raska `nudge to PTR old name of Rachav village`
 
 #### Rakonnd Coast
 - Tanaeget `bae-nomathian`
@@ -81,10 +99,13 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 
 #### Vershaton
 - Laesalis
+- Noptat `old nomathian village`
 - Tagarom `nomathian`
 
 ### LANDSCAPES
-- Asveen Depths `?: Asven`
+- Islands
+  - [Tesni](Baedoor/Lands/Tesni.md) `island south of Baedoor, holding Quinaet`
+- Asveen Depths `?: Asven or Asvaen`
 - Vershaton Vulcano `v`
 - Coonhe Forest `?: Konheg Forest (nomathian)`
 - Oarien Pass `v`
@@ -93,6 +114,8 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - [Terrean Savannah](Baedoor/Lands/Terrean_Savannah.md)
 
 ### PLACES
+- [Golden Lighthouse of Baedoor](Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
+- [Great Baedoorian Railroad](Baedoor/Places/Great_Baedoorian_Railroad.md)
 - [Tom Varteford's Plantation](Baedoor/Places/Tom_Varteford_Plantation.md)
 
 ### General Naming Schemes

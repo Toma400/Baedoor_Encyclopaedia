@@ -15,6 +15,9 @@ One of town's most significant landmarks is the bazaar located in underground pa
 - Golden Barrel Inn
 - [Guild of Adventurers](/Loreum/Topics/Guilds/List/Alkaesar_Adventurers_Guild.md)
 
+### RELATED
+- [Great Baedoorian Railroad](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Places/Great_Baedoorian_Railroad.md)
+
 ---
 📿 [Baedoor Classic](/Mechanicum/Walkthroughs/Baedoor_Classic/Lore/BaeCL_Alkaesar.md)
 

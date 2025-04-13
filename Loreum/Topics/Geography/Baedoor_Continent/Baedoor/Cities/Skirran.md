@@ -10,6 +10,9 @@ It is also one of the most important parts of baedoorian culture, as it not only
 built after landing on the island, but still serves important purpose as harbour town, expanding 
 trading and military connections with lands located on the north.
 
+### RELATED
+- [Great Baedoorian Railroad](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Places/Great_Baedoorian_Railroad.md)
+
 | ![](/Assets/Maps/skirran_early_se.jpg) |
 |:--------------------------------------:|
 |       Skirran map from early OE        |

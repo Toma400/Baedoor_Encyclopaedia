@@ -19,6 +19,7 @@ by districts.
   - [District of Black Paving](#-district-of-black-paving)
   - [Castle](#-castle)
 - [Emblems](#-emblems)
+- [Related](#related)
 
 ---
 ### 🪔 HISTORY
@@ -178,6 +179,9 @@ cities, being Baedoor, Isuga and Skirran.
         <td>Baedoor flag, around 250 OE, taken from Baedoor archives</td>
     </tr>
 </table>
+
+### RELATED
+- [Great Baedoorian Railroad](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Places/Great_Baedoorian_Railroad.md)
 
 ---
 📿 [Baedoor Classic](/Mechanicum/Walkthroughs/Baedoor_Classic/Lore/BaeCL_Baedoor.md)
