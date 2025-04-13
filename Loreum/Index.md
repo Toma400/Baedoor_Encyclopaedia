@@ -74,6 +74,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Ghlodds](Topics/Cultures/Ghlodds/[Culture].md) (culture)
 - [Goblins](Topics/Races/Creature/Goblins.md)
 - [Golden Lighthouse of Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
+- [Great Baedoorian Railroad](Topics/Geography/Baedoor_Continent/Baedoor/Places/Great_Baedoorian_Railroad.md)
 - [Guild of Adventurers](Topics/Guilds/List/Alkaesar_Adventurers_Guild.md) (Alkaesar/Morpat)
 
 ### H
@@ -166,6 +167,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Terrean Savannah](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Terrean_Savannah.md)
 - [Tertens](Topics/Races/Spirit/Terten.md)
 - [Tertens](Topics/Cultures/Tertens_Vaerdena/[Culture].md) (Vaerdena)
+- [Tesni](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Tesni.md)
 - [Thanbyan](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Thanbyan.md)
 - [Thon, Joeseh](Topics/Characters/List/Thon_Joeseh.md)
 - [Tinanat](Topics/Geography/Baedoor_Continent/Kaer/Cities/Tinanat.md)
