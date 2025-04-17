@@ -10,6 +10,7 @@ with indentation and bolded name being final destination.
   - [**Baedoor**](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)
   - [Isuga](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md)
   - [Dvickhet](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Dvickhet.md)
+  - Delleret `station built in 833 OE`
   - Sargin
   - Quarius
   - [Skirran](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)

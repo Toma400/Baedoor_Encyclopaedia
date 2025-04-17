@@ -46,7 +46,11 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Tallamit
 - Silevat
 - Lancres `Disc World reference, from Lancre`
+- Delleret
 - Heraille
+- Braeven
+- Taroun
+- Geveaut
 - Perisul `Pexisul on old map`
 - Enbron
 - Heros `Xerios on old map`
@@ -92,6 +96,7 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Madais
 - Lekset
 - Raska `nudge to PTR old name of Rachav village`
+- Mavan
 
 #### Rakonnd Coast
 - Tanaeget `bae-nomathian`
