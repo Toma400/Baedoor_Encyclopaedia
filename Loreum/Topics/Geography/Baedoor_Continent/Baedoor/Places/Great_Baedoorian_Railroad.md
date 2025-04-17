@@ -27,6 +27,8 @@ with indentation and bolded name being final destination.
   - **Pervesi**
   - Velkmag
   - Fressi
+  - Leont `station built in 927 OE`
+  - Ristat `station built in 895 OE`
   - Ontero
   - [**Dvickhet**](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Dvickhet.md)
 

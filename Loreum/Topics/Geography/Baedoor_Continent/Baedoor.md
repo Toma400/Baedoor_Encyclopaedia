@@ -54,6 +54,8 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Perisul `Pexisul on old map`
 - Enbron
 - Heros `Xerios on old map`
+- Leont
+- Ristat
 - Nawell
 - Larain `Larains on old map - 's' removed to differentiate from Learens`
 
@@ -66,6 +68,7 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 #### Vershaton
 - Moranant
 - Girnes
+- Vaerter `'vaer' used`
 - Abotis `Abo on old map`
 - Cantodar `Cantodus on old map`
 - Tessetes `Teccetes on old map`
@@ -79,11 +82,14 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 #### Baedoor
 - Kennusa
 - Lepom
+- Tilliquati
 - Leftet
 - Tenki
 - Anlesat `Aqluzar on old map`
 - Hogrot `old nomathian village`
+- Illos
 - Sagitta
+- Salakut
 - Taraghat `old nomathian village`
 - Lisit
 - Naem `Nyem on old map`
@@ -104,6 +110,8 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 
 #### Vershaton
 - Laesalis
+- Analloi
+- Mardom `old nomathian village, now semi-ruined due to goblin raids`
 - Noptat `old nomathian village`
 - Tagarom `nomathian`
 
