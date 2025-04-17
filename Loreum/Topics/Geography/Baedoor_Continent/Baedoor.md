@@ -75,6 +75,7 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Viseg `Viscocus on old map` `old nomathian town`
 - Arindun `Arindusc on old map`
 - Tanses
+- Leinon
 - Oviscul `Ovisculi on old map`
 - Learens `Leorrallens on old map`
 
@@ -112,15 +113,22 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Laesalis
 - Analloi
 - Mardom `old nomathian village, now semi-ruined due to goblin raids`
+- Lakavut
 - Noptat `old nomathian village`
+- Evirom
+- Nourais
+- Kasit
+- Intillar
 - Tagarom `nomathian`
 
 ### LANDSCAPES
 - Islands
   - [Tesni](Baedoor/Lands/Tesni.md) `island south of Baedoor, holding Quinaet`
+- Forests
+  - Varran Forest
+  - Coonhe Forest `?: Konheg Forest (nomathian)`
 - Asveen Depths `?: Asven or Asvaen`
 - Vershaton Vulcano `v`
-- Coonhe Forest `?: Konheg Forest (nomathian)`
 - Oarien Pass `v`
 - [Isanam Lake](Baedoor/Lands/Isanam_Lake.md)
 - [Kel Desert](Baedoor/Lands/Kel_Desert.md)

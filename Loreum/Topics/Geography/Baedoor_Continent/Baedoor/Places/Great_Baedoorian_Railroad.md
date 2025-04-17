@@ -13,6 +13,7 @@ with indentation and bolded name being final destination.
   - Delleret `station built in 833 OE`
   - Sargin
   - Quarius
+  - Geveaut `station built in 730 OE`
   - [Skirran](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)
   - [**Alkaesar**](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Alkaesar.md)
 - Second Line
