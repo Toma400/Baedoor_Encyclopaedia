@@ -50,6 +50,7 @@ foreign lands, as their existence is in increasing danger as climate becomes mor
 - Nerime `moved`
 
 ### VILLAGES
+- Laerei `baedoorian-built, thus -ae-, but also has saphtri naming influence`
 - Tonrai
 - Rivi
 - Kepselat
@@ -59,7 +60,7 @@ foreign lands, as their existence is in increasing danger as climate becomes mor
 - Koi
 - Tehemsi
 - Moilat
-- Netemei
+- Netennes `baedoorian-built`
 - Siklit
 - Lantamai
 - Ivotai

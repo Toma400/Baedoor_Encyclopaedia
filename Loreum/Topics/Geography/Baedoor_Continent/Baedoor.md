@@ -21,6 +21,7 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 
 #### Rakonnd Coast
 - [Skirran](Baedoor/Cities/Skirran.md)
+- Latareg `old nomathian city`
 
 #### Vershaton
 - [Alkaesar](Baedoor/Cities/Alkaesar.md)
@@ -36,10 +37,16 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Quinaet
 - Follori
 - [Fegar](Baedoor/Cities/Fegar.md)
+- Vain
+- Perois
+- Lagrit
 - Kedalan `Kedalet on old map`
 - Gaernan `Antaqua on old map`
+- Elleat
 - Averion `Avierion on old map`
+- Norequat
 - Kelvos
+- Esbor
 - Tanean `Tuqogan on old map`
 - Rinnes
 - Maranon `Maranan on old map`
@@ -53,7 +60,7 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Geveaut
 - Perisul `Pexisul on old map`
 - Enbron
-- Heros `Xerios on old map`
+- Haeran `Xerios on old map, moved to Heros village`
 - Leont
 - Ristat
 - Nawell
@@ -62,6 +69,7 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 #### Rakonnd Coast
 - Angadis `Angidinis on old map, "formerly Angides" as an origin for Angidinis?`
 - Badainon
+- Roverret `old nomathian town`
 - Daum `Danum on old map; this town needs Disco Elysium plot somewhere there`
 - Onsen `Ynsen on old map`
 
@@ -84,30 +92,63 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Kennusa
 - Lepom
 - Tilliquati
-- Leftet
 - Tenki
+- Leftet
+- Terrebon `old nomathian village`
 - Anlesat `Aqluzar on old map`
 - Hogrot `old nomathian village`
+- Virann
+- Leurat
+- Iplas
+- Ledavon
+- Narak `old nomathian village`
 - Illos
 - Sagitta
 - Salakut
+- Lunnaet
+- Atoros
 - Taraghat `old nomathian village`
 - Lisit
+- Agsat `old nomathian village`
+- Ortiris
+- Leban
 - Naem `Nyem on old map`
+- Adavalen
 - Nillat
 - Takrim
 - Sannon
+- Amnus
+- Marraveg `old nomathian village`
+- Eregas
 - Tilquit
+- Mivil
+- Vorot `old nomathian village`
+- Nusori `shared -nus- with Kennusa, if we would like to use it`
+- Monnan
 - Nekaer
 - Kiria
+- Heros
+- Leferim
+- Telvetes
+- Innaequit `shares -quit- with Tilquit, if we would like to use it` 
+- Egrom `old nomathian village`
+- Aksit
+- Veragt `old nomathian village`
+- Navillat
+- Dourrom `old nomathian village`
+- Albrun
 - Madais
 - Lekset
 - Raska `nudge to PTR old name of Rachav village`
-- Mavan
+- Mavat
 
 #### Rakonnd Coast
+- Sigrat `old nomathian village`
 - Tanaeget `bae-nomathian`
+- Otean
 - Naris
+- Likannes
+- Gallen `reference to Revenorror's -Galen- orcish name`
 
 #### Vershaton
 - Laesalis
@@ -118,8 +159,11 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Evirom
 - Nourais
 - Kasit
-- Intillar
+- Sunem
+- Leriat
+- Entillar
 - Tagarom `nomathian`
+- Illavis
 
 ### LANDSCAPES
 - Islands
@@ -127,6 +171,7 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Forests
   - Varran Forest
   - Coonhe Forest `?: Konheg Forest (nomathian)`
+  - Narvaen Forest
 - Asveen Depths `?: Asven or Asvaen`
 - Vershaton Vulcano `v`
 - Oarien Pass `v`
