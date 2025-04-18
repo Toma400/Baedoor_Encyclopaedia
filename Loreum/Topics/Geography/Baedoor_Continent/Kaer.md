@@ -38,9 +38,9 @@ Huge part of island's terrain is covered with forests, covering mountain pass on
 
 Kaer is home of several cultures, most notably [kehts](/Loreum/Topics/Cultures/Kehts/[Culture].md)
 and [erds](/Loreum/Topics/Cultures/Erds/[Culture].md).  
-South of Kaer there's island Kacari that is usually considered as a local polity more loosely
-bound to Erdic Kingdom despite formally being part of it. This also let it be treated more lightly
-during Baedoor occupation.
+South of Kaer there's island [Kacari](/Loreum/Topics/Geography/Baedoor_Continent/Kaer/Kacari.md)
+that is usually considered as a local polity more loosely bound to Erdic Kingdom despite formally
+being part of it. This also let it be treated more lightly during Baedoor occupation.
 
 ## -- Old Planning ---
 ### TOWNS

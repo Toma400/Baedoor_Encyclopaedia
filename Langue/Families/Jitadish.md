@@ -25,6 +25,9 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
     jitadean ← old jitadean
 ```
 
+### Jitadish sections
+#### [⚜️ Names](/Loreum/Topics/Characters/Names/Jitadian.md)
+
 ### Jitadish pronunciation
 <center><b>Old jitadish - modern jitadish period</b></center>
 

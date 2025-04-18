@@ -105,6 +105,8 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 ### Female
 | Name     | Localisation  | Rarity         | Description                                                                                   |
 |----------|---------------|----------------|-----------------------------------------------------------------------------------------------|
+| Ailea    | Whole Baedoor | 🔆 Semi-common |                                                                                               |
+| Anae     | Whole Baedoor | 🏵️ Semi-rare  |                                                                                               |
 | Cryna    | East Baedoor  | ⚜️ Rare        | Used in Old Era, feminine variant of *Cryan*                                                  |
 | Dorin    | Whole Baedoor | 🔆 Semi-common | Common name in Old Era, a bit more rare in New Era                                            |
 | Eida     | East Baedoor  | ⚜️ Rare        | Of jitadian origin                                                                            |
@@ -116,7 +118,9 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Irlanda  | East Baedoor  | ⚜️ Rare        | Of jitadian origin, more feminine form of *Irlangor*                                          |
 | Irlangor | East Baedoor  | ⚜️ Rare        | Of jitadian origin                                                                            |
 | Isena    | Whole Baedoor | ⚜️ Rare        | Female variant of *Isen* with slight difference from jitadian origin                          |
+| Linn     | Whole Baedoor | ⚜️ Rare        |                                                                                               |
 | Lorat    | Whole Baedoor | 🏵️ Semi-rare  | Commonly used in Old Era, in New Era mostly seen in aristocratic families. Of jitadian origin |
+| Natis    | Whole Baedoor | 🏵️ Semi-rare  | From nomathian Našš                                                                           |
 | Nyvera   | Whole Baedoor | ⚜️ Rare        | Of jitaditan origin, with Nyver as male counterpart                                           |
 | Patris   | Whole Baedoor | 🏵️ Semi-rare  | From nomathian Patrišš                                                                        |
 | Run      | Whole Baedoor | 🏵️ Semi-rare  |                                                                                               |
@@ -125,6 +129,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Sara     | Whole Baedoor | 🔥 Common      | Less popular variant of *Sana*                                                                |
 | Shademia | West Baedoor  | ⚜️ Rare        | Name mixing baedoorian character with some foreign roots                                      |                                               |
 | Veronica | Whole Baedoor | 🔥 Common      | Commonly used, especially among lower aristocratic families                                   |
+| Viris    | Whole Baedoor | 🏵️ Semi-rare  |                                                                                               |
 | Wenyah   | East Baedoor  | ⚜️ Rare        | Used in Old Era, nomathian-influenced variant of *Hanyah*                                     |
 
 

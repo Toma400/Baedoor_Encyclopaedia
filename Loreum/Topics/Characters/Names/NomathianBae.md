@@ -15,10 +15,11 @@
 | Opugat | Whole Island | 🏵️ Semi-rare  |             |
 
 ### Female
-| Name    | Localisation | Rarity         | Description |
-|---------|--------------|----------------|-------------|
-| Naath   | Whole Island | 🏵️ Semi-rare  |             |
-| Patrišš | Whole Island | 🔆 Semi-common |             |
+| Name    | Localisation | Rarity          | Description |
+|---------|--------------|-----------------|-------------|
+| Naath   | Whole Island | 🏵️ Semi-rare   |             |
+| Našš    | Whole Island | 🏵️ Semi-common |             |
+| Patrišš | Whole Island | 🔆 Semi-common  |             |
 
 ---
 ## Surnames

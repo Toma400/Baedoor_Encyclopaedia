@@ -35,6 +35,10 @@ Middle-era north  ╔══════════════╗    Middle-era
 
 ### Tris sections
 #### [🕉️ Naming Schemes](/Langue/Naming_Schemes.md#saphtris) (Saphtric)
+#### [⚜️ Names](/Loreum/Topics/Characters/Names/TriLunatri.md) (Lunatric)
+#### [⚜️ Names](/Loreum/Topics/Characters/Names/TriSaphtri.md) (Saphtric)
+#### [⚜️ Names](/Loreum/Topics/Characters/Names/TriVoitri.md) (Voitric)
+#### [⚜️ Names](/Loreum/Topics/Characters/Names/TriPahtri.md) (Pahtric)
 
 ### General trish vocabulary
 |  Word  | Translation                                   | Pronunciation | Etymology |

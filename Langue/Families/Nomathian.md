@@ -8,7 +8,9 @@ With such far spread of their cultures, nomathian language differs heavily betwe
 Their language is known for rustly sound, which was often point of baedoorian jokes.
 
 ### Nomathian sections
-#### [🕉️ Naming Schemes](/Langue/Naming_Schemes.md#nomathian)
+#### [🕉️ Naming Schemes](/Langue/Naming_Schemes.md#nomathians-baedoorian) (Baedoor)
+#### [🕉️ Naming Schemes](/Langue/Naming_Schemes.md#nomathians-kaerian) (Kaer)
+#### [⚜️ Names](/Loreum/Topics/Characters/Names/NomathianBae.md) (Baedoor)
 
 ### Nomathian vocabulary
 |  Word  | Translation                                                                               | Pronunciation | Etymology |
