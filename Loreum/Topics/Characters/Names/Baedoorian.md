@@ -151,6 +151,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Inradena   | East Baedoor                  | Common surname in south-west of Baedoor's isle                                                                                                                      |
 | Inraerdena | West Baedoor                  | West Baedoor noble family of Inradena, who changed their surname to accent their proletarian origin                                                                 |
 | Kono       | East Baedoor                  | Aristocratic surname                                                                                                                                                |
+| Lensati    | East Baedoor, Ansur           | Semi-common surname on East Baedoor, also surname of fairly rich lavender farming family on Ansur                                                                   |
 | Maen       | Whole Baedoor                 | Aristocratic surname in Dvickhet, but also not uncommon name among commonfolk in West Baedoor                                                                       |
 | Manaut     | East Baedoor                  | Semi-common surname                                                                                                                                                 |
 | Mevren     | Whole Baedoor                 | Semi-common surname                                                                                                                                                 |

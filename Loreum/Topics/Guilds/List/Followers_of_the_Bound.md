@@ -14,6 +14,5 @@ to practise and study.
 Their symbol is a staff with a purple veil.
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Guilds.md)
-
-♜♢
+♜♢  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Guilds.md) 〰️ [🕌](/Loreum/Topics/Guilds/Ansur_Guilds.md)

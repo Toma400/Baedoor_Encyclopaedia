@@ -28,6 +28,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Baedoor](Topics/Geography/Baedoor_Continent.md) (continent)
 - [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor.md) (island)
 - [Baedoorians](Topics/Cultures/Baedoorians/[Culture].md)
+- [The Blossoming Lavender](Topics/Guilds/List/The_Blossoming_Lavender.md)
 
 ### C
 - [Calgori](Topics/Characters/Families/Calgori.md)
@@ -106,8 +107,10 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Kehts](Topics/Cultures/Kehts/[Culture].md) (culture)
 - [Kel Desert](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Kel_Desert.md)
 - [Keno Nira](Topics/Characters/List/Nira_Keno.md)
+- [Kono](Topics/Characters/Families/Kono.md)
 
 ### L
+- [Lensati](Topics/Characters/Families/Lensati.md)
 - [Lhue](Topics/Nature/Herbarium/List/Lhue.md)
 - [Lotua](Topics/Nature/Herbarium/List/Lhue.md)
 - [Lovrem Vantasi](Topics/Characters/List/Vantasi_Lovrem.md)

@@ -26,16 +26,18 @@ residence and additional fortification.
 In 917 NE, governor **Heimlig Naevos** recommended building of airship port, which is estimated to
 be finished in year 925 NE.
 
-**TOWNS**
+### TOWNS
 - [Evros](Cities/Evros.md)
 - Waine
 - [Nyme](Cities/Nyme.md)
 
-**PLACES**
+### PLACES
 - Gorthal Stronghold
 - Fields
+- Lensati Farm `lavender farms south of Waine`
 
-**TIMETABLE**
+### TIMETABLE
+- [Guilds of Ansur Isle](/Loreum/Topics/Guilds/Ansur_Guilds.md)
 - [Timetable of Ansur Isle](/Loreum/Topics/History/New_Era_Ansur.md)
 
 ---
@@ -57,4 +59,9 @@ be finished in year 925 NE.
 
 ---
 ♜♢✥ + add name to name list + 326 NE into **history** + links to locations and people  
+Also, when we would create Norran's page, or expand over the independency part of history, it
+would be useful to bring ATG's support to it and Norran's rule - this will forge the now-everlasting
+relationship between ATG and Ansur's government  
+Would be also cool to make separate section that talks a bit about landscapes/climate, probably
+before the history, just so it's easier to envision the island  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Moon_Continent/East_Moon.md)
