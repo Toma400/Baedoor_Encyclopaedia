@@ -33,16 +33,17 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 
 ### TOWNS
 #### Baedoor Region
+- Ciroaun
 - Dallaim
-- Quinaet
-- Follori
 - [Fegar](Baedoor/Cities/Fegar.md)
-- Vain
+- Follori
+- Gallen `reference to Revenorror's -Galen- orcish name`
 - Perois
+- Quinaet
+- Vain
 - Lagrit
 - Kedalan `Kedalet on old map`
 - Gaernan `Antaqua on old map`
-- Elleat
 - Averion `Avierion on old map`
 - Norequat
 - Kelvos
@@ -89,12 +90,50 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 
 ### VILLAGES
 #### Baedoor
+- Allenron
+- Bergenol
+- Cender
+- Desdais
+- Durreser `old nomathian village, shared -ser suffix with Merriser`
+- Ennouleon
+- Elleat
+- Ellint
+- Ergont
+- Galdiam
+- Girnet
+- Hlomarat `old nomathian village`
+- Homertan `old nomathian village, known earlier as Homertom`
+- Idosis
+- Igrot `old nomathian village`
 - Kennusa
-- Lepom
-- Tilliquati
-- Tenki
+- Killinis
+- Leban
 - Leftet
+- Lepom
+- Lonton
+- Marraveg `old nomathian village`
+- Meanni
+- Mellegot
+- Merriser `old nomathian village, shared -ser suffix with Durreser`
+- Milkhit `old nomathian village`
+- Morghol `old nomathian village`
+- Mornan
+- Nouvanos
+- Orisea
+- Osceolan
+- Pallam
+- Pnaesa
+- Pelsi
+- Puis
+- Rabaekan `cameo of my hometown, Rabka`
+- Rouvais
+- Sugen
+- Tenki
 - Terrebon `old nomathian village`
+- Tilliquati
+- Veksi
+- Vermon `shared -ver- with Vert/Vershaton (vaer?)`
+- Vert `old nomathian village`
 - Anlesat `Aqluzar on old map`
 - Hogrot `old nomathian village`
 - Virann
@@ -111,20 +150,17 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Lisit
 - Agsat `old nomathian village`
 - Ortiris
-- Leban
 - Naem `Nyem on old map`
 - Adavalen
 - Nillat
 - Takrim
 - Sannon
 - Amnus
-- Marraveg `old nomathian village`
 - Eregas
 - Tilquit
 - Mivil
 - Vorot `old nomathian village`
 - Nusori `shared -nus- with Kennusa, if we would like to use it`
-- Monnan
 - Nekaer
 - Kiria
 - Heros
@@ -143,15 +179,19 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Mavat
 
 #### Rakonnd Coast
-- Sigrat `old nomathian village`
-- Tanaeget `bae-nomathian`
+- Brennen
+- Likannes
 - Otean
 - Naris
-- Likannes
-- Gallen `reference to Revenorror's -Galen- orcish name`
+- Sigrat `old nomathian village`
+- Tanaeget `bae-nomathian`
 
 #### Vershaton
 - Laesalis
+- Pavann
+- Redorrom `old nomathian village`
+- Surennen
+- Tvisgis `old nomathian village`
 - Analloi
 - Mardom `old nomathian village, now semi-ruined due to goblin raids`
 - Lakavut
@@ -192,7 +232,7 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
   - words usually flow between single vowels and consonants
   - some consonants can repeat (`nn`, `rr`, `ee`, `oo`, `ll`) `shouldn't -rr- be nomathian influence?`
   - `qu` is rare and likely nomathian-influenced form of `u` (unsure? maybe `k`/`gh` origin?)
-  - repeated suffixes are rare, but exist (`-on`)
+  - repeated suffixes are rare, but exist (`-on`, `-is`)
 - Nomaths
   - `g` is unique and popular, often used at the end or in combination as `gh`
   - `h` is used, but rather rare

@@ -26,7 +26,7 @@ in alphabetical order:
   - words usually flow between single vowels and consonants
   - some consonants can repeat (`nn`, `rr`, `ee`, `oo`, `ll`) `shouldn't -rr- be nomathian influence?`
   - `qu` is rare and likely nomathian-influenced form of `u` (unsure? maybe `k`/`gh` origin?)
-  - repeated suffixes are rare, but exist (`-on`)
+  - repeated suffixes are rare, but exist (`-on`, `-is`)
 
 ### Nomathians (baedoorian)
   - `g` is unique and popular, often used at the end or in combination as `gh`
