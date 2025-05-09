@@ -96,78 +96,79 @@ being part of it. This also let it be treated more lightly during Baedoor occupa
 - Oin Mountain `turned into name of the forest, it fits it better imo`
 
 ## -- New Planning ---
-### TOWNS
+### TOWNS & CITIES
 #### Kaerians
-- Ranirsis
 - Moricur
-- [Ortaver](Kaer/Cities/Ortaver.md) `Detemardir is old erdic name`
 - Neghdit
-- Rolsale `ruined baedoorian city north-west of Ranirsis, with little woodsmen village built nearby`
+- [Ortaver](Kaer/Cities/Ortaver.md) `Detemardir is old erdic name`
+- Ranirsis
 - Retevet `on Ehaet`
+- Rolsale `ruined baedoorian city north-west of Ranirsis, with little woodsmen village built nearby`
+- Tavhagot
 #### Kehts
-- [Dahekhris](Kaer/Cities/Dahekhris.md)
 - Carion
-- Phyr
-- Vartrekh
+- Cortedar
+- [Dahekhris](Kaer/Cities/Dahekhris.md)
 - Khar Ia `Kar Ia on Kartograf map`
+- Phyr
+- Sekhra `Secra on Kartograf map`
+- Vartrekh
 #### Erds
+- Atakil
 - Bristeldir
 - Cataris
-- Atakil
+- Irane
+- Liteil
+- Miris
 - Sanaran
-#### [Kacari](Kaer/Kacari.md)
+#### Islands
+- [Disanteldir](Kaer/Cities/Disanteldir.md)
 - Roda
 - Kananea `rename to Near? per "english-like names are funny" and the fact Kananea exists irl`
-#### [Disane](Kaer/Disane.md)
-- [Disanteldir](Kaer/Cities/Disanteldir.md)
 ### VILLAGES
 #### Kaerians
 - Ardhaved
 - Detesset `baedoorian origin`
-- Nivdit
-- Kernat `Kerna on Kartograf map, north-east of Neghdit`
-- Savaher
-- Tavhagot
-- Hemantir
 - Govarat
+- Hemantir
+- Kernat `Kerna on Kartograf map, north-east of Neghdit`
 - Nihavir
+- Nivdit
+- Savaher
 #### Kehts
-- Ekhalat `ekhalad? to make it more kehtic in name; I love ekhalat though and there's vartrekh`
-- Sekhra `Secra on Kartograf map`
-- Elur `Eluva on Kartograf map`
-- Varkhil `Pharkil on Kartograf map`
-- Karg
-- Vidis
-- Nepekh
 - Eldril
-- Vaktad
-- Rekherad
-- Mehredirit
-- Cortedar
+- Elur `Eluva on Kartograf map`
+- Ekhalat `ekhalad? to make it more kehtic in name; I love ekhalat though and there's vartrekh`
+- Karg
 - Khedaris
+- Mehredirit
+- Nepekh
+- Rekherad
 - Takharit
+- Vaktad
+- Varkhil `Pharkil on Kartograf map`
+- Vidis
 #### Erds
-- Liteil
 - Arinis `Atryhian on Kartograf map`
-- Ninnan
-- Miris
-- Irane
 - Kemsan
+- Ninnan
 - [Tinanat](Kaer/Cities/Tinanat.md)
 - Ranadir `ruined`
-#### Kacari
+#### Islands
 - Anoan
 - Anoltan `ruined`
 ### LANDSCAPES
-- Nemori Mountains `the main chain` `Enkgit in kaerian`
-- Misavor Mountains `northern split of the chain`
-- Har Mountains `kehtic`
-- Mavsvi River `the main, leading to delta`
+- Mountains
+  - Nemori Mountains `the main chain` `Enkgit in kaerian`
+  - Misavor Mountains `northern split of the chain`
+  - Har Mountains `kehtic, stands for 'Black Mountains'`
 - Mikhyat `delta`
-- Eckhag Forest `nomathian side of southern forest | kh, yet g.. in one of my bad readings it also ended with -t, making it fully kehtic at least | 'eghad' would be kaeric`
-- Hvernom Forest `northern forest`
-- Marane Forest `southern side of southern forest`
+- Forests
+  - Eckhag Forest `nomathian side of southern forest | kh, yet g.. in one of my bad readings it also ended with -t, making it fully kehtic at least | 'eghad' would be kaeric`
+  - Hvernom Forest `northern forest`
+  - Marane Forest `southern side of southern forest`
 - Rivers
+  - Mavsvi River `the biggest one, leading to delta`
   - Neverat `through Hvernom forest`
   - Saroma `one going through Atakil`
   - Roisuri `one going near Cataris towards in between Phyr and Bristeldir`
@@ -187,10 +188,11 @@ being part of it. This also let it be treated more lightly during Baedoor occupa
     - Uktir `the northest one`
     - Manel `small, south of Uktir`
     - Asladil `southest, near Sanaran`
-- Mesaul Mountains `west range on Kacari`
-- Lemeris Mountains `east range on Kacari`
-- Dair River `the river going south of Temple, out of Mesaul`
-- Oin Forest `forest south of Roda`
+- Kacari
+  - Mesaul Mountains `west range on Kacari`
+  - Lemeris Mountains `east range on Kacari`
+  - Dair River `the river going south of Temple, out of Mesaul`
+  - Oin Forest `forest south of Roda`
 
 ### General Naming Schemes
 - Kehts

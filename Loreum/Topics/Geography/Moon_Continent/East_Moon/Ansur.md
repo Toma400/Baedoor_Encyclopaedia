@@ -26,7 +26,7 @@ residence and additional fortification.
 In 917 NE, governor **Heimlig Naevos** recommended building of airship port, which is estimated to
 be finished in year 925 NE.
 
-### TOWNS
+### SETTLEMENTS
 - [Evros](Cities/Evros.md)
 - Waine
 - [Nyme](Cities/Nyme.md)

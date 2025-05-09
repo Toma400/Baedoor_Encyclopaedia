@@ -18,6 +18,7 @@ including dictionaries and walkthrough through languages logic.
 ---
 ## <center>Regular languages</center>
 ### [⛩️ Erdis](List/Erdis.md)
+### [⛩️ Kehtic](List/Kehtic.md)
 
 ---
 ## <center>Old languages</center>

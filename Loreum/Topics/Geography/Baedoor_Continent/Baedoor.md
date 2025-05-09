@@ -12,171 +12,171 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 ### CITIES
 #### Baedoor Region
 - [Baedoor](Baedoor/Cities/Baedoor.md)
-- [Isuga](Baedoor/Cities/Isuga.md)
 - [Dvickhet](Baedoor/Cities/Dvickhet.md)
+- Fressi
+- [Isuga](Baedoor/Cities/Isuga.md)
+- Ontero
 - Sargin
 - Quarius
-- Ontero
-- Fressi
 
 #### Rakonnd Coast
-- [Skirran](Baedoor/Cities/Skirran.md)
 - Latareg `old nomathian city`
+- [Skirran](Baedoor/Cities/Skirran.md)
 
 #### Vershaton
 - [Alkaesar](Baedoor/Cities/Alkaesar.md)
 - [Morpat](Baedoor/Cities/Morpat.md)
 - Nahsig `Nejir on old map` `(nomathian)`
-- [Thanbyan](Baedoor/Cities/Thanbyan.md)
 - Pervesi
+- [Thanbyan](Baedoor/Cities/Thanbyan.md)
 - Velkmag `Velkmance on old map` `(nomathian)`
 
 ### TOWNS
 #### Baedoor Region
+- Averion `Avierion on old map`
+- Braeven
 - Ciroaun
 - Dallaim
+- Delleret
+- Enbron
+- Esbor
 - [Fegar](Baedoor/Cities/Fegar.md)
 - Follori
 - Gallen `reference to Revenorror's -Galen- orcish name`
+- Gaernan `Antaqua on old map`
+- Geveaut
+- Haeran `Xerios on old map, moved to Heros village`
+- Heraille
+- Kedalan `Kedalet on old map`
+- Kelvos
+- Lagrit
+- Lancres `Disc World reference, from Lancre`
+- Larain `Larains on old map - 's' removed to differentiate from Learens`
+- Leont
+- Maranon `Maranan on old map`
+- Nawell
+- Norequat
+- Perisul `Pexisul on old map`
 - Perois
 - Quinaet
-- Vain
-- Lagrit
-- Kedalan `Kedalet on old map`
-- Gaernan `Antaqua on old map`
-- Averion `Avierion on old map`
-- Norequat
-- Kelvos
-- Esbor
-- Tanean `Tuqogan on old map`
 - Rinnes
-- Maranon `Maranan on old map`
-- Tallamit
-- Silevat
-- Lancres `Disc World reference, from Lancre`
-- Delleret
-- Heraille
-- Braeven
-- Taroun
-- Geveaut
-- Perisul `Pexisul on old map`
-- Enbron
-- Haeran `Xerios on old map, moved to Heros village`
-- Leont
 - Ristat
-- Nawell
-- Larain `Larains on old map - 's' removed to differentiate from Learens`
+- Silevat
+- Tallamit
+- Tanean `Tuqogan on old map`
+- Taroun
+- Vain
 
 #### Rakonnd Coast
 - Angadis `Angidinis on old map, "formerly Angides" as an origin for Angidinis?`
 - Badainon
-- Roverret `old nomathian town`
 - Daum `Danum on old map; this town needs Disco Elysium plot somewhere there`
 - Onsen `Ynsen on old map`
+- Roverret `old nomathian town`
 
 #### Vershaton
-- Moranant
-- Girnes
-- Vaerter `'vaer' used`
 - Abotis `Abo on old map`
 - Cantodar `Cantodus on old map`
-- Tessetes `Teccetes on old map`
-- Viseg `Viscocus on old map` `old nomathian town`
 - Arindun `Arindusc on old map`
-- Tanses
-- Leinon
-- Oviscul `Ovisculi on old map`
+- Girnes
 - Learens `Leorrallens on old map`
+- Leinon
+- Moranant
+- Oviscul `Ovisculi on old map`
+- Tanses
+- Tessetes `Teccetes on old map`
+- Vaerter `'vaer' used`
+- Viseg `Viscocus on old map` `old nomathian town`
 
 ### VILLAGES
 #### Baedoor
+- Adavalen
+- Agsat `old nomathian village`
+- Aksit
+- Albrun
 - Allenron
+- Amnus
+- Anlesat `Aqluzar on old map`
+- Atoros
 - Bergenol
 - Cender
 - Desdais
+- Dourrom `old nomathian village`
 - Durreser `old nomathian village, shared -ser suffix with Merriser`
-- Ennouleon
+- Egrom `old nomathian village`
 - Elleat
 - Ellint
+- Ennouleon
+- Eregas
 - Ergont
 - Galdiam
 - Girnet
+- Heros
 - Hlomarat `old nomathian village`
+- Hogrot `old nomathian village`
 - Homertan `old nomathian village, known earlier as Homertom`
 - Idosis
 - Igrot `old nomathian village`
+- Illos
+- Innaequit `shares -quit- with Tilquit, if we would like to use it`
+- Iplas
 - Kennusa
 - Killinis
+- Kiria
 - Leban
+- Ledavon
+- Leferim
 - Leftet
+- Lekset
 - Lepom
+- Leurat
+- Lisit
 - Lonton
+- Lunnaet
+- Madais
 - Marraveg `old nomathian village`
+- Mavat
 - Meanni
-- Mellegot
+- Mellegot `old nomathian village`
 - Merriser `old nomathian village, shared -ser suffix with Durreser`
 - Milkhit `old nomathian village`
+- Mivil
 - Morghol `old nomathian village`
 - Mornan
+- Naem `Nyem on old map`
+- Narak `old nomathian village`
+- Navillat
+- Nekaer
+- Nillat
 - Nouvanos
+- Nusori `shared -nus- with Kennusa, if we would like to use it`
 - Orisea
+- Ortiris
 - Osceolan
 - Pallam
 - Pnaesa
 - Pelsi
 - Puis
 - Rabaekan `cameo of my hometown, Rabka`
+- Raska `nudge to PTR old name of Rachav village`
 - Rouvais
+- Sagitta
+- Salakut
+- Sannon
 - Sugen
+- Takrim
+- Taraghat `old nomathian village`
+- Telvetes
 - Tenki
 - Terrebon `old nomathian village`
 - Tilliquati
+- Tilquit
 - Veksi
+- Veragt `old nomathian village`
 - Vermon `shared -ver- with Vert/Vershaton (vaer?)`
 - Vert `old nomathian village`
-- Anlesat `Aqluzar on old map`
-- Hogrot `old nomathian village`
 - Virann
-- Leurat
-- Iplas
-- Ledavon
-- Narak `old nomathian village`
-- Illos
-- Sagitta
-- Salakut
-- Lunnaet
-- Atoros
-- Taraghat `old nomathian village`
-- Lisit
-- Agsat `old nomathian village`
-- Ortiris
-- Naem `Nyem on old map`
-- Adavalen
-- Nillat
-- Takrim
-- Sannon
-- Amnus
-- Eregas
-- Tilquit
-- Mivil
 - Vorot `old nomathian village`
-- Nusori `shared -nus- with Kennusa, if we would like to use it`
-- Nekaer
-- Kiria
-- Heros
-- Leferim
-- Telvetes
-- Innaequit `shares -quit- with Tilquit, if we would like to use it` 
-- Egrom `old nomathian village`
-- Aksit
-- Veragt `old nomathian village`
-- Navillat
-- Dourrom `old nomathian village`
-- Albrun
-- Madais
-- Lekset
-- Raska `nudge to PTR old name of Rachav village`
-- Mavat
 
 #### Rakonnd Coast
 - Brennen
@@ -187,31 +187,33 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Tanaeget `bae-nomathian`
 
 #### Vershaton
+- Analloi
+- Entillar
+- Evirom
+- Illavis
+- Kasit
 - Laesalis
+- Lakavut
+- Leriat
+- Mardom `old nomathian village, now semi-ruined due to goblin raids`
+- Noptat `old nomathian village`
+- Nourais
 - Pavann
 - Redorrom `old nomathian village`
-- Surennen
-- Tvisgis `old nomathian village`
-- Analloi
-- Mardom `old nomathian village, now semi-ruined due to goblin raids`
-- Lakavut
-- Noptat `old nomathian village`
-- Evirom
-- Nourais
-- Kasit
 - Sunem
-- Leriat
-- Entillar
+- Surennen
 - Tagarom `nomathian`
-- Illavis
+- Tvisgis `old nomathian village`
 
 ### LANDSCAPES
 - Islands
   - [Tesni](Baedoor/Lands/Tesni.md) `island south of Baedoor, holding Quinaet`
 - Forests
-  - Varran Forest
   - Coonhe Forest `?: Konheg Forest (nomathian)`
   - Narvaen Forest
+  - Varran Forest
+- Mountains
+  - Vershaton Mountains
 - Asveen Depths `?: Asven or Asvaen`
 - Vershaton Vulcano `v`
 - Oarien Pass `v`
