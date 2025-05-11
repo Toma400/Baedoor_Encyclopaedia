@@ -32,12 +32,13 @@ may also visit [cultures page](Cultures.md).
 
 ### Creature races
 ####   🔹 [Goblins](Races/Creature/Goblins.md)
+####   🔹 [Kaikhi](Races/Creature/Kaikhi.md)
 ####   🔹 [Stheyr](Races/Creature/Stheyr.md)
 ####   🔹 [Uruati](Races/Creature/Uruati.md)
 ####   🔹 [Serpent Race]
 ####   🔹 [Werewolf Race] `see cultures doc`
 ####   🔹 [Minotaur Race]
-####   🔹 Talaaxi `Ixathei apes`
+####   🔹 [Talaaxi](Races/Creature/Talaaxi.md) `Ixathei apes`
 ####   🔹 [Cthulhu-Likes] `see cultures doc`
 
 ### Spiritual races

@@ -73,7 +73,8 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### G
 - [Ghlodds](Topics/Races/Regular/Ghlodds.md) (race)
 - [Ghlodds](Topics/Cultures/Ghlodds/[Culture].md) (culture)
-- [Goblins](Topics/Races/Creature/Goblins.md)
+- [Goblins](Topics/Races/Creature/Goblins.md) (race)
+- [Goblins](Topics/Cultures/Goblins_Kaer/[Culture].md) (culture, Kaer)
 - [Golden Lighthouse of Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
 - [Great Baedoorian Railroad](Topics/Geography/Baedoor_Continent/Baedoor/Places/Great_Baedoorian_Railroad.md)
 - [Guild of Adventurers](Topics/Guilds/List/Alkaesar_Adventurers_Guild.md) (Alkaesar/Morpat)
@@ -102,6 +103,8 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Kacari](Topics/Geography/Baedoor_Continent/Kaer/Kacari.md)
 - [Kaer](Topics/Geography/Baedoor_Continent/Kaer.md)
 - [Kaerian](Topics/Cultures/Kaerians/[Culture].md)
+- [Kaikhi](Topics/Races/Creature/Kaikhi.md) (race)
+- [Kaikhi](Topics/Cultures/Kaikhi/[Culture].md) (culture)
 - [Kalvhyk](Topics/Nature/Foods/List/Kalvhyk.md)
 - [Kehts](Topics/Races/Regular/Kehts.md) (race)
 - [Kehts](Topics/Cultures/Kehts/[Culture].md) (culture)
@@ -165,6 +168,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Stheyr](Topics/Races/Creature/Stheyr.md)
 
 ### T
+- [Talaaxi](Topics/Races/Creature/Talaaxi.md)
 - [Temple of I'si](Topics/Religions/Small/Temple_of_I'si.md)
 - [Temple of the Wheel](Topics/Factions/List/Temple_of_the_Wheel.md)
 - [Terrean Savannah](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Terrean_Savannah.md)

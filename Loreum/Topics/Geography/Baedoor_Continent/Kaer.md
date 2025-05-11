@@ -110,7 +110,7 @@ being part of it. This also let it be treated more lightly during Baedoor occupa
 - Cortedar
 - [Dahekhris](Kaer/Cities/Dahekhris.md)
 - Khar Ia `Kar Ia on Kartograf map`
-- Phyr
+- Phyr `built by erds as Aaktet, renamed by kehts after erdic-kehtic war general`
 - Sekhra `Secra on Kartograf map`
 - Vartrekh
 #### Erds
