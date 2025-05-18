@@ -5,10 +5,10 @@ They are heavily intelligent, combining their technological achievements with fo
 nature, building constructions and tools that let them rather integrate with environment than 
 separate themselves from it.  
 Talaaxi have established great connection with creatures and are skilled with taming them, using
-for various purposes. The art of taming is very personal, as creatures are also seen by Talaaxi
-as equal beings who are a link to gods, meaning the whole process is very personal. The deities
-of Talaaxi have also a lot of features derived from local creatures, most notably birds. The religion
-itself is somewhat formal, but also colourful, expressive and have ascensive manner.
+for various purposes. The art of taming is very individual, as creatures are also seen by Talaaxi
+as equal beings who are a link to gods, meaning the whole process holds personal significance.
+The deities of Talaaxi have also a lot of features derived from local creatures, most notably birds.
+The religion itself is somewhat formal, but also colourful, expressive and has ascensive manner.
 
 They are rather proud, which can be seen through their monumental architecture. In their native
 areas ancient dams, viaducts and gardens can be found, maintained for centuries since their
