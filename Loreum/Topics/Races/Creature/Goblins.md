@@ -1,5 +1,9 @@
 # 💮 Goblins
 
+| ![](/Assets/Races/goblin_kaikhi_tammi.jpg) |
+|:------------------------------------------:|
+|   Goblin depicted by Tammilisäke (left)    |
+
 <table>
     <tr>
         <td>
@@ -29,7 +33,6 @@ Goblins are primarily split into five groups:
 - kaeric - goblins living in Kaer woods
 
 ### Culture
-
 While seen by many human cultures as creatures or even pests, with primitive culture not worth exploring,
 goblins established quite complex society, art and beliefs.  
 Their culture is isolationist from human, so the idea of "civilising" them often fails. 
@@ -78,7 +81,6 @@ The name of that role comes from stakes that each paler has in their inventory a
 their target.
 
 ### History
-
 Back in Pre Era and early Old Era, goblins from Baedoor Island were living in sort of alliance with
 nomathians. This is main reason of this race having fairly good understanding of human culture
 earned through lots of trades and diplomatic communication.  
@@ -167,7 +169,7 @@ into the wild.
 More things to note (in doc or here, or both):
 - characterisation of each group
 - technology alignment
-- religion, rituals, demons etc.
+- religion, rituals, demons, burials etc.
 - art
 - structure of power and society day-to-day life
 - more on settlements

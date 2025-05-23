@@ -1,14 +1,15 @@
 # 💮 Kaikhi
 
-| ![](/Assets/Races/kaikhi.jpg) |
-|:-----------------------------:|
-|   A sketch of kaikhi's face   |
+| ![](/Assets/Races/goblin_kaikhi_tammi.jpg) | ![](/Assets/Races/kaikhi.jpg) |
+|:------------------------------------------:|:-----------------------------:|
+|   Kaikhi depicted by Tammilisäke (right)   |   A sketch of kaikhi's face   |        
 
 **Kaikhi** is creature race native to southern [Kaer](/Loreum/Topics/Geography/Baedoor_Continent/Kaer.md)
 that built civilisation competitive to goblins with which they shared Marane forest territory.
 
-Their appearance is cream white-grayish, with fur-covered skin covering their bodies. Their face
-have dark gray line, connecting the top of the head with their nose.
+Their appearance depends on region, going from brown to cream white-grayish, with fur-covered 
+skin covering their bodies. Their face have dark gray line, connecting the top of the head with
+their nose.
 
 ### Trivia
 Kaikhi are a replacement to eirtri race that LE mentioned inhabiting Kaer. Having character 
