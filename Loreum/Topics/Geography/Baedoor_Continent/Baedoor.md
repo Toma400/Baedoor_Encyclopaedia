@@ -212,6 +212,7 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
   - Coonhe Forest `?: Konheg Forest (nomathian)`
   - Narvaen Forest
   - Varran Forest
+  - [Amber Forest](Baedoor/Lands/Amber_Forest.md)
 - Mountains
   - Vershaton Mountains
 - Asveen Depths `?: Asven or Asvaen`

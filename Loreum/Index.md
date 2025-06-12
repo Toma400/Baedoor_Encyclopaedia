@@ -14,6 +14,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Allaut, Eduard](Topics/Characters/List/Allaut_Eduard.md)
 - [Allaut, Isehir](Topics/Characters/List/Allaut_Isehir.md)
 - [Altauar](Topics/Geography/Old_Continent/Jitado/Regions/Altauar.md) (region)
+- [Amber Forest](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Amber_Forest.md)
 - [Akad](Topics/Nature/Bestiary/List/Akad.md)
 - [Ansur](Topics/Geography/Moon_Continent/East_Moon/Ansur.md)
 - [Ansur Thieves Guild](Topics/Guilds/List/Ansur_Thieves_Guild.md)
