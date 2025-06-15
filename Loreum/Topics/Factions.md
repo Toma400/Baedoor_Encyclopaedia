@@ -1,4 +1,5 @@
 # ⚜️ Factions
+List of all political factions existing in Baedoor universe.
 
 ---
 ### 🍁 BY ERAS

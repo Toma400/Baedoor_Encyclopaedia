@@ -187,4 +187,6 @@ cities, being Baedoor, Isuga and Skirran.
 📿 [Baedoor Classic](/Mechanicum/Walkthroughs/Baedoor_Classic/Lore/BaeCL_Baedoor.md)
 
 ---
+♜: Calgori University, Baedoor Railroad Enterprise residence, also please try to separate
+the eras of city's development (early OE, late OE, NE)  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor.md)

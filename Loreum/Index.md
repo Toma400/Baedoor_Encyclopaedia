@@ -16,6 +16,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Altauar](Topics/Geography/Old_Continent/Jitado/Regions/Altauar.md) (region)
 - [Amber Forest](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Amber_Forest.md)
 - [Akad](Topics/Nature/Bestiary/List/Akad.md)
+- [Anaurin Ettua](Topics/Characters/List/Ettua_Anaurin.md)
 - [Ansur](Topics/Geography/Moon_Continent/East_Moon/Ansur.md)
 - [Ansur Thieves Guild](Topics/Guilds/List/Ansur_Thieves_Guild.md)
 - [Arennan](Topics/Geography/Baedoor_Continent/Arennan.md) (island)
@@ -28,11 +29,13 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md) (city)
 - [Baedoor](Topics/Geography/Baedoor_Continent.md) (continent)
 - [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor.md) (island)
+- [Baedoor Railroad Enterprise](Topics/Guilds/List/Baedoor_Railroad_Enterprise.md)
 - [Baedoorians](Topics/Cultures/Baedoorians/[Culture].md)
 - [The Blossoming Lavender](Topics/Guilds/List/The_Blossoming_Lavender.md)
 
 ### C
 - [Calgori](Topics/Characters/Families/Calgori.md)
+- [Calgori, Natem](Topics/Characters/List/Calgori_Natem.md)
 - [Cuerven Valley](Topics/Geography/Moon_Continent/East_Moon/Lands/Cuerven_Valley.md)
 
 ### D
@@ -59,6 +62,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Esh Enahr](Topics/Characters/List/Enahr_Esh.md)
 - [Eternal Flame of Avantgarde](Topics/Cultures/Baedoorians/List/Eternal_Flame_of_Avantgarde.md)
 - [Ettua](Topics/Characters/Families/Ettua.md)
+- [Ettua, Anaurin](Topics/Characters/List/Ettua_Anaurin.md)
 - [Evros](Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)
 
 ### F
@@ -130,6 +134,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### N
 - [Naevin Manaut](Topics/Characters/List/Manaut_Naevin.md)
+- [Natem Calgori](Topics/Characters/List/Calgori_Natem.md)
 - [Naven](Topics/Nature/Bestiary/List/Naven.md)
 - [Navikon, Ferves](Topics/Characters/List/Navikon_Ferves.md)
 - [Nerau](Topics/Nature/Bestiary/List/Nerau.md)

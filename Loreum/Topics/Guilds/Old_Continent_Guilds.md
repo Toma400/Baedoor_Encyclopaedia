@@ -2,7 +2,7 @@
 
 ---
 ### 🏯 JITADO
-#### [Starshifters](List/Starshifters.md)
+####   🔹 [Starshifters](List/Starshifters.md)
 
 ---
 ✥♜: lots of guilds missing  

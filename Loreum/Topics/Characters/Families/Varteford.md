@@ -23,5 +23,9 @@ with [Xavier family](Xavier.md).
     </tr>
 </table>
 
+### Members
+####  🔹 [Elea Varteford](/Loreum/Topics/Characters/List/Varteford_Elea.md) (of Abrahk)
+####  🔹 [Tom Varteford](/Loreum/Topics/Characters/List/Varteford_Tom.md)
+
 ---
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🎇](/Loreum/Topics/Characters.md)

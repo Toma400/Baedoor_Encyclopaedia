@@ -1,6 +1,7 @@
 # 🌾 Great Baedoorian Railroad
-First and the longest railroad line. Built by **Baedoor Railroad Enterprise** in 712 OE and became
-the most popular way to travel on longer distances, known for its speed and safety.  
+First and the longest railroad line. Built by [Baedoor Railroad Enterprise](/Loreum/Topics/Guilds/List/Baedoor_Railroad_Enterprise.md)
+in 712 OE and became the most popular way to travel on longer distances, known for its speed and
+safety.  
 
 ### Lines and destinations
 Bolded names designate beginning and end of the line. Smaller lines splitting off are signified

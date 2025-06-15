@@ -4,54 +4,55 @@ Families living by Baedoorian heritage.
 ---
 ### 🕋 EAST BAEDOOR
 
-Alkaesar:
-#### 🔹 [Abrahk](Families/Abrahk.md)
-#### 🔹 vân Buqan
+#### 🔷 Alkaesar
+####   🔹 [Abrahk](Families/Abrahk.md)
+####   🔹 vân Buqan
 
-Baedoor:
-#### 🔹 [Calgori](Families/Calgori.md)
-#### 🔹 Eschat
-#### 🔹 [Ettua](Families/Ettua.md)
-#### 🔹 Flamecoat
-#### 🔹 [Indan](Families/Indan.md)
-#### 🔹 [Kono](Families/Kono.md)
-#### 🔹 Madavel
-#### 🔹 [Varteford](Families/Varteford.md)
-#### 🔹 [Warthog](Families/Warthog.md)
-#### 🔹 [Xavier](Families/Xavier.md)
+#### 🔷 Baedoor
+####   🔹 [Calgori](Families/Calgori.md)
+####   🔹 Eschat
+####   🔹 [Ettua](Families/Ettua.md)
+####   🔹 Flamecoat
+####   🔹 [Indan](Families/Indan.md)
+####   🔹 [Kono](Families/Kono.md)
+####   🔹 Madavel
+####   🔹 [Varteford](Families/Varteford.md)
+####   🔹 [Warthog](Families/Warthog.md)
+####   🔹 [Xavier](Families/Xavier.md)
 
-Dvickhet:
-#### 🔹 [Warthog](Families/Warthog.md)
-#### 🔹 Thargav
-#### 🔹 Maen
+#### 🔷 Dvickhet
+####   🔹 [Warthog](Families/Warthog.md)
+####   🔹 Thargav
+####   🔹 Maen
 
-Isuga:
-#### 🔹 Allaut
-#### 🔹 [Kono](Families/Kono.md)
-#### 🔹 Neerhe
-#### 🔹 Vertilli
-#### 🔹 [Warthog](Families/Warthog.md)
+#### 🔷 Isuga
+####   🔹 Allaut
+####   🔹 [Kono](Families/Kono.md)
+####   🔹 Neerhe
+####   🔹 Vertilli
+####   🔹 [Warthog](Families/Warthog.md)
 
-Ontero:
-#### 🔹 Thon
+#### 🔷 Ontero
+####   🔹 Thon
 
-Quarius:
-#### 🔹 Deom
+#### 🔷 Quarius
+####   🔹 Deom
 
-Sargin:
-#### 🔹 Annon
+#### 🔷 Sargin
+####   🔹 Annon
 
-Skirran:
-#### 🔹 Cerea
-#### 🔹 de Steye
-#### 🔹 Eiron
+#### 🔷 Skirran
+####   🔹 Cerea
+####   🔹 de Steye
+####   🔹 Eiron
 
-Thanbyan:
-#### 🔹 vân Ien
+#### 🔷 Thanbyan
+####   🔹 vân Ien
 
 ### 🕋 ANSUR
-Waine:
-#### 🔹 [Lensati](Families/Lensati.md)
+
+#### 🔷 Waine
+####   🔹 [Lensati](Families/Lensati.md)
 
 ---
 ♜✥

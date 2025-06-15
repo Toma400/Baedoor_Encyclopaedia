@@ -12,15 +12,15 @@ from the rest in unnoted, ancient times. The reason for it is unknown, but some 
 could be a result of some battle, whether between powerful mages or even gods.
 
 ### LANDS
-#####   🔷 [Continental Side](East_Moon/Continental_Side.md)
-#####      🔷 [Cuerven Valley](East_Moon/Lands/Cuerven_Valley.md)
-#####      🔷 Southern Wastelands
-#####         🔷 [Vaerdena](East_Moon/Lands/Vaerdena.md)
+####   🔷 [Continental Side](East_Moon/Continental_Side.md)
+####      🔷 [Cuerven Valley](East_Moon/Lands/Cuerven_Valley.md)
+####      🔷 Southern Wastelands
+####         🔷 [Vaerdena](East_Moon/Lands/Vaerdena.md)
 
 ### ISLANDS
-#####   🔷 [Ansur Isle](East_Moon/Ansur.md)
-#####   🔷 Agoi Archipelago
-#####   🔷 [Nferth Isle](East_Moon/Nferth.md) (Isle of Demons)
+####   🔷 [Ansur Isle](East_Moon/Ansur.md)
+####   🔷 Agoi Archipelago
+####   🔷 [Nferth Isle](East_Moon/Nferth.md) (Isle of Demons)
 
 ### OCEANS
 ####   🔷 Endaic Ocean

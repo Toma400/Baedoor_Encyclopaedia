@@ -69,6 +69,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Joeseh   | East Baedoor        | ⚜️ Rare        | Of jitadian origin                                                         |
 | Kin      | Whole Baedoor       | 🏵️ Semi-rare  |                                                                            |
 | Kirs     | East Baedoor        | ⚜️ Rare        | Of possibly nomath origin                                                  |
+| Levan    | East Baedoor        | 🏵️ Semi-rare  | Popular in OE, less so in NE, of jitadian origin                           |
 | Lovrem   | East Baedoor        | 🔆 Semi-common |                                                                            |
 | Malcolm  | Whole Baedoor       | 🏵️ Semi-rare  |                                                                            |
 | Marvin   | Whole Baedoor       | 🔥 Common      |                                                                            |
@@ -120,8 +121,10 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Isena    | Whole Baedoor | ⚜️ Rare        | Female variant of *Isen* with slight difference from jitadian origin                          |
 | Linn     | Whole Baedoor | ⚜️ Rare        |                                                                                               |
 | Lorat    | Whole Baedoor | 🏵️ Semi-rare  | Commonly used in Old Era, in New Era mostly seen in aristocratic families. Of jitadian origin |
+| Nas      | Whole Baedoor | 🏵️ Semi-rare  | From nomathian Našš                                                                           |
 | Natis    | Whole Baedoor | 🏵️ Semi-rare  | From nomathian Našš                                                                           |
 | Nyvera   | Whole Baedoor | ⚜️ Rare        | Of jitaditan origin, with Nyver as male counterpart                                           |
+| Pat      | Whole Baedoor | 🏵️ Semi-rare  | From nomathian Patrišš, shortened version of Patris                                           |   
 | Patris   | Whole Baedoor | 🏵️ Semi-rare  | From nomathian Patrišš                                                                        |
 | Run      | Whole Baedoor | 🏵️ Semi-rare  |                                                                                               |
 | Sana     | Whole Baedoor | 🔥 Common      | Name originated from Jitado                                                                   |
