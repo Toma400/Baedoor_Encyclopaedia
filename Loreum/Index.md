@@ -111,6 +111,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Kaikhi](Topics/Races/Creature/Kaikhi.md) (race)
 - [Kaikhi](Topics/Cultures/Kaikhi/[Culture].md) (culture)
 - [Kalvhyk](Topics/Nature/Foods/List/Kalvhyk.md)
+- [Karos](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Karos.md)
 - [Kehts](Topics/Races/Regular/Kehts.md) (race)
 - [Kehts](Topics/Cultures/Kehts/[Culture].md) (culture)
 - [Kel Desert](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Kel_Desert.md)
@@ -160,6 +161,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### R
 - [Raliun](Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
+- [Rossevette](Topics/Geography/Baedoor_Continent/Rossevette_Islands.md) (archipelago)
 
 ### S
 - [Saphtri](Topics/Cultures/Tri_Saphtris/[Culture].md) (culture)
