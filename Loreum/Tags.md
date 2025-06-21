@@ -22,6 +22,7 @@ If this section becomes too big, it can be split into linked sections in the fut
 * [Fegar](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Fegar.md)
 * [Ino Anor](Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)
 * [Isuga](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md)
+* [Karos](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Karos.md)
 * [Menerun](Topics/Geography/Old_Continent/Jitado/Cities/Menerun.md)
 * [Morpat](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Morpat.md)
 * [Nyme](Topics/Geography/Moon_Continent/East_Moon/Cities/Nyme.md)
