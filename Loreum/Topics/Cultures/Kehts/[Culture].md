@@ -33,6 +33,33 @@ existence, and so they must obey this forever debt their ancestors imposed on th
 humiliation, self-harm and sacrifices follow on, however in a ways more rational and sensible than
 their goblin kind did, as a heritage of their new, ascended culture.
 
+### The Mask Theatre
+Kehtic religious practices revolve around the monthly mass done in a form of mask theatre.   
+The mask has special meaning for kehtic culture - it is a symbol of connection to spiritual
+world, a relationship with spirits of the land. Mask allows for blessed possession - state 
+where its wearer is being possessed by the spirit, but with trust that taking the mask off 
+will be a command to the spirit to leave their body.  
+It revolves in similar concept as kehtic submission, where the two forces have mutual 
+relationship of respecting their positions and rules.
+
+The mask theatre is societal reflection of that - the actors are chosen by the **Blind Mothers**, 
+spiritual leaders of the area. They are somewhat random, so there are rarely kehts that remain 
+left out for long. Then, the chosen actors take masks, and the performance-trial begins.  
+Actors perform a story, played by spirits that possess them during play. Kehts that were 
+submissive to spirits' will during their recent times trust that they will be played just as 
+actors - as a playful exercise, a story of some dramatic or fun narrative for other kehts to watch.
+
+There's a gamble in here though, as if an actor was against the spirits, the show may be its demise.  
+The spirit may make them insane during play, or may wait for it to the end of it. It may not let
+the actor take the mask off, which is a clearest sign for the community that the keht is in 
+spirit's disfavour.  
+If spirit is merciful, it will let the keht accidentally die during play, for example as a part
+of a play where warriors fight - and so it turns out, the sinful keht is the one meant to be 
+pierced by a sword. If keht was a terrible being or in particular disfavour, it will remain alive
+to the end of the show... and when town see the keht is left with a mask they can't take off, 
+the sacrificial rite will began. Spirit will lead the unfortunate keht to the mass altar, where
+Blind Mothers will sacrifice the sinner to the glory of the spirits.
+
 ### Cultural Topics
 - [🥮 Foods](/Loreum/Topics/Nature/Foods/Kehtic.md)
 

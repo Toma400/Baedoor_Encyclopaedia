@@ -7,6 +7,10 @@ while true:
   let img1s = readLine(stdin)
   echo "Write filename of mask image. Its contents will be cut based on base image."
   let img2s = readLine(stdin)
+  echo "Do you want to keep base image alpha? (y/n)"
+  let img3s = readLine(stdin)
+
+  let keep_alpha = img3s == "y"
 
   try:
      echo "Loading the images..."
@@ -21,10 +25,16 @@ while true:
      let tenth = int(len(img1.data) / 10)
 
      for i1, px in img1.data.mpairs():
-       if px.a == 0:
+       var cl = rgba(px)
+       if cl.a == 0:
          img3.data[i1] = img1.data[i1] # transparent (from base)
        else:
          img3.data[i1] = img2.data[i1] # solid (from mask)
+
+       if keep_alpha:
+         var new = rgba(img3.data[i1])
+         new.a   = cl.a
+         img3.data[i1] = rgbx(new)
 
        let prog = i1 mod tenth
        if prog == 0:

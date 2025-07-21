@@ -31,10 +31,10 @@ List of Houses:
                            artists
 
 ### Cultural Topics
-- [🏯 Architecture](/Loreum/Topics/Cultures/Erds/Architecture.md)
+- [🏯 Architecture](Architecture.md)
 - [💮 Language](/Langue/List/Erdis.md)
 - [㊙️ Names](/Loreum/Topics/Characters/Names/Erds.md)
-- [🧿 Symbolism](/Loreum/Topics/Cultures/Erds/Symbolism.md)
+- [🧿 Symbolism](Symbolism.md)
 
 ### Cultural Elements
 - Games

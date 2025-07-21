@@ -61,6 +61,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Erds](Topics/Cultures/Erds/[Culture].md) (culture)
 - [Esh Enahr](Topics/Characters/List/Enahr_Esh.md)
 - [Eternal Flame of Avantgarde](Topics/Cultures/Baedoorians/List/Eternal_Flame_of_Avantgarde.md)
+- [Etts](Topics/Races/Regular/Etts.md)
 - [Ettua](Topics/Characters/Families/Ettua.md)
 - [Ettua, Anaurin](Topics/Characters/List/Ettua_Anaurin.md)
 - [Evros](Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)

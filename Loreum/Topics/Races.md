@@ -8,7 +8,7 @@ may also visit [cultures page](Cultures.md).
 ####   🔹 [Ormaths](Races/Regular/Ormaths.md)
 ####   🔹 [Kehts](Races/Regular/Kehts.md)
 ####   🔹 Erds
-####   🔹 Etts
+####   🔹 [Etts](Races/Regular/Etts.md)
 ####   🔹 Latoka
 ####   🔹 Naks
 ####   🔹 [Orcs](Races/Regular/Orcs.md)

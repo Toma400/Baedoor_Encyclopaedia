@@ -10,6 +10,8 @@ They live in probably the most varied forms, setting camps and small villages, i
 in caves. Unlike baedoorian ones however, cave settlements do not go particularly deep and are
 used primarily to cover from rain and other dangers.
 
+### Cultural Topics
+- [🧿 Symbolism](Symbolism.md)
 ### Cultural Elements
 - Organisation
   - [Tribe](List/Tribe.md)
