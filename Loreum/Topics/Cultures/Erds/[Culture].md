@@ -32,6 +32,7 @@ List of Houses:
 
 ### Cultural Topics
 - [🏯 Architecture](Architecture.md)
+- [🎭 Art](Art.md)
 - [💮 Language](/Langue/List/Erdis.md)
 - [㊙️ Names](/Loreum/Topics/Characters/Names/Erds.md)
 - [🧿 Symbolism](Symbolism.md)

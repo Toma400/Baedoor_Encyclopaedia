@@ -33,6 +33,21 @@ existence, and so they must obey this forever debt their ancestors imposed on th
 humiliation, self-harm and sacrifices follow on, however in a ways more rational and sensible than
 their goblin kind did, as a heritage of their new, ascended culture.
 
+### Blind Mother
+Every now and then, spirits of the area choose kehts to become **Blind Mothers**. The ways 
+they do it are unknown. Chosen kehts are believed to lose sight, as from now on, the spirit 
+will guide the Blind Mothers with their moves, doings and speak.  
+While the name may retain gender alignment, also male kehts can become a blind mother - it 
+is not a role inherent to kehtic women. The name however is frequently used due to kehtic 
+matriarchy.
+
+Whether Blind Mothers really lose sight is unknown, but they do appear with their eyes closed. 
+It strikes a certain symbolism common throughout both kehtic and erdic cultures, of an eye.   
+For kehts, Blind Mother has eyes both open and closed - she looks into the realm of the flesh, and
+the realm of the spirits.  
+For erds, the eyes are only closed - they look into the past (which they consider a space 
+of spirits), communicating with the Current in a way more subconscious, absent form.
+
 ### The Mask Theatre
 Kehtic religious practices revolve around the monthly mass done in a form of mask theatre.   
 The mask has special meaning for kehtic culture - it is a symbol of connection to spiritual
