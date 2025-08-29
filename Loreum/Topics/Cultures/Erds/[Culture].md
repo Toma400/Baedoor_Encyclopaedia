@@ -30,6 +30,11 @@ List of Houses:
                            their house is also a place of meetings for many lower-to-middle class
                            artists
 
+- **House of Malachite Lantern** - organisation of magical research that does it on relatively
+                                   small scale, but offers apprenticeship with much lower costs
+                                   that University of Illusion; therefore is common destination
+                                   of middle-class citizens
+
 ### Cultural Topics
 - [🏯 Architecture](Architecture.md)
 - [🎭 Art](Art.md)

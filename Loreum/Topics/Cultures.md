@@ -36,10 +36,12 @@ LEGEND:
 ### Baedoor Continent
 - [Baedoorians](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [🚂](Cultures/Baedoorians/Vehicles.md) [💮](/Langue/Families/Baedoorish.md) [㊙️](/Loreum/Topics/Characters/Names/Baedoorian.md)
 - [Erds](Cultures/Erds/[Culture].md) 🔹 [🏯](Cultures/Erds/Architecture.md) [🎭](Cultures/Erds/Art.md) [💮](/Langue/List/Erdis.md) [㊙️](/Loreum/Topics/Characters/Names/Erds.md) [🧿](Cultures/Erds/Symbolism.md)
-- [Goblins](Cultures/Goblins_Kaer/[Culture].md) 🔹 [🧿](Cultures/Goblins_Kaer/Symbolism.md)
+- [Goblins](Cultures/Goblins_Kaer/[Culture].md) (Kaer) 🔹 [🧿](Cultures/Goblins_Kaer/Symbolism.md)
 - [Kaerians](Cultures/Kaerians/[Culture].md) 🔹 [💮](/Langue/Families/Nomathian.md)
 - [Kaikhi](Cultures/Kaikhi/[Culture].md)
 - [Kehts](Cultures/Kehts/[Culture].md) 🔹 [🥮](/Loreum/Topics/Nature/Foods/Kehtic.md)
+- [Pahtris](Cultures/Tri_Pahtris/[Culture].md)
+- [Goblins](Cultures/Goblins_Rossevette/[Culture].md) (Rossevette)
 - [Ormaths](Cultures/Ormaths/[Culture].md)
 - [Saphtris](Cultures/Tri_Saphtris/[Culture].md) 🔹 [⚗️](Cultures/Tri_Saphtris/Technologies.md) [㊙️](/Loreum/Topics/Characters/Names/TriSaphtri.md)
 

@@ -92,6 +92,21 @@
         <th>Location</th>
         <td>Baedoor Isle, near Baedoor city</td>
     </tr>
+    <tr>
+        <th colspan="2">Rossevette</th>
+        <td><b>Source ID:</b> <a href="Sources/L_010_Egypt_Colony.md">L.010:Egypt Colony</a></td>
+    </tr>
+    <tr>
+        <th>Timeframe</th>
+        <td>?</td>
+        <td rowspan="2">
+            🏞️   <a href="Lore/BaeCL_Emerald_Hills.md"> Emerald Hills </a>
+        </td>
+    </tr>
+    <tr>
+        <th>Location</th>
+        <td>?</td>
+    </tr>
 
 </table>
 

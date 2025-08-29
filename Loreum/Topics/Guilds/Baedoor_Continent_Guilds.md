@@ -1,6 +1,13 @@
 # 🕌 Baedoor Continent Guilds
 
 ---
+### 🏯 KACARI
+####   🔹 House of Restoration
+####   🔹 House of Blue Bird
+####   🔹 House of Malachite Lantern
+####   🔹 Roda Navy
+####   🔹 Roda Guards
+
 ### 🏯 ARENNAN
 ####   🔹 [Aerial Pirates](List/Aerial_Pirates.md)
 

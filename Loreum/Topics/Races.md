@@ -2,6 +2,8 @@
 All races appearing in Baedoor universe and beyond. For cultural aspect of them, you
 may also visit [cultures page](Cultures.md).
 
+Skull ☠️ emoji indicates extinct race.
+
 ---
 ### Regular races
 ####   🔹 [Ghlodds](Races/Regular/Ghlodds.md)
@@ -25,7 +27,9 @@ may also visit [cultures page](Cultures.md).
 ####     🔹 Voitri
 ####     🔹 Pahtri
 ####     🔹 Lunatri
+####     🔹 Eirtri ☠️
 ####   🔹 Zhi `should it be race, or rather rejected culture within tri?`
+####   🔹 Ehrs `Seiteh surface race`
 ####   🔹 [Agoians]
 ####   🔹 [Underwater Race, Agoi] `see cultures doc`
 ####   🔹 [Underwater Race, Northern Islands] `see cultures doc`
@@ -33,6 +37,7 @@ may also visit [cultures page](Cultures.md).
 ### Creature races
 ####   🔹 [Goblins](Races/Creature/Goblins.md)
 ####   🔹 [Kaikhi](Races/Creature/Kaikhi.md)
+####   🔹 Luuika
 ####   🔹 [Stheyr](Races/Creature/Stheyr.md)
 ####   🔹 [Uruati](Races/Creature/Uruati.md)
 ####   🔹 [Serpent Race]
@@ -44,11 +49,6 @@ may also visit [cultures page](Cultures.md).
 ### Spiritual races
 ####   🔹 [Tertens](Races/Spirit/Terten.md)
 ####   🔹 [Aev]
-
-### Extinct races
-####   🔹 Ehrs
-####   🔹 Tri
-####     🔹 Eirtri
 
 ---
 ♜✥: links, more races still pending (East Moon, West Moon probably to diversify from too human-centric
