@@ -7,6 +7,7 @@ or just if you would like to look at cultural differences between civilisations.
 - [Baedoorian](Names/Baedoorian.md#names)
 - [Ghloddish](Names/Ghlodds.md#names)
 - [Jitadian](Names/Jitadian.md#names)
+- [Latoka](Names/Latoka.md#names)
 - [Mesinpean](Names/Mesinpean.md#names)
 - [Nomathian](Names/NomathianBae.md#names) (Baedoor)
 - Tric
@@ -19,6 +20,7 @@ or just if you would like to look at cultural differences between civilisations.
 - [Baedoorian](Names/Baedoorian.md#surnames)
 - [Ghloddish](Names/Ghlodds.md)
 - [Jitadian](Names/Jitadian.md#surnames)
+- [Latoka](Names/Latoka.md#surnames)
 - [Mesinpean](Names/Mesinpean.md#surnames)
 - [Nomathian](Names/NomathianBae.md#surnames) (Baedoor)
 - Tric

@@ -104,8 +104,8 @@
   <tr>
     <td>
         As continuation of the bridge, this panel showcases the mine that was made in a cave-like
-        structure under the ground. The gold is excavated by a latoka worker, and on the surface
-        there is a latoka guard.<br>
+        structure under the ground. The gold is excavated by a latoka worker (in data notebook
+        called Antonio), and on the surface there is a latoka guard.<br>
         The interesting part here is note on two gate states - the gate itself is barely seen
         at the beginning of a rail, and looks as a way to protect miner from some danger.
         There's also an entrance to the mine from the surface level, hidden heavily right
@@ -125,6 +125,54 @@
         The landscape feature we see on this panel is most likely a small mountain with a
         pass built underground to travel across it. The only object that tells us anything
         here is the roadsign pointing towards the pass and having "Ascaron" written.
+    </td>
+  </tr>
+
+  <!--PHOTO 9-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 9" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_8.jpg" width="416" height="307" /></td>
+    <th align="centre">Metro</th>
+  </tr>
+  <tr>
+    <td>
+        The panel dives below the mountain area, showcasing the metro-like station. The travel
+        itself is paid with diamond currency, which obviously make sense with diamond generator,
+        but otherwise is a bit surreal idea.<br>
+        I think what this image depicts the best is that latoka weren't opposed to
+        industrialisation and so trains wouldn't be a strange view in their lands. Underground
+        trains could also work as seen on the example.
+    </td>
+  </tr>
+
+  <!--PHOTO 10-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 10" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_9.jpg" width="416" height="307" /></td>
+    <th align="centre">Inarkin House</th>
+  </tr>
+  <tr>
+    <td>
+        As the tunnel ends, the next image opens us to the grassy land with a house sitting
+        as the focal point of the page. Inside it there's a latoka called Inarkin, and according
+        to the panel it is an adventurer - who, as we can assume, settled in.<br>
+        The back of his house has few trees and a hill, making spot for the lake on next page.
+    </td>
+  </tr>
+
+  <!--PHOTO 11-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 11" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_10.jpg" width="416" height="307" /></td>
+    <th align="centre">Lake Siivain</th>
+  </tr>
+  <tr>
+    <td>
+        As we continue the journey further, the panel opens up to the lake which looks like
+        quite sized. Its name is not specified anywhere, so Siivain is made up right now when
+        I archive the place.<br>
+        What is worth noting is also the objects on the other part of the lake - the two
+        tombstones and the portal. The tombstones look fairly generic and bring some obvious
+        irl visual tropes (crosses), but the portal itself is probably a piece of technology
+        so prevalent in notebook that could be transferred in some form to lore. This one
+        teleports you directly to Ascaron if I'm not mistaken.
     </td>
   </tr>
 </table>

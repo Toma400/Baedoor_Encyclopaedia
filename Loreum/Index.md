@@ -81,6 +81,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Ghlodds](Topics/Cultures/Ghlodds/[Culture].md) (culture)
 - [Goblins](Topics/Races/Creature/Goblins.md) (race)
 - [Goblins](Topics/Cultures/Goblins_Kaer/[Culture].md) (culture, Kaer)
+- [Goblins](Topics/Cultures/Goblins_Rossevette/[Culture].md) (culture, Rossevette)
 - [Golden Lighthouse of Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
 - [Great Baedoorian Railroad](Topics/Geography/Baedoor_Continent/Baedoor/Places/Great_Baedoorian_Railroad.md)
 - [Guild of Adventurers](Topics/Guilds/List/Alkaesar_Adventurers_Guild.md) (Alkaesar/Morpat)
@@ -120,6 +121,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Kono](Topics/Characters/Families/Kono.md)
 
 ### L
+- [Latoka](Topics/Cultures/Latoka/[Culture].md) (culture)
 - [Lensati](Topics/Characters/Families/Lensati.md)
 - [Lhue](Topics/Nature/Herbarium/List/Lhue.md)
 - [Lotua](Topics/Nature/Herbarium/List/Lhue.md)
@@ -158,6 +160,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Oververse](Topics/World_Mechanics/Oververse.md)
 
 ### P
+- [Pahtri](Topics/Cultures/Tri_Pahtris/[Culture].md) (culture)
 - [Plate Lizard](Topics/Nature/Bestiary/List/Plate_Lizard.md)
 
 ### R

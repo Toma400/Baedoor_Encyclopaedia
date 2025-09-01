@@ -63,6 +63,24 @@
             <img alt="Egypt Colony Archives, Photo 8" height="280" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_7.jpg" width="416"/>
         </td>
     </tr>
+    <tr>
+        <td align="center">9</td>
+        <td>
+            <img alt="Egypt Colony Archives, Photo 9" height="280" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_8.jpg" width="416"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">10</td>
+        <td>
+            <img alt="Egypt Colony Archives, Photo 10" height="280" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_9.jpg" width="416"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">11</td>
+        <td>
+            <img alt="Egypt Colony Archives, Photo 11" height="280" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_10.jpg" width="416"/>
+        </td>
+    </tr>
 </table>
 
 ---
