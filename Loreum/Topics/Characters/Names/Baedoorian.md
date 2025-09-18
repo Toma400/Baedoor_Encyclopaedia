@@ -18,6 +18,8 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Algor    | Whole Baedoor       | 🔥 Common      |                                                                            |
 | Altiner  | Whole Baedoor       | 🏵️ Semi-rare  | More popular in OE                                                         |
 | Anaurin  | Whole Baedoor       | 🏵️ Semi-rare  | More popular in OE                                                         |
+| Anton    | Whole Baedoor       | 🔆 Semi-common |                                                                            |
+| Antonio  | Whole Baedoor       | 🔆 Semi-common | Derived from Anton                                                         |
 | Arentras | East Baedoor        | 🔥 Common      | Common name in Old Era, of jitadish origin                                 |
 | Argin    | Whole Baedoor       | ⚜️ Rare        | Of jitadian origin                                                         |
 | Bromor   | East Baedoor        | 🏵️ Semi-rare  | Probably with nomathian origins or influences                              |

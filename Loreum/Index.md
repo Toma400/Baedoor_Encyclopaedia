@@ -19,8 +19,10 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Anaurin Ettua](Topics/Characters/List/Ettua_Anaurin.md)
 - [Ansur](Topics/Geography/Moon_Continent/East_Moon/Ansur.md)
 - [Ansur Thieves Guild](Topics/Guilds/List/Ansur_Thieves_Guild.md)
+- [Apta](Topics/Races/Regular/Apta.md) (race)
 - [Arennan](Topics/Geography/Baedoor_Continent/Arennan.md) (island)
 - [Arennan](Topics/Cultures/Baedoorians/Vehicles/Arennan.md) (ship)
+- [Ascaron](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Ascaron.md)
 - [Ash Veil](Topics/Nature/Herbarium/List/Ash_Veil.md)
 - [Avani, Si](Topics/Characters/List/Avani_Si.md)
 - [Azure Archipelago](Topics/Geography/Azure_Archipelago.md)
@@ -61,7 +63,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Erds](Topics/Cultures/Erds/[Culture].md) (culture)
 - [Esh Enahr](Topics/Characters/List/Enahr_Esh.md)
 - [Eternal Flame of Avantgarde](Topics/Cultures/Baedoorians/List/Eternal_Flame_of_Avantgarde.md)
-- [Etts](Topics/Races/Regular/Etts.md)
+- [Etts](Topics/Cultures/LatokaEtts/[Culture].md)
 - [Ettua](Topics/Characters/Families/Ettua.md)
 - [Ettua, Anaurin](Topics/Characters/List/Ettua_Anaurin.md)
 - [Evros](Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)
@@ -161,6 +163,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### P
 - [Pahtri](Topics/Cultures/Tri_Pahtris/[Culture].md) (culture)
+- [Peace Treaty](Topics/History/List/Varteford_Peace_Treaty.md) (1018 OE)
 - [Plate Lizard](Topics/Nature/Bestiary/List/Plate_Lizard.md)
 
 ### R
@@ -209,6 +212,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Varteford](Topics/Characters/Families/Varteford.md)
 - [Varteford, Elea](Topics/Characters/List/Varteford_Elea.md)
 - [Varteford, Tom](Topics/Characters/List/Varteford_Tom.md)
+- [Varteford's Peace Treaty](Topics/History/List/Varteford_Peace_Treaty.md)
 - [Veno Edran](Topics/Cultures/Baedoorians/Vehicles/Veno_Edran.md)
 - [Vulcanic Veil](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
 

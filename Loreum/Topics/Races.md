@@ -6,11 +6,11 @@ Skull ☠️ emoji indicates extinct race.
 
 ---
 ### Regular races
+####   🔹 [Apta](Races/Regular/Apta.md) `partially elemental`
 ####   🔹 [Ghlodds](Races/Regular/Ghlodds.md)
 ####   🔹 [Ormaths](Races/Regular/Ormaths.md)
 ####   🔹 [Kehts](Races/Regular/Kehts.md)
 ####   🔹 Erds
-####   🔹 [Etts](Races/Regular/Etts.md)
 ####   🔹 Latoka
 ####   🔹 Naks
 ####   🔹 [Orcs](Races/Regular/Orcs.md)
@@ -23,12 +23,13 @@ Skull ☠️ emoji indicates extinct race.
 ####     🔹 Islanders `Serpent Islands, Jitado`
 ####     🔹 Lunanians
 ####   🔹 Tri
-####     🔹 [Saphtri](Races/Regular/TriSaphtri.md)
-####     🔹 Voitri
-####     🔹 Pahtri
-####     🔹 Lunatri
-####     🔹 Eirtri ☠️
-####   🔹 Zhi `should it be race, or rather rejected culture within tri?`
+####     🔹 Zhi
+####     🔹 Lunatri (Western Tri)
+####     🔹 Eirtri (Eastern Tri)
+####       🔹 [Saphtri](Races/Regular/TriSaphtri.md) `desert tri, adopted yellow skin`
+####       🔹 Voitri `dark tri, cursed by Lainaltu`
+####       🔹 Pahtri `lower tri, of race mixing with goblins/latoka`
+####       🔹 Western Eirtri ☠️ `silver-skinned tri`
 ####   🔹 Ehrs `Seiteh surface race`
 ####   🔹 [Agoians]
 ####   🔹 [Underwater Race, Agoi] `see cultures doc`
@@ -45,6 +46,9 @@ Skull ☠️ emoji indicates extinct race.
 ####   🔹 [Minotaur Race]
 ####   🔹 [Talaaxi](Races/Creature/Talaaxi.md) `Ixathei apes`
 ####   🔹 [Cthulhu-Likes] `see cultures doc`
+
+### Elemental races
+####   🔹 [Apta](Races/Regular/Apta.md) `partially regular`
 
 ### Spiritual races
 ####   🔹 [Tertens](Races/Spirit/Terten.md)

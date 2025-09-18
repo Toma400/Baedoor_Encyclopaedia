@@ -105,7 +105,8 @@
     <td>
         As continuation of the bridge, this panel showcases the mine that was made in a cave-like
         structure under the ground. The gold is excavated by a latoka worker (in data notebook
-        called Antonio), and on the surface there is a latoka guard.<br>
+        called Antonio, which sounds like baedoorian name, probably of mixed marriage), and 
+        on the surface there is a latoka guard.<br>
         The interesting part here is note on two gate states - the gate itself is barely seen
         at the beginning of a rail, and looks as a way to protect miner from some danger.
         There's also an entrance to the mine from the surface level, hidden heavily right
@@ -173,6 +174,46 @@
         irl visual tropes (crosses), but the portal itself is probably a piece of technology
         so prevalent in notebook that could be transferred in some form to lore. This one
         teleports you directly to Ascaron if I'm not mistaken.
+    </td>
+  </tr>
+
+  <!--PHOTO 12-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 12" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_11.jpg" width="416" height="307" /></td>
+    <th align="centre">The Spire</th>
+  </tr>
+  <tr>
+    <td>
+        This next panel in fact showcases what would be more of a sudden mountain that ends on the
+        same page. Whatever it is, it was meant to showcase some sort of mechanism - a trait very
+        much characterising latoka.<br>
+        Since the notebook spams so much with various elevation changes, I decided it's better
+        to repurpose this to a spire - a singular rock formation (that in theory shouldn't have
+        any tunnel crossing it), but rather be somewhat important part of the hills leading to
+        Ascaron. This way it will serve as a point of interest (still cluttering already dense
+        area) but the heightmap of the area can be kept with more internal logic.
+    </td>
+  </tr>
+
+  <!--PHOTO 13-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 13" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_12.jpg" width="416" height="307" /></td>
+    <th align="centre">Serpent Stone</th>
+  </tr>
+  <tr>
+    <td>
+        Page right after shows us even more insanity - not sure if any notebook had so many things
+        happening at one in a single panel. First of all, there's a hill that you can walk towards,
+        with some crazy "blood ruby" placed on top. It's a trap which is meant to lure you and
+        apparently drop to some secret chamber you will rot in. Some mechanical parts are shown
+        that additionally close the drop once the victim falls on the pressure plate.<br>
+        Aside of that, there's a structure called "serpent stone" - which, I assume, is named
+        after the symbol. It is a bit weird however, because the symbol is just meant to be a
+        warning (snake is my old sign for anything that has danger). Therefore my concept here
+        is that there should be number of structures across Rossevette (maybe including Outer
+        one too) of stones that have various patrons. Unsure for now whether this would be
+        something made by latoka, goblins or pahtris, or combination of those, and what meaning
+        would those hold for any of them. But the idea sounds interesting.
     </td>
   </tr>
 </table>

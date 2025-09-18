@@ -3,6 +3,7 @@
 ### Alphabetically:
 - [Adelaie](Lore/BaeCL_Adelaie.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Adelaie.md)
 - [Alkaesar](Lore/BaeCL_Alkaesar.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Alkaesar.md)
+- [Ascaron](Lore/BaeCL_Ascaron.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Ascaron.md)
 - [Baedoor](Lore/BaeCL_Baedoor.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)
 - [Baedoor Surroundings](Lore/BaeCL_Baedoor_Surroundings.md)
 - [Coonhě Forest](Lore/BaeCL_Coonhě_Forest.md)
@@ -100,7 +101,8 @@
         <th>Timeframe</th>
         <td>?</td>
         <td rowspan="2">
-            🏞️   <a href="Lore/BaeCL_Emerald_Hills.md"> Emerald Hills </a>
+            🏞️   <a href="Lore/BaeCL_Emerald_Hills.md"> Emerald Hills </a><br>
+            🌆   <a href="Lore/BaeCL_Ascaron.md">       Ascaron       </a>
         </td>
     </tr>
     <tr>

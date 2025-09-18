@@ -1,9 +1,6 @@
 # 🏺 Pahtric Culture
 ...
 
-### Eyes As Mirrors
-...
-
 ### Shadow Painters
 Shadow painting is a name of a widely spread way of entertainment among pahtris and rarely
 goblins, having its origins in goblins' shadow theatre.  

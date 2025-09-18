@@ -124,7 +124,7 @@ being part of it. This also let it be treated more lightly during Baedoor occupa
 #### Islands
 - [Disanteldir](Kaer/Cities/Disanteldir.md)
 - Roda
-- Kananea `rename to Near? per "english-like names are funny" and the fact Kananea exists irl`
+- Near `Sorin on old maps`
 ### VILLAGES
 #### Kaerians
 - Ardhaved
