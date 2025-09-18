@@ -1,8 +1,11 @@
 # 🏺 Latoka Culture
 ...
 
-### Ministates
+### Latoka Cultures
 ...
+
+### Administrative Systems
+[Realms & Kingdoms]
 
 ### Eyes As Mirrors
 ...

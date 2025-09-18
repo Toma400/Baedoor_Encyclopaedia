@@ -63,6 +63,66 @@
         so this would be quite fitting purpose for the place.
     </td>
   </tr>
+
+  <!--PHOTO 4-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 17" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_16.jpg" width="416" height="307" /></td>
+    <th align="centre">Sort of Public Square</th>
+  </tr>
+  <tr>
+    <td>
+        Just like title implies, what we see on this page reminds me of public square, but in
+        the same time it's made in such a way as if it was part of meadows, not a city. Lots of
+        randomly placed things which makes little sense to be near each other, yet all of that
+        is somewhat meaningful.<br>
+        First of all - obelisk. The giant spire is reminiscent of all the latoka monuments that
+        should be spread around isles, as part of their grandious culture. It is also obvious
+        homage to egyptian influences.<br>
+        Next, we have tombstone. It is a bit less christian-coded than the one before, and thus
+        more fitting for latoka - and most importantly, it conveys a name, albeit sounding
+        very baedoorian (and containing surname which is rare thing).<br>
+        After that, we have latoka couple, tree and something looking like a ruin - all
+        self-explainable. Also whortleberries, but this falls under the topic of how much
+        we want to preserve irl flora influences while archiving.<br>
+        The fallen stone looks similar to what we saw before we entered the city - it could be
+        a part of broader "stone" type of structures. Depending on how we depict their existence
+        (whether it is goblin, latoka, pahtric (least likely to be found on main Rossevette) and
+        what is general relation of each race to them) the existence of one in Ascaron may be
+        pretty interesting narrative point.<br>
+        The last sign with "W947"... I honestly have no idea what it means.
+    </td>
+  </tr>
+
+  <!--PHOTO 5-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 18" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_17.jpg" width="416" height="307" /></td>
+    <th align="centre">Ascaron Library</th>
+  </tr>
+  <tr>
+    <td>
+        This panel gives us quite unusual looking structure, and one that uses the surrounding
+        landscape to make something quite memorable - the library that is carved inside the
+        hill (mountain? assuming continuation of terrain I'd say hill makes it more consistent
+        if possible to preserve the idea of this "exterior cave").<br>
+        The library however is a bit unusual, as it doesn't contain books - which ultimately
+        I think should exist there, unless we find a note on lore (data notebook tells nothing)
+        that lack of books has significant lore reasons. Either way, I imagine showcase of
+        various items brings the idea of latoka practicality - the museum character of library
+        directs us to the idea that tools are for them equally important as knowledge itself.
+        It helps to see connection of their culture set on building monuments and research class
+        respecting the work of the farmers, miners and other working classes.<br>
+        (also to be precise, I think (especially due to later page) tools found there had purely
+        gameplay usage due to notebook being adventure-aimed: why have this place been named as
+        library though? No idea, but it can help adding some fun creative idea in thanks to that)
+        On separate note, hill within the city also brings the point of Ascaron being:
+        <ul>
+            <li> at least partially based on verticality </li>
+            <li> being surrounded by heights, and also the path south (towards mountain
+                 range) being uphill (which is also why later pages show us ship travel
+                 and skip the travel by road) </li>
+        </ul>
+    </td>
+  </tr>
 </table>
 
 ---

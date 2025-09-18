@@ -72,19 +72,7 @@
 
   <!--PHOTO 5-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 5" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_4b.jpg" width="307" height="416" /></td>
-    <th align="centre">The Strange Machinery: Explanation</th>
-  </tr>
-  <tr>
-    <td>
-        Close-up of the "diamond making" machine, with instruction how to produce diamonds from
-        coal. Nothing really worth noting besides that.
-    </td>
-  </tr>
-
-  <!--PHOTO 6-->
-  <tr>
-    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 6" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_5.jpg" width="416" height="307" /></td>
+    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 5" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_5.jpg" width="416" height="307" /></td>
     <th align="centre">The Bridge</th>
   </tr>
   <tr>
@@ -96,9 +84,9 @@
     </td>
   </tr>
 
-  <!--PHOTO 7-->
+  <!--PHOTO 6-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 7" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_6.jpg" width="416" height="307" /></td>
+    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 6" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_6.jpg" width="416" height="307" /></td>
     <th align="centre">The Mine Proper</th>
   </tr>
   <tr>
@@ -115,9 +103,9 @@
     </td>
   </tr>
 
-  <!--PHOTO 8-->
+  <!--PHOTO 7-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 8" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_7.jpg" width="416" height="307" /></td>
+    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 7" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_7.jpg" width="416" height="307" /></td>
     <th align="centre">Entrance to the Metro</th>
   </tr>
   <tr>
@@ -129,9 +117,9 @@
     </td>
   </tr>
 
-  <!--PHOTO 9-->
+  <!--PHOTO 8-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 9" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_8.jpg" width="416" height="307" /></td>
+    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 8" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_8.jpg" width="416" height="307" /></td>
     <th align="centre">Metro</th>
   </tr>
   <tr>
@@ -145,9 +133,9 @@
     </td>
   </tr>
 
-  <!--PHOTO 10-->
+  <!--PHOTO 9-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 10" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_9.jpg" width="416" height="307" /></td>
+    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 9" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_9.jpg" width="416" height="307" /></td>
     <th align="centre">Inarkin House</th>
   </tr>
   <tr>
@@ -159,9 +147,9 @@
     </td>
   </tr>
 
-  <!--PHOTO 11-->
+  <!--PHOTO 10-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 11" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_10.jpg" width="416" height="307" /></td>
+    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 10" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_10.jpg" width="416" height="307" /></td>
     <th align="centre">Lake Siivain</th>
   </tr>
   <tr>
@@ -177,9 +165,9 @@
     </td>
   </tr>
 
-  <!--PHOTO 12-->
+  <!--PHOTO 11-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 12" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_11.jpg" width="416" height="307" /></td>
+    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 11" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_11.jpg" width="416" height="307" /></td>
     <th align="centre">The Spire</th>
   </tr>
   <tr>
@@ -195,9 +183,9 @@
     </td>
   </tr>
 
-  <!--PHOTO 13-->
+  <!--PHOTO 12-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 13" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_12.jpg" width="416" height="307" /></td>
+    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 12" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_12.jpg" width="416" height="307" /></td>
     <th align="centre">Serpent Stone</th>
   </tr>
   <tr>
