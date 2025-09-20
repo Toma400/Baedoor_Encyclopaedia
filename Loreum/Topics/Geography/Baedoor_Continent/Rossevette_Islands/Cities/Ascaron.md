@@ -24,6 +24,8 @@ as the only so faithful realm to baedoorians, keeping the name and buildings wit
 them to local architecture. This is specifically seen in Ascaron's walls being heavily baedoorian, 
 with only one segment rebuilt after it fell into disrepair.
 
+### Ascaron Library
+
 ---
 📿 [Baedoor Classic](/Mechanicum/Walkthroughs/Baedoor_Classic/Lore/BaeCL_Ascaron.md)
 

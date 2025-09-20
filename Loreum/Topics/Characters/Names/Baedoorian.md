@@ -18,10 +18,12 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Algor    | Whole Baedoor       | 🔥 Common      |                                                                            |
 | Altiner  | Whole Baedoor       | 🏵️ Semi-rare  | More popular in OE                                                         |
 | Anaurin  | Whole Baedoor       | 🏵️ Semi-rare  | More popular in OE                                                         |
+| Anconui  | Whole Baedoor       | 🏵️ Semi-rare  |                                                                            |
 | Anton    | Whole Baedoor       | 🔆 Semi-common |                                                                            |
 | Antonio  | Whole Baedoor       | 🔆 Semi-common | Derived from Anton                                                         |
 | Arentras | East Baedoor        | 🔥 Common      | Common name in Old Era, of jitadish origin                                 |
 | Argin    | Whole Baedoor       | ⚜️ Rare        | Of jitadian origin                                                         |
+| Averico  | Whole Baedoor       | 🔆 Semi-common |                                                                            |
 | Bromor   | East Baedoor        | 🏵️ Semi-rare  | Probably with nomathian origins or influences                              |
 | Clayton  | East Baedoor        | ⚜️ Rare        | Rare name in early Old Era, possibly derived from jitadian Sayton/Saytoin  |
 | Corros   | East Baedoor        | ⚜️ Rare        | Mostly seen in Old Era, of jitadish origin                                 |
@@ -109,6 +111,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Name     | Localisation  | Rarity         | Description                                                                                   |
 |----------|---------------|----------------|-----------------------------------------------------------------------------------------------|
 | Ailea    | Whole Baedoor | 🔆 Semi-common |                                                                                               |
+| Allea    | Whole Baedoor | 🔥 Common      |                                                                                               | 
 | Anae     | Whole Baedoor | 🏵️ Semi-rare  |                                                                                               |
 | Cryna    | East Baedoor  | ⚜️ Rare        | Used in Old Era, feminine variant of *Cryan*                                                  |
 | Dorin    | Whole Baedoor | 🔆 Semi-common | Common name in Old Era, a bit more rare in New Era                                            |
@@ -164,6 +167,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Naraho     | Baedoor city and surroundings | Old name of Baedoor city surroundings, considered of nomathian influence                                                                                            |
 | Navikon    | East Baedoor, Ansur           | Fairly spread out name on east side of Baedoor areas                                                                                                                |
 | Neerhe     | Isuga and surroundings        | Old Isuga-related house, without aristocratic roots                                                                                                                 |
+| Route      | Whole Baedoor                 | Semi-common surname                                                                                                                                                 |
 | Thargav    | East Baedoor                  | Aristocratic surname of nomathian origin                                                                                                                            |
 | Thon       | East Baedoor                  | Aristocratic surname from Ontero                                                                                                                                    |
 | Tio        | Mostly Isuga and surroundings | Old Isuga-related family, but also jitadian surname                                                                                                                 |

@@ -129,6 +129,18 @@
             <img alt="Egypt Colony Archives, Photo 19" height="280" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_17.jpg" width="416"/>
         </td>
     </tr>
+    <tr>
+        <td align="center">20</td>
+        <td>
+            <img alt="Egypt Colony Archives, Photo 20" height="416" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_18b.jpg" width="280"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">21</td>
+        <td>
+            <img alt="Egypt Colony Archives, Photo 21" height="280" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_18.jpg" width="416"/>
+        </td>
+    </tr>
 </table>
 
 ---

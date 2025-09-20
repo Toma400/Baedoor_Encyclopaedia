@@ -113,14 +113,47 @@
         respecting the work of the farmers, miners and other working classes.<br>
         (also to be precise, I think (especially due to later page) tools found there had purely
         gameplay usage due to notebook being adventure-aimed: why have this place been named as
-        library though? No idea, but it can help adding some fun creative idea in thanks to that)
-        On separate note, hill within the city also brings the point of Ascaron being:
+        library though? No idea, but it can help adding some fun creative touch thanks to that)<br>
+        A separate mention should be made about the fresks on the walls - it is somewhat of a proof
+        that at one point in history latoka practiced (or were a victim of) slavery. How, when
+        and other questions should be raised when expanding on this topic (and based on depictions
+        we can find for this topic in Baedoor Classic).<br>
+        And on last note, hill within the city also brings the point of Ascaron being:
         <ul>
             <li> at least partially based on verticality </li>
             <li> being surrounded by heights, and also the path south (towards mountain
                  range) being uphill (which is also why later pages show us ship travel
                  and skip the travel by road) </li>
         </ul>
+    </td>
+  </tr>
+
+  <!--PHOTO 6-->
+  <tr>
+    <td width="420" rowspan="2"><img alt="Egypt Colony Archives, Photo 19" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_18.jpg" width="416" height="307" /></td>
+    <th align="centre">Ascaron Port</th>
+  </tr>
+  <tr>
+    <td>
+        Getting further, we can see the last part of the city - the port of Ascaron. It feels
+        somehow detached from the city, and it also reveals a bit interesting trick which can
+        be seen right on next page - existence of ship travel thanks to port allowed notebook
+        to skip the road walk up to Asalexandriasi, as it was done by ship.<br>
+        However due to later pages looking rocky, it looks like ship travel like that would 
+        be upriver, and thus I imagine it wouldn't be permitted to any random traveller.
+        This is also why I suspect there's a reason we need to contact a "translator" - in normal
+        setting this would probably require us to obtain permit from harbormaster, or have
+        some other formal reason to travel by ship like that.<br>
+        On other hand, the page showcases us a fight - it looks like bandits invaded the port.
+        My lore conclusion is that during notebook times, Ascaron port - being detached from
+        the city - was raided from time to time by pirates. That's why not long later there
+        was fortress built to protect the river route.<br>
+        On last note, names. We have two - Averico and Anconui. In all honesty both sound
+        baedoorian and fit to the general vibe of Rossevette being occupied during notebook
+        timeframe. With Anconui there are two additional reasons - he is a translator, which
+        fits a skilled baedoorian, and also his appearance reminds one. Averico on the other
+        hand is latoka (by trope of thin legs), so I imagine this is baedoorian name given
+        to them? So he's probably young boy raised by latoka-baedoorian couple.
     </td>
   </tr>
 </table>

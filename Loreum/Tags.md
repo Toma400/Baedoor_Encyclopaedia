@@ -14,6 +14,7 @@ If this section becomes too big, it can be split into linked sections in the fut
 
 * [Adelaie](Topics/Geography/Old_Continent/Jitado/Cities/Adelaie.md)
 * [Alkaesar](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Alkaesar.md)
+* [Asalexandriasi](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Asalexandriasi.md)
 * [Ascaron](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Ascaron.md)
 * [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)
 * [Dahekhris](Topics/Geography/Baedoor_Continent/Kaer/Cities/Dahekhris.md)
