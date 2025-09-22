@@ -169,6 +169,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### R
 - [Raliun](Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
+- [Renvughe](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Renvughe.md)
 - [Rossevette](Topics/Geography/Baedoor_Continent/Rossevette_Islands.md) (archipelago)
 
 ### S
@@ -178,6 +179,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Separatists](Topics/Factions/List/Separatists.md)
 - [Septei](Topics/Geography/Azure_Archipelago/Septei.md)
 - [Serj](Topics/Cultures/Kaerians/[Culture].md)
+- [Shimo Valley](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Regions/Shimo_Valley.md)
 - [Si Avani](Topics/Characters/List/Avani_Si.md)
 - [Skirran](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)
 - [Starshifters](Topics/Guilds/List/Starshifters.md)

@@ -141,6 +141,42 @@
             <img alt="Egypt Colony Archives, Photo 21" height="280" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_18.jpg" width="416"/>
         </td>
     </tr>
+    <tr>
+        <td align="center">22</td>
+        <td>
+            <img alt="Egypt Colony Archives, Photo 22" height="280" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_19.jpg" width="416"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">23</td>
+        <td>
+            <img alt="Egypt Colony Archives, Photo 23" height="416" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_19b.jpg" width="280"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">24</td>
+        <td>
+            <img alt="Egypt Colony Archives, Photo 24" height="280" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_20.jpg" width="416"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">25</td>
+        <td>
+            <img alt="Egypt Colony Archives, Photo 25" height="416" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_20b.jpg" width="280"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">26</td>
+        <td>
+            <img alt="Egypt Colony Archives, Photo 26" height="416" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_21b.jpg" width="280"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">21</td>
+        <td>
+            <img alt="Egypt Colony Archives, Photo 21" height="280" src="/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_21.jpg" width="416"/>
+        </td>
+    </tr>
 </table>
 
 ---

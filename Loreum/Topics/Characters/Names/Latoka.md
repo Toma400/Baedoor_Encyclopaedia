@@ -12,19 +12,25 @@ as ghloddish naming does, albeit the position of those wovels is inside name, no
 
 ### Male
 
-| Name    | Rarity         | Description                |
-|---------|----------------|----------------------------|
-| Iner    | 🔥 Common      | Has feminine form (Inar)   |
-| Inarkin | 🏵️ Semi-rare  | Baedoorised form of Iner   |
-| Inluet  | 🔆 Semi-common | Has feminine form (Inluat) |
-| Inluern | 🏵️ Semi-rare  | Baedoorised form of Inluet |
+| Name        | Rarity         | Description                     |
+|-------------|----------------|---------------------------------|
+| Anter       | 🔆 Semi-common |                                 |
+| Anterkiritt | ⚜️ Rare        | Combination of Anter and Kiritt |  
+| Iner        | 🔥 Common      | Has feminine form (Inar)        |
+| Inarkin     | 🏵️ Semi-rare  | Baedoorised form of Iner        |
+| Inluet      | 🔆 Semi-common | Has feminine form (Inluat)      |
+| Inluern     | 🏵️ Semi-rare  | Baedoorised form of Inluet      |
+| Kiritt      | 🔆 Semi-common |                                 |
+| Nasvioh     | 🏵️ Semi-rare  |                                 |
 
 ### Female
 
-| Name   | Rarity         | Description                 |
-|--------|----------------|-----------------------------|
-| Inar   | 🔥 Common      | Has masculine form (Iner)   |
-| Inluat | 🔆 Semi-common | Has masculine form (Inluet) |
-| Lat    | 🔆 Semi-common |                             |
-| Luat   | 🏵️ Semi-rare  | Mix of Lut and Lat names    |
-| Lut    | 🔆 Semi-common |                             |
+| Name    | Rarity         | Description                 |
+|---------|----------------|-----------------------------|
+| Inar    | 🔥 Common      | Has masculine form (Iner)   |
+| Inluat  | 🔆 Semi-common | Has masculine form (Inluet) |
+| Nel     | 🔆 Semi-common |                             |
+| Nelvose | 🔆 Semi-common |                             |
+| Lat     | 🔆 Semi-common |                             |
+| Luat    | 🏵️ Semi-rare  | Mix of Lut and Lat names    |
+| Lut     | 🔆 Semi-common |                             |

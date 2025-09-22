@@ -1,5 +1,12 @@
 # 🏺 Latoka Culture
 ...
+{
+ - they value work, including physical one, it is treated with respect
+ - highly valued farmers, masons and miners equally (intellectuals too, just not really higher)
+   - this somewhat made them sympathetic towards baedoorians and reversely, the tech stuff
+     only accented this higher
+ - very much oriented on practicality, tools are as sacred as books
+}
 
 ### Latoka Cultures
 ...
@@ -14,7 +21,7 @@
 ... [check Ascaron BaeCL page for my thoughts]
 
 ### Etts (Mountain Latokas)
-... [Question, should we have separate [Culture] pages for etts?]
+... [Question, should we have separate [Culture] pages for etts? Should we for all of them?]
 
 ### Inventions
 [Teleport]

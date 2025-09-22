@@ -10,6 +10,7 @@
 | Name   | Localisation | Rarity         | Description |
 |--------|--------------|----------------|-------------|
 | Arth   | Whole Island | 🔆 Semi-common |             |
+| Dulv   | Whole Island | 🔆 Semi-common |             |
 | Grough | Whole Island | 🏵️ Semi-rare  |             |
 | Khrey  | Whole Island | 🏵️ Semi-rare  |             |
 | Opugat | Whole Island | 🏵️ Semi-rare  |             |

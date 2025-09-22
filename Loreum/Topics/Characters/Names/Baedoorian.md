@@ -33,6 +33,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Devako   | East Baedoor        | ⚜️ Rare        | Rare name in early Old Era, with foreign origin (possibly mesinpean Devah) |
 | Devan    | East Baedoor        | 🔆 Semi-common | Of mesinpean origin (from Devah)                                           |
 | Dominic  | Whole Baedoor       | 🔥 Common      |                                                                            |
+| Dulf     | Whole Baedoor       | ⚜️ Rare        | Sounds like baedoorised form of nomathian Dulv                             |
 | Eduard   | Whole Baedoor       | 🔆 Semi-common |                                                                            |
 | Engar    | Whole Baedoor       | 🔥 Common      | Name originating from Jitado                                               |
 | Entar    | Whole Baedoor       | 🔥 Common      | Name originating from Jitado                                               |
@@ -91,10 +92,12 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Norvin   | Whole Baedoor       | 🔆 Semi-common | Specifically popular on Rakonnd coast                                      |
 | Nyver    | Whole Baedoor       | ⚜️ Rare        | Of jitadian origin, with Nyvera as female counterpart                      |
 | Olli     | Whole Baedoor       | 🏵️ Semi-rare  |                                                                            |
+| Olven    | Whole Baedoor       | 🔆 Semi-common |                                                                            |
 | Otto     | East Baedoor        | 🏵️ Semi-rare  |                                                                            |
 | Orhat    | East Baedoor        | ⚜️ Rare        | Extremely rare, of nomathian origin                                        |
 | Ovlan    | Whole Baedoor       | 🔥 Common      | Usually more frequently found on Rakonnd Coast                             |
 | Pathor   | Whole Baedoor       | 🏵️ Semi-rare  | Common name in Old Era                                                     |
+| Randolph | Whole Baedoor       | 🏵️ Semi-rare  | Common name in Old Era                                                     |
 | Reduit   | Whole Baedoor       | 🏵️ Semi-rare  | Common name of early Old Era                                               |
 | Rosvin   | East Baedoor        | 🏵️ Semi-rare  | Common name on Rakonnd coast, semi-rare elsewhere, of jitadian origin      |
 | Rvana    | Whole Baedoor       | ⚜️ Rare        | Extremely rare name, nowadays almost unseen, with possible nomath origin   |
