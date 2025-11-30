@@ -58,6 +58,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Eir, Delai](Topics/Characters/List/Eir_Delai.md)
 - [Eiron, Zan](Topics/Characters/List/Eiron_Zan.md)
 - [Elea Varteford](Topics/Characters/List/Varteford_Elea.md)
+- [Emerald Hills](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Regions/Emerald_Hills.md)
 - [Enahr, Esh](Topics/Characters/List/Enahr_Esh.md)
 - [Enfrvein](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
 - [Ennaeric Ocean](Topics/Geography/[Oceans]/Ennaeric_Ocean.md)
@@ -154,6 +155,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### O
 - [Old Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md) (city)
 - [Old Continent](Topics/Geography/Old_Continent.md)
+- [Oloko](Topics/Nature/Bestiary/List/Oloko.md)
 - [Orcs](Topics/Races/Regular/Orcs.md)
 - [Order of the Sword](Topics/Guilds/List/Order_of_the_Sword.md)
 - [Ormaths](Topics/Races/Regular/Ormaths.md) (race)
