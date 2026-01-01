@@ -6,4 +6,5 @@ being heavily bound to spiritual/occult world.
 #### 🔹 [Haunted Wanderer](List/Haunted_Wanderer.md)
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🐊](/Loreum/Topics/Nature/Bestiary.md)

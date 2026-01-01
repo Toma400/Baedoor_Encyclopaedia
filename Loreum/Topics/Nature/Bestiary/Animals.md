@@ -11,4 +11,5 @@ Every creature that is considered as animal, either wild or domesticated.
 #### 🔹 [Sea Serpent](List/Sea_Serpent.md)
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🐊](/Loreum/Topics/Nature/Bestiary.md)

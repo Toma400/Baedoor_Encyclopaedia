@@ -11,4 +11,5 @@ Every food listed, by lands and kinds.
 ### 🔹 [Seasonings](Foods/Seasonings.md)
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md)

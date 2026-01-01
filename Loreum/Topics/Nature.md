@@ -8,4 +8,5 @@ All things related to nature, including flora, fauna, geological parts and also 
 ### 🥮 [Foods](Nature/Foods.md)
 
 ---
-✥
+✥  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)

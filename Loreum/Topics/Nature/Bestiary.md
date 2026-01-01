@@ -15,4 +15,5 @@ Every creature listed, by lands and kinds.
 ### 🔹 [Spirits](Bestiary/Spirits.md)
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md)

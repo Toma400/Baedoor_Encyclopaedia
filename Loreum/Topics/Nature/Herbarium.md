@@ -19,4 +19,5 @@ Every plant listed, by lands.
 ####   🔹 [Jitado Herbarium](Herbarium/Jitado_Herbarium.md)
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md)
