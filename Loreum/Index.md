@@ -34,6 +34,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor.md) (island)
 - [Baedoor Railroad Enterprise](Topics/Guilds/List/Baedoor_Railroad_Enterprise.md)
 - [Baedoorians](Topics/Cultures/Baedoorians/[Culture].md)
+- [Black Tache](Topics/Characters/List/Black_Tache.md)
 - [The Blossoming Lavender](Topics/Guilds/List/The_Blossoming_Lavender.md)
 
 ### C
