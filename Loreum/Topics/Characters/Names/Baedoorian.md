@@ -141,7 +141,8 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Sana     | Whole Baedoor | 🔥 Common      | Name originated from Jitado                                                                   |
 | Sanae    | Whole Baedoor | 🔥 Common      | Variant of *Sana*                                                                             |
 | Sara     | Whole Baedoor | 🔥 Common      | Less popular variant of *Sana*                                                                |
-| Shademia | West Baedoor  | ⚜️ Rare        | Name mixing baedoorian character with some foreign roots                                      |                                               |
+| Shademia | West Baedoor  | ⚜️ Rare        | Name mixing baedoorian character with some foreign roots                                      |
+| Souvie   | West Baedoor  | ⚜️ Rare        |                                                                                               |
 | Veronica | Whole Baedoor | 🔥 Common      | Commonly used, especially among lower aristocratic families                                   |
 | Viris    | Whole Baedoor | 🏵️ Semi-rare  |                                                                                               |
 | Wenyah   | East Baedoor  | ⚜️ Rare        | Used in Old Era, nomathian-influenced variant of *Hanyah*                                     |
@@ -156,9 +157,10 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Alearis    | Whole Baedoor                 | Common surname in south part of Baedoor's isle                                                                                                                      |
 | Allaut     | East Baedoor                  | Aristocratic surname from Isuga                                                                                                                                     |
 | Buqan, vân | East Baedoor                  | Aristocratic name from Alkaesar of nomathian origin                                                                                                                 |
+| Calgori    | East Baedoor                  | Aristocratic surname                                                                                                                                                |
+| Darakon    | Whole Baedoor                 | Fairly rare surname, with likely nomathian origins                                                                                                                  |
 | Eiron      | East Baedoor                  | Aristocratic surname from Skirran                                                                                                                                   |
 | Ettua      | East Baedoor                  | Aristocratic surname                                                                                                                                                |
-| Calgori    | East Baedoor                  | Aristocratic surname                                                                                                                                                |
 | Gorth      | Whole Baedoor                 | Common surname                                                                                                                                                      |
 | Harat, de  | West Baedoor                  | Surname of Waine's trader family                                                                                                                                    |
 | Ien, vân   | East Baedoor                  | Aristocratic surname from Thanbyan of nomathian origin                                                                                                              |

@@ -19,7 +19,7 @@ the ones that had no support, drawing connection between each single person seek
 unity that could be found between homeless groups seen within the city - and people who were willing
 to take the initiative further.
 
-Currently (427 NE), Blossoming Lavender leadership counts three people: a young redhaired lady,
+Currently, Blossoming Lavender leadership counts three people: a young redhaired lady,
 **Laika Narras**, an old philanthropist **Facon Tarlae** and **Minne de Harat**, an aristocrat
 lady married to one of Waine's richest traders.
 

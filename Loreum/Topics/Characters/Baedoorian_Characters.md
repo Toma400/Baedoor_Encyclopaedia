@@ -17,7 +17,9 @@ Characters bound to **Baedoorian** heritage and nationality.
 ####  🔹 [Black Barb](List/Black_Tache.md)
 ####  🔹 [Ferves Navikon](List/Navikon_Ferves.md)
 ####  🔹 [Heim Winfleton](List/Winfleton_Heim.md)
+####  🔹 [Irlan Lavago](List/Lavago_Irlan.md)
 ####  🔹 [Naevin Manaut](List/Manaut_Naevin.md)
+####  🔹 [Souvie Darakon](List/Darakon_Souvie.md)
 
 ---
 ♜

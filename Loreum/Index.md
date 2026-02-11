@@ -44,6 +44,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### D
 - [Dahekhris](Topics/Geography/Baedoor_Continent/Kaer/Cities/Dahekhris.md)
+- [Darakon, Souvie](Topics/Characters/List/Darakon_Souvie.md)
 - [Dawn Tear](Topics/Nature/Herbarium/List/Dawn_Tear.md)
 - [Delai Eir](Topics/Characters/List/Eir_Delai.md)
 - [Dem](Topics/Cultures/Baedoorians/List/Dem.md)
@@ -100,6 +101,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [I'si](Topics/Religions/Small/Temple_of_I'si.md) (Temple of I'si)
 - [Indan](Topics/Characters/Families/Indan.md)
 - [Ino Anor](Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)
+- [Irlan Lavago](Topics/Characters/List/Lavago_Irlan.md)
 - [Isanam Lake](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Isanam_Lake.md)
 - [Isehir Allaut](Topics/Characters/List/Allaut_Isehir.md)
 - [Isuga](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md)
@@ -127,6 +129,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### L
 - [Latoka](Topics/Cultures/Latoka/[Culture].md) (culture)
+- [Lavago, Irlan](Topics/Characters/List/Lavago_Irlan.md)
 - [Lensati](Topics/Characters/Families/Lensati.md)
 - [Lhue](Topics/Nature/Herbarium/List/Lhue.md)
 - [Lotua](Topics/Nature/Herbarium/List/Lhue.md)
@@ -185,6 +188,8 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Shimo Valley](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Regions/Shimo_Valley.md)
 - [Si Avani](Topics/Characters/List/Avani_Si.md)
 - [Skirran](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)
+- [Smoke River Collective](Topics/Guilds/List/Smoke_River_Collective.md)
+- [Souvie Darakon](Topics/Characters/List/Darakon_Souvie.md)
 - [Starshifters](Topics/Guilds/List/Starshifters.md)
 - [Stheyr](Topics/Races/Creature/Stheyr.md)
 

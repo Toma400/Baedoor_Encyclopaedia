@@ -1,12 +1,15 @@
 # 🏞️ Ansur Isle
-<img alt="Ansur Map" height="561" src="/Assets/Maps/ansur.png" width="482"/>
 
-``Simplified map of Ansur Isle as of 920 NE``
+| <img alt="Ansur Map" height="561" src="/Assets/Maps/ansur.png" width="482"/> |
+|:----------------------------------------------------------------------------:|
+|                  Simplified map of Ansur Isle as of 420 NE                   |
 
-**Isle of Ansur** (bae. *Ans Sur*, "land of hope") is small island positioned pretty much in between 
-old **[Baedoor city](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)** and **New Baedoor**, 
-being also one of the better places to stay during longer journey to any of those places. 
-Since third decade of New Era, it became known for its wine.
+**Isle of Ansur** (bae. *Ans Sur*, "land of hope", sometimes also called *Ansur* from its major
+city) is small island positioned pretty much in between old **[Baedoor city](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)**
+and **New Baedoor**, being also one of the better places to stay during longer journey to any 
+of those places.  
+Initially a servant of **Baedoor Empire** and with economy based on agriculture, since third
+century of New Era, it became known for its wine thanks to expanded trade focus.
 
 ### 📜 HISTORY  
 Ansur was not colonised before New Era, so during Exodus, when sailors saw the island instead of 
@@ -20,11 +23,16 @@ The main change, though, came with new laws introduced in 326 NE by governor **N
 benefiting from **Baedoor Empire** collapse and stating independency, as well as adding several 
 taxes to those who dock in Ansur, but do not plan to stay longer.  
 This brought not only enough money for the island to expand, but also solidified their export and
-created bigger infrastructure. This also lead to Evros getting city walls and small fort on top of the hill, as governor 
-residence and additional fortification.  
+created bigger infrastructure. This also lead to Evros getting city walls and small fort on top of
+the hill, as governor residence and additional fortification.
 
-In 917 NE, governor **Heimlig Naevos** recommended building of airship port, which is estimated to
-be finished in year 925 NE.
+With time, the city grown significantly, becoming increasingly more cosmopolitan and expanding
+its influences further over the island. This gave birth to places like Nyme, but also strengthened
+entities related to trade, including vineyard owners who later established **Association** 
+to better organise their contracts and not step on each other's toes.
+
+In 417 NE, governor **Heimlig Naevos** recommended building of airship port, which was finished
+in year 425 NE.
 
 ### SETTLEMENTS
 - [Evros](Cities/Evros.md)
@@ -36,9 +44,10 @@ be finished in year 925 NE.
 - Fields
 - Lensati Farm `lavender farms south of Waine`
 
-### TIMETABLE
-- [Guilds of Ansur Isle](/Loreum/Topics/Guilds/Ansur_Guilds.md)
-- [Timetable of Ansur Isle](/Loreum/Topics/History/New_Era_Ansur.md)
+### CATEGORIES
+- [🍁 Ansur Characters](/Loreum/Topics/Characters/Ansur_Characters.md)
+- [🕌 Guilds of Ansur Isle](/Loreum/Topics/Guilds/Ansur_Guilds.md)
+- [❄️ Timetable of Ansur Isle](/Loreum/Topics/History/New_Era_Ansur.md)
 
 ---
 ### 🗺️ MAPS
@@ -49,7 +58,7 @@ be finished in year 925 NE.
         <td height="300px"> <img alt="Ansur Map" height="390" src="/Assets/Maps/ansur_by_kari.png" width="520"/> </td>
     </tr>
     <tr>
-        <td> Map of Ansur Isle as of 920 NE </td>
+        <td> Map of Ansur Isle as of 420 NE </td>
         <td> Concept art by <a href="https://github.com/skeletontonguedworld">skeletontonguedworld</a> </td>
     </tr>
 </table>

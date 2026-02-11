@@ -16,9 +16,10 @@ with their craft, and thus formed a friendship to support each other with resear
 formalised to a guild, as this helped to gather financial support from town hall for more expensive
 equipment. This also brought more members and further set formal structures in.
 
-On 426 NE, **Irlan Lavago** became a master of the guild. While being fairly young, he is 
-accustomed to ways of FotB works and also is an experienced mage with fair amount of knowledge.
-Irlan practices include experimenting with ghloddish sigils.
+On 426 NE, [Irlan Lavago](/Loreum/Topics/Characters/List/Lavago_Irlan.md) became a master of the
+guild. While being fairly young, he is accustomed to ways of FotB works and also is an 
+experienced mage with fair amount of knowledge. Irlan practices include experimenting with 
+ghloddish sigils.
 
 Their symbol is a staff with a purple veil.
 
