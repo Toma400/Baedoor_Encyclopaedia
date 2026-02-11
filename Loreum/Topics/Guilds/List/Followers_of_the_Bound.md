@@ -2,9 +2,9 @@
 
 ---
 
-| <img alt="FotB emblem" src="/Assets/emblem_followers_of_the_bound.png" width="200px"/> |
-|:--------------------------------------------------------------------------------------:|
-|              Followers of the Bound's symbol is a staff with purple veil               |
+| <img alt="FotB emblem" src="/Assets/emblem_followers_of_the_bound.png" width="200px"/> | ![](/Assets/Characters/lavago_irlan.png)  |
+|:--------------------------------------------------------------------------------------:|:-----------------------------------------:|
+|              Followers of the Bound's symbol is a staff with purple veil               | Irlan Lavago, current master of the guild |
 
 **Followers of the Bound** is guild of mages exclusive to [Ansur](/Loreum/Topics/Geography/Moon_Continent/East_Moon/Ansur.md).    
 It follows a distinct magic style compared to other guilds and organisations - focusing on casting
