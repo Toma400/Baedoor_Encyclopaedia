@@ -129,9 +129,11 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Irlanda  | East Baedoor  | ⚜️ Rare        | Of jitadian origin, more feminine form of *Irlangor*                                          |
 | Irlangor | East Baedoor  | ⚜️ Rare        | Of jitadian origin                                                                            |
 | Isena    | Whole Baedoor | ⚜️ Rare        | Female variant of *Isen* with slight difference from jitadian origin                          |
+| Lea      | Whole Baedoor | 🔆 Semi-common |                                                                                               |
 | Linn     | Whole Baedoor | ⚜️ Rare        |                                                                                               |
 | Lorat    | Whole Baedoor | 🏵️ Semi-rare  | Commonly used in Old Era, in New Era mostly seen in aristocratic families. Of jitadian origin |
 | Minne    | Whole Baedoor | 🏵️ Semi-rare  |                                                                                               |
+| Mira     | Whole Baedoor | 🔆 Semi-common |                                                                                               |
 | Nas      | Whole Baedoor | 🏵️ Semi-rare  | From nomathian Našš                                                                           |
 | Natis    | Whole Baedoor | 🏵️ Semi-rare  | From nomathian Našš                                                                           |
 | Nyvera   | Whole Baedoor | ⚜️ Rare        | Of jitaditan origin, with Nyver as male counterpart                                           |
@@ -173,8 +175,10 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Maen       | Whole Baedoor                 | Aristocratic surname in Dvickhet, but also not uncommon name among commonfolk in West Baedoor                                                                       |
 | Manaut     | East Baedoor                  | Semi-common surname                                                                                                                                                 |
 | Mevren     | Whole Baedoor                 | Semi-common surname                                                                                                                                                 |
+| Mounis     | Whole Baedoor                 | Semi-rare surname                                                                                                                                                   |
 | Naevos     | Ansur                         | Surname coming from trish Nai and arennian-baedoorian Vos families                                                                                                  |
 | Naraho     | Baedoor city and surroundings | Old name of Baedoor city surroundings, considered of nomathian influence                                                                                            |
+| Narghot    | East Baedoor                  | Rare surname with nomathian origins                                                                                                                                 |
 | Navikon    | East Baedoor, Ansur           | Fairly spread out name on east side of Baedoor areas                                                                                                                |
 | Neerhe     | Isuga and surroundings        | Old Isuga-related house, without aristocratic roots                                                                                                                 |
 | Route      | Whole Baedoor                 | Semi-common surname                                                                                                                                                 |

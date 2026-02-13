@@ -10,6 +10,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Adelaie](Topics/Geography/Old_Continent/Jitado/Cities/Adelaie.md)
 - [Adventurers' Guild](Topics/Guilds/List/Alkaesar_Adventurers_Guild.md) (Alkaesar/Morpat)
 - [Aerial Pirates](Topics/Guilds/List/Aerial_Pirates.md)
+- [The Age of Decline](Topics/Cultures/Baedoorians/List/The_Age_of_Decline.md)
 - [Alkaesar](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Alkaesar.md) (city)
 - [Allaut, Eduard](Topics/Characters/List/Allaut_Eduard.md)
 - [Allaut, Isehir](Topics/Characters/List/Allaut_Isehir.md)
@@ -73,6 +74,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Evros](Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)
 
 ### F
+- [The Fall of Gods](Topics/Cultures/Baedoorians/List/The_Fall_of_Gods.md)
 - [Faraurin](Topics/Nature/Foods/List/Faraurin.md)
 - [Fegar](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Fegar.md)
 - [Ferves Navikon](Topics/Characters/List/Navikon_Ferves.md)

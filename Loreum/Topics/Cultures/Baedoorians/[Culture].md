@@ -16,7 +16,9 @@ various influences - primarily jitadian and nomathic.
   - Collectibles
     - [Winfleton Deck](List/Winfleton_Deck.md)
   - Press
+    - [The Age of Decline](List/The_Age_of_Decline.md) 
     - [Eternal Flame of Avantgarde](List/Eternal_Flame_of_Avantgarde.md)
+    - [The Fall of Gods](List/The_Fall_of_Gods.md)
     - [New Culture of Baedoor](List/New_Culture_of_Baedoor.md)
 
 ---

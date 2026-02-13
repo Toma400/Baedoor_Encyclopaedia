@@ -29,3 +29,4 @@
 | Name    | Localisation               | Description          |
 |---------|----------------------------|----------------------|
 | Warthog | Western and southern coast | Aristocratic surname |
+| Narghot | Across whole western side  |                      |
