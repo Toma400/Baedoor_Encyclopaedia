@@ -12,4 +12,5 @@ Every plant existing on [East Moon](/Loreum/Topics/Geography/Moon_Continent/East
 #### 🔹 [Lyrensi Purpui](List/Lyrensi_Purpui.md)
 
 ---
-♜: Middle West Valley needs proper name + more parts/plants
+♜: Middle West Valley needs proper name + more parts/plants  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🌿](/Loreum/Topics/Nature/Herbarium.md)

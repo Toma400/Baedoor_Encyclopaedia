@@ -7,3 +7,4 @@ Every plant existing on [Jitado](/Loreum/Topics/Geography/Old_Continent/Jitado.m
 #### 🔹 [Hyerbitus](List/Hyerbitus.md)
 
 ---
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🌿](/Loreum/Topics/Nature/Herbarium.md)

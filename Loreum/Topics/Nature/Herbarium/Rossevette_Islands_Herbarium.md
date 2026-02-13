@@ -20,4 +20,5 @@ Every plant existing on Rossevette Islands.
 #### 🔹 Blackberry Bushes
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🌿](/Loreum/Topics/Nature/Herbarium.md)
