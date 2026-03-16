@@ -19,5 +19,6 @@ stated in their articles.
 - Starshifters
   - [Si Avani](/Loreum/Topics/Characters/List/Avani_Si.md)
   - [Xaine](/Loreum/Topics/Characters/List/Xaine.md)
+- [Souvie Darakon](/Loreum/Topics/Characters/List/Darakon_Souvie.md)
 - [Tom Varteford](/Loreum/Topics/Characters/List/Varteford_Tom.md)
 - [Vancuerto](/Loreum/Topics/Characters/List/Vancuerto.md)

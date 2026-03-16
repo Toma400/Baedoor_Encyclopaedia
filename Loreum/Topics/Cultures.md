@@ -41,7 +41,7 @@ LEGEND:
 - [Kaerians](Cultures/Kaerians/[Culture].md) 🔹 [💮](/Langue/Families/Nomathian.md)
 - [Kaikhi](Cultures/Kaikhi/[Culture].md)
 - [Kehts](Cultures/Kehts/[Culture].md) 🔹 [🥮](/Loreum/Topics/Nature/Foods/Kehtic.md)
-- [Latoka](Cultures/Latoka/[Culture].md) 🔹 [㊙️](/Loreum/Topics/Characters/Names/Latoka.md)
+- [Latoka](Cultures/Latoka/[Culture].md) 🔹 [🏯](Cultures/Latoka/Architecture.md) [㊙️](/Loreum/Topics/Characters/Names/Latoka.md)
 - [Etts](Cultures/LatokaEtts/[Culture].md)
 - [Ormaths](Cultures/Ormaths/[Culture].md)
 - Nomathians (Baedoor) 🔹 [㊙️](/Loreum/Topics/Characters/Names/NomathianBae.md)

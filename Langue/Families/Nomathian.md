@@ -16,7 +16,8 @@ Their language is known for rustly sound, which was often point of baedoorian jo
 |  Word  | Translation                                                                               | Pronunciation | Etymology |
 |:------:|-------------------------------------------------------------------------------------------|---------------|:---------:|
 | nahegh | origin name of [Naven](/Loreum/Topics/Nature/Bestiary/List/Naven.md), means "bloody bird" | nah:ekh       |     -     |
-|  serj  | rooted, old                                                                               | ser:j         |     -     |
+|  serj  | rooted, old                                                                               | ser:ʐi        |     -     |
+| serje  | greetings (used to denote respect to older/experienced nomaths)                           | ser:ʐie       |  `serj`   |
 | skirr  | cold coast                                                                                | ʃ:kirr        |     -     |
 |  wešš  | word used at jitadish governors and army, pejorative                                      | weʃ↑:         |     -     |
 
@@ -24,3 +25,7 @@ Their language is known for rustly sound, which was often point of baedoorian jo
 **Gh** should have various pronunciation, e.g. while `nahegh` is read as `nahekh`, `neghdit` should
 be just `negdit`; either this should have some rules under which it works, or be a matter of accent
 between Baedoor nomathians and serj I guess
+
+**j** (in ser*j* for example) is Polish `żi` (in IPA apparently `ʐ`?)
+
+**š** is Polish `sz` (in IPA apparently `ʃ`)

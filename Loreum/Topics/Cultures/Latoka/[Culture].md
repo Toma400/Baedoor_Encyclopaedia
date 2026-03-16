@@ -31,6 +31,10 @@
 |:-------------------------------------------------------------:|
 |               Latoka ship seen in Ascaron port                |
 
+### Cultural Topics
+- [🏯 Architecture](Architecture.md)
+- [㊙️ Names](/Loreum/Topics/Characters/Names/Latoka.md)
+
 ---
 ♜  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures.md)
