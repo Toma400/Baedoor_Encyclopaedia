@@ -1,0 +1,1 @@
+--o:"../Exact Search.exe"
