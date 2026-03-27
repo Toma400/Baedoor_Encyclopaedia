@@ -1,7 +1,7 @@
 # 🏺 Winfleton Deck
 
 ---
-**Winfleton Deck** is collection of rare, collectible cards, made in 909 NE. It is almost impossible
+**Winfleton Deck** is collection of rare, collectible cards, made in 409 NE. It is almost impossible
 to get full deck of coherent cards, which was initial plan by their creator [Heim Winfleton](/Loreum/Topics/Characters/List/Winfleton_Heim.md),
 as a game towards collectors. He sold all of those separately, in few variants.
 
