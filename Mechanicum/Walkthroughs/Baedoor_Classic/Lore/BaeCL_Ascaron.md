@@ -160,7 +160,10 @@
 
 ---
 ### Lore accuracy
-...
+Very high lore accuracy, with only minimal nitpicks that do not follow established canon or broader
+economic sense. So most notably the weird 1096 (A.D.?) date, economy built on diamonds and
+transformations of coal to these.
+Few renames were done to ensure more creative feel to what was mostly generic region naming. 
 
 Notebook source: [**L.010:Egypt Colony**](/Mechanicum/Walkthroughs/Baedoor_Classic/Sources/L_010_Egypt_Colony.md)
 

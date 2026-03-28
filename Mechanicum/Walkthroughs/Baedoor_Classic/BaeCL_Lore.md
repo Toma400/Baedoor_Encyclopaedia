@@ -9,6 +9,7 @@
 - [Baedoor Surroundings](Lore/BaeCL_Baedoor_Surroundings.md)
 - [Coonhě Forest](Lore/BaeCL_Coonhě_Forest.md)
 - [Dvickhet](Lore/BaeCL_Dvickhet.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Dvickhet.md)
+- [Emerald Hills](Lore/BaeCL_Emerald_Hills.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Rossevette_Islands/Regions/Emerald_Hills.md)
 - [Fegar County](Lore/BaeCL_Fegar.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Fegar.md)
 - [Ino Anor](Lore/BaeCL_Ino_Anor.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)
 - [Isuga](Lore/BaeCL_Isuga.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md)
@@ -18,6 +19,7 @@
 - [Mining Hills](Lore/BaeCL_Mining_Hills.md)
 - [Raliun](Lore/BaeCL_Raliun.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
 - [Renvughe](Lore/BaeCL_Renvughe.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Renvughe.md)
+- [Shimo Valley](Lore/BaeCL_Shimo_Valley.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Rossevette_Islands/Regions/Shimo_Valley.md)
 - [Terrean Savannah](Lore/BaeCL_Terrean_Wilderness.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Lands/Terrean_Savannah.md)
 - [Tom Varteford Plantation](Lore/BaeCL_Tom_Varteford_Plantation.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Places/Tom_Varteford_Plantation.md)
 
@@ -103,15 +105,16 @@
         <th>Timeframe</th>
         <td>middle / late Old Era</td>
         <td rowspan="2">
-            🏞️   <a href="Lore/BaeCL_Emerald_Hills.md">       Emerald Hills       </a><br>
+            🌄   <a href="Lore/BaeCL_Emerald_Hills.md">       Emerald Hills       </a><br>
             🌆   <a href="Lore/BaeCL_Ascaron.md">             Ascaron             </a><br>
             ⛰️   <a href="Lore/BaeCL_Asalexandriasi_Road.md"> Asalexandriasi Road </a><br>
-            🏡   <a href="Lore/BaeCL_Renvughe.md">            Renvughe            </a>
+            🏡   <a href="Lore/BaeCL_Renvughe.md">            Renvughe            </a><br>
+            🏞️   <a href="Lore/BaeCL_Shimo_Valley.md">        Shimo Valley        </a>
         </td>
     </tr>
     <tr>
         <th>Location</th>
-        <td>?</td>
+        <td>Rossevette Island, Northwestern Coast</td>
     </tr>
 
 </table>

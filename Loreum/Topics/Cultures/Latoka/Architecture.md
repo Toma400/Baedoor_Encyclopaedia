@@ -42,11 +42,25 @@ and ceremonies, through burials, to finally scientific research or pure utility 
 |:-------------------------------------------------------------:|:------------------------:|
 | ![](/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_15.jpg) |       **Pyramid**        |
 | ![](/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_15.jpg) |    **Temple? Tomb?**     |
+| ![](/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_22.jpg) |    **Temple? Tomb?**     |
+| ![](/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_23.jpg) |   **Tomb (interior)**    |
 | ![](/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_16.jpg) |        **Spire**         |
-| ![](/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_17.jpg) | **In-ground structures** |
 | ![](/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_12.jpg) |    **Latoka even??**     |
-| ![](/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_2.jpg)  |  **Ruined complexes **   |
+| ![](/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_2.jpg)  |   **Ruined complexes**   |
+
+### Tree and tunnel structures
+Probably inspired by pahtri neighbours, there are few latoka structures built on trees.
+In addition, latoka seem to frequently (considering how rarely this would be expected to happen)
+build structures using tunnels through rocky/mountainous parts of environment.
+
+| ![](/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_6.jpg)  | ![](/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_8.jpg)  |
+|:-------------------------------------------------------------:|:-------------------------------------------------------------:|
+|                        Tree watchtower                        |                       Underground metro                       |
+| ![](/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_11.jpg) | ![](/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_17.jpg) | 
+|                     Pass below spire rock                     |                            Library                            |
 
 ---
-♜  
+♜: small coastal buildings are said to be built from "żółć", which translates to "yellow"
+I'd reckon it may be some variant of clay or maybe mixture of clay and something else, for full
+context see Ascaron's BaeCL archive  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures/Latoka/[Culture].md)

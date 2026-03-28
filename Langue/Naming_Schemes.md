@@ -16,6 +16,7 @@ in alphabetical order:
   - [Baedoorian](#nomathians-baedoorian)
   - [Kaerian](#nomathians-kaerian)
 - [Saphtris](#saphtris)
+- [Latoka](#latoka)
 - Other
   - [Kaer cross-lingual](#kaer-cross-lingual)
 
@@ -43,6 +44,14 @@ in alphabetical order:
   - `v` is rare, used only on beginning
   - usage of heavier letters (such as `r`, `d`) is emphasized
   - can use `-is` and `-il` (rare) suffix as common to both kehts and erds
+
+### Latoka
+  - should feel somewhat egyptian/sumerian
+  - commonly ends with `-t`, `-at`
+  - common double letters such as `kk`, `mm`
+  - common use of `u`, `h`
+  - sometimes usage of hard letters such as `y` and `th`, and hard softs like `k`
+  - character name-specific, but may be expanded to settlements: start with `in-`
 
 ### Nomathians (kaerian)
   - `g` is unique and popular, often used at the end or in combination as `gh`

@@ -29,8 +29,9 @@ as ghloddish naming does, albeit the position of those wovels is inside name, no
 |---------|----------------|-----------------------------|
 | Inar    | 🔥 Common      | Has masculine form (Iner)   |
 | Inluat  | 🔆 Semi-common | Has masculine form (Inluet) |
-| Nel     | 🔆 Semi-common |                             |
-| Nelvose | 🔆 Semi-common |                             |
 | Lat     | 🔆 Semi-common |                             |
 | Luat    | 🏵️ Semi-rare  | Mix of Lut and Lat names    |
 | Lut     | 🔆 Semi-common |                             |
+| Nel     | 🔆 Semi-common |                             |
+| Nelvose | 🔆 Semi-common |                             |
+| Onyri   | 🏵️ Semi-rare  |                             |
