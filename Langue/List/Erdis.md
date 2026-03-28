@@ -1,4 +1,4 @@
-# 🪔 Erdis
+# 🎏 Erdis
 | ![](/Assets/erdis_script.png) |
 |:-----------------------------:|
 |         Erdis script          |

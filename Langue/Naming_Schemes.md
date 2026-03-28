@@ -12,11 +12,16 @@ in alphabetical order:
 - [Baedoorians](#baedoorians)
 - [Erds](#erds)
 - [Kehts](#kehts)
+- [Latoka](#latoka)
+  - [Etts](#latoka-etts)
 - Nomathians
   - [Baedoorian](#nomathians-baedoorian)
   - [Kaerian](#nomathians-kaerian)
-- [Saphtris](#saphtris)
-- [Latoka](#latoka)
+- Tris
+  - [Eastern Tri Common](#eastern-tri-common)
+    - [Saphtris](#saphtris)
+    - [Pahtris](#pahtris)
+    - [Voitris](#voitris)
 - Other
   - [Kaer cross-lingual](#kaer-cross-lingual)
 
@@ -29,6 +34,29 @@ in alphabetical order:
   - repeated `tt` also exist (Ettua) but incredibly rarely
   - `qu` is rare and likely nomathian-influenced form of `u` (unsure? maybe `k`/`gh` origin?)
   - repeated suffixes are rare, but exist (`-on`, `-is`)
+
+### Latoka
+  - should feel somewhat egyptian/sumerian
+  - commonly ends with `-t`, `-at`
+  - common double letters such as `kk`, `mm`
+  - rarer double letters such as `ll`
+  - common use of `u`, `h`
+  - sometimes usage of hard letters such as `y` and `th`, and hard softs like `k`
+  - character name-specific, but may be expanded to settlements: start with `in-`
+
+### Latoka (etts)
+  - less egyptian/sumerian than pure latoka
+  - more frequent usage of hard letters such as `y` and `th`, and hard softs like `k`
+  - use of unique `tt` letter (replaced by unified `th` in regular latoka)
+
+### (Eastern) Tri Common
+  - usage of `yi` and `iy` is not uncommon, albeit they are different letters
+
+### Pahtris
+  - `y` is used more commonly than western tri
+
+### Voitris
+  - `ae` is used, but differently voiced than baedoorians (can be first or last too)
 
 ### Nomathians (baedoorian)
   - `g` is unique and popular, often used at the end or in combination as `gh`
@@ -44,14 +72,6 @@ in alphabetical order:
   - `v` is rare, used only on beginning
   - usage of heavier letters (such as `r`, `d`) is emphasized
   - can use `-is` and `-il` (rare) suffix as common to both kehts and erds
-
-### Latoka
-  - should feel somewhat egyptian/sumerian
-  - commonly ends with `-t`, `-at`
-  - common double letters such as `kk`, `mm`
-  - common use of `u`, `h`
-  - sometimes usage of hard letters such as `y` and `th`, and hard softs like `k`
-  - character name-specific, but may be expanded to settlements: start with `in-`
 
 ### Nomathians (kaerian)
   - `g` is unique and popular, often used at the end or in combination as `gh`

@@ -1,4 +1,4 @@
-# 🪔 Kehtic
+# 🎏 Kehtic
 
 Language used by **kehts**, having its origins in goblin speak.
 

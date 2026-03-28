@@ -5,7 +5,7 @@ Every plant existing on Rossevette Islands.
 ### Rossevette
 #### 🔹 Oak
 #### 🔹 Blackberry Bushes
-#### 🔹 Zhoa
+#### 🔹 [Zhoa](List/Zhoa.md)
 
 ### Karos
 #### 🔹 Blackberry Bushes

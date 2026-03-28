@@ -7,6 +7,15 @@
 **Rossevette Archipelago** is group of islands counting the main eponymous island and four
 smaller ones - Karos, Fariva, Torvos and Veimos - sometimes called "outer Rossevette".
 
+Resources: `petroleum`, `coal`, `pearls`, `diamonds?`, `iron`, `gold`, `fish`, `wheat`
+
+Population/settlement density rules:
+- Rossevette `[latoka ~= voitri]`
+- Karos `[Karos {i} >> pahtri == goblins]`
+- Torvos `[pahtri == latoka >> goblins]`
+- Fariva `[pahtri >> latoka == goblins]`
+- Veimos `[pahtri >> goblins]`
+
 ---
 ### CITIES
 - Rossevette
@@ -78,64 +87,16 @@ smaller ones - Karos, Fariva, Torvos and Veimos - sometimes called "outer Rossev
   - Uppat `latoka | fortress built to protect the river leading to Ascaron`
 
 ### LANDSCAPES
+- Rossevette
+  - Lake Siivain `between Tarsis and Ascaron | shouldn't have more latokaish name?`
+  - Eth Pass `where?`
 
 ### REGIONS
-- [Emerald Hills](Rossevette_Islands/Regions/Emerald_Hills.md) `rename from Green Hills`
-- [Shimo Valley](Rossevette_Islands/Regions/Shimo_Valley.md)
-- Dewehr Mountains `originally Dead Mountains`
-- Lan Ratakan `originally Old Forest (Stary Bór)`
-
----
-Notebook names:
-- Settlements: `Ascaron`, `Renvughe` (baedoorian?)
-- Regions:
-  - `Green Heights`
-    - meadows
-    - cultivated lands (farms)
-  - `Dead Mountains` (etts)
-  - `Old Forest`
-- Renames? `Tarsis -> Tarravau? Tarvau?` | less baedoorian (might be of baedoorian origins)
-- Geographical features:
-  - Lake Siivain
-  - Dewehr Mountains
-  - Eth Pass `rename?`
-
-Notebook notes:
-- Resources: `petroleum`, `coal`, `pearls`, `diamonds?`, `iron`, `gold`
-- Fauna: `fish`
-- Flora: `oak`, `blackberry bush`, `zhoa` (tree, see `arv_rossevette_10`), `wheat`
-
----
-Landscape names: `Dewehr Mountains` `Eth Pass`
-
-// `Seyhis / Abar` // `Innarat? (made up out of in- + nn + -at) / Inarrat`
-
-### General Naming Scheme
-- Voitri
-  - `ae` is used, but differently voiced than baedoorians (can be first or last too)
-- Pahtri
-  - `y` is used more commonly than western tri
-- (Eastern) Tri Common
-  - usage of `yi` and `iy` is not uncommon, albeit they are different letters
-- Latoka
-  - should feel somewhat egyptian/sumerian
-  - commonly ends with `-t`, `-at`
-  - common double letters such as `kk`, `mm`
-  - common use of `u`, `h`
-  - sometimes usage of hard letters such as `y` and `th`, and hard softs like `k`
-  - character name-specific, but may be expanded to settlements: start with `in-`
-- Etts
-  - less egyptian/sumerian than pure latoka
-  - more frequent usage of hard letters such as `y` and `th`, and hard softs like `k`
-  - use of unique `tt` letter (replaced by unified `th` in regular latoka)
-- Karos state **uses baedoorian naming**
-
-Population/settlement density rules:
-- Rossevette `[latoka ~= voitri]`
-- Karos `[Karos {i} >> pahtri == goblins]`
-- Torvos `[pahtri == latoka >> goblins]`
-- Fariva `[pahtri >> latoka == goblins]`
-- Veimos `[pahtri >> goblins]`
+- Rossevette
+  - [Emerald Hills](Rossevette_Islands/Regions/Emerald_Hills.md) `renamed from Green Hills/Heights`
+  - [Shimo Valley](Rossevette_Islands/Regions/Shimo_Valley.md)
+  - Dewehr Mountains `originally Dead Mountains`
+  - Lan Ratakan `originally Old Forest (Stary Bór)`
 
 ### TOPICS
 ####   🔷 [🐊 Bestiary (Inner)](/Loreum/Topics/Nature/Bestiary/Rossevette_Bestiary.md)

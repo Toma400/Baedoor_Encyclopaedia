@@ -35,6 +35,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor.md) (island)
 - [Baedoor Railroad Enterprise](Topics/Guilds/List/Baedoor_Railroad_Enterprise.md)
 - [Baedoorians](Topics/Cultures/Baedoorians/[Culture].md)
+- [Baedoorish](/Langue/Families/Baedoorish.md)
 - [Black Tache](Topics/Characters/List/Black_Tache.md)
 - [The Blossoming Lavender](Topics/Guilds/List/The_Blossoming_Lavender.md)
 
@@ -58,6 +59,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### E
 - [Eduard Allaut](Topics/Characters/List/Allaut_Eduard.md)
 - [East Moon](Topics/Geography/Moon_Continent/East_Moon.md)
+- [Ehric](/Langue/List/Ehric.md)
 - [Eir, Delai](Topics/Characters/List/Eir_Delai.md)
 - [Eiron, Zan](Topics/Characters/List/Eiron_Zan.md)
 - [Elea Varteford](Topics/Characters/List/Varteford_Elea.md)
@@ -66,6 +68,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Enfrvein](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
 - [Ennaeric Ocean](Topics/Geography/[Oceans]/Ennaeric_Ocean.md)
 - [Erds](Topics/Cultures/Erds/[Culture].md) (culture)
+- [Erdis](/Langue/List/Erdis.md)
 - [Esh Enahr](Topics/Characters/List/Enahr_Esh.md)
 - [Eternal Flame of Avantgarde](Topics/Cultures/Baedoorians/List/Eternal_Flame_of_Avantgarde.md)
 - [Etts](Topics/Cultures/LatokaEtts/[Culture].md)
@@ -85,11 +88,13 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Funt](Topics/Cultures/Baedoorians/List/Funt.md)
 
 ### G
+- [Ghloddish](/Langue/Families/Ghloddish.md)
 - [Ghlodds](Topics/Races/Regular/Ghlodds.md) (race)
 - [Ghlodds](Topics/Cultures/Ghlodds/[Culture].md) (culture)
 - [Goblins](Topics/Races/Creature/Goblins.md) (race)
 - [Goblins](Topics/Cultures/Goblins_Kaer/[Culture].md) (culture, Kaer)
 - [Goblins](Topics/Cultures/Goblins_Rossevette/[Culture].md) (culture, Rossevette)
+- [Goblish](/Langue/Families/Goblish.md)
 - [Golden Lighthouse of Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
 - [Great Baedoorian Railroad](Topics/Geography/Baedoor_Continent/Baedoor/Places/Great_Baedoorian_Railroad.md)
 - [Guild of Adventurers](Topics/Guilds/List/Alkaesar_Adventurers_Guild.md) (Alkaesar/Morpat)
@@ -112,6 +117,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### J
 - [Jaspen](Topics/Nature/Herbarium/List/Jaspen.md)
 - [Jitadians](Topics/Cultures/Jitadians/[Culture].md)
+- [Jitadish](/Langue/Families/Jitadish.md)
 - [Jitado](Topics/Geography/Old_Continent/Jitado.md) (island)
 - [Joeseh Thon](Topics/Characters/List/Thon_Joeseh.md)
 
@@ -123,6 +129,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Kaikhi](Topics/Cultures/Kaikhi/[Culture].md) (culture)
 - [Kalvhyk](Topics/Nature/Foods/List/Kalvhyk.md)
 - [Karos](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Karos.md)
+- [Kehtic](/Langue/List/Kehtic.md)
 - [Kehts](Topics/Races/Regular/Kehts.md) (race)
 - [Kehts](Topics/Cultures/Kehts/[Culture].md) (culture)
 - [Kel Desert](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Kel_Desert.md)
@@ -148,14 +155,18 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### N
 - [Naevin Manaut](Topics/Characters/List/Manaut_Naevin.md)
+- [Nalleput](/Langue/List/Nalleput.md)
+- [Nalput](/Langue/List/Nalleput.md)
 - [Natem Calgori](Topics/Characters/List/Calgori_Natem.md)
 - [Naven](Topics/Nature/Bestiary/List/Naven.md)
 - [Navikon, Ferves](Topics/Characters/List/Navikon_Ferves.md)
 - [Nerau](Topics/Nature/Bestiary/List/Nerau.md)
+- [Neuvea Romanai](Topics/Cultures/Baedoorians/List/Neuvea_Romanai.md)
 - [New Culture of Baedoor](Topics/Cultures/Baedoorians/List/New_Culture_of_Baedoor.md)
 - [Nferth](Topics/Geography/Moon_Continent/East_Moon/Nferth.md)
 - [Nira, Keno](Topics/Characters/List/Nira_Keno.md)
 - [Nomathians](Topics/Cultures/Kaerians/[Culture].md) (culture, Kaer)
+- [Nomathian](/Langue/Families/Nomathian.md)
 - [Nyme](Topics/Geography/Moon_Continent/East_Moon/Cities/Nyme.md)
 
 ### O
@@ -208,6 +219,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Tinanat](Topics/Geography/Baedoor_Continent/Kaer/Cities/Tinanat.md)
 - [Tom Varteford](Topics/Characters/List/Varteford_Tom.md)
 - [Tom Varteford's Plantation](Topics/Geography/Baedoor_Continent/Baedoor/Places/Tom_Varteford_Plantation.md)
+- [Trish](/Langue/Families/Trish.md)
 - [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
 
 ### U
@@ -241,3 +253,4 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### Z
 - [Zan Eiron](Topics/Characters/List/Eiron_Zan.md)
+- [Zhoa](Topics/Nature/Herbarium/List/Zhoa.md)
