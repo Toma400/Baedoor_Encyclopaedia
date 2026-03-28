@@ -23,6 +23,3 @@ Encyclopaedia is set on four pillars:
 - ⚙️ [Encyclopaedia Mechanicum](Mechanicum/Mechanicum.md) - explaining RPG systems and storing all detailed info on items, including technicals like statistics
 
 Click on section names to head to specific one.
-
----
-✥
