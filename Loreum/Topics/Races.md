@@ -38,7 +38,7 @@ Skull ☠️ emoji indicates extinct race.
 ### Creature races
 ####   🔹 [Goblins](Races/Creature/Goblins.md)
 ####   🔹 [Kaikhi](Races/Creature/Kaikhi.md)
-####   🔹 Luuika
+####   🔹 Luuika `Arennan pre-saphtri race`
 ####   🔹 [Stheyr](Races/Creature/Stheyr.md)
 ####   🔹 [Uruati](Races/Creature/Uruati.md)
 ####   🔹 [Serpent Race]
@@ -46,6 +46,9 @@ Skull ☠️ emoji indicates extinct race.
 ####   🔹 [Minotaur Race]
 ####   🔹 [Talaaxi](Races/Creature/Talaaxi.md) `Ixathei apes`
 ####   🔹 [Cthulhu-Likes] `see cultures doc`
+####   🔹 Maita `baedoorian, see issue #91`
+####   🔹 Tsisu `baedoorian, see issue #91`
+####   🔹 Latssaeti `baedoorian, see issue #91`
 
 ### Elemental races
 ####   🔹 [Apta](Races/Regular/Apta.md) `partially regular`
