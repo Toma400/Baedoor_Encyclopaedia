@@ -21,7 +21,13 @@ DOCS = {
     "Historical Account of Latoka.pdf":    "https://docs.google.com/document/d/12JSm3TyPybiWG95AjuDo6ZSo6D-HxHw4vzdXCpQpBRE/export?format=pdf",
     # dyalnesi
     "Dyalnesi Deities.pdf":                "https://docs.google.com/document/d/1N1q2gWGv6wppPlvksa5M5zVJedY5vKjrkKLPOMg-FaM/export?format=pdf",
+    # books
+    "Book - Southern Islands.pdf":         "https://docs.google.com/document/d/11yRsKR9pXck4e50ZQAa7vALe4ghPmJiebQY-IdLGf58/export?format=pdf",
+    "Book - Origins of Eastern Tri.pdf":   "https://docs.google.com/document/d/1vzBuvjvWgRHYwLC7JP4GjiZfo66AArjq439w3fdE3x0/export?format=pdf",
+    "Book - Pahtric Religious Text.pdf":   "https://docs.google.com/document/d/1o_ptIspeCuj4hU2D6CxX5m5b6pKTIyhTMCm2sRqIfTI/export?format=pdf",
     # other
+    "FSAM Dialogues.pdf":                  "https://docs.google.com/document/d/1TGVL16VUYjGt6ezZAx7Ow440BU5eFkRi5T95E8U3hng/export?format=pdf",
+    "Lore Issues.pdf":                     "https://docs.google.com/document/d/1yVKL89tu0rjsOJHpM9oSLCK1BtVpOscQ7yJWiU8V3vM/export?format=pdf",
     "Rev's Worldbuilding Questions.pdf":   "https://docs.google.com/document/d/1S9M-lykYW7in-PHx1-ADrIggCdQKR2_CqYs2mmXiqPo/export?format=pdf",
 }
 OUT = "../Docs/"
