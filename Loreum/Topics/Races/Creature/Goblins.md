@@ -163,6 +163,7 @@ into the wild.
 
 ### Goblin cultures
 - [Kaeric Goblins](/Loreum/Topics/Cultures/Goblins_Kaer/[Culture].md)
+- [Rossevettic Goblins](/Loreum/Topics/Cultures/Goblins_Rossevette/[Culture].md)
 
 ---
 ♜:  

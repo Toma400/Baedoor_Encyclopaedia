@@ -6,7 +6,8 @@ goblins' common interactions with pahtris and latoka.
 
 ### Settlements
 Rossevette goblins are the only ones that settle themselves in the wild, building their own
-houses out of various materials (with heavy preference of wood, leather, thatch and alikes).  
+houses out of various materials (with heavy preference of wood, leather, thatch and alikes),
+sometimes painted in colourful patterns.  
 While their style is fairly simple, it has its practical edge.
 
 The communal character of tribes allows houses to be fairly open, so the typical goblin 
@@ -21,6 +22,10 @@ The housing is focal part of the tribe's care of each its member, so whenever th
 mature enough to settle themselves, the whole tribe puts effort to provide them a home.  
 Once built or found, the house belongs now to the goblin until their death or (incredibly rare)
 events that would deprive them of them.
+
+### Cultural Topics
+- [🕌 Spirituality](Spirituality.md)
+- [💮 Language](/Langue/Families/Goblish.md)
 
 ---
 ♜  

@@ -10,6 +10,8 @@ of pahtri and kehts. It is due to...
 
 [Kaer Goblin's "Symbolism" has language part too]
 
+[Words that are harder to pronounce//? ka'le(n)tj / ~lkjoknuktjkka]
+
 [//]: # (### Word types)
 
 [//]: # (Goblin languages )

@@ -12,6 +12,7 @@ used primarily to cover from rain and other dangers.
 
 ### Cultural Topics
 - [🧿 Symbolism](Symbolism.md)
+- [💮 Language](/Langue/Families/Goblish.md)
 ### Cultural Elements
 - Organisation
   - [Tribe](List/Tribe.md)

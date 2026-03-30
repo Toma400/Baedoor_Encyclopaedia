@@ -14,9 +14,6 @@
 ### Administrative Systems
 [Realms & Kingdoms]
 
-### Eyes As Mirrors
-...
-
 ### Slavery
 ... [check Ascaron BaeCL page for my thoughts]
 
@@ -27,6 +24,8 @@
 [Teleport]
 
 ### Transport
+++ teleports, trains???
+
 | ![](/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_18.jpg) |
 |:-------------------------------------------------------------:|
 |               Latoka ship seen in Ascaron port                |
