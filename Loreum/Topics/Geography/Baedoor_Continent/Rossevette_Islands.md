@@ -7,6 +7,16 @@
 **Rossevette Archipelago** is group of islands counting the main eponymous island and four
 smaller ones - Karos, Fariva, Torvos and Veimos - sometimes called "outer Rossevette".
 
+### ISLANDS
+#### Rossevette
+<img style="float: right;" src="whatever.jpg">
+Stuff
+
+#### Karos
+#### Torvos
+#### Fariva
+#### Veimos
+
 Resources: `petroleum`, `coal`, `pearls`, `diamonds?`, `iron`, `gold`, `fish`, `wheat`
 
 Population/settlement density rules:
@@ -95,6 +105,7 @@ Population/settlement density rules:
 - Rossevette
   - [Emerald Hills](Rossevette_Islands/Regions/Emerald_Hills.md) `renamed from Green Hills/Heights`
   - [Shimo Valley](Rossevette_Islands/Regions/Shimo_Valley.md)
+  - Ilumat Highlands `taken from TR's region which name got scraped`
   - Dewehr Mountains `originally Dead Mountains`
   - Lan Ratakan `originally Old Forest (Stary Bór)`
 

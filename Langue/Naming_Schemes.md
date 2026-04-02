@@ -31,7 +31,6 @@ in alphabetical order:
   - `a`, `i` are frequently used vowels
   - words usually flow between single vowels and consonants
   - some consonants can repeat (`nn`, `rr`, `ee`, `oo`, `ll`) `shouldn't -rr- be nomathian influence?`
-  - repeated `tt` also exist (Ettua) but incredibly rarely
   - `qu` is rare and likely nomathian-influenced form of `u` (unsure? maybe `k`/`gh` origin?)
   - repeated suffixes are rare, but exist (`-on`, `-is`)
 

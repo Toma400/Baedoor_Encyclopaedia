@@ -27,7 +27,7 @@ Skull ☠️ emoji indicates extinct race.
 ####     🔹 Lunatri (Western Tri)
 ####     🔹 Eirtri (Eastern Tri)
 ####       🔹 [Saphtri](Races/Regular/TriSaphtri.md) `desert tri, adopted yellow skin`
-####       🔹 Voitri `dark tri, cursed by Lainaltu`
+####       🔹 Voitri `dark tri, cursed by Lainaltu?`
 ####       🔹 Pahtri `lower tri, of race mixing with goblins/latoka`
 ####       🔹 Western Eirtri ☠️ `silver-skinned tri`
 ####   🔹 Ehrs `Seiteh surface race`
