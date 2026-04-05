@@ -46,9 +46,10 @@ Skull ☠️ emoji indicates extinct race.
 ####   🔹 [Minotaur Race]
 ####   🔹 [Talaaxi](Races/Creature/Talaaxi.md) `Ixathei apes`
 ####   🔹 [Cthulhu-Likes] `see cultures doc`
-####   🔹 Maita `baedoorian, see issue #91`
-####   🔹 Tsisu `baedoorian, see issue #91`
-####   🔹 Latssaeti `baedoorian, see issue #91`
+####   🔹 [Flesh races](Races/Flesh_Race.md)
+####     🔹 [Maita](Races/Creature/Maita.md)
+####     🔹 [Tsisu](Races/Creature/Tsisu.md)
+####     🔹 [Latssaeti](Races/Creature/Latssaeti.md)
 
 ### Elemental races
 ####   🔹 [Apta](Races/Regular/Apta.md) `partially regular`

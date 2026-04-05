@@ -1,8 +1,14 @@
 # 💮 Apta
 
 ---
+| ![](/Assets/Races/apta_maita.png)                                              |
+|--------------------------------------------------------------------------------|
+| Concept art by Popobawa that is very close to how Apta (right) could look like |
+
 **Apta** are race of semi-humanoidal creatures with their skin partially made out of lava-like
-material. This makes their kind situated somewhere in between regular and elemental race.
+material. This makes their kind situated somewhere in between regular and elemental race. It's
+uncertain how much they are connected to [flesh races](../Flesh_Race.md) inhabiting the same 
+territories, but there's a link suggesting apta skin evolved from flesh bodies of that group.
 
 Their organism provides them full resistance from heat, meaning that even while catching fire, the
 burning doesn't hurt them internally, only consuming the skin. The skin however tends to regenerate

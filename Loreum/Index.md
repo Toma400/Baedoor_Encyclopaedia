@@ -81,6 +81,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Faraurin](Topics/Nature/Foods/List/Faraurin.md)
 - [Fegar](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Fegar.md)
 - [Ferves Navikon](Topics/Characters/List/Navikon_Ferves.md)
+- [Flesh Race](Topics/Races/Flesh_Race.md)
 - [Flower Street](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
 - [Followers of the Bound](Topics/Guilds/List/Followers_of_the_Bound.md)
 - [Four Kings](Topics/Cultures/Erds/List/Four_Kings.md)
@@ -138,6 +139,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### L
 - [Latoka](Topics/Cultures/Latoka/[Culture].md) (culture)
+- [Latssaeti](Topics/Races/Creature/Latssaeti.md)
 - [Lavago, Irlan](Topics/Characters/List/Lavago_Irlan.md)
 - [Lensati](Topics/Characters/Families/Lensati.md)
 - [Lhue](Topics/Nature/Herbarium/List/Lhue.md)
@@ -147,6 +149,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### M
 - [Madai](Topics/Nature/Herbarium/List/Madai.md)
+- [Maita](Topics/Races/Creature/Maita.md)
 - [Manaut, Naevin](Topics/Characters/List/Manaut_Naevin.md)
 - [Menerun](Topics/Geography/Old_Continent/Jitado/Cities/Menerun.md)
 - [Mes Inpea](Topics/Geography/Old_Continent/Mes_Inpea.md) (island)
@@ -203,6 +206,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Skirran](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)
 - [Smoke River Collective](Topics/Guilds/List/Smoke_River_Collective.md)
 - [Souvie Darakon](Topics/Characters/List/Darakon_Souvie.md)
+- [Spectre Nosfer](Topics/Nature/Bestiary/List/Spectre_Nosfer.md)
 - [Starshifters](Topics/Guilds/List/Starshifters.md)
 - [Stheyr](Topics/Races/Creature/Stheyr.md)
 
@@ -220,6 +224,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Tom Varteford](Topics/Characters/List/Varteford_Tom.md)
 - [Tom Varteford's Plantation](Topics/Geography/Baedoor_Continent/Baedoor/Places/Tom_Varteford_Plantation.md)
 - [Trish](/Langue/Families/Trish.md)
+- [Tsisu](Topics/Races/Creature/Tsisu.md)
 - [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
 
 ### U

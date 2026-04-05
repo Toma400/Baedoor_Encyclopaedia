@@ -31,7 +31,8 @@ initial sympathy, as few more shy couples revealed their feelings to each other 
 ---
 ### Trivia
 The idea of "cigarette kiss" came to my mind after exchanging cigarette with my friend who I had
-somewhat of a crush towards. Thought it's a neat idea to use forward.
+somewhat of a crush towards. Thought it's a neat idea to use forward.  
+The SRC in itself is also somewhat inspired by Dead Poets Society.
 
 ---
 ♜: more 'rituals'?  

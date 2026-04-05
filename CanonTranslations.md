@@ -11,5 +11,6 @@ in potential GitHub branch merges.
 - Ghlodds > głoddy
 - Madai > madajka
 - Plate Lizard > płytowiec
+- Spectre Nosfer > widmowy latawiec
 - Windy Arista > wietrzne źdźbła
 - Vulcanic Veil > wulkaniczny całun
