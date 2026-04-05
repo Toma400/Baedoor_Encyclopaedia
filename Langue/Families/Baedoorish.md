@@ -57,83 +57,86 @@ old jitadish → old baedoorish → baedoorish
 ᵍ - ghloddish language influence  
 
 ### Baedoorish vocabulary
-|    Word     | Translation                                            | Pronunciation |                   Etymology                   |
-|:-----------:|--------------------------------------------------------|---------------|:---------------------------------------------:|
-|     ade     | sky                                                    | ade:          |                  jit. "ade"                   |
-|    aide     | aerial, related to sky                                 | ai-de:        |                  jit. "aide"                  |
-|    aine     | nautical, related to sea                               | ai-ne:        |                  jit. "aine"                  |
-|    ainsi    | terrestrial, related to land                           | ai-nsi        |                 jit. "aines"                  |
-|     ald     | boar                                                   | ald↑          |                  jit. "ald"                   |
-| anai, ana¹  | entity, being                                          | anai:, ana¹   |    jit. "ana" with trish influence on "āī"    |
-|   anaine    | water being                                            | anai-ne:      |                 jit. "anaine"                 |
-|   anairun   | landlord                                               | anai-run      |                jit. "anairun"                 |
-|    anvar    | mountain (more common for `var`)                       | anfvar        |                   ans + var                   |
-|     ane     | sea                                                    | a-ne:         |                  jit. "ane"                   |
-|   aneinsi   | coast                                                  | ane-insi:     | jit. "aneines" with trish phonetic influences |
-|    anor     | mansion, house                                         | anor          |                  jit. "anor"                  |
-|   anorsi    | home                                                   | anorsi        |                  anor + isi                   |
-|     ans     | land                                                   | ans           |                  jit. "anes"                  |
-|    ayer     | bandit                                                 | ai:r          |                  jit. "ayer"                  |
-|    ayras    | guard, protector                                       | ai:ras↑       |                 jit. "ayeras"                 |
-|    cuer     | valley                                                 | ku-er         |                  jit. "cuer"                  |
-|    curd     | district, long road with many branches                 | kurd          |                  jit. "curd"                  |
-|    dena     | vast                                                   | dena:         |                  jit. "dena"                  |
-|    edra     | south                                                  | :dra          |                  jit. "edra"                  |
-|    enda     | north                                                  | :nda          |                  jit. "enda"                  | 
-|    enfre    | flower, blossoming                                     | :nfre         |                  jit. "enfr"                  |
-|    ennae    | undiscovered, mysterious, mystic, hiding               | :n:ae:        |                 jit. "ennae"                  | 
-|    equa     | howl, squal, weep, sound during pain                   | :qua          |                  jit. "equa"                  |
-|     er      | one                                                    | :r            |                  jit. "aer"                   |
-|     ern     | first                                                  | :rn           |                  jit. "aern"                  |
-|    evros    | fertile, able to grow                                  | efvros        |                 jit. "evoros"                 |
-|    evos     | fields                                                 | efos          |                  jit. "evos"                  |
-|     gur     | anxiety related to death                               | :ur           |                  jit. "gur"                   |
-|     hoi     | forward (shout)                                        | hoi           |                  jit. "hoi"                   |
-|     nes     | hard, difficult to move                                | nes           |                  jit. "nes"                   |
-|    iras     | killing lawfully                                       | iras↑         |                  jit. "iras"                  |
-|     iru     | to have                                                | iru           |                  jit. "iru"                   |
-|    irun     | having                                                 | irun          |                  jit. "irun"                  |
-|     isi     | shelter, oasis                                         | i-si          |                  jit. "isi"                   |
-|    isuga    | resistant, persistant                                  | i-suga        |                adj. of "suga"                 |
-|  ivhevren   | faithfully, trustworthly                               | ifvhefvren    |               adj. of "vhevren"               |
-|   oertque   | dusty                                                  | ert-kue:      |                jit. "kurtque"                 |
-|    lesas    | wise, deep, "it needs wise to reach depths of the sea" | le↓sas↑       |                 jit. "lesas"                  |
-|    mene     | thought                                                | me↓ne:        |                  jit. "mene"                  |
-|  moerloen   | stranger, foreigner                                    | merlen        |                jit. "murloen"                 |
-|     odu     | valley                                                 | odu           |                  jit. "odu"                   |
-|   oestae    | wind                                                   | este          |                 jit. "oestae"                 |
-|  ostaequa   | wind howl, name for wolf-fox being                     | y↓ste-kua     |                jit. "ostaequa"                |
-|    raael    | victory                                                | rae↓l         |                  jit. "rael"                  |
-|     ras     | lawfull murder, to kill lawfully                       | ras↑          |                  jit. "ras"                   |
-|    rioen    | slow                                                   | ri-e↓n        |                     rioe                      |
-|    rioe     | period, time running slow                              | ri-e          |                  jit. "rioe"                  |
-|    rioun    | long (time)                                            | rio-un        |                     rioe                      |
-|     ros     | abundant, rich                                         | ros           |                  jit. "ros"                   |
-|     sev     | scales, to measure, to divide                          | sefv          |                  jit. "sev"                   |
-|    suga     | resistance, persistence                                | suga          |                 jit. "saeva"                  |
-|     sur     | star, hope, solitude                                   | sur           |              jit. "sur"/"vosur"               |
-|    tein     | older form of `ten`                                    | te:in         |                  jit. "tein"                  | 
-|     ten     | the dead, usually in reference to necromanted one      | te:n          |                  jit. "tein"                  | 
-|     ter     | pale                                                   | ter           |                   jit. "ter                   |
-|     var     | mountain (less common, look also: `anvar`)             | fvar          |                  jit. "uar"                   |
-|    suri     | hopeful, alone                                         | suri          |                 adj. of "sur"                 |
-|    vaer     | void, wasteland, anxiety related to nothingness        | wer           |                  jit. "vaer"                  |
-|    vaesk    | tiredness, feeling weak                                | wesk          |                  jit. "vesk"                  |
-|    vein     | road, trail                                            | fve↓in        |                  jit. "vein"                  |
-|    veino    | silent                                                 | fveino        |                  jit. "ino"                   |
-|    velae    | night                                                  | fvele:        |                 jit. "velae"                  |
-|   velaie    | nightly, in night                                      | fvelaie:      |                 jit. "velaie"                 |
-|     veh     | duty, important matter                                 | fve↓h         |                ghloddish "ghe"                |
-|     ven     | dense, warm, safe                                      | fven          |                  jit. "vene"                  |
-|    veno     | silence                                                | fveno         |                   jit. "no"                   |
-|   vhevren   | faithful, trustworthy                                  | fvhefvren     |          jit. "pheren" & "vhepheren"          |
-|     vos     | horizon                                                | wos           |                  jit. "vos"                   |                     
-|    vosur    | hope, solitude                                         | wosur         |                 jit. "vosur"                  |
-|   vosuri    | hopeful, alone                                         | wosuri        |                 jit. "vosuri"                 |
-|     wan     | anchor                                                 | wan           |                  jit. "wan"                   |
-|   wainesi   | harbour                                                | wai-nesi      |                jit. "wainesi"                 |
-| wald, weld¹ | forest                                                 | wald, we↓ld¹  |                  jit. "weld"                  |
-|     wes     | governor                                               | we↓s          |                 nomth. "wešš"                 |
+|    Word     | Translation                                            | Pronunciation |                         Etymology                         |
+|:-----------:|--------------------------------------------------------|---------------|:---------------------------------------------------------:|
+|     ade     | sky                                                    | ade:          |                        jit. "ade"                         |
+|    aide     | aerial, related to sky                                 | ai-de:        |                        jit. "aide"                        |
+|    aine     | nautical, related to sea                               | ai-ne:        |                        jit. "aine"                        |
+|    ainsi    | terrestrial, related to land                           | ai-nsi        |                       jit. "aines"                        |
+|     ald     | boar                                                   | ald↑          |                        jit. "ald"                         |
+| anai, ana¹  | entity, being                                          | anai:, ana¹   |          jit. "ana" with trish influence on "āī"          |
+|   anaine    | water being                                            | anai-ne:      |                       jit. "anaine"                       |
+|   anairun   | landlord                                               | anai-run      |                      jit. "anairun"                       |
+|    anvar    | mountain (more common for `var`)                       | anfvar        |                         ans + var                         |
+|     ane     | sea                                                    | a-ne:         |                        jit. "ane"                         |
+|   aneinsi   | coast                                                  | ane-insi:     |       jit. "aneines" with trish phonetic influences       |
+|    anor     | mansion, house                                         | anor          |                        jit. "anor"                        |
+|   anorsi    | home                                                   | anorsi        |                        anor + isi                         |
+|     ans     | land                                                   | ans           |                        jit. "anes"                        |
+|    ayer     | bandit                                                 | ai:r          |                        jit. "ayer"                        |
+|    ayras    | guard, protector                                       | ai:ras↑       |                       jit. "ayeras"                       |
+|    cuer     | valley                                                 | ku-er         |                        jit. "cuer"                        |
+|    curd     | district, long road with many branches                 | kurd          |                        jit. "curd"                        |
+|    dena     | vast                                                   | dena:         |                        jit. "dena"                        |
+|    edra     | south                                                  | :dra          |                        jit. "edra"                        |
+|    enda     | north                                                  | :nda          |                        jit. "enda"                        | 
+|    enfre    | flower, blossoming                                     | :nfre         |                        jit. "enfr"                        |
+|    ennae    | undiscovered, mysterious, mystic, hiding               | :n:ae:        |                       jit. "ennae"                        | 
+|    equa     | howl, squal, weep, sound during pain                   | :qua          |                        jit. "equa"                        |
+|     er      | one                                                    | :r            |                        jit. "aer"                         |
+|     ern     | first                                                  | :rn           |                        jit. "aern"                        |
+|    evros    | fertile, able to grow                                  | efvros        |                       jit. "evoros"                       |
+|    evos     | fields                                                 | efos          |                        jit. "evos"                        |
+|     gur     | anxiety related to death                               | :ur           |                        jit. "gur"                         |
+|     hoi     | forward (shout)                                        | hoi           |                        jit. "hoi"                         |
+|     nes     | hard, difficult to move                                | nes           |                        jit. "nes"                         |
+|    iras     | killing lawfully                                       | iras↑         |                        jit. "iras"                        |
+|     iru     | to have                                                | iru           |                        jit. "iru"                         |
+|    irun     | having                                                 | irun          |                        jit. "irun"                        |
+|     isi     | shelter, oasis                                         | i-si          |                        jit. "isi"                         |
+|    isuga    | resistant, persistant                                  | i-suga        |                      adj. of "suga"                       |
+|  ivhevren   | faithfully, trustworthly                               | ifvhefvren    |                     adj. of "vhevren"                     |
+|   oertque   | dusty                                                  | ert-kue:      |                      jit. "kurtque"                       |
+|    lesas    | wise, deep, "it needs wise to reach depths of the sea" | le↓sas↑       |                       jit. "lesas"                        |
+|    mene     | thought                                                | me↓ne:        |                        jit. "mene"                        |
+|  moerloen   | stranger, foreigner                                    | merlen        |                      jit. "murloen"                       |
+ |     nea     | cyclical, repeated                                     | ne-a          |                        jit. "nea"                         |
+|   neuvea    | new, renewed                                           | neufv-e↓a     |                   jit. "neuvua" + "nea"                   |
+|     odu     | valley                                                 | odu           |                        jit. "odu"                         |
+|   oestae    | wind                                                   | este          |                       jit. "oestae"                       |
+|  ostaequa   | wind howl, name for wolf-fox being                     | y↓ste-kua     |                      jit. "ostaequa"                      |
+|    raael    | victory                                                | rae↓l         |                        jit. "rael"                        |
+|     ras     | lawfull murder, to kill lawfully                       | ras↑          |                        jit. "ras"                         |
+|    rioen    | slow                                                   | ri-e↓n        |                           rioe                            |
+|    rioe     | period, time running slow                              | ri-e          |                        jit. "rioe"                        |
+|    rioun    | long (time)                                            | rio-un        |                           rioe                            |
+|     rom     | entirety, whole                                        | rom           | simplified influence of "ros" as related term, jit. "omn" |
+|     ros     | abundant, rich                                         | ros           |                        jit. "ros"                         |
+|     sev     | scales, to measure, to divide                          | sefv          |                        jit. "sev"                         |
+|    suga     | resistance, persistence                                | suga          |                       jit. "saeva"                        |
+|     sur     | star, hope, solitude                                   | sur           |                    jit. "sur"/"vosur"                     |
+|    tein     | older form of `ten`                                    | te:in         |                        jit. "tein"                        | 
+|     ten     | the dead, usually in reference to necromanted one      | te:n          |                        jit. "tein"                        | 
+|     ter     | pale                                                   | ter           |                         jit. "ter                         |
+|     var     | mountain (less common, look also: `anvar`)             | fvar          |                        jit. "uar"                         |
+|    suri     | hopeful, alone                                         | suri          |                       adj. of "sur"                       |
+|    vaer     | void, wasteland, anxiety related to nothingness        | wer           |                        jit. "vaer"                        |
+|    vaesk    | tiredness, feeling weak                                | wesk          |                        jit. "vesk"                        |
+|    vein     | road, trail                                            | fve↓in        |                        jit. "vein"                        |
+|    veino    | silent                                                 | fveino        |                        jit. "ino"                         |
+|    velae    | night                                                  | fvele:        |                       jit. "velae"                        |
+|   velaie    | nightly, in night                                      | fvelaie:      |                       jit. "velaie"                       |
+|     veh     | duty, important matter                                 | fve↓h         |                      ghloddish "ghe"                      |
+|     ven     | dense, warm, safe                                      | fven          |                        jit. "vene"                        |
+|    veno     | silence                                                | fveno         |                         jit. "no"                         |
+|   vhevren   | faithful, trustworthy                                  | fvhefvren     |                jit. "pheren" & "vhepheren"                |
+|     vos     | horizon                                                | wos           |                        jit. "vos"                         |                     
+|    vosur    | hope, solitude                                         | wosur         |                       jit. "vosur"                        |
+|   vosuri    | hopeful, alone                                         | wosuri        |                       jit. "vosuri"                       |
+|     wan     | anchor                                                 | wan           |                        jit. "wan"                         |
+|   wainesi   | harbour                                                | wai-nesi      |                      jit. "wainesi"                       |
+| wald, weld¹ | forest                                                 | wald, we↓ld¹  |                        jit. "weld"                        |
+|     wes     | governor                                               | we↓s          |                       nomth. "wešš"                       |
 
 ¹ - only in old baedoorish
 

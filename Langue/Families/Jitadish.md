@@ -112,9 +112,12 @@ Unknown base → protojitadish → old jitadish → common jitadish → modern j
 |       murlun       | pilgrim                                                     | murlu:n            |                     from accented form of murloen, "murl'n"                      |
 |       naev²        | duty, important matter (archaic)                            | naefv              |                                        -                                         |
 |    naevpheren²     | trustworthy, faithful to the duty                           | naefvphe↓re↓n      |                                  naev + pheren                                   |
+|        nea         | cyclical, repeated                                          | ne-a               |                                        -                                         |
+|       neuvua       | new                                                         | neufv-ua           |                                        -                                         |
 |         no         | silence                                                     | no                 |                                        -                                         |
 |        odu         | valley                                                      | odu                |                                        -                                         |
 |       oestae       | wind                                                        | :stae↓, este¹      |                                        -                                         |
+|        omn         | everything, whole                                           | o:m                |                                        -                                         |
 |      ostaequa      | howly wind, name for wolf-fox being                         | y↓stae↓qua         |                                  oestae + equa                                   |
 |       phaere       | to look after sick, to stay with the weak                   | phae↓re:, phere:¹  |                                        -                                         |
 |       pheren       | faithful                                                    | phe↓-re↓n          |                                      phaere                                      |

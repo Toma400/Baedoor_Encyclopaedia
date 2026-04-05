@@ -34,5 +34,5 @@ The idea of "cigarette kiss" came to my mind after exchanging cigarette with my 
 somewhat of a crush towards. Thought it's a neat idea to use forward.
 
 ---
-✥  
+♜: more 'rituals'?  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Guilds.md)

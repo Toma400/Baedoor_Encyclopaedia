@@ -22,6 +22,7 @@ as ghloddish naming does, albeit the position of those wovels is inside name, no
 | Inluern     | 🏵️ Semi-rare  | Baedoorised form of Inluet      |
 | Kiritt      | 🔆 Semi-common |                                 |
 | Nasvioh     | 🏵️ Semi-rare  |                                 |
+| Satarap     | 🔆 Semi-common |                                 |
 
 ### Female
 

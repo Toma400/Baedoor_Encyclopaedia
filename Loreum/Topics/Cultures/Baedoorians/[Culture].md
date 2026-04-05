@@ -40,6 +40,8 @@ in ways more friendly to its community.
 - [㊙️ Names](/Loreum/Topics/Characters/Names/Baedoorian.md)
 
 ### Cultural Elements
+- Philosophical movements
+  - [Neuvea Romanai](List/Neuvea_Romanai.md) 
 - Items
   - Money
     - [Dem](List/Dem.md)

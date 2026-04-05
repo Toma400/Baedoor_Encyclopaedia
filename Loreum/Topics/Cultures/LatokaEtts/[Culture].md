@@ -10,5 +10,5 @@ the occupants. Similarly, ettic states were only partially freed during the peac
 instability to the region with power coming from multiple sides.
 
 ---
-♜: relink `[latoka]()` to race, not culture   
+♜  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures.md)
