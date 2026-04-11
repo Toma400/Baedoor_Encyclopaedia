@@ -88,8 +88,8 @@ Population/settlement density rules:
 - Rossevette
   - Ariyn `latoka | previously named Ommasot, but now inhabited by voitri noble, it got renamed`
   - Arrat-Kan `latoka | Arot' Hkan on map; under occupation of voitri`
-  - Asalexandriasi `latoka | administrative outpost built on ruins of the town to keep mines safe and operational`
-  - Danat-Ett `latoka | old monumental ettic fortress, now under occupation of voitri`
+  - [Asalexandriasi](Rossevette_Islands/Cities/Asalexandriasi.md) `latoka`
+  - [Danat-Ett](Rossevette_Islands/Cities/Danat-Ett.md) `latoka`
   - Kattar `latoka | Kathar on map`
   - Kipta `latoka`
   - Lammut `latoka | fortress built to control environs of Tonderis`

@@ -46,6 +46,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### D
 - [Dahekhris](Topics/Geography/Baedoor_Continent/Kaer/Cities/Dahekhris.md)
+- [Danat-Ett](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Danat-Ett.md)
 - [Darakon, Souvie](Topics/Characters/List/Darakon_Souvie.md)
 - [Dawn Tear](Topics/Nature/Herbarium/List/Dawn_Tear.md)
 - [Delai Eir](Topics/Characters/List/Eir_Delai.md)

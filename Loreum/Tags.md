@@ -18,6 +18,7 @@ If this section becomes too big, it can be split into linked sections in the fut
 * [Ascaron](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Ascaron.md)
 * [Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)
 * [Dahekhris](Topics/Geography/Baedoor_Continent/Kaer/Cities/Dahekhris.md)
+* [Danat-Ett](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Danat-Ett.md)
 * [Disanteldir](Topics/Geography/Baedoor_Continent/Kaer/Cities/Disanteldir.md)
 * [Dvickhet](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Dvickhet.md)
 * [Evros](Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)
