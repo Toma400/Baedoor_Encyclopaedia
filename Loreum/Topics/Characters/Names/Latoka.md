@@ -23,6 +23,7 @@ as ghloddish naming does, albeit the position of those wovels is inside name, no
 | Kiritt      | 🔆 Semi-common |                                 |
 | Nasvioh     | 🏵️ Semi-rare  |                                 |
 | Satarap     | 🔆 Semi-common |                                 |
+| Tokkot      | 🏵️ Semi-rare  |                                 |
 
 ### Female
 
@@ -36,3 +37,8 @@ as ghloddish naming does, albeit the position of those wovels is inside name, no
 | Nel     | 🔆 Semi-common |                             |
 | Nelvose | 🔆 Semi-common |                             |
 | Onyri   | 🏵️ Semi-rare  |                             |
+
+### Surname
+| Name | Localisation                       | Description                            |
+|------|------------------------------------|----------------------------------------|
+| Ett  | Ilumat Highlands, Dewehr Mountains | Aristocratic/royal traditional surname |

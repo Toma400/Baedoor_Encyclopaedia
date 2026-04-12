@@ -8,7 +8,7 @@
 It hosts the minimal amount of housing needed for nearby mine to operate, resource logging
 and providing functional transport of resources down the river.
 
-Asalexandriasi emptied out due to many its inhabitants moving to Ascaron due to difficult
+Asalexandriasi emptied out due to many its inhabitants moving to Ascaron because of difficult
 conditions making it hard to feed population of the village. The fact was only emphasized by
 rare bandit encounters that villagers needed to deal with.  
 Ascaron Realm ruler therefore announced subsidising food deliveries upstream and more focused

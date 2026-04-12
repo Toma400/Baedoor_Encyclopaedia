@@ -146,6 +146,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Lhue](Topics/Nature/Herbarium/List/Lhue.md)
 - [Lotua](Topics/Nature/Herbarium/List/Lhue.md)
 - [Lovrem Vantasi](Topics/Characters/List/Vantasi_Lovrem.md)
+- [Lua](Topics/Characters/Families/Lua.md)
 - [Lyrensi Purpui](Topics/Nature/Herbarium/List/Lyrensi_Purpui.md)
 
 ### M

@@ -144,6 +144,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Sanae    | Whole Baedoor | 🔥 Common      | Variant of *Sana*                                                                             |
 | Sara     | Whole Baedoor | 🔥 Common      | Less popular variant of *Sana*                                                                |
 | Shademia | West Baedoor  | ⚜️ Rare        | Name mixing baedoorian character with some foreign roots                                      |
+| Siran    | Whole Baedoor | 🏵️ Semi-rare  |                                                                                               |
 | Souvie   | West Baedoor  | ⚜️ Rare        |                                                                                               |
 | Veronica | Whole Baedoor | 🔥 Common      | Commonly used, especially among lower aristocratic families                                   |
 | Viris    | Whole Baedoor | 🏵️ Semi-rare  |                                                                                               |
@@ -173,6 +174,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Kono       | East Baedoor                  | Aristocratic surname                                                                                                                                                |
 | Lavago     | West Baedoor                  | Semi-rare surname                                                                                                                                                   |
 | Lensati    | East Baedoor, Ansur           | Semi-common surname on East Baedoor, also surname of fairly rich lavender farming family on Ansur                                                                   |
+| Lua        | East Baedoor                  | Aristocratic surname                                                                                                                                                |
 | Maen       | Whole Baedoor                 | Aristocratic surname in Dvickhet, but also not uncommon name among commonfolk in West Baedoor                                                                       |
 | Manaut     | East Baedoor                  | Semi-common surname                                                                                                                                                 |
 | Mevren     | Whole Baedoor                 | Semi-common surname                                                                                                                                                 |

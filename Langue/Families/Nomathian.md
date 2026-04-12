@@ -13,15 +13,16 @@ Their language is known for rustly sound, which was often point of baedoorian jo
 #### [⚜️ Names](/Loreum/Topics/Characters/Names/NomathianBae.md) (Baedoor)
 
 ### Nomathian vocabulary
-|  Word  | Translation                                                                               | Pronunciation | Etymology |
-|:------:|-------------------------------------------------------------------------------------------|---------------|:---------:|
-| latšsu | ?                                                                                         | lat͡ʃ-su      |     -     |
-| nahegh | origin name of [Naven](/Loreum/Topics/Nature/Bestiary/List/Naven.md), means "bloody bird" | nah:ekh       |     -     |
-|  serj  | rooted, old                                                                               | ser:ʐi        |     -     |
-| serje  | greetings (used to denote respect to older/experienced nomaths)                           | ser:ʐie       |  `serj`   |
-| skirr  | cold coast                                                                                | ʃ:kirr        |     -     |
-| tšišu  | ?                                                                                         | t͡ʃiʃu        |     -     |
-|  wešš  | word used at jitadish governors and army, pejorative                                      | weʃ↑:         |     -     |
+|  Word  | Translation                                                                               | Pronunciation |             Etymology             |
+|:------:|-------------------------------------------------------------------------------------------|---------------|:---------------------------------:|
+| latšsu | ?                                                                                         | lat͡ʃ-su      |                 -                 |
+| nahegh | origin name of [Naven](/Loreum/Topics/Nature/Bestiary/List/Naven.md), means "bloody bird" | nah:ekh       |                 -                 |
+|  serj  | rooted, old                                                                               | ser:ʐi        |                 -                 |
+| serje  | greetings (used to denote respect to older/experienced nomaths)                           | ser:ʐie       |              `serj`               |
+| skirr  | cold coast                                                                                | ʃ:kirr        |                 -                 |
+|   šy   | rain                                                                                      | ʃy            | onomatopeic, as Hungarian's `eső` |
+| tšišu  | ?                                                                                         | t͡ʃiʃu        |                 -                 |
+|  wešš  | word used at jitadish governors and army, pejorative                                      | weʃ↑:         |                 -                 |
 
 ### Various notes
 **Gh** should have various pronunciation, e.g. while `nahegh` is read as `nahekh`, `neghdit` should
