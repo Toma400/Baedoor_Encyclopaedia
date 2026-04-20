@@ -4,6 +4,10 @@
 <span style="color:#8F3DA5">**universe**</span> [✦](/Loreum/Tags.md#-universe)  
 
 ---
+| ![](/Assets/banner_starshifters.png) |
+|--------------------------------------|
+| Starshifters banner                  |
+
 **Starshifters** is secret magical organisation established in **Jitado** by [Xaine](/Loreum/Topics/Characters/List/Xaine.md)
 around 976 PE. Its purpose is not fully known, but one of certain aspects of Starshifters work is
 discovering new multiverses and studying oververse structure.  

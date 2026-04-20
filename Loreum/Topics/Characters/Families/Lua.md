@@ -1,13 +1,13 @@
 # 🎎 Lua Family
 
-An old baedoorian family having its roots in [Baedoor City](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)
-and **Lancres**. During their existence, they were focused on mining and gathering peat, being a
-sort of monopolist on the latter, having major influence on this industry's capital, Lancres,
-owning majority of nearby swamp areas.
+An old baedoorian family having its roots in [Baedoor city](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)
+and **Lancres**. During their existence, they were focused on tool production and gathering peat, 
+being a sort of monopolist on the latter. They had major influence on this industry's capital,
+Lancres, owning the majority of nearby swamp areas.
 
-The family never been particularly powerful outside of its particular niche, reaching somewhat
-of decline on sixth century of OE with no male heir to be its head. All the familial obligations
-fell on the head of **Siran Lua**, a young yet ambitious lady.  
+The family never been particularly powerful outside its particular niche, reaching somewhat
+of decline in sixth century of OE with no male heir to be its head. All the familial obligations
+fell on **Siran Lua**, a young yet ambitious lady.  
 She used the Rossevette conquest to kickstart diplomatic connections, which resulted in her
 meeting **Tokkot Ett**, an [ettic](/Loreum/Topics/Cultures/LatokaEtts/[Culture].md) aristocrat
 working with baedoorian officials in [Ascaron](/Loreum/Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Ascaron.md).
