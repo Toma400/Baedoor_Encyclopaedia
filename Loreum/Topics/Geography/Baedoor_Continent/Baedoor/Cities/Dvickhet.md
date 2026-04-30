@@ -8,8 +8,8 @@
 of those settlements built by nomathians.
 
 It is relatively poor, yet big town, known for its numerous diasporas and biggest nomathian minority in 
-southern and western side of this country. It is considered as ruled by Warthog family, 
-however over the course of New Era, Maen family became the second leading power.
+southern and western side of this country. It is considered as ruled by [Warthog family](/Loreum/Topics/Characters/Families/Warthog.md), 
+however over the course of New Era, **Maen family** became the second leading power.
 
 ### History
 
@@ -19,8 +19,8 @@ nomathian Warthog and Thargav, and baedoorian family Maen - the city became poor
 Over the middle years of Old Era, Warthog family put a lot of thought into bringing the town to its
 previous stability. Their rulers connected a lot with families from Isuga, Ontero and Baedoor, while
 in the same time Warthogs passed the law that brought weapon manufacturers to the city.
-With Ettua family helping on coordinating metal industry with newly made factories, it helped immensely
-to bring new people to the town.
+With [Ettua family](/Loreum/Topics/Characters/Families/Ettua.md) helping on coordinating metal 
+industry with newly made factories, it helped immensely to bring new people to the town.
 
 Next centuries resulted in slow rise of Dvickhet, getting hands in metal industry and expanding to 
 economy branches related, which were underrepresented by nearby cities. This also helped the Warthog 
@@ -47,4 +47,5 @@ serving as a puppet to control Warthog.
 📿 [Baedoor Classic](/Mechanicum/Walkthroughs/Baedoor_Classic/Lore/BaeCL_Dvickhet.md)
 
 ---
+✥  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor.md)

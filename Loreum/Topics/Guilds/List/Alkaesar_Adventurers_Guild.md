@@ -15,7 +15,7 @@ This is when Guild started - while in reality nothing more than just a shop with
 the name worked and quickly the guild earned enough money for one of its founders suggesting expanding
 its services to Morpat - so the whole passage to Vershaton is covered.  
 The guild itself expanded its services to even host a small sleeping room and had relatively 
-successful time throughout initial several years. As the interest in Vershaton surged, the guild's 
+successful time throughout initial several years. As the interest in Vershaton declined, the guild's 
 interests stopped being as profitable, yet still remaining relatively stable.
 
 The guild achieved to live throughout four generations in Alkaesar, with final owner moving to Skirran.
