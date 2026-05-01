@@ -9,7 +9,9 @@
 and with somewhat slender bodies.
 
 Similarly to tsisu, maita form communities and reside either stationarily or nomadically on less
-inhabited areas, including mountains.
+inhabited areas, including mountains.  
+They live in small camps and flesh caves. They tend to travel and hunt at night, to minimise
+chances of being seen and potentially killed by humans.
 
 ---
 ♜✥  

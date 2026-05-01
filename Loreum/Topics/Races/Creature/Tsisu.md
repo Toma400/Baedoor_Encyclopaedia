@@ -12,7 +12,9 @@ form small communities and use to survive with their less resistant bodies.
 As all flesh races, they remain mostly on non-inhabited areas, where they either live stationary
 or wander, being forced to live a nomadic life to sustain themselves with limited resources. Tsisu
 are the only flesh race that more often appear on lowlands, particularly for hunting. They are also
-less likely to live in the mountains.
+less likely to live in the mountains.  
+They live in small camps and flesh caves. They tend to travel and hunt at night, to minimise 
+chances of being seen and potentially killed by humans.
 
 ---
 ♜✥  

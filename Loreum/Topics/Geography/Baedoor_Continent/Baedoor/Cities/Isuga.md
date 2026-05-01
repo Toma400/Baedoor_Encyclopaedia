@@ -5,7 +5,7 @@
 
 ---
 **Isuga** (bae. *persistent, resistent*) is city in south-western part of Baedoor, on the biggest
-island of [lake Isanam](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Lands/Isanam_Lake.md)
+island of [lake Isanam](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Lands/Isanam_Lake.md).
 It's considered as "second Baedoor capital". It is known for its universities, frequent scientific
 conferences and meetings.
 
