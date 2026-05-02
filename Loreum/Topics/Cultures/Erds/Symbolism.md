@@ -67,4 +67,4 @@ culture and roots.
 
 ---
 ♜  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures/Erds/[Culture].md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../../Cultures.md) 〰️ [🏺]([Culture].md)

@@ -1,5 +1,9 @@
 # ⚜️ Temple of the Wheel
 
+|           ![](/Assets/Culture/Items/erdic_temple_guard_armour.png)            |                      ![](/Assets/erdic_wheel.png)                      |
+|:-----------------------------------------------------------------------------:|:----------------------------------------------------------------------:|
+| Erdic ceremonial armour worn by Temple of Wheel guards (helmet and pauldrons) | Wheel of life, a symbolic representation of Temple of Wheel philosophy |
+
 **Temple of the Wheel** is name of old religious organisation that serves erdic society to
 follow the proper rites of their "garden" faith-philosophy.  
 Unlike regular religious organisations, Temple is aimed only on administrative tasks, such as
@@ -14,4 +18,6 @@ body taking care of local area.
 
 ---
 ♜✥: maybe include it also in PE factions list (not made)?  
+(at one point it'd be good to also make this page more faction-centered, and erdic faith
+be in their "spirituality" subpage)  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Factions.md)

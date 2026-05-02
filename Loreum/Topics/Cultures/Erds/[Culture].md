@@ -5,6 +5,10 @@ It follows old philosophical idea of "the garden" that influences a lot of its a
 Erds perfected their balance between beautiful ornamentation and simplicity, bringing artistry into
 many fields of life in a way that is not overly extravagant.
 
+| ![](/Assets/Culture/Items/erdic_curved_weapons.png) |           ![](/Assets/Culture/Items/erdic_temple_guard_armour.png)            |
+|:---------------------------------------------------:|:-----------------------------------------------------------------------------:|
+|                Erdic curved weapons                 | Erdic ceremonial armour worn by Temple of Wheel guards (helmet and pauldrons) |
+
 ### Institutional Houses
 Erdic culture holds the specific institution role, called *Houses*. Unlike actual institutions
 and guilds, House is term used for structure built from incentive of individuals or local
