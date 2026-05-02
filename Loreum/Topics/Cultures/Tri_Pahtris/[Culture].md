@@ -23,6 +23,7 @@ with photography in West Baedoor and attempts to create movies.
 ### Spiral Well
 | ![](/Assets/Culture/Architecture/tri_spiral_well.png) |
 |-------------------------------------------------------|
+
 Spiral well is a structure primarily seen in centers of pahtri settlements, but also sometimes
 in the wilderness, reminding a well, but with much wider circular footprint. It has stairway
 leading from surface down, around the well cylinder, with occassional windows on upper parts

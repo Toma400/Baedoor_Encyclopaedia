@@ -1,19 +1,36 @@
 # 🏺 Saphtric Culture
-Being isolated through so long time, saphtric culture differ heavily from those of other tris - be
-it either pahtris from the same continent, or lunatris from distant lands of West Moon.  
-The difficult environment saphtris were born and grown upon made their culture driven on constant will
-to enhance their little of fertile land. The scarcity of it however forced them to be heavily dependent
-on sea, which in turn led them to development of extensive sailing department, including navy.  
-It's worth mentioning as well that saphtric land wasn't always like that - the desertification is process
-that continues across centuries, forcing the nation to migrate to the coast or even outside of their
-lands.
+Being isolated through so long time, saphtric culture differ heavily from other eastern tris.  
+The difficult environment saphtris were born and grown within made their culture driven on constant
+will to enhance the little fertile land they owned. The scarcity of it forced them to be heavily
+dependent on sea, which in turn led them to development of extensive sailing department, including
+navy.  
+It's worth mentioning as well that saphtric land wasn't always like that - the desertification 
+is process that continues across centuries, forcing the nation to migrate to the coast or even
+outside their lands.
+
+### The Saphtri Journey
+Lai-Kine, the faith shared between eastern tris in Laitalu, the god who created them, was the 
+reason of how pahtris of Rossevette - that later became saphtris - understood their exile from 
+the voitric oppression.  
+Seeing Laitalu as a guide and a caring father, rather than a force of law, they understood 
+Restless Moon positioned on the south-east as a sign: a direction they need to follow to escape 
+voitric order. Hence, they sailed in that direction, to eventually reach Arennan and settle there.  
+
+The fact however is, the Restless Moon roams the sky (much slower than the first, regular moon, 
+though), so the position of it changed across hundreds of years. So did, coincidentally, saphtri
+start to believe that they need to escape Arennan's deserting environments, and head north
+to Kaer, resulting in decades of war with erds throughout the years.
+Or this is at least belief of some.  
+An interesting moment will happen, in some distant unknown future, when the Restless Moon 
+positions itself on west-northern place, calling saphtris to go back... and reclaim what was 
+once theirs?
 
 ### Political Structure
-Saphtris are known to be very loose on institutional control, and so the ones made hold relatively low
-power, which is usually in hands of grass roots groups and organisations. The system of power is
-relatively decentralised thanks to that, however saphtric culture is still heavily focused on unifying
-the nation - creating interesting clash between what is formal and informal, and the latter being
-of core importance to the culture.
+Saphtris are known to be very loose on institutional control, and so the ones made hold relatively
+low power, which is usually in hands of grassroots groups and organisations. The system of power 
+is relatively decentralised thanks to that, however saphtric culture is still heavily focused on 
+unifying the nation - creating interesting clash between what is formal and informal, and the 
+latter being of core importance to the culture.
 
 ### Religion & Traditions
 Saphtris value their community highly, which means that even on emigration, they will try to find each
@@ -28,11 +45,30 @@ their world - gods exist on high metaphysical plane and they initially created t
 ceded their agency to mortal beings and spirits.  
 Saphtris see spirits as messengers and ones that can shape the world following the will of ancient
 truths. Therefore spirits are treated as guides, but not as an object of praise.  
+The same happens to saphtric heroes, who are seen as distant, yet aspirational figures - it 
+also forges the cult of the nation, strengthening their belief in saphtric achievements.
+
 The religious celebration in general tends to focus on general myth of creation and myths that
 saphtris accumulated along thousands of years. While there's no specific canon of lectures and each
 community tend to use different stories (usually with some shared root), there's group of texts and
 stories that are almost universally brought by saphtris. All of them convey similar meanings and
 values, ensuring coherent character of saphtric culture despite diverse details.
+
+### Lai-Kine Spiral
+Saphtric Lai-Kine does not have the same crucial position as it does for pahtris or voitris, 
+but it still resides as an important part of their religious beliefs, being particularly present
+in themes of birth, life and death.  
+The symbol of spiral for saphtris is a bit broader in meaning too, taking inspiration from 
+ormathic and erdic recontextualisations, but it does keep the original character of 
+"descending from birth to the depths of death". As saphtric faith is even more community-driven, 
+it leaves very little time for individual. That's also why saphtric temples consist of spiral
+(not always, but this shape is one of the most common) labyrinths which are meant for individual
+to use them as a space for contemplation.  
+While this can be used for variety of purposes to focus, they are particularly frequent to 
+contemplate death (and maybe later discuss it in the temple).  
+This makes saphtric Lai-Kine more contemplative in comparison to pahtris, but not restrictive 
+like voitris are. They keep the Joyous spirit and curiosity, also communal aspect, but also 
+remain a little more thoughtful on matters that are less concerning to Joyous found on Rossevette.
 
 ### Art
 Saphtri are known for their particular love towards music and weaving, however they also tend to be
@@ -87,4 +123,4 @@ warm colours are also important part of its characterisation.
   feel particularly saphtric anyway (and it's bad in English, now thinking about it)
 - Ainji Otenhat and all stuff around him
 
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../../Cultures.md)

@@ -7,6 +7,7 @@ goblins' common interactions with pahtris and latoka.
 ### Settlements
 | ![](/Assets/Culture/Architecture/goblin_rosv_settlement.png) |
 |--------------------------------------------------------------|
+
 Rossevette goblins are the only ones that settle themselves in the wild, building their own
 houses out of various materials (with heavy preference of wood, leather, thatch and alikes),
 sometimes painted in colourful patterns.  
