@@ -54,4 +54,4 @@ with magical properties.
 
 ---
 ♜: mirror cages, cult/role of the sun?, more on relationships with spirits (particular ones?)  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures.md) 〰️ [🏺]([Culture].md)

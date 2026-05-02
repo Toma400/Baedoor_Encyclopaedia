@@ -17,9 +17,9 @@ rivers, and painted in various colours resembling environmental richness and to 
 walls more into the colourful landscapes. Mixes of blue, reds and orange stripes are not uncommon,
 following the shape vertically.
 
-| ![](/Assets/Culture/Architecture/latoka_coastal_homes.png) | ![](/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_14.jpg) |
-|:----------------------------------------------------------:|:-------------------------------------------------------------:|
-|                    Coastal latoka style                    |         Coastal architecture seen in Baedoor Classic          |
+| ![](/Assets/Culture/Architecture/latoka_coastal_homes.png) | ![](/Assets/Culture/Architecture/latoka_coastal_homes_2.png) | ![](/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_14.jpg) |
+|:----------------------------------------------------------:|:------------------------------------------------------------:|:-------------------------------------------------------------:|
+|                    Coastal latoka style                    |              Coastal latoka style (by SebaPRC)               |         Coastal architecture seen in Baedoor Classic          |
 
 Glass is another second resource used by coastal latoka: it is frequently used for various items, but
 in terms of architecture, its common usage is for windows, doors and also unique latoka curtains
