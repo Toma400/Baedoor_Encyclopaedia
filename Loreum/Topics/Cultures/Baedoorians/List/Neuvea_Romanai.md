@@ -52,4 +52,4 @@ part of the latter.
 ♜✥: would it make sense to make *Romanai* movement that existed a while ago, and on which
 Neuvea is built? (though theoretically with "neuvea" being "renewed" this is less directly
 requiring any "new/old" split)  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures/Baedoorians/[Culture].md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../[Culture].md)

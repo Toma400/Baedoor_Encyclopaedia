@@ -10,4 +10,4 @@ The magazine itself is considered as a cult classic, inspiring many later author
 initiatives. An example of such inspiration is [Eternal Flame of Avantgarde](Eternal_Flame_of_Avantgarde.md).
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures/Baedoorians/[Culture].md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../[Culture].md)
