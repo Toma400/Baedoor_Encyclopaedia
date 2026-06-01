@@ -28,6 +28,16 @@ with only one segment rebuilt after it fell into disrepair.
 
 + Ascaron holds the biggest baedoorian bank's building?
 
+### [Ascaron Hotel]
+| ![](/Assets/Culture/Architecture/latoka_ascaron_hotel.png) | ![](/Assets/Culture/Architecture/latoka_ascaron_hotel_2.jpg) |
+|:----------------------------------------------------------:|:------------------------------------------------------------:|
+|            Sketches of Ascaron Hotel (details)             |              Sketches of Ascaron hotel (shapes)              |
+
+[Ascaron Hotel] is located at the bank of **Asca river**, and has been built during baedoorian
+occupation, hence it features a lot of architectural traits of late latoka style.  
+It has been a frequent destination visit of all notable visitors of other countries, be it traders,
+aristocrats, diplomats or other wealthy entities.
+
 ### Ascaron Library
 
 ### Ascaron Market

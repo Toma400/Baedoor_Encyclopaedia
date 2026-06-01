@@ -70,6 +70,10 @@ This makes saphtric Lai-Kine more contemplative in comparison to pahtris, but no
 like voitris are. They keep the Joyous spirit and curiosity, also communal aspect, but also 
 remain a little more thoughtful on matters that are less concerning to Joyous found on Rossevette.
 
+| ![](/Assets/Culture/Architecture/saphtric_temple_interior.png) |
+|:--------------------------------------------------------------:|
+| Interior of saphtri temple, with spiral used for contemplation |
+
 ### Art
 Saphtri are known for their particular love towards music and weaving, however they also tend to be
 extraordinary writers and painters.

@@ -101,6 +101,7 @@ Population/settlement density rules:
   - Lake Siivain `between Tarsis and Ascaron | shouldn't have more latokaish name?`
   - Eth Pass `where?`
   - Sekhorot River `the main latoka-voitri river on north-west`
+  - Asca River `river going through Ascaron`
 
 ### REGIONS
 - Rossevette
