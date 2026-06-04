@@ -38,9 +38,9 @@ Huge part of island's terrain is covered with forests, covering mountain pass on
 
 Kaer is home of several cultures, most notably [kehts](/Loreum/Topics/Cultures/Kehts/[Culture].md)
 and [erds](/Loreum/Topics/Cultures/Erds/[Culture].md).  
-South of Kaer there's island Kacari that is usually considered as a local polity more loosely
-bound to Erdic Kingdom despite formally being part of it. This also let it be treated more lightly
-during Baedoor occupation.
+South of Kaer there's island [Kacari](/Loreum/Topics/Geography/Baedoor_Continent/Kaer/Kacari.md)
+that is usually considered as a local polity more loosely bound to Erdic Kingdom despite formally
+being part of it. This also let it be treated more lightly during Baedoor occupation.
 
 ## -- Old Planning ---
 ### TOWNS
@@ -96,71 +96,79 @@ during Baedoor occupation.
 - Oin Mountain `turned into name of the forest, it fits it better imo`
 
 ## -- New Planning ---
-### TOWNS
+### TOWNS & CITIES
 #### Kaerians
-- Ranirsis
 - Moricur
-- [Ortaver](Kaer/Cities/Ortaver.md) `Detemardir is old erdic name`
 - Neghdit
-- Rolsale `ruined baedoorian city north-west of Ranirsis, with little woodsmen village built nearby`
+- [Ortaver](Kaer/Cities/Ortaver.md) `Detemardir is old erdic name`
+- Ranirsis
 - Retevet `on Ehaet`
+- Rolsale `ruined baedoorian city north-west of Ranirsis, with little woodsmen village built nearby`
+- Tavhagot
 #### Kehts
-- [Dahekhris](Kaer/Cities/Dahekhris.md)
 - Carion
-- Phyr
-- Vartrekh
+- Cortedar
+- [Dahekhris](Kaer/Cities/Dahekhris.md)
 - Khar Ia `Kar Ia on Kartograf map`
+- Phyr `built by erds as Aaktet, renamed by kehts after erdic-kehtic war general`
+- Sekhra `Secra on Kartograf map`
+- Vartrekh
 #### Erds
+- Atakil
 - Bristeldir
 - Cataris
-- Atakil
+- Irane
+- Liteil
+- Miris
 - Sanaran
-#### [Kacari](Kaer/Kacari.md)
-- Roda
-- Kananea `rename to Near? per "english-like names are funny" and the fact Kananea exists irl`
-#### [Disane](Kaer/Disane.md)
+#### Islands
 - [Disanteldir](Kaer/Cities/Disanteldir.md)
+- Roda
+- Near `Sorin on old maps`
 ### VILLAGES
 #### Kaerians
 - Ardhaved
-- Nivdit
-- Kernat `Kerna on Kartograf map, north-east of Neghdit`
-- Hemantir
+- Detesset `baedoorian origin`
 - Govarat
+- Hemantir
+- Kernat `Kerna on Kartograf map, north-east of Neghdit`
+- Nihavir
+- Nivdit
+- Savaher
 #### Kehts
-- Ekhalat `ekhalad? to make it more kehtic in name; I love ekhalat though and there's vartrekh`
-- Sekhra `Secra on Kartograf map`
-- Elur `Eluva on Kartograf map`
-- Varkhil `Pharkil on Kartograf map`
-- Karg
-- Vidis
-- Nepekh
 - Eldril
-- Vaktad
-- Rekherad
-- Cortedar
+- Elur `Eluva on Kartograf map`
+- Ekhalat `ekhalad? to make it more kehtic in name; I love ekhalat though and there's vartrekh`
+- Karg
 - Khedaris
+- Mehredirit
+- Nepekh
+- Rekherad
+- Takharit
+- Vaktad
+- Varkhil `Pharkil on Kartograf map`
+- Vidis
 #### Erds
-- Liteil
 - Arinis `Atryhian on Kartograf map`
-- Ninnan
-- Miris
-- Irane
 - Kemsan
-- Ranadir
-#### Kacari
+- Ninnan
+- [Tinanat](Kaer/Cities/Tinanat.md)
+- Ranadir `ruined`
+#### Islands
 - Anoan
 - Anoltan `ruined`
 ### LANDSCAPES
-- Nemori Mountains `the main chain` `Enkgit in kaerian`
-- Misavor Mountains `northern split of the chain`
-- Har Mountains `kehtic`
-- Mavsvi River `the main, leading to delta`
+- Mountains
+  - Nemori Mountains `the main chain` `Enkgit in kaerian`
+  - Misavor Mountains `northern split of the chain`
+  - Har Mountains `kehtic, stands for 'Black Mountains'`
 - Mikhyat `delta`
-- Eckhag Forest `nomathian side of southern forest | kh, yet g.. in one of my bad readings it also ended with -t, making it fully kehtic at least | 'eghad' would be kaeric`
-- Hvernom Forest `northern forest`
-- Marane Forest `southern side of southern forest`
+- Forests
+  - Eckhag Forest `nomathian side of southern forest | kh, yet g.. in one of my bad readings it also ended with -t, making it fully kehtic at least | 'eghad' would be kaeric`
+  - Hvernom Forest `northern forest`
+  - Marane Forest `southern side of southern forest`
 - Rivers
+  - Mavsvi River `the biggest one, leading to delta`
   - Neverat `through Hvernom forest`
   - Saroma `one going through Atakil`
   - Roisuri `one going near Cataris towards in between Phyr and Bristeldir`
@@ -180,10 +188,11 @@ during Baedoor occupation.
     - Uktir `the northest one`
     - Manel `small, south of Uktir`
     - Asladil `southest, near Sanaran`
-- Mesaul Mountains `west range on Kacari`
-- Lemeris Mountains `east range on Kacari`
-- Dair River `the river going south of Temple, out of Mesaul`
-- Oin Forest `forest south of Roda`
+- Kacari
+  - Mesaul Mountains `west range on Kacari`
+  - Lemeris Mountains `east range on Kacari`
+  - Dair River `the river going south of Temple, out of Mesaul`
+  - Oin Forest `forest south of Roda`
 
 ### General Naming Schemes
 - Kehts
@@ -197,7 +206,7 @@ during Baedoor occupation.
   - `h` is used, but rather rare
   - `v` is more popular, usually in the middle
   - usage of stiffer letters (such as `t`, `h`) is emphasized
-  - uses `-dit` suffix
+  - uses `-dit` and `-at` suffix
 - Erds
   - often ends names with `n`, `l`, `s`, `a` and `e`
     - `i` is rarer but possible option (usually reminiscent of tris however)

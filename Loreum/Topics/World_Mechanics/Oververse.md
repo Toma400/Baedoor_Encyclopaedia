@@ -102,14 +102,14 @@ Multiverses were discovered in such chronology as the table below showcases:
  | 655 PE            | Tamariel   | [Si Avani](/Loreum/Topics/Characters/List/Avani_Si.md)   | Tamriel, Elder Scrolls universe              |
  | 272 PE            | Uru'ai     | [Esh Enahr](/Loreum/Topics/Characters/List/Enahr_Esh.md) | Myst / Uru universe                          |
  | 463 OE            | Osde'in    |                                                          | DiscWorld universe                           |
- | 431 NE            | Ins'in     | Tehom Aranai                                             | Nalqiwatya                                   |
- | 637 NE            | Eis'in     |                                                          | End's Phantasm                               |
- | 638 NE            | Ne'rin     |                                                          | Minecraft universe                           |
- | 654 NE            | Ne'n       |                                                          | Breach dimensions between Ne'rin and Baedoor |
- | 654 NE            | Aji'n      |                                                          | Desolat and Undergrowth breaches             |
+ | 131 NE            | Ins'in     | Tehom Aranai                                             | Nalqiwatya                                   |
+ | 237 NE            | Eis'in     |                                                          | End's Phantasm                               |
+ | 238 NE            | Ne'rin     |                                                          | Minecraft universe                           |
+ | 254 NE            | Ne'n       |                                                          | Breach dimensions between Ne'rin and Baedoor |
+ | 254 NE            | Aji'n      |                                                          | Desolat and Undergrowth breaches             |
 
 <span style="color:#0099cc">**THE RIFT OUTBREAK**</span>  
-Important event which is needed to be mentioned happened in **494 NE**, being called as <span style="color:#0099cc">**The Rift 
+Important event which is needed to be mentioned happened in **194 NE**, being called as <span style="color:#0099cc">**The Rift 
 Outbreak**</span>.  
 It is understood nowadays that this event opened quickly The Rift, structure
 making breach between multiverses, letting them connect for brief amount of time.  
@@ -159,12 +159,12 @@ In following centuries, new scientific sections of universities were being made:
  | 466 SE | Metagalactical Wing of Oe'os University       | Oe'os               | 🟢       |
  | 922 SE | Adiana's Crystal                              | Septei              | 🟣       |
  | 112 NE | Black University                              | Rossevette          | 🟣       |
- | 655 NE | University on Oververse Study in West Baedoor | West Baedoor        | 🟢       |
- | 690 NE | Jitadish Observatory of Universes             | Jitado              | 🟢       |
+ | 255 NE | University on Oververse Study in West Baedoor | West Baedoor        | 🟢       |
+ | 290 NE | Jitadish Observatory of Universes             | Jitado              | 🟢       |
 
 
 This increased attention given to multiverses resulted in creating what is known as <span style="color:#0099cc">
-**International Council of Oververse Exploration**</span>. This Council were made in 695 NE, to ease 
+**International Council of Oververse Exploration**</span>. This Council were made in 295 NE, to ease 
 communication and knowledge exchange between universities. At the same time, Starshifters decided to
 partly reveal their identities, to help upcoming Council establish properly.
 

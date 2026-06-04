@@ -7,4 +7,4 @@ Dems were used as cheaper currency to [funts](Funt.md), with exchange rate of tw
 one funt.
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures/Baedoorians/[Culture].md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../[Culture].md)

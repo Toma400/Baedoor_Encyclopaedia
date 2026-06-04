@@ -6,4 +6,5 @@ Every plant existing on **Seiteh** surface.
 #### 🔹 [Windy Arista](List/Windy_Arista.md)
 
 ---
-♜✥
+♜✥  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🌿](/Loreum/Topics/Nature/Herbarium.md)

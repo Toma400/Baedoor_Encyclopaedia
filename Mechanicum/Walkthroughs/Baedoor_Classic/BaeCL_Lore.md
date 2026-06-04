@@ -3,10 +3,13 @@
 ### Alphabetically:
 - [Adelaie](Lore/BaeCL_Adelaie.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Adelaie.md)
 - [Alkaesar](Lore/BaeCL_Alkaesar.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Alkaesar.md)
+- [Asalexandriasi](Lore/BaeCL_Asalexandriasi_Road.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Asalexandriasi.md)
+- [Ascaron](Lore/BaeCL_Ascaron.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Ascaron.md)
 - [Baedoor](Lore/BaeCL_Baedoor.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)
 - [Baedoor Surroundings](Lore/BaeCL_Baedoor_Surroundings.md)
 - [Coonhě Forest](Lore/BaeCL_Coonhě_Forest.md)
 - [Dvickhet](Lore/BaeCL_Dvickhet.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Dvickhet.md)
+- [Emerald Hills](Lore/BaeCL_Emerald_Hills.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Rossevette_Islands/Regions/Emerald_Hills.md)
 - [Fegar County](Lore/BaeCL_Fegar.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Fegar.md)
 - [Ino Anor](Lore/BaeCL_Ino_Anor.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)
 - [Isuga](Lore/BaeCL_Isuga.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md)
@@ -15,6 +18,8 @@
 - [Morpat](Lore/BaeCL_Morpat.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Morpat.md)
 - [Mining Hills](Lore/BaeCL_Mining_Hills.md)
 - [Raliun](Lore/BaeCL_Raliun.md) [🔱](/Loreum/Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
+- [Renvughe](Lore/BaeCL_Renvughe.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Renvughe.md)
+- [Shimo Valley](Lore/BaeCL_Shimo_Valley.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Rossevette_Islands/Regions/Shimo_Valley.md)
 - [Terrean Savannah](Lore/BaeCL_Terrean_Wilderness.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Lands/Terrean_Savannah.md)
 - [Tom Varteford Plantation](Lore/BaeCL_Tom_Varteford_Plantation.md) [🔱](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Places/Tom_Varteford_Plantation.md)
 
@@ -28,14 +33,14 @@
         <th>Timeframe</th>
         <td>Various</td>
         <td rowspan="2">
-            🕌    <a href="Lore/BaeCL_Baedoor.md">              Baedoor City         </a><br>
-            🍂    <a href="Lore/BaeCL_Baedoor_Surroundings.md"> Baedoor Surroundings </a><br>
-            ⛏️ <a href="Lore/BaeCL_Mining_Hills.md">         Mining Hills         </a><br>
-            🏞️   <a href="Lore/BaeCL_Fegar.md">                Fegar County         </a><br>
-            🌇    <a href="Lore/BaeCL_Isuga.md">                Isuga                </a><br>
-            🏜️   <a href="Lore/BaeCL_Kel_Desert.md">           Kel Desert           </a><br>
-            🏛️   <a href="Lore/BaeCL_Dvickhet.md">              Dvickhet             </a><br>
-            🌲    <a href="Lore/BaeCL_Coonhě_Forest.md">        Coonhě Forest        </a>
+            🕌    <a href="Lore/BaeCL_Baedoor.md">               Baedoor City         </a><br>
+            🍂    <a href="Lore/BaeCL_Baedoor_Surroundings.md">  Baedoor Surroundings </a><br>
+            ⛏️    <a href="Lore/BaeCL_Mining_Hills.md">          Mining Hills         </a><br>
+            🏞️    <a href="Lore/BaeCL_Fegar.md">                 Fegar County         </a><br>
+            🌇    <a href="Lore/BaeCL_Isuga.md">                 Isuga                </a><br>
+            🏜️    <a href="Lore/BaeCL_Kel_Desert.md">            Kel Desert           </a><br>
+            🏛️    <a href="Lore/BaeCL_Dvickhet.md">              Dvickhet             </a><br>
+            🌲    <a href="Lore/BaeCL_Coonhě_Forest.md">         Coonhě Forest        </a>
         </td>
     </tr>
     <tr>
@@ -91,6 +96,25 @@
     <tr>
         <th>Location</th>
         <td>Baedoor Isle, near Baedoor city</td>
+    </tr>
+    <tr>
+        <th colspan="2">Rossevette</th>
+        <td><b>Source ID:</b> <a href="Sources/L_010_Egypt_Colony.md">L.010:Egypt Colony</a></td>
+    </tr>
+    <tr>
+        <th>Timeframe</th>
+        <td>middle / late Old Era</td>
+        <td rowspan="2">
+            🌄   <a href="Lore/BaeCL_Emerald_Hills.md">       Emerald Hills       </a><br>
+            🌆   <a href="Lore/BaeCL_Ascaron.md">             Ascaron             </a><br>
+            ⛰️   <a href="Lore/BaeCL_Asalexandriasi_Road.md"> Asalexandriasi Road </a><br>
+            🏡   <a href="Lore/BaeCL_Renvughe.md">            Renvughe            </a><br>
+            🏞️   <a href="Lore/BaeCL_Shimo_Valley.md">        Shimo Valley        </a>
+        </td>
+    </tr>
+    <tr>
+        <th>Location</th>
+        <td>Rossevette Island, Northwestern Coast</td>
     </tr>
 
 </table>

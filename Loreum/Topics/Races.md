@@ -2,13 +2,15 @@
 All races appearing in Baedoor universe and beyond. For cultural aspect of them, you
 may also visit [cultures page](Cultures.md).
 
+Skull ☠️ emoji indicates extinct race.
+
 ---
 ### Regular races
+####   🔹 [Apta](Races/Regular/Apta.md) `partially elemental`
 ####   🔹 [Ghlodds](Races/Regular/Ghlodds.md)
 ####   🔹 [Ormaths](Races/Regular/Ormaths.md)
 ####   🔹 [Kehts](Races/Regular/Kehts.md)
 ####   🔹 Erds
-####   🔹 Etts
 ####   🔹 Latoka
 ####   🔹 Naks
 ####   🔹 [Orcs](Races/Regular/Orcs.md)
@@ -21,33 +23,40 @@ may also visit [cultures page](Cultures.md).
 ####     🔹 Islanders `Serpent Islands, Jitado`
 ####     🔹 Lunanians
 ####   🔹 Tri
-####     🔹 [Saphtri](Races/Regular/TriSaphtri.md)
-####     🔹 Voitri
-####     🔹 Pahtri
-####     🔹 Lunatri
-####   🔹 Zhi `should it be race, or rather rejected culture within tri?`
+####     🔹 Zhi
+####     🔹 Lunatri (Western Tri)
+####     🔹 Eirtri (Eastern Tri)
+####       🔹 [Saphtri](Races/Regular/TriSaphtri.md) `desert tri, adopted yellow skin`
+####       🔹 Voitri `dark tri, cursed by Lainaltu?`
+####       🔹 Pahtri `lower tri, of race mixing with goblins/latoka`
+####       🔹 Western Eirtri ☠️ `silver-skinned tri`
+####   🔹 Ehrs `Seiteh surface race`
 ####   🔹 [Agoians]
 ####   🔹 [Underwater Race, Agoi] `see cultures doc`
 ####   🔹 [Underwater Race, Northern Islands] `see cultures doc`
 
 ### Creature races
 ####   🔹 [Goblins](Races/Creature/Goblins.md)
+####   🔹 [Kaikhi](Races/Creature/Kaikhi.md)
+####   🔹 Luuika `Arennan pre-saphtri race`
 ####   🔹 [Stheyr](Races/Creature/Stheyr.md)
 ####   🔹 [Uruati](Races/Creature/Uruati.md)
 ####   🔹 [Serpent Race]
 ####   🔹 [Werewolf Race] `see cultures doc`
 ####   🔹 [Minotaur Race]
-####   🔹 Talaaxi `Ixathei apes`
+####   🔹 [Talaaxi](Races/Creature/Talaaxi.md) `Ixathei apes`
 ####   🔹 [Cthulhu-Likes] `see cultures doc`
+####   🔹 [Flesh races](Races/Flesh_Race.md)
+####     🔹 [Maita](Races/Creature/Maita.md)
+####     🔹 [Tsisu](Races/Creature/Tsisu.md)
+####     🔹 [Latssaeti](Races/Creature/Latssaeti.md)
+
+### Elemental races
+####   🔹 [Apta](Races/Regular/Apta.md) `partially regular`
 
 ### Spiritual races
 ####   🔹 [Tertens](Races/Spirit/Terten.md)
 ####   🔹 [Aev]
-
-### Extinct races
-####   🔹 Ehrs
-####   🔹 Tri
-####     🔹 Eirtri
 
 ---
 ♜✥: links, more races still pending (East Moon, West Moon probably to diversify from too human-centric

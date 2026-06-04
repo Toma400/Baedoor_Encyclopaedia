@@ -1,53 +1,67 @@
 # 🎎 Baedoorian Families
-Families living by Baedoorian heritage.
+Families living by Baedoorian heritage. 🧊 emoji indicates no longer existing family.
 
 ---
 ### 🕋 EAST BAEDOOR
 
-Alkaesar:
-#### 🔹 [Abrahk](Families/Abrahk.md)
-#### 🔹 vân Buqan
+#### 🔷 Alkaesar
+####   🔹 [Abrahk](Families/Abrahk.md)
+####   🔹 vân Buqan
 
-Baedoor:
-#### 🔹 [Calgori](Families/Calgori.md)
-#### 🔹 Eschat
-#### 🔹 [Ettua](Families/Ettua.md)
-#### 🔹 Flamecoat
-#### 🔹 [Indan](Families/Indan.md)
-#### 🔹 [Kono](Families/Kono.md)
-#### 🔹 Madavel
-#### 🔹 [Varteford](Families/Varteford.md)
-#### 🔹 [Warthog](Families/Warthog.md)
-#### 🔹 [Xavier](Families/Xavier.md)
+#### 🔷 Baedoor
+####   🔹 [Calgori](Families/Calgori.md)
+####   🔹 Eschat
+####   🔹 [Ettua](Families/Ettua.md)
+####   🔹 Flamecoat
+####   🔹 [Indan](Families/Indan.md) 🧊
+####   🔹 [Kono](Families/Kono.md)
+####   🔹 [Lua](Families/Lua.md) 🧊
+####   🔹 Madavel
+####   🔹 [Varteford](Families/Varteford.md)
+####   🔹 [Warthog](Families/Warthog.md)
+####   🔹 [Xavier](Families/Xavier.md)
 
-Dvickhet:
-#### 🔹 [Warthog](Families/Warthog.md)
-#### 🔹 Thargav
-#### 🔹 Maen
+#### 🔷 Delleret
+####   🔹 Vack `see Dvickhet comment // original city of theirs?`
 
-Isuga:
-#### 🔹 Allaut
-#### 🔹 [Kono](Families/Kono.md)
-#### 🔹 Neerhe
-#### 🔹 Vertilli
-#### 🔹 [Warthog](Families/Warthog.md)
+#### 🔷 Dvickhet
+####   🔹 [Warthog](Families/Warthog.md)
+####   🔹 Thargav
+####   🔹 Maen
+####   🔹 Vack `nomathian Vakk, but renamed to accomodate baedoorians | Jacks' sort of cameo`
 
-Ontero:
-#### 🔹 Thon
+#### 🔷 Isuga
+####   🔹 Allaut
+####   🔹 [Kono](Families/Kono.md)
+####   🔹 Neerhe
+####   🔹 Vertilli
+####   🔹 [Warthog](Families/Warthog.md)
 
-Quarius:
-#### 🔹 Deom
+#### 🔷 Lancres
+####   🔹 [Ettua](Families/Ettua.md)
+####   🔹 [Lua](Families/Lua.md) 🧊
 
-Sargin:
-#### 🔹 Annon
+#### 🔷 Ontero
+####   🔹 Thon
 
-Skirran:
-#### 🔹 Cerea
-#### 🔹 de Steye
-#### 🔹 Eiron
+#### 🔷 Quarius
+####   🔹 Deom
 
-Thanbyan:
-#### 🔹 vân Ien
+#### 🔷 Sargin
+####   🔹 Annon
+
+#### 🔷 Skirran
+####   🔹 Cerea
+####   🔹 de Steye
+####   🔹 Eiron
+
+#### 🔷 Thanbyan
+####   🔹 vân Ien
+
+### 🕋 ANSUR
+
+#### 🔷 Waine
+####   🔹 [Lensati](Families/Lensati.md)
 
 ---
 ♜✥

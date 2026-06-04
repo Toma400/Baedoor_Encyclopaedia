@@ -121,21 +121,22 @@ do quests, fight, create your character. It also had its .exe file with amateuri
 But even if I would like to publish it, language barrier was a thing, 
 since it was written entirely in Polish.
 
-***Revisioning-Toma here:** it eventually became available thanks to this Encyclopaedia. Check [Author](Author.md)
-page to get your hands on Between Shadows and Lights, if you want to.*
+***Revisioning-Toma here:** BSaL eventually became available on [my website's projects page](https://baedoor.github.io/projects/_games_small.html)
+and it will also receive an actual tiny remaster allowing to play in English.*
 
 ### ❄️ Gaming hiatus
 
 Baedoor universe then became my universe where I tried to write stories more frequently: 
 abandoning cRPG ideas, I decided to focus on stories, which I had written before, but never finished.   
-In late 2019, I wrote short story called "Wolf", which told a story about outlaw gunslinger being 
-lost on Vershaton deserts. It was purely experimental piece of paper, being terrible on technical 
-side, but very personal and I perceive it as one of the most straightforward prose I wrote.  
+In late 2019, I wrote [short story called "Wolf"](https://baedoor.github.io/wwriting/_stories.html),
+which told a story about outlaw gunslinger being lost on Vershaton deserts. It was purely 
+experimental piece of paper, being terrible on technical side, but very personal, and I perceive
+it as one of the most straightforward prose I wrote.  
 Experimental style also lead it to become almost "art cinema" style of uncertainty of interpretation, 
 which I always see as an artistic success, even if poorly made.  
 In the same time, I also expanded some universe aspects - both by finding old notebooks with notes, 
-and by writing it from scratch (such as West of Moon Continent, which history is strongly inspired 
-by historical book on Japan I read back then).  
+and by writing some lore from scratch (such as West of Moon Continent, which history is 
+inspired by historical book on Japan I read back then).  
 It led to Ghlodds having its distinct, really weird language, in which I even tried to write some 
 lore-based poetry, using the name of poet Nansaai Narayana (and somehow, I also included it in 
 "real-life" poetry, such as in [this poem](https://drive.google.com/file/d/1B0GTSDmfjdpSsHbKb8AJquiE6ezEEctf/view?usp=sharing) which uses Ghloddish title).
@@ -254,13 +255,16 @@ of years! Take care and have a nice day ❤︎
 * [2021] [Wastelands of Baedoor](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor)
 ---
 ### Indev
+<!--
 * [ ` ? ` ] Civilisations of Baedoor
 * [ ` ? ` ] Spires of Baedoor
+-->
 * [ ` ? ` ] The Isle of Ansur
+* [ ` ? ` ] From Steam and Magic
 
 ### Design
 * [ ` ? ` ] Baedoor
 * [ ` ? ` ] Emperor of Eternity
 
 *This list examines only games related to the universe. For stories, poems and music, refer to
-[this](Author.md) page. For lore aspects of those games, head on to [this page](Mechanicum/Walkthroughs.md)*.
+[my website](https://baedoor.github.io/). For lore aspects of those games, head on to [this page](Mechanicum/Walkthroughs.md)*.

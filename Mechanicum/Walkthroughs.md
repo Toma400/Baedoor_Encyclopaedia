@@ -11,7 +11,7 @@
 
 ### 🏹 [Fény és Árnyák között](Walkthroughs/BSaL/BSaL.md)
 
-## Mods
+## Modok
 
 ### 🏯 [Baedoor Pusztaságai](Walkthroughs/WoB/WoB.md)
 ### 🏯 Baedoor Civilizációi

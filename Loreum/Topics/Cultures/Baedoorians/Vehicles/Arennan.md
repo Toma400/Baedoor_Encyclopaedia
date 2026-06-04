@@ -12,4 +12,4 @@ fleet, it got bought by Xavier family in second century of NE and rerouted to tr
 
 ---
 ✥  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures/Baedoorians/[Culture].md) 〰️ [🚂](/Loreum/Topics/Cultures/Baedoorians/Vehicles.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../[Culture].md) 〰️ [🚂](../Vehicles.md)

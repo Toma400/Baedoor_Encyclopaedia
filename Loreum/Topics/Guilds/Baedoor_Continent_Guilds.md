@@ -1,14 +1,24 @@
 # 🕌 Baedoor Continent Guilds
 
 ---
+### 🏯 KACARI
+####   🔹 House of Restoration
+####   🔹 House of Blue Bird
+####   🔹 House of Malachite Lantern
+####   🔹 Roda Navy
+####   🔹 Roda Guards
+
 ### 🏯 ARENNAN
-#### [Aerial Pirates](List/Aerial_Pirates.md)
+####   🔹 [Aerial Pirates](List/Aerial_Pirates.md)
 
 ### 🏯 BAEDOOR
-#### [Guild of Adventurers](List/Alkaesar_Adventurers_Guild.md)
+####   🔹 [Baedoor Railroad Enterprise](List/Baedoor_Railroad_Enterprise.md)
+####   🔹 [Desert Divisions](List/Desert_Divisions.md)
+####   🔹 [Guild of Adventurers](List/Alkaesar_Adventurers_Guild.md)
 
 ### 🏯 EVÝVIND
-#### [Order of the Sword](List/Order_of_the_Sword.md)
+####   🔹 [Order of the Sword](List/Order_of_the_Sword.md)
 
 ---
-✥♜: lots of guilds missing
+✥♜: lots of guilds missing  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Guilds.md)

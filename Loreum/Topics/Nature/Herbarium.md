@@ -7,6 +7,7 @@ Every plant listed, by lands.
 ####   🔹 [Vershaton Herbarium](Herbarium/Vershaton_Herbarium.md)
 ####   🔹 [Kaer Herbarium](Herbarium/Kaer_Herbarium.md)
 ####   🔹 [Arennan Herbarium](Herbarium/Arennan_Herbarium.md)
+####   🔹 [Rossevette Islands Herbarium](Herbarium/Rossevette_Islands_Herbarium.md)
 
 ### 🔹 Seiteh
 ####   🔹 [Seiteh Surface Herbarium](Herbarium/Seiteh_Surface_Herbarium.md)
@@ -18,4 +19,5 @@ Every plant listed, by lands.
 ####   🔹 [Jitado Herbarium](Herbarium/Jitado_Herbarium.md)
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md)

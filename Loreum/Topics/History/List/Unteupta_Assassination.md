@@ -8,6 +8,9 @@ attacked the airship with their fast, small fighter planes. In the same time, on
 supporting liberation fight set up bombs inside the airship.  
 Unteupta was torn apart with the explosion, killing almost entirety of transported people.
 
+Unteupta event was seen by Separatists as a herald for the fall of baedoorian rule.
+It was used since then as a symbol for the fact that baedoorians dominance can be challenged.
+
 ### Related characters
 - [Eduard Allaut](/Loreum/Topics/Characters/List/Allaut_Eduard.md)
 - [Joeseh Thon](/Loreum/Topics/Characters/List/Thon_Joeseh.md)

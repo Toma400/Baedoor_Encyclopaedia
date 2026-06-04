@@ -42,13 +42,22 @@ LEGEND:
         <td><span style="color:#31852B">                                Accurate             </span></td>
     </tr>
     <tr align="center">
-        <th><span style="color:#31852B">                                 Land               </span></th>
-        <td><a href="Sources/L_008_Vershaton.md">         L.008:Vershaton         </a></td>
-        <td align="center">                        Notebook for Vershaton region  </td>
-        <td>                                         <input type="checkbox">      </td>
-        <td>                                         <input type="checkbox">      </td>
-        <td>                                                  9/10                </td>
-        <td><span style="color:#31852B">                              Accurate              </span></td>
+        <th><span style="color:#31852B">                                    Land                  </span></th>
+        <td><a href="Sources/L_008_Vershaton.md">            L.008:Vershaton            </a></td>
+        <td align="center">                            Notebook for Vershaton region    </td>
+        <td>                                         <input type="checkbox" checked=""> </td>
+        <td>                                              <input type="checkbox">       </td>
+        <td>                                                     9/10                   </td>
+        <td><span style="color:#31852B">                                 Accurate                 </span></td>
+    </tr>
+    <tr align="center">
+        <th><span style="color:#31852B">                                                    Land                  </span></th>
+        <td><a href="Sources/L_010_Egypt_Colony.md">                      L.010:Egypt Colony            </a></td>
+        <td align="center">                                      Notebook for Egypt Colony (Rossevette) </td>
+        <td>                                                        <input type="checkbox" checked="">  </td>
+        <td>                                                            <input type="checkbox">         </td>
+        <td>                                                                     8/10                   </td>
+        <td><span style="color:#31852B">                                                 Accurate                </span></td>
     </tr>
     <tr align="center">
         <th><span style="color:#31852B">                                                    Land                 </span></th>

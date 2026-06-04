@@ -2,7 +2,10 @@
 List of all events that have happened in New Era.
 
 ### General Timetable
-312 - Fall of Baedoor Empire
+| Date | Event                  |
+|:----:|:-----------------------|
+| 194  | The Rift Outbreak      |
+| 312  | Fall of Baedoor Empire |
 
 ---
 ### Timetable by civilisation

@@ -40,6 +40,7 @@ coexists with Third Era at the time of 920 OE (with Third one being rarely used)
 
 #### [🈳 Alphabet](/Langue/List/Ghloddish_General/Alphabet.md)
 #### [🔢 Numbers](/Langue/List/Ghloddish_General/Numbers.md)
+#### [⚜️ Names](/Loreum/Topics/Characters/Names/Ghlodds.md)
 
 ### By Evolution
 

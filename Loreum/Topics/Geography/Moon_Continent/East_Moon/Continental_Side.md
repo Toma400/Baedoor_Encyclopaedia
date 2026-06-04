@@ -2,9 +2,9 @@
 Continental side of East Moon is huge landmass, separated from the rest of Moon Continent by **the Scarp**.
 
 ### LANDS
-#####   🔷 [Cuerven Valley](Lands/Cuerven_Valley.md)
-#####   🔷 Southern Wastelands
-#####      🔷 [Vaerdena](Lands/Vaerdena.md)
+####   🔷 [Cuerven Valley](Lands/Cuerven_Valley.md)
+####   🔷 Southern Wastelands
+####      🔷 [Vaerdena](Lands/Vaerdena.md)
 
 ---
 ✥♜  

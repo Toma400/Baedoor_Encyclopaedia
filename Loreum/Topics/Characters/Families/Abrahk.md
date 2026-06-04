@@ -10,6 +10,9 @@ Abrahk has close ties with Skirran's families, Jitado embassy and [Varteford fam
 from western part of the country.
 Tom Varteford taking the throne in Old Era also legitimised Abrahk's sovereignty over the city.
 
+### Members
+####  🔹 [Elea Varteford](/Loreum/Topics/Characters/List/Varteford_Elea.md) (of Abrahk)
+
 ---
 ♜: needs banner  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🎇](/Loreum/Topics/Characters.md)

@@ -15,7 +15,7 @@ Aside of it, it saw rise of Baedoor Empire, from which its name come from.
 #####     🔷 Evývind
 #####     🔷 Forevind
 #####   🔷 [Baedoor](Baedoor_Continent/Baedoor.md)
-#####   🔷 Rossevette Islands
+#####   🔷 [Rossevette Islands](Baedoor_Continent/Rossevette_Islands.md)
 #####     🔷 Rossevette
 #####     🔷 Karos
 #####     🔷 Torvos

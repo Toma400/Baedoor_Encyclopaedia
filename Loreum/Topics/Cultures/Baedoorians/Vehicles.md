@@ -12,4 +12,4 @@ List of all vehicles of baedoorian culture.
 
 ---
 ♜: trains, include split into "named" vehicles and vehicle subtypes (aka TEM in PTR)  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures/Baedoorians/[Culture].md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺]([Culture].md)

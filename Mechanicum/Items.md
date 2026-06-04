@@ -12,7 +12,7 @@
 
 ---
 ### 🔍 [Index](Items/Index.md)
-### 🐲 [Game Index](Items/Game_Index.md)
+### 🐲 [Játék Index](Items/Game_Index.md)
 
 ---
 ✥

@@ -9,4 +9,9 @@ very different from ice ones known from lands above it.
 
 ---
 ♜♢✥   
+From Alkaesar Adventurers Guild:
+> Also: Brutus says he's from "Fangor" province, on the south of Mes Inpea; as we turned
+geography of Baedoor a little, I'd imagine it's currently the one on the north, but
+worth keeping the name nevertheless.  
+
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md)

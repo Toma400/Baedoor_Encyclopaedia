@@ -3,12 +3,14 @@ Every creature existing on [Baedoor Island](/Loreum/Topics/Geography/Baedoor_Con
 
 ---
 ### 🔹 Entire Island
+####   🔹 [Spectre Nosfer](List/Spectre_Nosfer.md)
 
 ### 🔹 Baedoor Lowlands
-#### 🔹 [Naven](List/Naven.md)
+####   🔹 [Naven](List/Naven.md)
 
 ### 🔹 Vershaton
-#### 🔹 [Ostaequa](List/Ostaequa.md)
+####   🔹 [Ostaequa](List/Ostaequa.md)
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🐊](/Loreum/Topics/Nature/Bestiary.md)

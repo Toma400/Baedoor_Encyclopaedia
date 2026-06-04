@@ -2,7 +2,8 @@
 
 ---
 ### 🏯 JITADO
-#### [Starshifters](List/Starshifters.md)
+####   🔹 [Starshifters](List/Starshifters.md)
 
 ---
-✥♜: lots of guilds missing
+✥♜: lots of guilds missing  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Guilds.md)

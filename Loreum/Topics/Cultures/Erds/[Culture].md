@@ -5,6 +5,10 @@ It follows old philosophical idea of "the garden" that influences a lot of its a
 Erds perfected their balance between beautiful ornamentation and simplicity, bringing artistry into
 many fields of life in a way that is not overly extravagant.
 
+| ![](/Assets/Culture/Items/erdic_curved_weapons.png) |           ![](/Assets/Culture/Items/erdic_temple_guard_armour.png)            |
+|:---------------------------------------------------:|:-----------------------------------------------------------------------------:|
+|                Erdic curved weapons                 | Erdic ceremonial armour worn by Temple of Wheel guards (helmet and pauldrons) |
+
 ### Institutional Houses
 Erdic culture holds the specific institution role, called *Houses*. Unlike actual institutions
 and guilds, House is term used for structure built from incentive of individuals or local
@@ -21,15 +25,38 @@ high trust status for its entire existence.
 Despite their general idea, Houses are usually seen as effective and trustworthy, as they
 operate heavily on initiative of its members.
 
+List of Houses:
+- **House of Restoration** - organisation focused on exploring past of the Kacari island, 
+                             independent, yet connected and funded by government and University of Illusion
+
+- **House of Blue Bird** - an art organisation found in Roda's western district, funding independent 
+                           artists and organising events of less known performers and musicians; 
+                           their house is also a place of meetings for many lower-to-middle class
+                           artists
+
+- **House of Malachite Lantern** - organisation of magical research that does it on relatively
+                                   small scale, but offers apprenticeship with much lower costs
+                                   that University of Illusion; therefore is common destination
+                                   of middle-class citizens
+
 ### Cultural Topics
-- [🏯 Architecture](/Loreum/Topics/Cultures/Erds/Architecture.md)
+- [🏯 Architecture](Architecture.md)
+- [🎭 Art](Art.md)
 - [💮 Language](/Langue/List/Erdis.md)
 - [㊙️ Names](/Loreum/Topics/Characters/Names/Erds.md)
-- [🧿 Symbolism](/Loreum/Topics/Cultures/Erds/Symbolism.md)
+- [🧿 Symbolism](Symbolism.md)
 
 ### Cultural Elements
 - Games
   - [Four Kings](List/Four_Kings.md)
+
+### ⚜️ Factions
+- [Temple of the Wheel](/Loreum/Topics/Factions/List/Temple_of_the_Wheel.md)
+- Separatists
+  - Tae Ravo Naehhag
+- Houses
+  - House of Restoration
+  - House of Blue Bird
 
 ---
 ♜  

@@ -25,16 +25,22 @@ on southern coast, Anoan, deriving name from past town of Anoltan built further 
 In addition, Kacari hosts the biggest temple of erdic faith, and major research institution,
 University of Illusion.
 
-**TOWNS**
+### CITIES
 - Roda
-- Kananea
 
-**VILLAGES**
+### SMALLER SETTLEMENTS
+- Kananea
 - Anoan
 - Anoltan `ruined`
 
-**PLACES**
+### PLACES
 - [University of Illusion](Places/University_of_Illusion.md)
+
+### LANDSCAPES
+- Mesaul Mountains `west range on Kacari`
+- Lemeris Mountains `east range on Kacari`
+- Dair River `the river going south of Temple, out of Mesaul`
+- Oin Forest `forest south of Roda`
 
 ---
 ♜  
