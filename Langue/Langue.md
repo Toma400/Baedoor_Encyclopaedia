@@ -1,15 +1,15 @@
 # 🎭 Encyclopaedia Langue
 
 ---
-Welcome in Encyclopaedia Langue in which stored is everything about Baedoor universe languages, 
-including dictionaries and walkthrough through languages logic.
+Üdvözöllek az Encyclopaedia Langue-ben, ahol minden információt megtalálhatsz a Baedoor univerzum különböző nyelveivel kapcsolatban, beleértve
+szótárakat és a betekintő nyelvek logikai felépítésébe.
 
-Also visit [naming schemes page](Naming_Schemes.md) to see how names can be constructed in
-non-conlangy way, or [list of names and surnames](/Loreum/Topics/Characters/Names.md) if you
-want to create new character based on existing system.
+Szintén látogasd meg a [nevezési sémák oldalát](Naming_Schemes.md), hogy lásd, hogyan lehet neveket alkotni
+nem-conlang módon, vagy a [nevek és vezetéknevek listáját](/Loreum/Topics/Characters/Names.md), 
+ha új karaktert szeretnél létrehozni a meglévő rendszer alapján.
 
 ---
-## <center>Families</center>
+## <center>Családok</center>
 
 ### [⛩️ Baedoorish](Families/Baedoorish.md)
 ### [⛩️ Ghloddish](Families/Ghloddish.md)
@@ -19,15 +19,15 @@ want to create new character based on existing system.
 ### [⛩️ Trish](Families/Trish.md)
 
 ---
-## <center>Regular languages</center>
-### [🎏️ Erdis](List/Erdis.md)
+## <center>Átlagos Nyelvek</center>
+### [⛩️ Erdis](List/Erdis.md)
 ### [🎏️ Kehtic](List/Kehtic.md)
 ### [🎏️ Nalleput](List/Nalleput.md) (Nalput)
 
 ---
-## <center>Ancient languages</center>
+## <center>Ősi Nyelvek</center>
 
 ### [🪔 Ehric](List/Ehric.md)
 
 ---
-## <center>Ritual languages</center>
+## <center>Rituális Nyelvek</center>

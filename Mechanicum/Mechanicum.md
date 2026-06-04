@@ -1,9 +1,9 @@
 # ⚙️ Encyclopaedia Mechanicum
 
-Welcome in Encyclopaedia Mechanicum, section of Baedoor Encyclopaedia focused on 
-Baedoor RPG system and other technical aspects of this universe.
+Üdvözöllek az Encyclopaedia Mechanicum-ban! Ez egy olyan szekció, 
+amely a Baedoor RPG rendszereire és az univerzum egyéb technikai szempontjainak bemutatására fókuszál.
 
 ---
-### 🎲 [Baedoor RPG System](RPG_System/3.0/RPG_System.md)
-### 🌀 [Item properties and statistics](Items.md)
-### 🗝️ [Games walkthroughs](Walkthroughs.md)
+### 🎲 [Baedoor RPG Rendszer](RPG_System/3.0/RPG_System.md)
+### 🌀 [Item tulajdonságok és statisztikák](Items.md)
+### 🗝️ [Játék útmutatók](Walkthroughs.md)
