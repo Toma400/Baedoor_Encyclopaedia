@@ -14,7 +14,7 @@ Characters bound to **Baedoorian** heritage and nationality.
 ####  🔹 [Zan Eiron](List/Eiron_Zan.md)
 
 ### 🕋 NEW ERA
-####  🔹 [Black Barb](List/Black_Tache.md)
+####  🔹 [Black Tache](List/Black_Tache.md)
 ####  🔹 [Ferves Navikon](List/Navikon_Ferves.md)
 ####  🔹 [Heim Winfleton](List/Winfleton_Heim.md)
 ####  🔹 [Irlan Lavago](List/Lavago_Irlan.md)

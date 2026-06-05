@@ -75,6 +75,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Joeseh   | East Baedoor        | ⚜️ Rare        | Of jitadian origin                                                         |
 | Kin      | Whole Baedoor       | 🏵️ Semi-rare  |                                                                            |
 | Kirs     | East Baedoor        | ⚜️ Rare        | Of possibly nomath origin                                                  |
+| Lannot   | Whole Baedoor       | 🏵️ Semi-rare  |                                                                            |
 | Levan    | East Baedoor        | 🏵️ Semi-rare  | Popular in OE, less so in NE, of jitadian origin                           |
 | Lovrem   | East Baedoor        | 🔆 Semi-common |                                                                            |
 | Malcolm  | Whole Baedoor       | 🏵️ Semi-rare  |                                                                            |

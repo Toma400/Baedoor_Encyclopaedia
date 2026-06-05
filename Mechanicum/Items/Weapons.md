@@ -29,6 +29,7 @@
 #### Throwing Axes
 #### Other Throwing Weapons
 #### Chain Knives
+#### Rope Darts
 
 ### 🔥 Firearms
 #### [Revolvers](Revolvers.md)

@@ -4,8 +4,8 @@
 |:----------------------------------------------------------------------------:|
 |                  Simplified map of Ansur Isle as of 420 NE                   |
 
-**Isle of Ansur** (bae. *Ans Sur*, "land of hope", sometimes also called *Ansur* from its major
-city) is small island positioned pretty much in between old **[Baedoor city](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)**
+**Isle of Ansur** (bae. *Ans Sur*, "land of hope") is small island positioned pretty much in 
+between old **[Baedoor city](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)**
 and **New Baedoor**, being also one of the better places to stay during longer journey to any 
 of those places.  
 Initially a servant of **Baedoor Empire** and with economy based on agriculture, since third

@@ -4,13 +4,26 @@ that are canon and should be used. It's a way to also preserve translations that
 in potential GitHub branch merges.
 
 ### Polish
+- Aerial Pirates > Piraci Powietrzni
 - The Age of Decline > Schyłek Wieków
 - Ash Veil > pustynny całun
+- Ayer Shotgun > strzelba ajerska
+- Black Tache > Czarny Wąs
+- Dawn Tear > Poranna Łza `ensure it's correct in sources`
+- Endaic Ocean > Ocean Endejski
+- Ennaeric Ocean > Ocean Ennaeryjski
 - Eternal Flame of Avantgarde > Wieczny Płomień Awangardy
 - The Fall of Gods > Upadek Bogów
 - Ghlodds > głoddy
+- Indraic Ocean > Ocean Indrajski
 - Madai > madajka
+- Manaeic Ocean > Ocean Manaejski
 - Plate Lizard > płytowiec
+- The Rift > Szczelina
+- The Rift Outbreak > Rozszczelnienie
+- Sect of Destroyer of Sun > Sekta Niszczyciela Słońca `English version could have better name`
+- Smoke River Collective > Kolektyw Dymiącej Rzeki `rethink, but sounds cool`
 - Spectre Nosfer > widmowy latawiec
+- Starshifters > Gwiazdounosiciele
 - Windy Arista > wietrzne źdźbła
 - Vulcanic Veil > wulkaniczny całun
