@@ -19,6 +19,7 @@ by districts.
   - [District of Black Paving](#-district-of-black-paving)
   - [Castle](#-castle)
 - [Emblems](#-emblems)
+- [Related](#related)
 
 ---
 ### 🪔 HISTORY
@@ -179,8 +180,13 @@ cities, being Baedoor, Isuga and Skirran.
     </tr>
 </table>
 
+### RELATED
+- [Great Baedoorian Railroad](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Places/Great_Baedoorian_Railroad.md)
+
 ---
 📿 [Baedoor Classic](/Mechanicum/Walkthroughs/Baedoor_Classic/Lore/BaeCL_Baedoor.md)
 
 ---
+♜: Calgori University, Baedoor Railroad Enterprise residence, also please try to separate
+the eras of city's development (early OE, late OE, NE)  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor.md)

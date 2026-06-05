@@ -5,8 +5,12 @@ research. They tend to be pacifistic, though they had their share in military in
 Their focus though was on building working infrastructure on conquered lands, which often yielded them
 great profit and more materials in scientific research.  
 They are also known to be inventors and philanthropists, having part in historical shifts. For example,
-Anaurin Ettua was heavily backed up by Natem Calgori who was co-inventor of first train prototype.
+[Anaurin Ettua](/Loreum/Topics/Characters/List/Ettua_Anaurin.md) was heavily backed up by [Natem Calgori](/Loreum/Topics/Characters/List/Calgori_Natem.md)
+who was co-inventor of first train prototype.
+
+### Members
+####  🔹 [Natem Calgori](/Loreum/Topics/Characters/List/Calgori_Natem.md)
 
 ---
-♜: needs banner, ig link it to Anaurin Ettua page when it's done   
+♜: needs banner  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🎇](/Loreum/Topics/Characters.md)

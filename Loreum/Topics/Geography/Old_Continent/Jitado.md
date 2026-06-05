@@ -12,8 +12,8 @@ położony jest kraj o tej samej nazwie, **Jitado**.
 ### KRAJOBRAZY
 - Góry Altauar
 
-### TOPICS
-####   🔷 [🌿 Herbarium](/Loreum/Topics/Nature/Herbarium/Jitado_Herbarium.md)
+### TEMATY
+####   🔷 [🌿 Herbariusz](/Loreum/Topics/Nature/Herbarium/Jitado_Herbarium.md)
 
 ---
 ♜♢✥ / separate into country and island  

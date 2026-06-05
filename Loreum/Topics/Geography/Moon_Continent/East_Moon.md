@@ -21,7 +21,7 @@ rezultatem wielkiej bitwy, być może potężnych magów czy nawet bogów.
 ### WYSPY
 #####   🔷 [Wyspa Ansur](East_Moon/Ansur.md)
 #####   🔷 Archipelag Agoi
-#####   🔷 [Wyspę Nferth](East_Moon/Nferth.md) (Wyspę Demonów)
+#####   🔷 [Wyspa Nferth](East_Moon/Nferth.md) (Wyspa Demonów)
 
 ### OCEANY
 ####   🔷 Ocean Endejski

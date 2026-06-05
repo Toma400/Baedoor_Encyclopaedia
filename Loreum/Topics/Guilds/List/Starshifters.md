@@ -4,6 +4,10 @@
 <span style="color:#8F3DA5">**uniwersum**</span> [✦](/Loreum/Tags.md#-uniwersum)  
 
 ---
+| ![](/Assets/banner_starshifters.png) |
+|--------------------------------------|
+| Banner Gwiazdounosicieli             |
+
 **Gwiazdounosiciele** to sekretna magiczna organizacja utworzona w **Jitado** przez [Xaine](/Loreum/Topics/Characters/List/Xaine.md)
 około roku 976 CP. Jej celem nie są w pełni znane, lecz jednym ze znanych jest poznawanie nowych
 multiwersów i studiowanie struktury wszechwersu.  

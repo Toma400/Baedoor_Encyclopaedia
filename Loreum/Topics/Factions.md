@@ -4,7 +4,7 @@
 ### 🍁 CHRONOLOGICZNIE
 #### 🔹 Frakcje Czasu Przederowego
 #### 🔹 [Frakcje Starej Ery](Factions/Old_Era_Factions.md)
-#### 🔹 Frakcje Nowej Ery
+#### 🔹 [Frakcje Nowej Ery](Factions/New_Era_Factions.md)
 
 ### 🕌 POPRZEZ KONTYNENT
 #### 🔹 Frakcje Starożytnego Kontynentu
@@ -14,6 +14,9 @@
 #### 🔹 Frakcje Archipelagu Błękitnego
 #### 🔹 Frakcje Wielkiej Południowej Zmarzliny
 #### 🔹 Frakcje innych lądów
+
+### 🕌 PRZEZ KULTURĘ
+####    🔹 [Erdowie](/Loreum/Topics/Cultures/Erds/[Culture].md#-factions)
 
 ---
 ✥

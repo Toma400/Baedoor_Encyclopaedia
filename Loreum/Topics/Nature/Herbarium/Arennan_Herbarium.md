@@ -5,4 +5,5 @@ Every plant existing in [Arennan](/Loreum/Topics/Geography/Baedoor_Continent/Are
 #### 🔹 [Ash Veil](List/Ash_Veil.md)
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🌿](/Loreum/Topics/Nature/Herbarium.md)

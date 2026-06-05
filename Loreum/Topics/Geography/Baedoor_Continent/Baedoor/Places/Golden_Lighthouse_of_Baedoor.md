@@ -1,6 +1,6 @@
 # 🌾 Golden Lighthouse of Baedoor
 Golden Lighthouse is one of the few, and yet the biggest monument built on Baedoor island. It is
-placed on the island near [Isuga city](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor_Continent/Baedoor/Cities/Isuga.md), and it is 
+placed on the island near [Isuga city](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md), and it is 
 116-meters high. Its exterior side is built from stones covered with golden and silver colour, 
 which is where name for it came from.
 

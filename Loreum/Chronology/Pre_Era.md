@@ -3,7 +3,7 @@
 ---
 <span style="color:#99ccff">**Czas Przederowy**</span> to nazwa okresu poprzedzającego
 **Starą Erę**.  
-Nie jest jasne co konkretnie wyznaczyło podział tych dwóch, jednak nie przeszkodziło
+Nie jest jasne co konkretnie wyznaczyło podział tych dwóch okresów, jednak nie przeszkodziło
 to mieszkańcom uniwersum rozpoznawać tego podziału jako międzynarodowego standardu,
 mimo różnorodnych kalendarzy używanych przez niektóre cywilizacje.
 

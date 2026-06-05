@@ -9,4 +9,5 @@ adaptację.
 ### 🥮 [Pożywienie](Nature/Foods.md)
 
 ---
-✥
+✥  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)

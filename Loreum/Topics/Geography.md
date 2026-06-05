@@ -11,7 +11,7 @@ Wszystko co tworzy wszechwers, lecz głównie Baedoor samo w sobie.
 ####   🔷 [Kontynent Baedoorski](Geography/Baedoor_Continent.md)
 #####      🔹 Północne Wyspy
 #####      🔹 [Baedoor](Geography/Baedoor_Continent/Baedoor.md)
-#####      🔹 Wyspy Rossevette
+#####      🔹 [Wyspy Rossevette](Geography/Baedoor_Continent/Rossevette_Islands.md)
 #####      🔹 [Kaer](Geography/Baedoor_Continent/Kaer.md)
 #####      🔹 [Arennan](Geography/Baedoor_Continent/Arennan.md)
 ####   🔷 [Księżyc](Geography/Moon_Continent.md)

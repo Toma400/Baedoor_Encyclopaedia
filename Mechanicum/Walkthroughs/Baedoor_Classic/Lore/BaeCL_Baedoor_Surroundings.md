@@ -71,7 +71,7 @@ Hence, sources on Baedoor from **Baedoor Classic** are treated in specific scope
   follow 200 OE timeframe, it will be used as source for this period)
 - Kel Desert is moved onto Vershaton territory
 
-Notebook source: [**N.1.001_lnd**](/Mechanicum/Walkthroughs/Baedoor_Classic/Sources/L_001_Baedoor.md)
+Notebook source: [**L.001:Baedoor**](/Mechanicum/Walkthroughs/Baedoor_Classic/Sources/L_001_Baedoor.md)
 
 ---
 [💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [📿](/Mechanicum/Walkthroughs/Baedoor_Classic/BaeCL_Lore.md)

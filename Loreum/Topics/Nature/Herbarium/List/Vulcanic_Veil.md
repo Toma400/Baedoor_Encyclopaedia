@@ -21,5 +21,5 @@ value.
 [📿 Wastelands of Baedoor]()
 
 ---
-♜:WoB Link
+♜:WoB Link  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🌿](/Loreum/Topics/Nature/Herbarium.md)

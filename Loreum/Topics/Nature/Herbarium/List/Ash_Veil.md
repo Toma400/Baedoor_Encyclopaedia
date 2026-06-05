@@ -22,5 +22,5 @@ too powdery to be considered such, at least in Baedoor environment.
 [📿 Wastelands of Baedoor]()
 
 ---
-♜:WoB Link
+♜:WoB Link  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🌿](/Loreum/Topics/Nature/Herbarium.md)

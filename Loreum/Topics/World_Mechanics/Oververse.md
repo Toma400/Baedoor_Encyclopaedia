@@ -117,15 +117,15 @@ Multiwersa były odkrywane w takiej oto chronologii:
  | 655 CP        | Tamariel    | [Si Avani](/Loreum/Topics/Characters/List/Avani_Si.md)   | Tamriel, uniwersum Elder Scrolls                                   |
  | 272 CP        | Uru'ai      | [Esh Enahr](/Loreum/Topics/Characters/List/Enahr_Esh.md) | Uniwersum Myst / Uru                                               |
  | 463 SE        | Osde'in     |                                                          | Świat Dysku                                                        |
- | 431 NE        | Ins'in      | Tehom Aranai                                             | Nalqiwatya                                                         |
- | 637 NE        | Eis'in      |                                                          | End's Phantasm                                                     |
- | 638 NE        | Ne'rin      |                                                          | Uniwersum Minecrafta                                               |
- | 654 NE        | Ne'n        |                                                          | Wymiar-wyłom pomiędzy Ne'rin a Baedoor                             |
- | 654 NE        | Aji'n       |                                                          | Konstelacja wymiarów-wyłomów o nazwie Desolat i Undergrowth        |
+ | 131 NE        | Ins'in      | Tehom Aranai                                             | Nalqiwatya                                                         |
+ | 237 NE        | Eis'in      |                                                          | End's Phantasm                                                     |
+ | 238 NE        | Ne'rin      |                                                          | Uniwersum Minecrafta                                               |
+ | 254 NE        | Ne'n        |                                                          | Wymiar-wyłom pomiędzy Ne'rin a Baedoor                             |
+ | 254 NE        | Aji'n       |                                                          | Konstelacja wymiarów-wyłomów o nazwie Desolat i Undergrowth        |
 
 <span style="color:#0099cc">**ROZSZCZELNIENIE**</span>  
 Ważnym wydarzeniem, które powinno być wspomniane, było <span style="color:#0099cc">
-**Rozszczelnienie**</span>, powstałe w roku **494 NE**.  
+**Rozszczelnienie**</span>, powstałe w roku **194 NE**.  
 W obecnych czasach rozumiane jest ono jako krótkie otwarcie Szczeliny, struktury
 która powoduje wyłomy pomiędzy multiwersami, pozwalając im połączyć się przez krótki
 moment. 
@@ -179,11 +179,11 @@ W następnych wiekach, powstawały nowe sekcje uniwersytetów poświęcone wszec
  | 466 SE | Metagalaktyczne Skrzydło Uniwersytetu Oe'os            | Oe'os             | 🟢   |
  | 922 SE | Kryształ Adiany                                        | Septei            | 🟣   |
  | 112 NE | Czarny Uniwersytet                                     | Rossevette        | 🟣   |
- | 655 NE | Uniwersytet Badań nt. Wszechwersum w Zachodnim Baedoor | Zachodnie Baedoor | 🟢   |
- | 690 NE | Jitadzkie Obserwatorium Uniwersów                      | Jitado            | 🟢   |
+ | 255 NE | Uniwersytet Badań nt. Wszechwersum w Zachodnim Baedoor | Zachodnie Baedoor | 🟢   |
+ | 290 NE | Jitadzkie Obserwatorium Uniwersów                      | Jitado            | 🟢   |
 
 Wzrastające zainteresowanie wobec multiwersów poskutkowało powstaniem <span style="color:#0099cc">
-**Międzynarodowej Rady Eksploracji Wszechwersu**</span>. Rada ta powstała w 695 NE,
+**Międzynarodowej Rady Eksploracji Wszechwersu**</span>. Rada ta powstała w 295 NE,
 by ułatwić komunikację i wymianę wiedzy pomiędzy uniwersytami. W tym samym czasie,
 gwiazdounosiciele częściowo ujawnili swoje tożsamości, by pomóc Radzie zorganizować
 wiedzę.

@@ -15,13 +15,13 @@
 ---
 ### OPIS  
 **Lefs 8** jest jednym ze standardowych rewolwerów stworzonych przez firmę **Lefs**,
-produkowanych od roku 720 NE do teraz.  
+produkowanych od roku 220 NE do teraz.  
 Z kilkuletnim opóźnieniem, stał się niezwykle popularny wśród armii i rewolwerowców, ze względu na
 swoją jakość i komfort obsługi. Popularność ta nie słabnie mimo wysokiej ceny rynkowej.
 
 Jest również rzadki wariant zwany **Lefs 8T**, z czarną rączką i nieco zmienionymi
 mechanikami działania. Został wyprodukowany dla **Zjednoczonej Unii Tri** w latach
-901 NE - 907 NE, ale nigdy nie osiągnął większego sukcesu ze względu na uprzedzenia
+401 NE - 407 NE, ale nigdy nie osiągnął większego sukcesu ze względu na uprzedzenia
 trijczyków wobec bronii palnej.
 
 ---

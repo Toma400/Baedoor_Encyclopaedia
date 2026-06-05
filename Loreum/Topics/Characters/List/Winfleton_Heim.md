@@ -1,7 +1,7 @@
 # 🎎 Heim Winfleton
 
 ---
-**Heim Winfleton** to baedoorski arystokrata urodzony w 873 roku Nowej Ery, w Nowym Baedoor.
+**Heim Winfleton** to baedoorski arystokrata urodzony w 373 roku Nowej Ery, w Nowym Baedoor.
 Otrzymując spadek, postanowił podążać za swoją artystyczną pasją. Winfleton jest jednym z głównych
 mecenasów klasycznej sztuki w Zachodnim Baedoor, jak i również malarzem inspirującym się
 starą szkołą sztuki baedoorskiej w swojej twórczości.

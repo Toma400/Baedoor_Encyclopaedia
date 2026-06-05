@@ -24,7 +24,8 @@ który dostał się do niego poprzez przerwy między wymiarami.
     </tr>
     <tr>
         <td colspan="2">
-            Xaine script he used to write most of his notes. Transcription uses French pronunciation.<br>
+            Pismo Xaine, które ten użył pisząc większość swoich notatek.
+            Transkrypcja używa francuskiej wymowy.<br>
             It was deciphered that script on the right was called Rham and was mostly used for naming,
             while script on the left was for descriptions and was called Tham.<br>
             It is unsure whether the script is entirely Xaine's creation or just used in their universe
@@ -41,9 +42,9 @@ który dostał się do niego poprzez przerwy między wymiarami.
     </tr>
 </table>
 
-### Trivia
-Xaine is a cameo of Lyof, a friend of Toma. That being said, their existence is explained as one of
-multiple selves of Lyof, making it more attached to actual reality and less separated from each other.
+### Ciekawostki
+Xaine jest cameo Lyofa, przyjaciela Tomy. Zaistnienie postaci Xaine jest wyjaśniane poza
+lore Baedoor jako alter ego Lyofa, czyniąc z tej postaci element lore najbardziej połączony z rzeczywistością.
 
 ---
 ♜✥: make separate page for Xaine's script  

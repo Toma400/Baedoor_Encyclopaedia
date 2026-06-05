@@ -116,18 +116,18 @@ BSaL jednak był grą kompletną: można było odwiedzić wyspę Ansur, zrobić 
 tworzyć swoją postać. Miała również ona swój plik .exe z amatorską ikoną.  
 Niemniej jednak, była ona po polsku, co powstrzymywało mnie z publikacją.
 
-***Aktualizacja:** BSaL ostatecznie została udostępniona dzięki zaistnieniu tej encyklopedii - 
-można ją znaleźć na [stronie autorskiej](Author.md).*
+***Aktualizacja:** BSaL ostatecznie została udostępniona [na mojej stronie internetowej](https://baedoor.github.io/projects/_games_small.html)
+i otrzyma również drobny remaster umożliwiający m.in. wsparcie wielu języków.*
 
 ### ❄️ Growa przerwa
 
 Uniwersum Baedoor stało się miejscem, w którym zacząłem umieszczać coraz częściej swoje
 opowiadania: uciekając od tworzenia gier, skupiłem się na dokańczaniu historii, które swego
 czasu zacząłem, ale nigdy nie kończyłem.  
-Pod jesień 2019 roku, napisałem krótkie opowiadanie o tytule "Wilk", w której opowiedziałem
-historię bandyty zgubionego na pustyni Vershaton. Było to bardzo eksperymentalne, koszmarne
-ze strony technicznej, ale bardzo osobiste i nadal uważam to za najbardziej bezpośrednią
-prozę, jaką kiedykolwiek napisałem.  
+Pod jesień 2019 roku, napisałem [krótkie opowiadanie o tytule "Wilk"](https://baedoor.github.io/wwriting/_stories.html),
+w której opowiedziałem historię bandyty zgubionego na pustyni Vershaton. Było to bardzo
+eksperymentalne, koszmarne ze strony technicznej, ale bardzo osobiste i nadal uważam to 
+za najbardziej bezpośrednią prozę, jaką kiedykolwiek napisałem.  
 W tym samym czasie, rozszerzyłem również swoje uniwersum - zarówno przez znajdywanie kolejnych
 zeszytów, czy też przez pisanie części świata od początku (jak Zachodni Księżyc, inspirowany
 przez historię Japonii, którą czytałem w tamtym czasie).  
@@ -263,13 +263,17 @@ a kto wie, może się spotkamy na skrzyżowaniu dróg?
 * [2021] [Wastelands of Baedoor](https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor)
 
 ### W trakcie tworzenia
+<!--
 * [ ` ? ` ] Civilisations of Baedoor
 * [ ` ? ` ] Spires of Baedoor
+-->
 * [ ` ? ` ] The Isle of Ansur
+* [ ` ? ` ] From Steam and Magic
 
 ### W designie
 * [ ` ? ` ] Baedoor
 * [ ` ? ` ] Emperor of Eternity
 
-*Ta lista zawiera jedynie gry związane z uniwersum. Historie, wiersze i muzyka nawiązujące do
-uniwersum znajdują się pod [tą](Author.md) stroną.*
+*Ta lista zawiera jedynie gry związane z uniwersum. Historie, wiersze i muzyka dostępne są 
+[na mojej stronie internetowej]([Author.md](https://baedoor.github.io/)). Światotwórcze kwestie
+związane z powyższymi grami są dostępne [na tej stronie](Mechanicum/Walkthroughs.md)*.

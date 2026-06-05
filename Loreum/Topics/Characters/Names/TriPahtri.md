@@ -11,12 +11,14 @@
 |-------|--------------|----------------|---------------------------------------|
 | Ain   | All islands  | 🔆 Semi-common | Pan-tric name, used among all classes |
 | Bosm  | All islands  | 🏵️ Semi-rare  |                                       |
-| Tomai | All islands  | 🔆 Semi-common | Gender-neutral pahtric name           |
+| Lui   | All islands  | 🔆 Semi-common | Gender-neutral                        |
+| Tomai | All islands  | 🔆 Semi-common | Gender-neutral                        |
 
 ### Female
-| Name  | Localisation | Rarity         | Description                 |
-|-------|--------------|----------------|-----------------------------|
-| Tomai | All islands  | 🔆 Semi-common | Gender-neutral pahtric name |
+| Name  | Localisation | Rarity         | Description    |
+|-------|--------------|----------------|----------------|
+| Lui   | All islands  | 🔆 Semi-common | Gender-neutral |
+| Tomai | All islands  | 🔆 Semi-common | Gender-neutral |
 
 ---
 ## Surnames

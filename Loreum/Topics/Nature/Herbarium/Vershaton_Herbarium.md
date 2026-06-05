@@ -6,4 +6,5 @@ Every plant existing in Vershaton.
 #### 🔹 [Vulcanic Veil](List/Vulcanic_Veil.md)
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🌿](/Loreum/Topics/Nature/Herbarium.md)

@@ -1,5 +1,9 @@
 # 💮 Goblins
 
+| ![](/Assets/Races/goblin_kaikhi_tammi.jpg) |
+|:------------------------------------------:|
+|   Goblin depicted by Tammilisäke (left)    |
+
 <table>
     <tr>
         <td>
@@ -26,10 +30,9 @@ Goblins are primarily split into five groups:
 - wastelanders - tribes from Vershaton
 - lowlanders - extinct tribes that lived on lowlands of Baedoor Island
 - islanders - inhabitants of Rossevette islands
-- kaerian - goblins living in Kaer woods
+- kaeric - goblins living in Kaer woods
 
 ### Culture
-
 While seen by many human cultures as creatures or even pests, with primitive culture not worth exploring,
 goblins established quite complex society, art and beliefs.  
 Their culture is isolationist from human, so the idea of "civilising" them often fails. 
@@ -58,8 +61,12 @@ languages enough and communicates between humans and goblins in those rare situa
 The only other role that understands human culture can be technicians, since they tend to learn
 human writing to use that as helpful tool to improve their inventions.
 
-### War
+### Gender-blindness
+While goblins differ biologically into two sexes, no goblin culture developed the idea of gender
+that would affect their lives in a way it can for other races having this concept. This means that
+things such as choosing partner or work is entirely independent of one's gender.
 
+### War
 In war and rituals, goblins do not avoid brutality. There are certain rituals requiring death
 and while in war, goblins can tear enemies apart or use any measures to annihilate them. This kind
 of brutality is what feeds on stereotype of creature pest or even cannibals that should be exterminated
@@ -74,7 +81,6 @@ The name of that role comes from stakes that each paler has in their inventory a
 their target.
 
 ### History
-
 Back in Pre Era and early Old Era, goblins from Baedoor Island were living in sort of alliance with
 nomathians. This is main reason of this race having fairly good understanding of human culture
 earned through lots of trades and diplomatic communication.  
@@ -110,9 +116,9 @@ islands.
 Tribes living in dense woods of Karos, Veimos, Torvos and Fariva. Their culture tends to be more
 settled, which results in islanders' villages and towns being biggest ones built on surface.
 
-#### Kaerian
-Kaerian goblins live in deep woods of northern and western Kaer. Both the distance from other tribes
-and contacts with cultures living on the island shaped kaerian goblins to be much more involved
+#### Kaeric
+Kaeric goblins live in deep woods of northern and western Kaer. Both the distance from other tribes
+and contacts with cultures living on the island shaped kaeric goblins to be much more involved
 in rituals and contacts with spirits, which also built quite different societal structure compared
 to tribes living elsewhere.
 
@@ -128,14 +134,14 @@ into the wild.
 
 ### Graphs
 #### Focus
-|     \      | Mountainers | Wastelanders | Lowlanders | Islanders | Kaerian |
-|:----------:|:-----------:|:------------:|:----------:|:---------:|:-------:|
-| Metallurgy |      ▲      |      〇       |     ▽      |     ▽     |    〇    |
-|   Social   |      ▽      |      ▽       |     〇      |     〇     |    ▽    |
-|    Wild    |      ▽      |      ▲       |     ▽      |     〇     |    〇    |
-|  Religion  |      ▽      |      ▽       |     ▽      |     〇     |    ▲    |
-|  Settled?  |      〇      |      〇       |     ▽      |     ▲     |    〇    |
-|   Caves?   |      ▲      |      ▲       |     ▽      |     ▽     |    〇    |
+|     \      | Mountainers | Wastelanders | Lowlanders | Islanders | Kaeric |
+|:----------:|:-----------:|:------------:|:----------:|:---------:|:------:|
+| Metallurgy |      ▲      |      〇       |     ▽      |     ▽     |   〇    |
+|   Social   |      ▽      |      ▽       |     〇      |     〇     |   ▽    |
+|    Wild    |      ▽      |      ▲       |     ▽      |     〇     |   〇    |
+|  Religion  |      ▽      |      ▽       |     ▽      |     〇     |   ▲    |
+|  Settled?  |      〇      |      〇       |     ▽      |     ▲     |   〇    |
+|   Caves?   |      ▲      |      ▲       |     ▽      |     ▽     |   〇    |
 
 #### Religion
 |    Group     | Religious themes |
@@ -144,7 +150,7 @@ into the wild.
 | Wastelanders | Demons, nihilism |
 |  Lowlanders  |    Animalism     |
 |  Islanders   |   Nature (sun)   |
-|   Kaerian    | Spirits, nature  |
+|    Kaeric    | Spirits, nature  |
 
 #### Art
 |    Group     | Art themes                              |
@@ -153,19 +159,21 @@ into the wild.
 | Wastelanders | Death themes                            |
 |  Lowlanders  | Environment, animals, hunting           |
 |  Islanders   | Everyday life, nature, religious motifs |
-|   Kaerian    | Everyday life, nature, rituals          |
+|    Kaeric    | Everyday life, nature, rituals          |
+
+### Goblin cultures
+- [Kaeric Goblins](/Loreum/Topics/Cultures/Goblins_Kaer/[Culture].md)
+- [Rossevettic Goblins](/Loreum/Topics/Cultures/Goblins_Rossevette/[Culture].md)
 
 ---
 ♜:  
 More things to note (in doc or here, or both):
 - characterisation of each group
 - technology alignment
-- religion, rituals, demons etc.
+- religion, rituals, demons, burials etc.
 - art
-- gender-blindness?
 - structure of power and society day-to-day life
 - more on settlements
 - more on history
-- Four Kings included for kaerian goblins (either here, or if we would make culture page)
 
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [💮](/Loreum/Topics/Races.md)

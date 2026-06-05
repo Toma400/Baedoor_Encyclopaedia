@@ -7,6 +7,7 @@ podczas tworzenia postaci czy do zauważenia różnic kulturowych pomiędzy cywi
 - [Baedoorczycy](Names/Baedoorian.md#names)
 - [Głoddowie](Names/Ghlodds.md#names)
 - [Jitadczycy](Names/Jitadian.md#names)
+- [Latoka](Names/Latoka.md#names)
 - [Mesinpejczycy](Names/Mesinpean.md#names)
 - [Nomathowie](Names/NomathianBae.md#names) (Baedoor)
 - Tri
@@ -19,6 +20,7 @@ podczas tworzenia postaci czy do zauważenia różnic kulturowych pomiędzy cywi
 - [Baedoorczycy](Names/Baedoorian.md#surnames)
 - [Głoddowie](Names/Ghlodds.md)
 - [Jitadczycy](Names/Jitadian.md#surnames)
+- [Latoka](Names/Latoka.md#surnames)
 - [Mesinpejczycy](Names/Mesinpean.md#surnames)
 - [Nomathowie](Names/NomathianBae.md#surnames) (Baedoor)
 - Tri

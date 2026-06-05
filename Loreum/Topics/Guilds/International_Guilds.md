@@ -3,7 +3,8 @@ Gildie i organizacje międzynarodowe są tymi, które przekraczają granice konk
 krajów i kontynentów, stając się siłą znaną całemu uniwersum.
 
 ---
-#### [Gwiazdounosiciele](List/Starshifters.md)
+####   🔹 [Gwiazdounosiciele](List/Starshifters.md)
 
 ---
-✥♜: lots of guilds missing
+✥♜: lots of guilds missing  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Guilds.md)

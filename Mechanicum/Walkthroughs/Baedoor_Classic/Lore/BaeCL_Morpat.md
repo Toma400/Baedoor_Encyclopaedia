@@ -9,7 +9,7 @@
 <table>
   <!--PHOTO 1-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 20" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_20.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo 20" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_20.jpg" width="416"/></td>
     <th align="centre">Graf Residence</th>
   </tr>
   <tr>
@@ -30,7 +30,7 @@
 
   <!--PHOTO 2-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 21" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_21.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo 21" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_21.jpg" width="416"/></td>
     <th align="centre">Morpat Adventurer's Guild</th>
   </tr>
   <tr>
@@ -59,7 +59,7 @@
 
   <!--PHOTO 3-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 22" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_22.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo 22" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_22.jpg" width="416"/></td>
     <th align="centre">Morpat Bank</th>
   </tr>
   <tr>
@@ -72,7 +72,7 @@
 
   <!--PHOTO 4-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 23" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_23.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo 23" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_23.jpg" width="416"/></td>
     <th align="centre">Morpat Library</th>
   </tr>
   <tr>
@@ -88,7 +88,7 @@
 
   <!--PHOTO 5-->
   <tr>
-    <td width="420" rowspan="2"><img alt="Baedoor Archives, Photo 24" height="307" src="/Assets/Sources/L_001_Baedoor/arv_baedoor_24.jpg" width="416"/></td>
+    <td width="420" rowspan="2"><img alt="Vershaton Archives, Photo 24" height="307" src="/Assets/Sources/L_008_Vershaton/arv_vershaton_24.jpg" width="416"/></td>
     <th align="centre">"Cold Beer" Tavern</th>
   </tr>
   <tr>

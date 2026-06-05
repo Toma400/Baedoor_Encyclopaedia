@@ -27,6 +27,3 @@ Encyklopedia stoi na czterech filarach:
      zawierająca wszystkie techniczne detale
 
 Kliknij nazwę sekcji, żeby do niej przejść.
-
----
-✥

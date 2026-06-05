@@ -1,6 +1,6 @@
 # 📓 Southern Islands
 **Author**: [Naevin Manaut](/Loreum/Topics/Characters/List/Manaut_Naevin.md)  
-**Published**: 915 NE, Sargin University Press (East Baedoor, Sargin)
+**Published**: 415 NE, Sargin University Press (East Baedoor, Sargin)
 
 ---
 Book on southern cultures of **Baedoor Continent** inhabiting islands of Kaer and Arennan.  

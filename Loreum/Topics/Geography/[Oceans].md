@@ -11,7 +11,7 @@ Lista oceanów istniejących w uniwersum Baedoor.
 ####   🔷 Ocean Indrajski
 ####   🔷 Ocean Manaejski
 
-### MOON CONTINENT
+### KSIĘŻYC
 ####   🔷 Ocean Endejski
 ####   🔷 [Ocean Ennaeryjski]([Oceans]/Ennaeric_Ocean.md)
 ####   🔷 Ocean Manaejski

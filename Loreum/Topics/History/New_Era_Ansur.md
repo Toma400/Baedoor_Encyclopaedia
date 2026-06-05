@@ -7,7 +7,7 @@ Kalendarium Ansur, pokrywające wszystkie wydarzenia czasu Nowej Ery.
 |:----:|:--------------------------------------------------------------|
 |  1   | Odkrycie wyspy i budowa pierwszych domów, późniejszego Evros  |
 | 326  | Norran Gorth ogłosił dekret niezależności Ansur               |
-| 917  | Heimlig Naevos zainicjował prace nad portem sterowców w Evros |
+| 417  | Heimlig Naevos zainicjował prace nad portem sterowców w Evros |
 
 ---
 ♜: more events  
