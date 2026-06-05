@@ -1,8 +1,8 @@
-# 🏯 Jitado Characters
-Characters bound to country of **Jitado**.
+# 🏯 Postacie Jitado
+Postaci zamieszkujące **Jitado**.
 
 ---
-### 🕋 PRE ERA
+### 🕋 CZAS PRZEDEROWY
 #### [Si Avani](List/Avani_Si.md)
 #### [Xaine](List/Xaine.md)
 

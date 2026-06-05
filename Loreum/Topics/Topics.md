@@ -1,13 +1,13 @@
-# 🧭 Topics
+# 🧭 Tematy
 
 ---
-### 🌌 [World Mechanics](World_Mechanics.md)
-### 🎎️ [History](History.md)
-### 🌏 [Geography](Geography.md)
-### 🍂 [Nature](Nature.md)
-### 💮 [Races](Races.md)
-### 🏺 [Cultures](Cultures.md)
-### 🕌 [Religions](Religions.md)
-### 🏯 [Guilds](Guilds.md)
-### ⚜️ [Factions](Factions.md)
-### 🌸 [Characters](Characters.md)
+### 🌌 [Mechaniki świata](World_Mechanics.md)
+### 🎎️ [Historia](History.md)
+### 🌏 [Geografia](Geography.md)
+### 🍂 [Natura](Nature.md)
+### 💮 [Rasy](Races.md)
+### 🏺 [Kultury](Cultures.md)
+### 🕌 [Religie](Religions.md)
+### 🏯 [Gildie](Guilds.md)
+### ⚜️ [Stronnictwa](Factions.md)
+### 🌸 [Postacie](Characters.md)

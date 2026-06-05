@@ -1,30 +1,30 @@
 # 🌆 Ino Anor
 
 ---
-<span style="color:#107C23">**cities**</span> [✦](/Loreum/Tags.md#-cities)  
+<span style="color:#107C23">**miasta**</span> [✦](/Loreum/Tags.md#-miasta)  
 
 ---
 | <img src="/Assets/Landscapes/Settlements/jitado_ino_anor.png" width="248" height="350"> |
 |:---------------------------------------------------------------------------------------:|
 |                             Ino Anor concept art by Toma400                             |
 
-**Ino Anor** (jit. *silent manor*) is underground city, carved into Altauar Mountains and being
-in fact recognised as part of [Raliun city](Raliun.md).  
-Its name comes from manor which is entrypoint to the city, serving as a gateway, place for visitors
-to stay, and also as a defending point, as the manor itself has solid walls and is good observation
-point over anything below it.
+**Ino Anor** (jit. *cicha rezydencja*) jest podziemnym miastem, wyrytym w górach Altauar, będącym
+również częścią [Raliun](Raliun.md).  
+Jego nazwa pochodzi od rezydencji, w której znajduje się wejście do miasta, służąc jako brama,
+miejsce odpoczynku dla osób przybywających do tego miejsca, ale również jako fortyfikacja obronna.
+Rezydencja posiada solidne mury i jest dobrym punktem obserwacyjnym na całość terenu pod nią.
 
-Being an underground city, Ino Anor culture is highly influenced by mining culture. Each city's district
-is based on tunnel networks and is connected with each other via system of bridges.  
-Most of them has forged unique culture to its own, often depicted in decorative ornaments, statues,
-graffiti or other means.
+Będąc podziemnym miastem, kultura Ino Anor jest mocno inspirowana kulturą górniczą. Każda dzielnica
+miasta jest oparta na sieci korytarzy i łączy się z innymi systemem mostów.  
+Większość dzielnic posiada unikatową kulturę, przebijającą się przez aspekty estetyczne, jak
+ornamenty, pomniki, graffiti i inne.
 
-Mines of Ino Anor were mainly owned by the city itself, but few mines were given to merited residents
-who contributed heavily in city development by investments or other means.  
-They usually were given copper mines and had some liberties given on how to operate them.
+Kopalnie Ino Anor były w większości własnością miasta, jednak kilka z nich zostało oddanych
+obywatelom o szczególnych zasługach dla rozwoju miasta. Większość z nich była kopalniami
+miedzi, a ich właściciele otrzymali więcej wolności w kwestii ich wykorzystania.
 
 ---
 📿 [Baedoor Classic](/Mechanicum/Walkthroughs/Baedoor_Classic/Lore/BaeCL_Ino_Anor.md)
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Old_Continent/Jitado.mdnent/Jitado.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Old_Continent/Jitado.md)

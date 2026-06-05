@@ -1,4 +1,4 @@
-# 🕌 Baedoor Continent Guilds
+# 🕌 Gildie Kontynentu Baedoor
 
 ---
 ### 🏯 KACARI
@@ -9,15 +9,15 @@
 ####   🔹 Roda Guards
 
 ### 🏯 ARENNAN
-####   🔹 [Aerial Pirates](List/Aerial_Pirates.md)
+####   🔹 [Piraci Powietrzni](List/Aerial_Pirates.md)
 
 ### 🏯 BAEDOOR
 ####   🔹 [Baedoor Railroad Enterprise](List/Baedoor_Railroad_Enterprise.md)
-####   🔹 [Desert Divisions](List/Desert_Divisions.md)
-####   🔹 [Guild of Adventurers](List/Alkaesar_Adventurers_Guild.md)
+####   🔹 [Dywizje Pustynne](List/Desert_Divisions.md)
+####   🔹 [Gildia Podróżników](List/Alkaesar_Adventurers_Guild.md)
 
 ### 🏯 EVÝVIND
-####   🔹 [Order of the Sword](List/Order_of_the_Sword.md)
+####   🔹 [Zakon Mieczowy](List/Order_of_the_Sword.md)
 
 ---
 ✥♜: lots of guilds missing  

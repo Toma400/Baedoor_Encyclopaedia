@@ -1,23 +1,22 @@
-# ⚜️ Factions
-List of all political factions existing in Baedoor universe.
+# ⚜️ Frakcje
 
 ---
-### 🍁 BY ERAS
-####    🔹 Pre Era Factions
-####    🔹 [Old Era Factions](Factions/Old_Era_Factions.md)
-####    🔹 [New Era Factions](Factions/New_Era_Factions.md)
+### 🍁 CHRONOLOGICZNIE
+#### 🔹 Frakcje Czasu Przederowego
+#### 🔹 [Frakcje Starej Ery](Factions/Old_Era_Factions.md)
+#### 🔹 [Frakcje Nowej Ery](Factions/New_Era_Factions.md)
 
-### 🕌 BY CONTINENT
-####    🔹 Old Continent Factions
-####    🔹 Seiteh Factions
-####    🔹 Moon Continent Factions
-####    🔹 [Baedoor Continent Factions](Factions/Baedoor_Continent_Factions.md)
-####    🔹 Factions of Azure Archipelago
-####    🔹 Factions of Southern Grand Frost
-####    🔹 Factions of other lands
+### 🕌 POPRZEZ KONTYNENT
+#### 🔹 Frakcje Starożytnego Kontynentu
+#### 🔹 Frakcje Seiteh
+#### 🔹 Frakcje Księżyca
+#### 🔹 [Frakcje Kontynentu Baedoor](Factions/Baedoor_Continent_Factions.md)
+#### 🔹 Frakcje Archipelagu Błękitnego
+#### 🔹 Frakcje Wielkiej Południowej Zmarzliny
+#### 🔹 Frakcje innych lądów
 
-### 🕌 BY CULTURE
-####    🔹 [Erdic](/Loreum/Topics/Cultures/Erds/[Culture].md#-factions)
+### 🕌 PRZEZ KULTURĘ
+####    🔹 [Erdowie](/Loreum/Topics/Cultures/Erds/[Culture].md#-factions)
 
 ---
 ✥

@@ -1,7 +1,7 @@
-# 🗝️ Walkthroughs
+# 🗝️ Przewodniki
 
 ---
-## Main Baedoor games
+## Główne gry
 
 ### 🛕 Baedoor
 
@@ -9,11 +9,11 @@
 
 ### 🛕 The Isle of Ansur
 
-## Small games
+## Mniejsze gry
 
 ### 🏹 [Between Shadows and Light](Walkthroughs/BSaL/BSaL.md)
 
-## Mods
+## Mody
 
 ### 🏯 [Wastelands of Baedoor](Walkthroughs/WoB/WoB.md)
 

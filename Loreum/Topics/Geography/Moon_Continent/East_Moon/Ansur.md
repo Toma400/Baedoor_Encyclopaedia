@@ -1,53 +1,55 @@
-# 🏞️ Ansur Isle
+# 🏞️ Wyspa Ansur
 
 | <img alt="Ansur Map" height="561" src="/Assets/Maps/ansur.png" width="482"/> |
 |:----------------------------------------------------------------------------:|
-|                  Simplified map of Ansur Isle as of 420 NE                   |
+|                  Uproszczona mapa wyspy Ansur, około 420 NE                  |
 
-**Isle of Ansur** (bae. *Ans Sur*, "land of hope", sometimes also called *Ansur* from its major
-city) is small island positioned pretty much in between old **[Baedoor city](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)**
-and **New Baedoor**, being also one of the better places to stay during longer journey to any 
-of those places.  
-Initially a servant of **Baedoor Empire** and with economy based on agriculture, since third
-century of New Era, it became known for its wine thanks to expanded trade focus.
+**Wyspa Ansur** (bae. *Ans Sur*, "ląd nadziei") to mała wyspa położona mniej więcej pomiędzy
+starym [miastem Baedoor](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md) a **Nowym
+Baedoor**, będąc również jednym z lepszych miejsc do zatrzymania się podczas dłuższej podróży
+do któregokolwiek z tych celów.  
+Początkowo podległa **Imperium Baedoorskiemu** i oparta na rolnictwie, od trzeciej dekady Nowej Ery
+stała się znana ze swojego wina dzięki poszerzonym możliwościom handlowym.
 
-### 📜 HISTORY  
-Ansur was not colonised before New Era, so during Exodus, when sailors saw the island instead of 
-what their tales told them, they were not only surprised, but intrigued. Crew of two such ships
-decided to settle in this place, while others went further west (eventually reaching East Moon).
+### 📜 HISTORIA
+Ansur nie było kolonizowane przed Nową Erą, więc podczas Exodusu, gdy żeglarze zobaczyli
+wyspę zamiast tego, co opowiadały im legendy, byli zaskoczeni i zaintrygowani. Załoga dwóch
+statków postanowiła się osiedlić w tym miejscu, podczas gdy reszta popłynęła dalej na zachód
+(ostatecznie docierając do Wschodniego Księżyca).
 
-Being exactly in half between two most important cities of early New Era made Ansur slowly 
-growing in importance. It became important point of exchange during those times, connecting two
-parts of Empire.  
-The main change, though, came with new laws introduced in 326 NE by governor **Norran Gorth**, 
-benefiting from **Baedoor Empire** collapse and stating independency, as well as adding several 
-taxes to those who dock in Ansur, but do not plan to stay longer.  
-This brought not only enough money for the island to expand, but also solidified their export and
-created bigger infrastructure. This also lead to Evros getting city walls and small fort on top of
-the hill, as governor residence and additional fortification.
+Będąc dokładnie pomiędzy dwoma najważniejszymi miastami wczesnej Nowej Ery, Ansur stawało się 
+powoli coraz to bardziej znaczące. Dzięki swojemu położeniu port w Evros był ważnym punktem 
+wymiany między dwoma częściami Imperium.  
+Największa zmiana przyszła jednak z nowymi prawami nadanymi przez zarządcę **Norrana Gortha**
+w 326 NE, wykorzystującymi upadek **Imperium Baedoor**. Nadały one niezależność wyspie, jak i
+również wprowadziły szereg podatków dla jednostek dokujących w porcie, które nie zamierzały
+zostawać na dłużej.  
+To przyniosło nie tylko wzrost wpływów, pozwalających Ansur się rozrosnąć, ale również wzmocniło
+eksport i stworzyło większą infrastrukturę. Dzięki temu również Evros zyskało mury miejskie
+oraz mały fort na szczycie wzgórza, będący siedzibą zarządcy i będący dodatkową fortyfikacją.
 
-With time, the city grown significantly, becoming increasingly more cosmopolitan and expanding
-its influences further over the island. This gave birth to places like Nyme, but also strengthened
-entities related to trade, including vineyard owners who later established **Association** 
-to better organise their contracts and not step on each other's toes.
+Z czasem miasto Evros powiększyło się znacząco, stając się coraz bardziej kosmopolitycznym miejscem
+i rozszerzając swoje wpływy wgłąb wyspy. Zaowocowało to ostatecznie powstaniem takich miejsc jak
+Nyme, ale również pogłębiło znaczenie jednostek związanych z handlem, jak chociażby właściciele
+winnic, który założyli **Stowarzyszenie** dla lepszej organizacji swoich kontraktów.
 
-In 417 NE, governor **Heimlig Naevos** recommended building of airship port, which was finished
-in year 425 NE.
+W 417 NE zarządca **Heimlig Naevos** polecił budowę portu sterowców, którego ukończenie jest
+przewidywane na rok 425 NE.
 
-### SETTLEMENTS
+### MIASTA
 - [Evros](Cities/Evros.md)
 - Waine
 - [Nyme](Cities/Nyme.md)
 
-### PLACES
-- Gorthal Stronghold
-- Fields
-- Lensati Farm `lavender farms south of Waine`
+### MIEJSCA
+- Twierdza Gorthal
+- Pola
+- Farma Lensati
 
-### CATEGORIES
-- [🍁 Ansur Characters](/Loreum/Topics/Characters/Ansur_Characters.md)
-- [🕌 Guilds of Ansur Isle](/Loreum/Topics/Guilds/Ansur_Guilds.md)
-- [❄️ Timetable of Ansur Isle](/Loreum/Topics/History/New_Era_Ansur.md)
+### KATEGORIE
+- [🍁 Postaci Ansur](/Loreum/Topics/Characters/Ansur_Characters.md)
+- [🕌 Gildie wyspy Ansur](/Loreum/Topics/Guilds/Ansur_Guilds.md)
+- [❄️ Kalendarium wyspy Ansur](/Loreum/Topics/History/New_Era_Ansur.md)
 
 ---
 ### 🗺️ MAPS
@@ -58,8 +60,8 @@ in year 425 NE.
         <td height="300px"> <img alt="Ansur Map" height="390" src="/Assets/Maps/ansur_by_kari.png" width="520"/> </td>
     </tr>
     <tr>
-        <td> Map of Ansur Isle as of 420 NE </td>
-        <td> Concept art by <a href="https://github.com/skeletontonguedworld">skeletontonguedworld</a> </td>
+        <td> Mapa wyspy Ansur w 420 NE </td>
+        <td> Mapa wyspy Ansur autorstwa <a href="https://github.com/skeletontonguedworld">skeletontonguedworld</a> </td>
     </tr>
 </table>
 

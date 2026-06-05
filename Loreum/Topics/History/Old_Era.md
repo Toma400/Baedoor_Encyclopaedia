@@ -1,14 +1,14 @@
-# 🍁 Old Era Timetable
-List of all events that have happened in Old Era.
+# 🍁 Kalendarium Starej Ery
+Lista wszystkich wydarzeń, które odbyły się w trakcie Starej Ery.
 
-### General Timetable
-1018 - [Varteford Peace Treaty](List/Varteford_Peace_Treaty.md), peace between **Empire** and [Separatists](/Loreum/Topics/Factions/List/Separatists.md)
+### Ogólne kalendarium
+1018 - [Traktat Pokojowy Toma Varteforda](List/Varteford_Peace_Treaty.md), pokój między **Imperium** a [Separatystami](/Loreum/Topics/Factions/List/Separatists.md)
 
 ---
-### Timetable by civilisation
+### Kalendarium przez cywilizację
 
-#### 🔹 [Baedoor Timetable](Old_Era_Baedoor.md)
-#### 🔹 [Evývind Timetable](Old_Era_Evývind.md)
+#### 🔹 [Kalendarium Baedoor](Old_Era_Baedoor.md)
+#### 🔹 [Kalendarium Evývind](Old_Era_Evývind.md)
 
 ---
 ♜✥  

@@ -4,13 +4,14 @@
 |:-------------------------------------|:----------------------------------------|
 | Baedoor Island map                   | Vershaton map from Baedoor Classic      |
 
-Baedoor is the biggest island on Baedoor Continent, containing three big lands inside - Baedoor,
-Rakonnd Coast and Vershaton.  
-Since beginnings of Old Era, it got conquered by baedoorians. It also was operating place of
-**Baedoor Empire**, and after its fall, it is now main part of **East Baedoor**.
+Baedoor jest największą wyspą kontynentu Anahsahei, możliwą do podzielenia na trzy regiony - 
+Baedoor, Wybrzeże Rakonnd i wyżynę Vershaton.  
+Już z początków Starej Ery, wyspa ta została podbita przez Baedoorczyków. Była również miejscem
+narodzin **Imperium Baedoor**, a już po jego upadku, jest ona największą częścią **Wschodniego
+Baedoor**.
 
-### CITIES
-#### Baedoor Region
+### MIASTA
+#### Region Baedoor
 - [Baedoor](Baedoor/Cities/Baedoor.md)
 - [Dvickhet](Baedoor/Cities/Dvickhet.md)
 - Fressi
@@ -19,11 +20,11 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Sargin
 - Quarius
 
-#### Rakonnd Coast
+#### Wybrzeże Rakonnd
 - Latareg `old nomathian city`
 - [Skirran](Baedoor/Cities/Skirran.md)
 
-#### Vershaton
+#### Wyżyna Vershaton
 - [Alkaesar](Baedoor/Cities/Alkaesar.md)
 - [Morpat](Baedoor/Cities/Morpat.md)
 - Nahsig `Nejir on old map` `(nomathian)`
@@ -31,7 +32,7 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - [Thanbyan](Baedoor/Cities/Thanbyan.md)
 - Velkmag `Velkmance on old map` `(nomathian)`
 
-### TOWNS
+### MAŁE MIASTA
 #### Baedoor Region
 - Averion `Avierion on old map`
 - Braeven
@@ -74,7 +75,7 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Onsen `Ynsen on old map`
 - Roverret `old nomathian town`
 
-#### Vershaton
+#### Wyżyna Vershaton
 - Abotis `Abo on old map`
 - Cantodar `Cantodus on old map`
 - Arindun `Arindusc on old map`
@@ -82,13 +83,14 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Learens `Leorrallens on old map`
 - Leinon
 - Moranant
+- [Morpat](Baedoor/Cities/Morpat.md)
 - Oviscul `Ovisculi on old map`
 - Tanses
 - Tessetes `Teccetes on old map`
 - Vaerter `'vaer' used`
 - Viseg `Viscocus on old map` `old nomathian town`
 
-### VILLAGES
+### WIOSKI
 #### Baedoor
 - Adavalen
 - Agsat `old nomathian village`
@@ -178,7 +180,8 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Virann
 - Vorot `old nomathian village`
 
-#### Rakonnd Coast
+<<<<<<< HEAD
+#### Wybrzeże Rakonnd
 - Brennen
 - Likannes
 - Otean
@@ -186,7 +189,7 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Sigrat `old nomathian village`
 - Tanaeget `bae-nomathian`
 
-#### Vershaton
+#### Wyżyna Vershaton
 - Analloi
 - Entillar
 - Evirom
@@ -206,26 +209,26 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Tvisgis `old nomathian village`
 
 ### LANDSCAPES
-- Islands
+- Wyspy
   - [Tesni](Baedoor/Lands/Tesni.md) `island south of Baedoor, holding Quinaet`
-- Forests
-  - Coonhe Forest `?: Konheg Forest (nomathian)`
-  - Narvaen Forest
-  - Varran Forest
-  - [Amber Forest](Baedoor/Lands/Amber_Forest.md)
-- Mountains
-  - Vershaton Mountains
-- Asveen Depths `?: Asven or Asvaen`
-- Vershaton Vulcano `v`
-- Oarien Pass `v`
-- [Isanam Lake](Baedoor/Lands/Isanam_Lake.md)
-- [Kel Desert](Baedoor/Lands/Kel_Desert.md)
-- [Terrean Savannah](Baedoor/Lands/Terrean_Savannah.md)
+- Lasy
+  - Las Coonhe `?: Konheg Forest (nomathian)`
+  - Las Narvaen
+  - Las Varran
+  - [Bursztynowy Las](Baedoor/Lands/Amber_Forest.md)
+- Góry
+  - Góry Vershaton
+- Głębiny Asveen `?: Asven or Asvaen`
+- Wulkan Vershaton `v`
+- Przełęcz Oarien `v`
+- [Jezioro Isanam](Baedoor/Lands/Isanam_Lake.md)
+- [Pustynia Kel](Baedoor/Lands/Kel_Desert.md)
+- [Sawanna Terreńska](Baedoor/Lands/Terrean_Savannah.md)
 
-### PLACES
+### MIEJSCA
 - [Golden Lighthouse of Baedoor](Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
 - [Great Baedoorian Railroad](Baedoor/Places/Great_Baedoorian_Railroad.md)
-- [Tom Varteford's Plantation](Baedoor/Places/Tom_Varteford_Plantation.md)
+- [Plantacja Toma Varteforda](Baedoor/Places/Tom_Varteford_Plantation.md)
 
 ### General Naming Schemes
 - Baedoorians
@@ -244,10 +247,10 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
   - baedoorian nomaths use `k` quite often
   - uses `-dit` and `-at` suffix
 
-### TOPICS
-####   🔷 [🐊 Bestiary](/Loreum/Topics/Nature/Bestiary/Baedoor_Bestiary.md)
-####   🔷 [🌿 Vershaton Herbarium](/Loreum/Topics/Nature/Herbarium/Vershaton_Herbarium.md)
-####   🔷 [🌿 Rakonnd Coast Herbarium](/Loreum/Topics/Nature/Herbarium/Rakonnd_Coast_Herbarium.md)
+### TEMATY
+####   🔷 [🐊 Bestiariusz](/Loreum/Topics/Nature/Bestiary/Baedoor_Bestiary.md)
+####   🔷 [🌿 Herbariusz Vershaton](/Loreum/Topics/Nature/Herbarium/Vershaton_Herbarium.md)
+####   🔷 [🌿 Herbariusz Wybrzeża Rakonnd Coast](/Loreum/Topics/Nature/Herbarium/Rakonnd_Coast_Herbarium.md)
 
 ---
 ♜♢✥ / "v" is +- good name, "?" is name which should be lore-friendlied, "x" means rejected name  

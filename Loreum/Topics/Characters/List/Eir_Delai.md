@@ -1,16 +1,17 @@
 # 🎎 Delai Eir
 
 ---
-**Delai Eir** (tri. *star*) is lunatri painter, born 400 NE in West Moon, who migrated to New Baedoor. 
-He was quickly found and stated as artistic sensation, as he was combining smoothly trish subtlety with 
-way rawer aesthetics of baedoorian art.
+**Delai Eir** (tri. *gwiazda*) to malarz lunatri, urodzony w Zachodnim Księżycu w roku 400 Nowej
+Ery. Wyemigrował do Nowego Baedoor. Został szybko dostrzeżony i uznany za artystyczną sensację,
+gdyż łączył płynnie subtelność trijskiej sztuki z surowością estetyki baedoorskiej.
 
-In 421 NE, he dueled [Heim Winfleton](Winfleton_Heim.md), winning it by outbalancing critics scores.  
-After the event, Heim proposed Delai patronage over his works, but Delai rejected the proposal.
-They remained close friends nevertheless.
+W roku 421 Nowej Ery pojedynkował się z [Heimem Winfletonem](Winfleton_Heim.md), zbierając
+przeważającą ilość ocen krytyków.  
+Po tym wydarzeniu Heim zaproponował Delaiowi patronat nad jego pracami, jednak Delai odmówił.
+Pozostali oni jednak bliskimi przyjaciółmi.
 
-### Trivia
-Delai Eir is a cameo of Dylan, a friend of Toma.
+### Ciekawostki
+Delai Eir jest nawiązaniem do Dylana, przyjaciela Tomy.
 
 ---
 ♜✥  

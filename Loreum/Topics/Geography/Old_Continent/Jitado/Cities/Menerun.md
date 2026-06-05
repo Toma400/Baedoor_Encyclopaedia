@@ -1,31 +1,32 @@
 # 🌆 Menerun
 
 ---
-<span style="color:#107C23">**cities**</span> [✦](/Loreum/Tags.md#-cities)  
+<span style="color:#107C23">**miasta**</span> [✦](/Loreum/Tags.md#-miasta)  
 
 ---
-**Menerun** (old jit. *thought-having*) is city within Jitado island. It wields authority over
-Altauar region, being the most powerful city of this area.
+**Menerun** (stary jit. *posidający-myśl*) jest miastem położonym na wyspie Jitado. Posiada władzę
+nad regionem Altauar, będąc najpotężniejszym miastem tego rejonu.
 
-Menerun is the most notable example of Jitado's importance raising over the centuries, as every epoch
-had its significant mark on it. There are all types of districts in there - poorer, wooden **Curt Kurtque**,
-artisan **Selesas**, build from bricks and stone, finally aristocratic **Ayeras** and **Evrun**.
+Menerun jest najbardziej zauważalnym przykładem wzrastającego znaczenia Jitado przez stulecia,
+jako że każda epoka odcisnęła na nim swoje piętno. Obecne są w nim wszystkie typy dzielnic - 
+biedniejsze, drewniane **Curt Kurtque**, rzemieślnicze **Selesas**, zbudowane z cegieł i kamienia,
+kończąc na artystokratycznym **Ayeras** czy **Evrun**.
 
-Menerun name origin is considered to be based on high appreciation towards mages of local citizens.  
-After all, modern Menerun is home for several universities and magic guilds.
+Pochodzenie nazwy Menerun jest uznawane za wynik wysokiego znaczenia magów wśród lokalnej
+społeczności. Współcześnie, jest ono domem kilku uniwersytetów i gildii magów.
 
-### PLACES
+### MIEJSCA
 #### Evrun
-- [Flower Street](Places/Enfrvein.md)
-- Silas' Inn
-- Hord's Inn
+- [Kwiecista Uliczka](Places/Enfrvein.md)
+- Gospoda Silasa
+- Gospoda Hord
 #### Selesas
-- Selesas Touer Inn
+- Gospoda Touer
 #### Curt Kurtque
-- Tard's Inn
-- Curt Kurtque Inn
+- Gospoda Tard
+- Gospoda Curt Kurtque
 #### Ayeras
-- Ayeras Inn
+- Gospoda Ayeras
 - Hotel
 
 ---
@@ -33,4 +34,4 @@ After all, modern Menerun is home for several universities and magic guilds.
 
 ---
 ♜✥
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Old_Continent/Jitado.mdnent/Jitado.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Old_Continent/Jitado.md)

@@ -1,16 +1,17 @@
 # 🎎 Xaine
 
 ---
-<span style="color:#8F3DA5">**universe**</span> [✦](/Loreum/Tags.md#-universe)  
+<span style="color:#8F3DA5">**uniwersum**</span> [✦](/Loreum/Tags.md#-uniwersum)  
 
 ---
-**Xaine** is mysterious oneironaut with unknown roots. His true name is also unknown, but *Xaine*
-were established due to him using this name for himself.  
-During his visiting of Baedoor universe, he lived in **Jitado**.  
-He is also considered as foundator of **Starshifters** organisation.
+**Xaine** to postać o nieznanym pochodzeniu. Imię tej postaci również jest nieznane, 
+jednak zwykło mówić się o niej jako Xaine, z racji, że według podań ta osoba zwykła 
+się tak określać. W momencie pojawienia się go na kartach historii, 
+zamieszkiwał **Jitado**.  
+Uznaje się go za założyciela starożytnej organizacji **Gwiazdounosicieli**.
 
-In public understanding, Xaine is understood as traveller from outside of Baedoor universe, who got
-there thanks to some form of breach, Rift or his own unknown knowledge.
+Według niektórych pogłosek, Xaine może być podróżnikiem spoza uniwersum Baedoor, 
+który dostał się do niego poprzez przerwy między wymiarami.
 
 <table>
     <tr>
@@ -23,7 +24,8 @@ there thanks to some form of breach, Rift or his own unknown knowledge.
     </tr>
     <tr>
         <td colspan="2">
-            Xaine script he used to write most of his notes. Transcription uses French pronunciation.<br>
+            Pismo Xaine, które ten użył pisząc większość swoich notatek.
+            Transkrypcja używa francuskiej wymowy.<br>
             It was deciphered that script on the right was called Rham and was mostly used for naming,
             while script on the left was for descriptions and was called Tham.<br>
             It is unsure whether the script is entirely Xaine's creation or just used in their universe
@@ -40,9 +42,9 @@ there thanks to some form of breach, Rift or his own unknown knowledge.
     </tr>
 </table>
 
-### Trivia
-Xaine is a cameo of Lyof, a friend of Toma. That being said, their existence is explained as one of
-multiple selves of Lyof, making it more attached to actual reality and less separated from each other.
+### Ciekawostki
+Xaine jest cameo Lyofa, przyjaciela Tomy. Zaistnienie postaci Xaine jest wyjaśniane poza
+lore Baedoor jako alter ego Lyofa, czyniąc z tej postaci element lore najbardziej połączony z rzeczywistością.
 
 ---
 ♜✥: make separate page for Xaine's script  

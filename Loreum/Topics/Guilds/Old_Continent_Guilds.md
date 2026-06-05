@@ -1,8 +1,8 @@
-# 🕌 Old Continent Guilds
+# 🕌 Gildie Starożytnego Kontynentu
 
 ---
 ### 🏯 JITADO
-####   🔹 [Starshifters](List/Starshifters.md)
+####   🔹 [Gwiazdounosiciele](List/Starshifters.md)
 
 ---
 ✥♜: lots of guilds missing  

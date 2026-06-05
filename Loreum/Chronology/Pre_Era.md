@@ -1,19 +1,23 @@
-# 🪔 Pre Era
+# 🪔 Czas Przederowy
 
 ---
-<span style="color:#99ccff">**Pre Era**</span> is name for time epoch before **Old Era**.  
-It is unclear what precisely separated those two, but this didn't stop Baedoor inhabitants to start
-using this name internationally, despite some different calendars used by some civilisations.  
+<span style="color:#99ccff">**Czas Przederowy**</span> to nazwa okresu poprzedzającego
+**Starą Erę**.  
+Nie jest jasne co konkretnie wyznaczyło podział tych dwóch okresów, jednak nie przeszkodziło
+to mieszkańcom uniwersum rozpoznawać tego podziału jako międzynarodowego standardu,
+mimo różnorodnych kalendarzy używanych przez niektóre cywilizacje.
 
-**Pre Era** is over two thousands years long period in which most current civilisations appeared,
-shaping their early culture. Two biggest players of that epoch were **Ms Inpea** - the flourishing 
-garden of wisdom and culture - and **Ghloddish Empire** - being more aggressive and imperialistic one.  
-After Pre Era, **Old Continent** never came back to its old hegemonic glory.
+**Czas Przederowy** liczy sobie ponad dwa tysiące lat, będąc czasem w którym większość
+obecnych cywilizacji powstało i ukształtowało swoją wczesną kulturę. Największymi
+graczami na mapie politycznej tamtejszego świata była **Ms Inpea** - kwitnąca kraina
+mądrości i kultury - jak i również **Imperium Głoddyjskie**, będące bardziej
+barbarzyńską i wojowniczą stroną.  
+Po Czasie Przederowym, **Stary Kontynent** nigdy już nie wrócił do swojej dawnej glorii.
 
 ---
-#### Pre Era History
-#### Pre Era Factions
-#### [Pre Era Characters](/Loreum/Topics/Characters/Pre_Era_Characters.md)
+#### Historia Czasu Przederowego
+#### Stronnictwa Czasu Przederowego
+#### [Postacie Czasu Przederowego](/Loreum/Topics/Characters/Pre_Era_Characters.md)
 
 ---
 ✥♢  

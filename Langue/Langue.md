@@ -1,33 +1,31 @@
 # 🎭 Encyclopaedia Langue
 
 ---
-Welcome in Encyclopaedia Langue in which stored is everything about Baedoor universe languages, 
-including dictionaries and walkthrough through languages logic.
+Witaj w Encyklopedii Langue, sekcji Encyklopedii zbierającej wszystkie informacje o językach
+uniwersum Baedoor, wliczając w to słowniki i przewodniki po logice tychże.
 
-Also visit [naming schemes page](Naming_Schemes.md) to see how names can be constructed in
-non-conlangy way, or [list of names and surnames](/Loreum/Topics/Characters/Names.md) if you
-want to create new character based on existing system.
+Odwiedź również [schematy nazewnictwa](Naming_Schemes.md) by zobaczyć jak imiona mogą być
+konstruowane w mniej conlangowy sposób. [Lista imion i nazwisk](/Loreum/Topics/Characters/Names.md)
+może być również pomocna przy tworzeniu nowych postaci opartych na istniejącym systemie.
 
 ---
-## <center>Families</center>
-
-### [⛩️ Baedoorish](Families/Baedoorish.md)
-### [⛩️ Ghloddish](Families/Ghloddish.md)
+## <center>Rodziny</center>
+### [⛩️ Baedoorski](Families/Baedoorish.md)
+### [⛩️ Głoddyjski](Families/Ghloddish.md)
 ### [⛩️ Goblish](Families/Goblish.md)
-### [⛩️ Jitadish](Families/Jitadish.md)
-### [⛩️ Nomathian](Families/Nomathian.md)
-### [⛩️ Trish](Families/Trish.md)
+### [⛩️ Jitadzki](Families/Jitadish.md)
+### [⛩ Nomathiański](Families/Nomathian.md)
+### [⛩️ Trijski](Families/Trish.md)
 
 ---
-## <center>Regular languages</center>
-### [🎏️ Erdis](List/Erdis.md)
+## <center>Języki regularne</center>
+### [🎏️ Erdyjski](List/Erdis.md)
 ### [🎏️ Kehtic](List/Kehtic.md)
 ### [🎏️ Nalleput](List/Nalleput.md) (Nalput)
 
 ---
-## <center>Ancient languages</center>
-
-### [🪔 Ehric](List/Ehric.md)
+## <center>Języki starożytne</center>
+### [🪔 Ehrijski](List/Ehric.md)
 
 ---
-## <center>Ritual languages</center>
+## <center>Języki rytualne</center>
