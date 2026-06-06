@@ -10,7 +10,7 @@ Oververse is concept that expands the idea known in our world as "multiverse".
 <table align="right" style="width: 250px; height: 80px; display: table; margin: 5px">
   <td style="width: 100%; height: 100%; letter-spacing: 1px; background-color: #000">
     <p style="text-align:center">"Oververse is unknowness"<br></p>
-    <p style="text-align:right"> - Tehom Aranai</p>
+    <p style="text-align:right"> - <a href="/Loreum/Topics/Characters/List/Aranai_Tehom.md">Tehom Aranai</a></p>
   </td>
 </table>
 
@@ -97,16 +97,16 @@ placement is, though, way more arbitrary:
 
 Multiverses were discovered in such chronology as the table below showcases:
 
-| Date of discovery | Multiverse | Explorer                                                 | Possible Earth-understanding                 |
-|-------------------|------------|----------------------------------------------------------|----------------------------------------------|
- | 655 PE            | Tamariel   | [Si Avani](/Loreum/Topics/Characters/List/Avani_Si.md)   | Tamriel, Elder Scrolls universe              |
- | 272 PE            | Uru'ai     | [Esh Enahr](/Loreum/Topics/Characters/List/Enahr_Esh.md) | Myst / Uru universe                          |
- | 463 OE            | Osde'in    |                                                          | DiscWorld universe                           |
- | 131 NE            | Ins'in     | Tehom Aranai                                             | Nalqiwatya                                   |
- | 237 NE            | Eis'in     |                                                          | End's Phantasm                               |
- | 238 NE            | Ne'rin     |                                                          | Minecraft universe                           |
- | 254 NE            | Ne'n       |                                                          | Breach dimensions between Ne'rin and Baedoor |
- | 254 NE            | Aji'n      |                                                          | Desolat and Undergrowth breaches             |
+| Date of discovery | Multiverse | Explorer                                                       | Possible Earth-understanding                 |
+|-------------------|------------|----------------------------------------------------------------|----------------------------------------------|
+ | 655 PE            | Tamariel   | [Si Avani](/Loreum/Topics/Characters/List/Avani_Si.md)         | Tamriel, Elder Scrolls universe              |
+ | 272 PE            | Uru'ai     | [Esh Enahr](/Loreum/Topics/Characters/List/Enahr_Esh.md)       | Myst / Uru universe                          |
+ | 463 OE            | Osde'in    |                                                                | DiscWorld universe                           |
+ | 131 NE            | Ins'in     | [Tehom Aranai](/Loreum/Topics/Characters/List/Aranai_Tehom.md) | Nalqiwatya                                   |
+ | 237 NE            | Eis'in     |                                                                | End's Phantasm                               |
+ | 238 NE            | Ne'rin     |                                                                | Minecraft universe                           |
+ | 254 NE            | Ne'n       |                                                                | Breach dimensions between Ne'rin and Baedoor |
+ | 254 NE            | Aji'n      |                                                                | Desolat and Undergrowth breaches             |
 
 <span style="color:#0099cc">**THE RIFT OUTBREAK**</span>  
 Important event which is needed to be mentioned happened in **194 NE**, being called as <span style="color:#0099cc">**The Rift 
@@ -116,13 +116,14 @@ making breach between multiverses, letting them connect for brief amount of time
 
 In normal circumstances, this wouldn't be possible, but baedoorian starshifters explain it as a result
 of what they call to be on "the outer ring of reality", which is concept popularised by Ins'in
-ghloddish-saphtri explorer, **Tehom Aranai**.  
+explorer, [Tehom Aranai](/Loreum/Topics/Characters/List/Aranai_Tehom.md). Whether it is true
+or not is still up to debate, but the consensus seems to trust that theory.
 
 In short, this idea consider Baedoor multiverse to exist on one of "rings", being sort of metaphysical
 states of the multiverses that bounds them directly with **The Void**.  
-According to theorists, positioning the multiverse in such ring makes it way less predictable 
+According to theorists, positioning the multiverse in external ring makes it way less predictable 
 in universal laws and anomalies are more probable to be found.  
-This is not the case of multiverses placed further from the ring - such as Earth, experiencing 
+This is not the case of multiverses placed on more interior rings - such as Earth, experiencing 
 anomalies extremely rarely.
 
 <span style="color:#0099cc">**STARSHIFTERS**</span>  

@@ -22,7 +22,11 @@ Their identities are unknown for public except for few messengers revealed durin
 ### Notable starshifters
 - [Esh Enahr](/Loreum/Topics/Characters/List/Enahr_Esh.md)
 - [Si Avani](/Loreum/Topics/Characters/List/Avani_Si.md)
+- [Tehom Aranai](/Loreum/Topics/Characters/List/Aranai_Tehom.md)
 - [Xaine](/Loreum/Topics/Characters/List/Xaine.md)
+
+### Meetings held
+- 136 NE
 
 ---
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Guilds.md)

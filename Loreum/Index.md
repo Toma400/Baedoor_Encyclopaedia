@@ -26,6 +26,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Asalexandriasi](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Asalexandriasi.md)
 - [Ascaron](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Ascaron.md)
 - [Ash Veil](Topics/Nature/Herbarium/List/Ash_Veil.md)
+- [Aranai, Tehom](Topics/Characters/List/Aranai_Tehom.md)
 - [Avani, Si](Topics/Characters/List/Avani_Si.md)
 - [Azure Archipelago](Topics/Geography/Azure_Archipelago.md)
 
@@ -214,6 +215,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### T
 - [Talaaxi](Topics/Races/Creature/Talaaxi.md)
+- [Tehom Aranai](Topics/Characters/List/Aranai_Tehom.md)
 - [Temple of I'si](Topics/Religions/Small/Temple_of_I'si.md)
 - [Temple of the Wheel](Topics/Factions/List/Temple_of_the_Wheel.md)
 - [Terrean Savannah](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Terrean_Savannah.md)

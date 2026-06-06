@@ -66,4 +66,5 @@ If this section becomes too big, it can be split into linked sections in the fut
 * [Oververse](Topics/World_Mechanics/Oververse.md)
 * [Si Avani](Topics/Characters/List/Avani_Si.md)
 * [Starshifters](Topics/Guilds/List/Starshifters.md)
+* [Tehom Aranai](Topics/Characters/List/Aranai_Tehom.md)
 * [Xaine](Topics/Characters/List/Xaine.md)
