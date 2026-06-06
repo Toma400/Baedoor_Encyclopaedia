@@ -22,4 +22,5 @@ Characters bound to **Baedoorian** heritage and nationality.
 ####  🔹 [Souvie Darakon](List/Darakon_Souvie.md)
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Characters.md)

@@ -12,4 +12,4 @@ accustomed to ways of FotB works and could excel many other members with his ski
 Irlan practices in the guild include experimenting with ghloddish sigils.
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](/Loreum/Topics/Characters/Baedoorian_Characters.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Baedoorian_Characters.md)

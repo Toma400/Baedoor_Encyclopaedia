@@ -19,4 +19,4 @@ of topics related to lands of Kaer and Arennan in a cohesive, pop-scientific man
 
 ---
 ♜✥  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](/Loreum/Topics/Characters/Baedoorian_Characters.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Baedoorian_Characters.md)

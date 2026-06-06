@@ -62,4 +62,4 @@ a believer of Higher Oververse.
 
 ---
 ✥  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🎇](/Loreum/Topics/Guilds/List/Starshifters.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Saphtri_Characters.md)

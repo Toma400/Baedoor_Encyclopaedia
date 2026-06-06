@@ -14,4 +14,4 @@ Delai Eir is a cameo of Dylan, a friend of Toma.
 
 ---
 ♜✥  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](/Loreum/Topics/Characters/Lunatri_Characters.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Lunatri_Characters.md)

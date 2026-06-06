@@ -16,5 +16,9 @@
 ### 🛕 KAER
 ####  🔹 [Keno Nira](List/Nira_Keno.md)
 
+### 🛕 ARENNAN
+####  🔹 [Tehom Aranai](List/Aranai_Tehom.md)
+
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Characters.md)

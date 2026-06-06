@@ -3,10 +3,11 @@ Characters bound to **Kaer** islands.
 
 ---
 ### 🕋 OLD ERA
-#### [Vancuerto](List/Vancuerto.md)
+####  🔹 [Vancuerto](List/Vancuerto.md)
 
 ### 🕋 NEW ERA
-#### [Keno Nira](List/Nira_Keno.md)
+####  🔹 [Keno Nira](List/Nira_Keno.md)
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Characters.md)

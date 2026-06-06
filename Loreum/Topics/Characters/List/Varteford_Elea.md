@@ -14,4 +14,4 @@ during his reign.
 
 ---
 ♜✥???: books and poems listed; maybe portrait?  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](/Loreum/Topics/Characters/Baedoorian_Characters.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Baedoorian_Characters.md)

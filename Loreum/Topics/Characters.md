@@ -12,6 +12,7 @@ List of all noted characters existing throughout the history of Baedoor universe
 
 ---
 ### 🏯 BY COUNTRY
+#### 🔹 [Characters of Ansur](Characters/Ansur_Characters.md)
 #### 🔹 [Characters of Baedoor Empire](Characters/Baedoor_Characters.md)
 #### 🔹 [Characters of Jitado](Characters/Jitado_Characters.md)
 #### 🔹 [Characters of Kaer](Characters/Kaer_Characters.md)
@@ -24,6 +25,7 @@ List of all noted characters existing throughout the history of Baedoor universe
 #### 🔹 [Erds](Characters/Erdic_Characters.md)
 #### 🔹 [Jitadians](Characters/Jitadian_Characters.md)
 #### 🔹 [Lunatri](Characters/Lunatri_Characters.md)
+#### 🔹 [Saphtri](Characters/Saphtri_Characters.md)
 
 ---
 ### 🎎 FAMILIES
@@ -35,4 +37,8 @@ List of all noted characters existing throughout the history of Baedoor universe
 #### 🔹 Ormath Clans
 
 ---
-♜✥
+♜✥  
+When adding characters, make sure to do proper backlink - by default it should point
+to nation (🥮) and if not possible, to country (🏯). If neither can be resolved, it should
+backtrack to era (🍁) as a last resort. Characters that can't fall even under that should
+simply backtrack to this page.

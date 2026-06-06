@@ -14,4 +14,4 @@ with [Varteford family](Varteford.md).
 Xavier crest features [white crow](/Loreum/Topics/Nature/Bestiary/List/Naven.md) on black background.
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🎇](/Loreum/Topics/Characters.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../../Characters.md) 〰️ [🎎](../Baedoorian_Families.md)

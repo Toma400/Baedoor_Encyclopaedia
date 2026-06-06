@@ -7,4 +7,5 @@ Characters bound to country of **East Baedoor**.
 ####  🔹 [Naevin Manaut](List/Manaut_Naevin.md)
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Characters.md)

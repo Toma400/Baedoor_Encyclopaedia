@@ -16,4 +16,4 @@ In 999 OE, miraculously salvaged from death in **Unteupta explosion**, he resign
 paying tribute to the dead. His death came twelve years after, in his homely recess in Isuga.
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](/Loreum/Topics/Characters/Baedoorian_Characters.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Baedoorian_Characters.md)

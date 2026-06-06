@@ -14,4 +14,5 @@ Characters bound to country of **Baedoor**, before it has split into two.
 ####  🔹 [Zan Eiron](List/Eiron_Zan.md)
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Characters.md)

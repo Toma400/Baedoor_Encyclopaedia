@@ -145,4 +145,4 @@ considered as important cogwheel in current East Baedoor military supply.
 
 ---
 ♜: needs banner, links to various characters, prob may be rewritten when we rethink Empire's political system  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🎇](/Loreum/Topics/Characters.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../../Characters.md) 〰️ [🎎](../Baedoorian_Families.md)

@@ -7,4 +7,5 @@ Characters bound to **Ansur** island.
 ####  🔹 [Irlan Lavago](List/Lavago_Irlan.md)
 
 ---
-♜
+♜  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Characters.md)

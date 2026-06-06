@@ -64,4 +64,5 @@ Families living by Baedoorian heritage. 🧊 emoji indicates no longer existing 
 ####   🔹 [Lensati](Families/Lensati.md)
 
 ---
-♜✥
+♜✥  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Characters.md)

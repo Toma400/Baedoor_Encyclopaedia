@@ -9,4 +9,4 @@ In addition to several books concluding their research, Keno also writes poems.
 Keno is a cameo of Xeno, a friend of Toma.
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](/Loreum/Topics/Characters/Erdic_Characters.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Erdic_Characters.md)

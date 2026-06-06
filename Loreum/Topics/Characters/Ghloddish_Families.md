@@ -6,4 +6,5 @@ Families living by Ghloddish heritage.
 #### 🔹 Neseaea'
 
 ---
-♜✥
+♜✥  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Characters.md)

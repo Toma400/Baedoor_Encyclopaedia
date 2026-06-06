@@ -46,4 +46,4 @@ multiple selves of Lyof, making it more attached to actual reality and less sepa
 
 ---
 ♜✥: make separate page for Xaine's script  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Characters/Jitado_Characters.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](../Jitado_Characters.md)
