@@ -195,6 +195,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### R
 - [Raliun](Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
 - [Renvughe](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Renvughe.md)
+- [Rings of reality](Topics/World_Mechanics/Oververse.md#rings-of-reality)
 - [Rossevette](Topics/Geography/Baedoor_Continent/Rossevette_Islands.md) (archipelago)
 
 ### S

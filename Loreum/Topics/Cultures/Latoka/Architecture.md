@@ -30,6 +30,34 @@ to just windows or even purely interior items.
 |:-------------------------------------------------------------------:|
 | Glass darkening screen/curtain, used by latoka to darken balconies  |
 
+### Shore-Hunters style
+| ![](/Assets/Culture/Architecture/latoka_shorehunters_huts.jpg) |
+|:--------------------------------------------------------------:|
+|            Concept art of Shore-Hunters common huts            |
+
+Shore-Hunters' huts tend to be simple and follow the older, more square character. Buildings
+are rather practical, so their elements focus more on allowing storage or additional rooms
+to appear rather than to showcase status. It indicates also a bit more horizontal structure
+of Shore-Hunters society, since the idea of nobility is detached from wealth and more related
+to being skillful at your craft.
+
+### Ettic style
+| ![](/Assets/Culture/Architecture/latoka_ett_noble_house.png) |                                      ![](/Assets/Landscapes/Settlements/rossevette_danat_ett.png)                                       |
+|:------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
+|     Depiction of ettic smaller houses and noble at front     | Most ancient ettic architecture found in [Danat-Ett](/Loreum/Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Danat-Ett.md) |
+
+Ettic style depicts one of the earliest forms of latoka architecture, being built out of stone
+and shaped in a way that emphasized square structure and jagged trims. Etts went from more
+monumental, vertical structures to smaller ones that can be seen in more modern areas, to
+accommodate more citizens and serve broader use.
+
+### Evolution?
+| ![](/Assets/Culture/Architecture/latoka_common_houses.png) |
+|:----------------------------------------------------------:|
+|                                                            |
+
+![](/Assets/Culture/Architecture/latoka_obelisks.png)
+
 ### Monuments
 While latoka architecture differ depending on location, their monuments tend to be a bit more
 coherent across all areas, sharing some visual languages. The differences can be seen, but are

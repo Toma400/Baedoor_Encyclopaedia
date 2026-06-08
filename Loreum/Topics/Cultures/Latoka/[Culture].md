@@ -24,11 +24,11 @@
 [Teleport]
 
 ### Transport
-++ teleports, trains???
+| ![](/Assets/Culture/Vehicles/latoka_train.jpg) | ![](/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_18.jpg) |
+|:----------------------------------------------:|:-------------------------------------------------------------:|
+|          Rough sketch of latoka train          |               Latoka ship seen in Ascaron port                |
 
-| ![](/Assets/Sources/L_010_Egypt_Colony/arv_rossevette_18.jpg) |
-|:-------------------------------------------------------------:|
-|               Latoka ship seen in Ascaron port                |
+++ teleports, trains???
 
 ### Cultural Topics
 - [🏯 Architecture](Architecture.md)

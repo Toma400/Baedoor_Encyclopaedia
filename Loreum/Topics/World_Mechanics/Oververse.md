@@ -4,7 +4,7 @@
 <span style="color:#8F3DA5">**universe**</span> [✦](/Loreum/Tags.md#-universe)  
 
 ---
-### 🔆 CONCEPT
+## 🔆 CONCEPT
 Oververse is concept that expands the idea known in our world as "multiverse".
 
 <table align="right" style="width: 250px; height: 80px; display: table; margin: 5px">
@@ -68,7 +68,7 @@ There are only few who are known to travel physically through oververse, and tho
 as the wisest oneironauts.  
 The only such oneironaut known for Baedoor universe is [Xaine](/Loreum/Topics/Characters/List/Xaine.md).
 
-**DISPUTES**  
+### Disputes 
 Several oververse scientists believe in third and fourth systems to be reversed - so, metaphysical
 and oververses being affected by (higher) multiversal system, thus highest gods having their
 infinite variants, samely with some places (such as Void) being the same.  
@@ -83,8 +83,13 @@ everything consider gods visiting all planes.
 In the same time, those putting oververse lower tend to absolutify multiverse as sole system, without 
 anything added but mechanics. Therefore gods can exist only on lower planes in this concept.
 
+### Rings of reality
+|                ![](/Assets/rings_of_reality.png)                 |
+|:----------------------------------------------------------------:|
+| Symbolic depiction of universes in the Void and rings of reality | 
+
 ---
-### ♨️ HISTORY
+## ♨️ HISTORY
 Concept of Oververse appeared in Baedoor world quite early, considering first discovery was made 
 by Si Avani yet in Pre-Era. By the following time, more multiverses were discovered by next
 starshifters, resulting even in creating several academias focused solely on concept of starshifting.
