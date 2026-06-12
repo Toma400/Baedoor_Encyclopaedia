@@ -1,3 +1,5 @@
+from os.path import getsize, exists
+from os import remove
 import requests
 
 DOCS = {
@@ -30,17 +32,33 @@ DOCS = {
     "Lore Issues.pdf":                     "https://docs.google.com/document/d/1yVKL89tu0rjsOJHpM9oSLCK1BtVpOscQ7yJWiU8V3vM/export?format=pdf",
     "Rev's Worldbuilding Questions.pdf":   "https://docs.google.com/document/d/1S9M-lykYW7in-PHx1-ADrIggCdQKR2_CqYs2mmXiqPo/export?format=pdf",
 }
-OUT = "../Docs/"
+OUT  = "../Docs/"
+TEMP = "__"
 
 def downloadDocs():
     needle = 1
+    print(f"Processing {len(DOCS)} docs...")
     for file, link in DOCS.items():
-        print(f"Processing docs: {needle}/{len(DOCS)}")
+        # print(f"Processing docs: {needle}/{len(DOCS)}")
+        state    = "No change" # default
         response = requests.get(link)
         if response.status_code == 200:
-            with open(OUT + file, 'wb') as f:
-                f.write(response.content)
-                #print('File saved to: {}'.format(OUT + file))
+            if exists(OUT + file): # check for OG file existence, so can check for changes
+                # making TEMP file for comparison
+                with open(OUT + TEMP + file, 'wb') as t:
+                    t.write(response.content)
+                # if byte size differs (easy git diff), overwrite OG file
+                if getsize(OUT + TEMP + file) != getsize(OUT + file):
+                    with open(OUT + file, 'wb') as f:
+                        f.write(response.content)
+                    state = "Updated"
+                remove(OUT + TEMP + file) # removes temp file
+            else: # if OG file doesn't exist, just creates it
+                with open(OUT + file, 'wb') as f:
+                    f.write(response.content)
+                state = "Created"
+            print(f"Processed doc: {needle}/{len(DOCS)} [{state}] | {file} ")
+
         else:
             print(f'Error downloading Google Doc: {file} | Error code: {response.status_code}')
         needle += 1
