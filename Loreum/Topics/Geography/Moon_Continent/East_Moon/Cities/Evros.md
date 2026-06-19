@@ -27,6 +27,10 @@ In next centuries, expansions of the city gave birth to term of "Old City" which
 built in Ilvis' style, separating it from the ones done after them, with different structure and
 slightly less cohesive architecture design.
 
+### BUILDINGS
+- Under Golden Rat inn (functioning in 216 NE)
+- Magical Brew shop (functioning in 216 NE), could be a place that evolved into FotB guild
+
 ---
 [📿 Between Shadows and Light](/Mechanicum/Walkthroughs/BSaL/Lore/BSaL_Evros.md)
 

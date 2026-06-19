@@ -17,7 +17,7 @@ used primarily to cover from rain and other dangers.
 - Organisation
   - [Tribe](List/Tribe.md)
 - Games
-  - [Four Kings](/Loreum/Topics/Cultures/Erds/List/Four_Kings.md)
+  - [Four Kings](../[Shared]/List/Four_Kings.md)
 
 ---
 ♜  

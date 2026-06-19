@@ -5,7 +5,8 @@
 |                           Map of Baedoor universe cultures and their interactions                           |
 
 
-This section lists all cultures existing in Baedoor universe, sorted by continents.
+This section lists all cultures existing in Baedoor universe, sorted by continents. Items shared
+by multiple cultures can additionally be found collected in [this list](Cultures/[Shared]/List.md).
 
 Use miniatures to quickly jump to section you want.
 ```
@@ -50,7 +51,7 @@ LEGEND:
 - Voitri 🔹 [㊙️](/Loreum/Topics/Characters/Names/TriVoitri.md)
 
 ### East Moon
-- [Baedoorians](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [🚂](Cultures/Baedoorians/Vehicles.md) [💮](/Langue/Families/Baedoorish.md) [㊙️](/Loreum/Topics/Characters/Names/Baedoorian.md)
+- [Baedoorians](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [⚗️](Cultures/Baedoorians/Technologies.md) [🚂](Cultures/Baedoorians/Vehicles.md) [💮](/Langue/Families/Baedoorish.md) [㊙️](/Loreum/Topics/Characters/Names/Baedoorian.md)
 - Lunatri 🔹 [㊙️](/Loreum/Topics/Characters/Names/TriLunatri.md)
 - [Vaerdena Tertens](Cultures/Tertens_Vaerdena/[Culture].md)
 

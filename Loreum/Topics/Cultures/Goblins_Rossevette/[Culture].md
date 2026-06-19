@@ -30,6 +30,10 @@ events that would deprive them of them.
 - [🕌 Spirituality](Spirituality.md)
 - [💮 Language](/Langue/Families/Goblish.md)
 
+### Cultural Elements
+- Magic
+  - [Mirror Cage](../[Shared]/List/Mirror_Cage.md)
+
 ---
 ♜  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures.md)

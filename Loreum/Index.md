@@ -86,8 +86,8 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Flesh Race](Topics/Races/Flesh_Race.md)
 - [Flower Street](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
 - [Followers of the Bound](Topics/Guilds/List/Followers_of_the_Bound.md)
-- [Four Kings](Topics/Cultures/Erds/List/Four_Kings.md)
-- [Four Winds](Topics/Cultures/Erds/List/Four_Kings.md)
+- [Four Kings](Topics/Cultures/[Shared]/List/Four_Kings.md)
+- [Four Winds](Topics/Cultures/[Shared]/List/Four_Kings.md)
 - [Funt](Topics/Cultures/Baedoorians/List/Funt.md)
 
 ### G
@@ -156,6 +156,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Manaut, Naevin](Topics/Characters/List/Manaut_Naevin.md)
 - [Menerun](Topics/Geography/Old_Continent/Jitado/Cities/Menerun.md)
 - [Mes Inpea](Topics/Geography/Old_Continent/Mes_Inpea.md) (island)
+- [Mirror Cage](Topics/Cultures/[Shared]/List/Mirror_Cage.md)
 - [Moon](Topics/Geography/Moon_Continent.md) (continent)
 - [Morpat](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Morpat.md)
 

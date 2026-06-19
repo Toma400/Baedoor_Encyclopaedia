@@ -125,6 +125,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Elea     | East Baedoor  | 🏵️ Semi-rare  | Found more often in northern Baedoor                                                          |
 | Ferves   | Whole Baedoor | ⚜️ Rare        |                                                                                               |
 | Florat   | East Baedoor  | 🏵️ Semi-rare  | Nomathian-influenced form of *Lorat*                                                          |
+| Gabris   | East Baedoor  | ⚜️ Rare        | From nomathian *Gabrišš*                                                                      |
 | Hanyah   | East Baedoor  | ⚜️ Rare        |                                                                                               |
 | Idris    | East Baedoor  | 🔆 Semi-common |                                                                                               |
 | Irlanda  | East Baedoor  | ⚜️ Rare        | Of jitadian origin, more feminine form of *Irlangor*                                          |
@@ -147,6 +148,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Shademia | West Baedoor  | ⚜️ Rare        | Name mixing baedoorian character with some foreign roots                                      |
 | Siran    | Whole Baedoor | 🏵️ Semi-rare  |                                                                                               |
 | Souvie   | West Baedoor  | ⚜️ Rare        |                                                                                               |
+| Tamaris  | East Baedoor  | ⚜️ Rare        | From nomathian *Tamarišš*                                                                     |
 | Veronica | Whole Baedoor | 🔥 Common      | Commonly used, especially among lower aristocratic families                                   |
 | Viris    | Whole Baedoor | 🏵️ Semi-rare  |                                                                                               |
 | Wenyah   | East Baedoor  | ⚜️ Rare        | Used in Old Era, nomathian-influenced variant of *Hanyah*                                     |

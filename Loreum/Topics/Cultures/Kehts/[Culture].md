@@ -78,6 +78,10 @@ Blind Mothers will sacrifice the sinner to the glory of the spirits.
 ### Cultural Topics
 - [🥮 Foods](/Loreum/Topics/Nature/Foods/Kehtic.md)
 
+### Cultural Elements
+- Games
+  - [Four Kings](../[Shared]/List/Four_Kings.md)
+
 | ![](/Assets/Culture/Architecture/kehtic_modern_architecture.png) |                                           ![](/Assets/Landscapes/Settlements/kaer_dahekhris.png)                                           |
 |:----------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|
 |    Kehtic modern architecture, found in cities such as Carion    | Kehtic ancient architecture, seen in monumental design of [Dahekhris](/Loreum/Topics/Geography/Baedoor_Continent/Kaer/Cities/Dahekhris.md) |

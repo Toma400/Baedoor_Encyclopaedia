@@ -74,4 +74,4 @@ minimalistic way, as a simple cone rounded on edges, following abstract aestheti
 
 ---
 ✥: goblins and kehts linked  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures/Erds/[Culture].md) [🏺](/Loreum/Topics/Cultures/Tri_Saphtris/[Culture].md) 🏺 [🏺](/Loreum/Topics/Cultures/Goblins_Kaer/[Culture].md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../List.md)

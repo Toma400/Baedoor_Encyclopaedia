@@ -20,11 +20,11 @@ remarkable, setting them as masters of many crafts related to technology.
             become one of the most powerful technological advantages over other nations.
         </td>
         <td align="center" width="50%">
-            <img alt="Ghloddish Airships" src="/Assets/ghloddish_airships_goth_ross.png" width="504" height="368">
+            <img alt="Ghloddish Airships" src="/Assets/Culture/Vehicles/ghloddish_airships_goth_ross.png" width="504" height="368">
             <br><code>Concept art made by <a href="https://discord.gg/GmjUWabgYV">Goth Ross</a></code><br>
-            <img alt="Ghloddish Airships" src="/Assets/ghloddish_airships.jpg" width="416" height="312">
+            <img alt="Ghloddish Airships" src="/Assets/Culture/Vehicles/ghloddish_airships.jpg" width="416" height="312">
             <br><code>Sketch of ghloddish airships</code><br>
-            <img alt="Ghloddish Airships" src="/Assets/ghloddish_airship_fighter.png" width="480" height="480">
+            <img alt="Ghloddish Airships" src="/Assets/Culture/Vehicles/ghloddish_airship_fighter.png" width="480" height="480">
             <br><code>Concept art of ghloddish fighter airship</code>
         </td>
     </tr>

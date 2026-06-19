@@ -114,12 +114,12 @@ warm colours are also important part of its characterisation.
 </table>
 
 ### Cultural Topics
-- [⚗️ Technologies](/Loreum/Topics/Cultures/Tri_Saphtris/Technologies.md)
+- [⚗️ Technologies](Technologies.md)
 - [㊙️ Names](/Loreum/Topics/Characters/Names/TriSaphtri.md)
 
 ### Cultural Elements
 - Games
-  - [Four Winds](/Loreum/Topics/Cultures/Erds/List/Four_Kings.md)
+  - [Four Winds](../[Shared]/List/Four_Kings.md)
 
 ---
 ♜ Missing elements:

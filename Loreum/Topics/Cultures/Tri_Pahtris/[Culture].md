@@ -73,6 +73,10 @@ The structure follows the idea of "descending". From Laitalu's sky (pre-birth), 
 (life), to the underworld (death). The connection between sky (by bottom's part) ensures Laitalu
 can call the dead if they wish.
 
+### Cultural Elements
+- Magic
+  - [Mirror Cage](../[Shared]/List/Mirror_Cage.md)
+
 ---
 ♜: ensure monasteries exist?? else change this to some sanctuary or sth? same with fortress tbh
 

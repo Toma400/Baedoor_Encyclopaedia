@@ -48,7 +48,7 @@ List of Houses:
 
 ### Cultural Elements
 - Games
-  - [Four Kings](List/Four_Kings.md)
+  - [Four Kings](../[Shared]/List/Four_Kings.md)
 
 ### ⚜️ Factions
 - [Temple of the Wheel](/Loreum/Topics/Factions/List/Temple_of_the_Wheel.md)
