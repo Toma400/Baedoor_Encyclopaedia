@@ -20,6 +20,7 @@ DOCS = {
     "Erdis.pdf":                           "https://docs.google.com/document/d/14UvLjdrwHZYTowS0YWK61CkySBULTdz3lF5yC8Pb5Uc/export?format=pdf",
     # rossevette
     "Lai-Kine Religion.pdf":               "https://docs.google.com/document/d/18GTz8W-N58G3glFdjthv7OxwXE04SDP2_SqC-ajZ_4M/export?format=pdf",
+    "Cult of the Smiling God.pdf":         "https://docs.google.com/document/d/1fbFPZQ6c12nke-n4xCDXVGG1OVIyOpQ_5EfNvXBGkPc/export?format=pdf",
     "Historical Account of Latoka.pdf":    "https://docs.google.com/document/d/12JSm3TyPybiWG95AjuDo6ZSo6D-HxHw4vzdXCpQpBRE/export?format=pdf",
     # dyalnesi
     "Dyalnesi Deities.pdf":                "https://docs.google.com/document/d/1N1q2gWGv6wppPlvksa5M5zVJedY5vKjrkKLPOMg-FaM/export?format=pdf",
