@@ -9,5 +9,7 @@
 # temporary (use .zip instead)
 /Assets/Gridmaps/BaedoorIsland.kra
 
-# temporary (make sensible script to sort it out)
-/Assets/Refs
+# refs (folders should be included in mobile copies)
+/Assets/Refs/*
+!/Assets/Refs/*.pur
+!/Assets/Refs/Sources.txt
