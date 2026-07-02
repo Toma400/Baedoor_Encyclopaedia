@@ -7,11 +7,9 @@
 **Rossevette Archipelago** is group of islands counting the main eponymous island and four
 smaller ones - Karos, Fariva, Torvos and Veimos - sometimes called "outer Rossevette".
 
+<!--
 ### ISLANDS
 #### Rossevette
-<img style="float: right;" src="whatever.jpg">
-Stuff
-
 #### Karos
 #### Torvos
 #### Fariva
@@ -25,11 +23,13 @@ Population/settlement density rules:
 - Torvos `[pahtri == latoka >> goblins]`
 - Fariva `[pahtri >> latoka == goblins]`
 - Veimos `[pahtri >> goblins]`
+-->
 
 ---
 ### CITIES
 - Rossevette
   - [Ascaron](Rossevette_Islands/Cities/Ascaron.md) `latoka | built on top of Leveiihat ruins`
+  - Akkustarat `latoka | -akku(s)- could be latoka for -glass-`
   - Firae `voitri | Fingrad on map; initially latoka's Nan Ladam small port town (under the name Sukkutom), it expanded heavily under voitri rule`
   - Nid-Iliot `latoka`
   - Rinlin `voitri`
@@ -74,9 +74,11 @@ Population/settlement density rules:
   - Kastis `latoka | Qastis on map`
   - Lahmit `latoka | under voitri rule`
   - Lukksut `latoka`
+  - Nansilu `latoka`
   - Pehr `latoka | under voitri rule`
   - [Renvughe](Rossevette_Islands/Cities/Renvughe.md) `latoka`
   - Rithinion `voitri`
+  - Rutra `latoka`
   - Saiyn `voitri | Sayth on map`
   - Taren `voitri | Tapeh on map`
   - Vaari `voitri | Vaarl on map` `[Vaeri?] proposed earlier but I kiinda like -aa- more (albeit more unusual)`
@@ -89,6 +91,7 @@ Population/settlement density rules:
   - Ariyn `latoka | previously named Ommasot, but now inhabited by voitri noble, it got renamed`
   - Arrat-Kan `latoka | Arot' Hkan on map; under occupation of voitri`
   - [Asalexandriasi](Rossevette_Islands/Cities/Asalexandriasi.md) `latoka`
+  - Bembelliot `latoka | former -Bembeli-, voitric fortress that got recaptured thanks to Treaty`
   - [Danat-Ett](Rossevette_Islands/Cities/Danat-Ett.md) `latoka`
   - Kattar `latoka | Kathar on map`
   - Kipta `latoka`
@@ -117,5 +120,5 @@ Population/settlement density rules:
 ####   🔷 [🌿 Herbarium](/Loreum/Topics/Nature/Herbarium/Rossevette_Islands_Herbarium.md)
 
 ---
-♜♢✥   
+♜♢✥: commented out parts, reorganisation  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md)

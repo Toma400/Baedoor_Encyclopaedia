@@ -11,27 +11,29 @@
 ```
 LEGEND:
 ♻️ - redoable
-♨️ - bugged
+♨️ - bugged in OG
 ```
 ---
 #### Get into Evros Warehouse
-Note that this quest is bugged and won't work as destined.  
 Once you get close to warehouse in Evros' docks, you will get asked by someone to do some mission.  
 If you agree on that, you will get revealed that said person needs you to bring silk from it.  
 As you agree, you need to wait a while, for night to come. Then, you can either report that event
 to the guard (which will blacklist you from Thieves Guild, but you will get reward) or try to get
 into warehouse. As far as I tested, there's no penalty on failing entering the warehouse, and you
-can do it till you succeed.  
-The catch is, though, once entering the warehouse and successfully opening the chest, you will
-most probably end up with empty chest - which is main issue with the quest, as you cannot
-end the quest in favour of Thieves Guild. Therefore, it's better to report the criminal right away,
-as it will result at least on closing the quest and some reward.
+can do it till you succeed.
+
+In OG the quest was bugged, making that once entering the warehouse and successfully opening 
+the chest, you would end up with empty chest - which was main issue with the quest, restricting
+its TG-aligned ending. Therefore, it was better to report the criminal right away,
+as it resulted at least on closing the quest and some reward. The bug was eliminated in the remake.
 
 #### Get Parchment in Evros
 This quests is given by mage in Evros Docks, if you enter his shop, after asking if he needs any help.
 It simply requires you to go further to Evros, to shop with general goods, and ask for parchment.
-After completing the quest, mage will increase your spellcasting skill by 1.  
-As this quest is redoable, you can easily cheese the system and boost your skill to high levels.
+After completing the quest, mage will increase your spellcasting skill by 1.
+
+In OG, the quest was redoable, allowing for easy cheese of the system and boosting your skill to
+high levels. Remake fixed that.
 
 #### Herbalist Mission
 This quest is not listed in journal with specific name, but it is the only truly redoable quest you
@@ -52,6 +54,17 @@ Asking is pretty good choice, as cook will offer you bread no matter what, where
 stealing results on quest being failed. 
 
 #### Work on Evros Farm
-In theory, this job was meant to be the easiest (yet, the most tedious) work in BSaL game, as you
-were meant to get wheat and give back to farmer lady. Unfortunately, due to bug overseen in development,
-it results on just getting the job and not being able to harvest anything.
+Head to the fields, and enter the house. You can ask the lady working here for a job - she will
+gladly offer you the task of cutting wheat and delivering to her, which pays out **n** of gold
+per each wheat delivered.  
+The lady borrows you sickle which you need to have in your inventory or equipped to work on fields.
+After successful gather, you need to wait for a bit for wheat to regrow.  
+You can resign from the work anytime, but after you do, you can't pick the job up again. There's
+no penalties for not delivering wheat also, so it makes little sense to resign. You also need
+to have sickle on you, which will be removed upon leaving.
+
+In OG, the job was only theoretically available as you could enlist yourself to the lady, but
+were unable to harvest anything. Remake fixed this.
+
+---
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🗝️](../../Walkthroughs.md) 〰️ [🏹](BSaL.md)

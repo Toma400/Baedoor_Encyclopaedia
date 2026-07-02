@@ -12,6 +12,7 @@ ritual, establishing one's maturity, later becoming a tool or expression of one'
 ### Flesh Cave
 | ![](/Assets/Culture/Architecture/flesh_cave.png)           |
 |------------------------------------------------------------|
+
 Flesh caves are structures built by maita and tsisu that is meant to provide protection to them.
 Approaching cave suitable for shelter, they start to scrap their flesh out of their bodies and
 sculpt with it cave insides. The material adapts quickly, and with enough of it, it gains some

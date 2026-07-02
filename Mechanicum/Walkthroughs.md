@@ -24,3 +24,6 @@
 ## Classic
 
 ### ⚒️ [Baedoor](Walkthroughs/Baedoor_Classic/BaeCL.md)
+
+---
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md)

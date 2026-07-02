@@ -12,6 +12,7 @@
 | Abe        | ⚜️ Rare        |                                                                        |
 | Aial       | 🏵️ Semi-rare  | Male variant of *Aiala*                                                |
 | Aikatu     | 🏵️ Semi-rare  |                                                                        |
+| Aquilo     | 🔆 Semi-common |                                                                        |
 | Arentras   | 🔥 Common      |                                                                        |
 | Argin      | 🏵️ Semi-rare  | Mostly popular on northern coast                                       |
 | Bedein     | ⚜️ Rare        | Slightly foreign feel                                                  |

@@ -4,6 +4,7 @@ List of all organised religions, religious groups and informal faiths in Baedoor
 ---
 
 ### Main religions
+- Cult of the Smiling God `pahtri/latoka`
 - Lai-Kine `pahtri/voitri/saphtri`
   - The Joyous
   - [Voitri] `the faithful?`

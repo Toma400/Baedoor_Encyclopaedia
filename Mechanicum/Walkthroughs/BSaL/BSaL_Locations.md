@@ -24,3 +24,16 @@ and also newspaper boy from who you can buy magazine on local news.
 #### Evros Fields
 The furthest location in the game, depicting - at the time - wilderness of the city. It is also
 the most profitable area, as you can gather several resources which you can then sell back.
+
+#### Abandoned Island <sup>CHEAT</sup>
+Island devoid of life, reachable after talking with captain of the tutorial ship. It provides
+little interactions, but provides infinite supply of edible roots and plenty of items found
+in the barrel. Has travel option to abandoned house, as well as Evros.  
+It also lists Baedoor as potential travel option, hinting that New Baedoor was planned at one
+point to appear in the game.
+
+#### Abandoned House <sup>CHEAT</sup>
+Small house providing chest and a bed, allowing you to store items and sleep.
+
+---
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🗝️](../../Walkthroughs.md) 〰️ [🏹](BSaL.md)

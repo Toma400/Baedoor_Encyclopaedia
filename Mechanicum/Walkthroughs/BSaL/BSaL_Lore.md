@@ -9,3 +9,6 @@
 **Between Shadows and Light** accuracy is high, as it does not touch many aspects of the lore, and
 also coherence of lore was already enough at the time. Everything written here is considered
 as valid source.
+
+---
+[💠](/Entrance.md) 〰️ [➰](/Mechanicum/Mechanicum.md) 〰️ [🗝️](../../Walkthroughs.md) 〰️ [🏹](BSaL.md)
