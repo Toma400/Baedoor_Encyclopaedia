@@ -1,6 +1,10 @@
 # 🐊 Akad
 
 ---
+| ![](/Assets/Nature/Creatures/akad_rev.png) |
+|:------------------------------------------:|
+|      Akad conceptualised by Revenant       |
+
 **Akad** is a herbivore creature native to **Kacari** island, being digitigrade of low profile and
 smooth skeleton, moving on four legs. They do have fairly long tusks coming out of their mouth, serving
 primarily to defend, raised just enough to let them eat comfortably.  
