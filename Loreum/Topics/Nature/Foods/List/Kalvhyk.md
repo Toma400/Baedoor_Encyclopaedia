@@ -8,4 +8,4 @@ and also sometimes in Arennan.
 
 ---
 ♜: what is it made of?  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🥮](/Loreum/Topics/Nature/Foods.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](../../../Nature.md) 〰️ [🥮](../../Foods.md)

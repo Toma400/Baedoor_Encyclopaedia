@@ -9,12 +9,7 @@
 
 - Baedoor_Encyclopaedia\Mechanicum\RPG_System\Statistics\Races.md
   -> rewrite races to be more coherent + make their loreum pages
-- Baedoor_Encyclopaedia\Loreum\Topics\Cultures\Ghlodds\Technologies.md
 - Baedoor_Encyclopaedia\Loreum\Topics\Races\Ormaths.md
-- Baedoor_Encyclopaedia\Loreum\Topics\Geography\Mes_Inpea.md
-- Baedoor_Encyclopaedia\Loreum\Topics\Geography\Baedoor.md
-  -> names should be decided eventually, as they clutter
-     the page - (v)/(x)/(?) symbols
 
 - Baedoor_Encyclopaedia\Loreum\Topics\Geography\Kaer.md
   -> adjust all things from `kaer_early.jpg` and old BE, especially
@@ -73,43 +68,17 @@ Agad - wrath (aga:d)
 Lig - strong (Heim-lig baedoorian name suffix)
 
 III. TODO
-
-- GHLODDISH ARCHITECTURE NEEDS EXPANSION (samely as BAEDOORIAN one)
 - Baedoor.md (for city) has several not translated nor noted names
   - Vessin district
 - Herbary from BaeCL
-- Expanding "Technologies" part of Ghloddish Culture
 
-IV. ENCHANTED ITEMS
-Enchanting items is difficult, as it requires scroll-like unbounding,
-so wearer/user should be both good at dodging-and-magic, fighting-and-magic,
-so it's really obscure choice and rather unliked by requirements it sets.
-Additionally, it requires really good timing, as it needs unbounding at
-the second of hitting the enemy.
-Enchanting gear is actually easier than using said gear.
-
-This is why rods are used to TRANSFER energy into spell, not as something
-adjecent to the rod itself - hitting someone with rod is extremely weak
-and would be tough to work with. Transfering, in the other hand, means
-that you have three steps:
-
-       CAST SPELL TO YOU ---> CAST INTO ROD
-                                  ---> UNBOUND AND CAST INTO TARGET
-
-It may come in handy, to some extent, though it lenghtens the process
-a lot
-
-It also explains why mages wear enchanted robes instead of armour - it is
-easier to unbound enchant from such light material than it is from more
-solid thing
-
-V. GHLODDISH REQUESTED WORDS:
+IV. GHLODDISH REQUESTED WORDS:
 - end / ending (as there is 'beginning')
 - :ar': for several god-like aspects (to be, letter, sentence, mirror - all of
   them have metaphysical qualities connected to christian The Word, which is
   understood specifically in Baedoor oververse concept, y'remember)
 
-VI. BAEDOORIAN/JITADIAN NOTES
+V. BAEDOORIAN/JITADIAN NOTES
 - In Baedoor, there's Gneis's Tavern (BaeCL sources, 2nd photo) - what >Gneis's<
   stands for? Is this accented word? If so, is it jitadian?
   It isn't current owner, as he is called Frode/Frodo, but what does it stand

@@ -11,4 +11,4 @@ faraurin as a spice, popular in some Jitado regions.
 
 ---
 ♜: `Farauryn` in Polish  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🥮](/Loreum/Topics/Nature/Foods.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](../../../Nature.md) 〰️ [🥮](../../Foods.md)

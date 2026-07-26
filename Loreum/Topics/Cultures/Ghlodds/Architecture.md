@@ -84,4 +84,4 @@ can serve some meaning.
 
 ---
 ♜  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures/Ghlodds/[Culture].md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺]([Culture].md)

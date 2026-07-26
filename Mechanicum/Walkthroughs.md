@@ -21,6 +21,8 @@
 
 ### 🏯 Spires of Baedoor
 
+### 🏯 From Steam and Magic
+
 ## Classic
 
 ### ⚒️ [Baedoor](Walkthroughs/Baedoor_Classic/BaeCL.md)
