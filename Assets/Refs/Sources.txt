@@ -1,0 +1,78 @@
+# LEGEND
+# title -- description/credits/search : source
+# source: if SELF then it can be gitted, otherwise needs to be .gitignored
+#
+# packing should run over all entries + .pur file
+# descriptions should rather be used in PureRef, not here
+#
+# folder with * does not have .pur file
+
+[Ghloddish Airships]
+23lezsyl6dc31.png -- Blade Runner                  : ""
+br-vfx-dn-023.png -- Blade Runner?                 : ""
+
+[Ghloddish Architecture]
+iu_.png           -- Probably some 'pueblo' search : ""
+iu2_.png          -- Probably some 'pueblo' search : ""
+1200.png          -- Blade Runner                  : ""
+
+[*Ghloddish Underground Club]
+GhloddishDNBClub.mp4 -- "Wesoła Immersive show, feels like Blade Runnerish club that could work for ghlodds" : SELF
+
+[Latoka Architecture]
+the-entrance-in-the-evening.png                       -- ""                          : ""
+Screenshot_20260118_095417_Pinterest.png              -- ""                          : ""
+669903863_18430478305184221_6494232973483067281_n.png -- Pat's photo, from Barcelona : ""
+
+[*Pahtri Architecture]
+iu.png                                   -- ""                  : ""
+mountains.png                            -- Feivelyn's Wild Elf : ""
+wald.png                                 -- Feivelyn's Wild Elf : ""
+Screenshot_20260118_095455_Pinterest.png -- ""                  : ""
+
+[Races - Ghlodd]
+IMG_20231219_113348.jpg            -- ""                : SELF
+Screenshot202025-11-2620161437.png -- PTR's gnome asset : ""
+PTKONSEPTI687.png                  -- Tammi's gnome CA  : ""
+IMG_1131.png                       -- Berserk's gnome   : ""
+
+[Races - Pahtri]
+firefox_zd5K3f5ql5.png -- Lutemoth's Leki : ""
+
+[Rossevette Landscapes]
+IMG_2457.png -- ""             : ""
+iu_.png      -- Sergey Zabelin : ""
+
+[Seiteh Landscapes]
+clyde_aspevig_canyon_lands_690.jpg -- Clyde Aspevig                       : ""
+iu_.png                            -- Cave, no idea of search             : ""
+iu2_.png                           -- Upper Seiteh ig, no idea of search  : ""
+iu3_.png                           -- ""                                  : ""
+iu4_.png                           -- Underground city? no idea of search : ""
+
+[Smiling Sun Cult]
+071420-44-History-Ancient-Egypt-Religion-1656928384.jpg -- ""                                  : ""
+502542601947.png                                        -- Teletubbies                         : ""
+5kvXuD3JdFoxBZqqQhYbrf.png                              -- altar to Sol                        : https://www.livescience.com/archaeology/romans/altar-to-sol-a-rare-1-900-year-old-monument-dedicated-to-the-roman-god-of-light-and-used-in-a-secret-underground-ritual
+cultistmask.jpg                                         -- AC: Odyssey inspired model          : https://ko-fi.com/s/092cbdaa39
+DBHelmet1.png                                           -- papitopaez's DB armour for PT       : ""
+ews6.jpg                                                -- Eyes Wide Shut                      : https://thedevilinthedetails6.blogspot.com/2023/03/eyes-wide-shut-1999.html
+eyes+wide+shut+3+face+mask-1678900866.jpg               -- Eyes Wide Shut                      : ""
+il_fullxfull.6947295785_f3wx.png                        -- handmade clay decor                 : https://www.etsy.com/pl/listing/4312722040/rcznie-robiona-gliniana-dekoracja-cienna?lang_mismatch=1
+il_fullxfull.2900790645_skc4-1895486465.jpg             -- greek masks                         : ""
+image1.png                                              -- Obsession (2026) photo              : ""
+image2.png                                              -- Waite's tarot deck's "The Sun" Card : ""
+image3.png                                              -- RakettiKettu's Torval temple CA     : ""
+image4.png                                              -- RakettiKettu's Torval temple CA     : ""
+image5.png                                              -- RakettiKettu's Torval temple CA     : ""
+Joker-2019-Halloween-Clown-Mask.jpg                     -- ""                                  : ""
+kagetane.jpg                                            -- Hiruko Kagetane from Black Bullet   : https://blackbulletworld.fandom.com/wiki/Hiruko_Kagetane
+LG-cardart-Madness_Beckons_3.jpg                        -- Sheogorath from TES Legends         : ""
+mask.jpg                                                -- African mask                        : https://www.eshopafrica.com/2023/10/10/african-cult-masks/
+OIP-1723881274.jpg                                      -- Aztec iconography                   : ""
+products-gold_masks_-_commedia-4044324384.jpg           -- ""                                  : https://www.justposhmasks.com/p/commedia-gold-happy-smiling-laughing-face-masks/
+s-l500.jpg                                              -- Hand Carved African "Monkey Mask"   : https://www.ebay.com/itm/257355675799
+waberer1.png                                            -- Waberer's logo                      : ""
+waberer2.png                                            -- Waberer's logo                      : ""
+www.jpg                                                 -- ""                                  : ""
+irrational-fear-of-vintage-smiling-suns.jpg             -- ""                                  : https://www.reddit.com/r/oddlyterrifying/comments/16eswjv/irrational_fear_of_vintage_smiling_suns/

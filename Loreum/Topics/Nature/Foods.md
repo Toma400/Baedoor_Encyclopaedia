@@ -8,10 +8,13 @@ Every food listed, by lands and kinds.
 
 ---
 ## Lands
+### 🔹 Baedoor Continent
+####   🔹 [Erdic Foods](Foods/Erdic.md)
+####   🔹 [Kehtic Foods](Foods/Kehtic.md)
+
 ### 🔹 Old Continent
 ####   🔹 [Jitadian Foods](Foods/Jitadian.md)
-####   🔹 [Kehtic Foods](Foods/Kehtic.md)
 
 ---
 ♜  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](../Nature.md)

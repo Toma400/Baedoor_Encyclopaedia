@@ -1,8 +1,8 @@
 # 🏞️ Ansur Isle
 
-| <img alt="Ansur Map" height="561" src="/Assets/Maps/ansur.png" width="482"/> |
-|:----------------------------------------------------------------------------:|
-|                  Simplified map of Ansur Isle as of 420 NE                   |
+|      ![](/Assets/Gridmaps/Ansur.png)      | ![](/Assets/flag_ansur.png) |
+|:-----------------------------------------:|:---------------------------:|
+| Simplified map of Ansur Isle as of 420 NE |       Ansur heraldry        |
 
 **Isle of Ansur** (bae. *Ans Sur*, "land of hope") is small island positioned pretty much in 
 between old **[Baedoor city](/Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)**
@@ -12,9 +12,9 @@ Initially a servant of **Baedoor Empire** and with economy based on agriculture,
 century of New Era, it became known for its wine thanks to expanded trade focus.
 
 ### 📜 HISTORY  
-Ansur was not colonised before New Era, so during Exodus, when sailors saw the island instead of 
-what their tales told them, they were not only surprised, but intrigued. Crew of two such ships
-decided to settle in this place, while others went further west (eventually reaching East Moon).
+Ansur was not colonised before New Era, appearing as lush, uninhabited land, a rare sight in
+the New Era. During Exodus, crew of two such ships decided to settle in this place, while 
+others went further west (eventually reaching East Moon).
 
 Being exactly in half between two most important cities of early New Era made Ansur slowly 
 growing in importance. It became important point of exchange during those times, connecting two
