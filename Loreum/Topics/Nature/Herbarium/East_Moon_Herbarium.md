@@ -13,4 +13,4 @@ Every plant existing on [East Moon](/Loreum/Topics/Geography/Moon_Continent/East
 
 ---
 ♜: Middle West Valley needs proper name + more parts/plants  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🌿](/Loreum/Topics/Nature/Herbarium.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](../../Nature.md) 〰️ [🌿](../Herbarium.md)

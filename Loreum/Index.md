@@ -108,12 +108,13 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Hyerbitus](Topics/Nature/Herbarium/List/Hyerbitus.md)
 
 ### I
-- [I'si](Topics/Religions/Small/Temple_of_I'si.md) (Temple of I'si)
+- [I'si](Topics/Religions/Temple_of_I'si.md) (Temple of I'si)
 - [Indan](Topics/Characters/Families/Indan.md)
 - [Ino Anor](Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)
 - [Irlan Lavago](Topics/Characters/List/Lavago_Irlan.md)
 - [Isanam Lake](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Isanam_Lake.md)
 - [Isehir Allaut](Topics/Characters/List/Allaut_Isehir.md)
+- [Isheism](Topics/Religions/Tarrashe'_Ishe'.md)
 - [Isuga](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Isuga.md)
 - [Ixathei](Topics/Geography/Ixathei.md)
 
@@ -202,7 +203,9 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### S
 - [Saphtri](Topics/Cultures/Tri_Saphtris/[Culture].md) (culture)
 - [Saphtri](Topics/Races/Regular/TriSaphtri.md) (race)
+- [Say'ye'ys Cult](Topics/Religions/Say'ye'ys_Cult.md)
 - [Sea Serpent](Topics/Nature/Bestiary/List/Sea_Serpent.md)
+- [Sect of Destroyer of the Sun](Topics/Religions/Sect_of_Destroyer_of_the_Sun.md)
 - [Separatists](Topics/Factions/List/Separatists.md)
 - [Septei](Topics/Geography/Azure_Archipelago/Septei.md)
 - [Serj](Topics/Cultures/Kaerians/[Culture].md)
@@ -217,8 +220,9 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### T
 - [Talaaxi](Topics/Races/Creature/Talaaxi.md)
+- [Tarrashe' Ishe'](Topics/Religions/Tarrashe'_Ishe'.md)
 - [Tehom Aranai](Topics/Characters/List/Aranai_Tehom.md)
-- [Temple of I'si](Topics/Religions/Small/Temple_of_I'si.md)
+- [Temple of I'si](Topics/Religions/Temple_of_I'si.md)
 - [Temple of the Wheel](Topics/Factions/List/Temple_of_the_Wheel.md)
 - [Terrean Savannah](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Terrean_Savannah.md)
 - [Tertens](Topics/Races/Spirit/Terten.md)

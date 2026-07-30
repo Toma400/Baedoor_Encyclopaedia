@@ -21,6 +21,7 @@ in potential GitHub branch merges.
 - Plate Lizard > płytowiec
 - The Rift > Szczelina
 - The Rift Outbreak > Rozszczelnienie
+- Sect of Chaotic Splendor > Sekta Chaotycznego Blasku
 - Sect of Destroyer of Sun > Sekta Niszczyciela Słońca `English version could have better name`
 - Smoke River Collective > Kolektyw Dymiącej Rzeki `rethink, but sounds cool`
 - Spectre Nosfer > widmowy latawiec
