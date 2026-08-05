@@ -4,8 +4,8 @@ areas of [Rossevette](/Loreum/Topics/Geography/Baedoor_Continent/Rossevette_Isla
 Characterised by their harsher environment, they remained for long time seen as a more primitive
 side, focused on survival instead of proper evolution.  
 They were considered a nuisance due to frequent raids on latoka and voitri settlements to gather
-food, which ended with voitric occupation of Hinnut lands, when Fifth Hand's leaders established
-strict guard over their forts and penalized any similar efforts.
+food, which ended with voitric occupation of Hinnut lands, where **Fifth Hand**'s leaders established
+strict guard over their forts and penalized any similar efforts.  
 In effect, Hinnut etts became even so poorer and most of the settlements have much smaller 
 populace nowadays with minimal political or military agency.
 
@@ -48,12 +48,19 @@ that in such marriage only the child could bear that title.
   - monumental, high buildings that fell into ruin or start to do so
 
 * CA: Danat-Ett & spiral well & Ansur banners & goblin village & banners?
-* Architecture: walls are with written inscriptions/blessings for defence (see Danat-Ett CA)
 
 ### Relationships
 Unlike regular latoka, etts weren't seen as equal by voitri, resulting in worse treatment from
 the occupants. Similarly, ettic states were only partially freed during the peace treaty, bringing
 instability to the region with power coming from multiple sides.
+
+### Architecture
+Ettic architecture is considered as one preserving the shape language of oldest etts, being
+more squareish and massive. Being built for defensive purposes, it favours smaller windows
+and thicker walls.
+
+On ettic military buildings, particularly towers and walls, there are carved inscriptions
+meant to be defence blessings. Such blessings can be seen for example in [Danat-Ett](/Loreum/Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Danat-Ett.md).
 
 ---
 ♜:  

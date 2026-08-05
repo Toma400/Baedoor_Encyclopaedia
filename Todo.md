@@ -5,6 +5,18 @@ A list of changes that would be good to be made earlier than later.
 Need details filled in, so that they provide broad info on topics that are only marked by
 subsection or written as notes.
 
+### Baedoorian families and railroads/BRE
+Should expand on baedoorian families that were recently edited and their relationship to whole
+railroad enterprise.  
+Families in question:
+- [Ettua](Loreum/Topics/Characters/Families/Ettua.md)
+- [Indan](Loreum/Topics/Characters/Families/Indan.md)
+- [Lua](Loreum/Topics/Characters/Families/Lua.md)
+
+Wiki pages related:
+- [Great Baedoorian Railroad](Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Places/Great_Baedoorian_Railroad.md)
+- [Baedoor Railroad Enterprise](Loreum/Topics/Guilds/List/Baedoor_Railroad_Enterprise.md)
+
 ### [Baedoor City](Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md)
 Would be good to have its history section split off into [history subpage](Loreum/Topics/Geography/Baedoor_Continent/Baedoor/Cities/History/Baedoor.md)
 which would go into bigger detail and be more separated time-wise; the current city page should get

@@ -13,4 +13,6 @@ who was co-inventor of first train prototype.
 
 ---
 ♜: needs banner  
+there's **Calgori University** (mentioned in Natem's article) which would need to exist
+somewhere?? Baedoor proper? to think about  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../../Characters.md) 〰️ [🎎](../Baedoorian_Families.md)
