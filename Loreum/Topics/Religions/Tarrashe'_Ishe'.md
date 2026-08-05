@@ -49,5 +49,23 @@ The prophecy is sometimes also referred to as **The Second Pilgrimage**.
 
 ### Burials
 
+[NOTES:
+I absolutely adore that this connects with the magic triad I read recently in Kraig's book, that 
+the third on kaballah tree is the combination of both  
+Guess it's obvious given MK taking a lot of spirituality/Crowley influences but makes it nice 
+to realise more heavily  
+(a lil digression on my part)
+
+--> 
+I mean, what they know is what has trickled west over the mountains through the centuries
+Morrowind is ruled by a trifecta of gods: a warrior queen, a magelord, and a poet hermaphrodite
+
+-->
+Makes me wonder if this wouldn't mean Theresur god shouldn't be the both-binary, meaning there's
+yet another reason for Cult of Chaotic Splendour to glorify their deity; could also link even 
+more strongly into the idea of it being the child of the two gods maybe?  
+A neat connection to magical triad this way  
+The only problem I see is that it needs a reason why wouldn't Theresur be glorified by Isheism itself]
+
 ---
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🕌](../Religions.md)

@@ -39,6 +39,7 @@ in ways more friendly to its community.
 - [🚂 Vehicles](Vehicles.md)
 - [💮 Language](/Langue/Families/Baedoorish.md)
 - [㊙️ Names](/Loreum/Topics/Characters/Names/Baedoorian.md)
+- [🎎 Families](/Loreum/Topics/Characters/Baedoorian_Families.md)
 
 ### Cultural Elements
 - Philosophical movements

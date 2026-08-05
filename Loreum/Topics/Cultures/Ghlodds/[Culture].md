@@ -83,6 +83,7 @@ otherwise you can always do a cloaca
 - [⚗️ Technologies](Technologies.md)
 - [💮 Language](/Langue/Families/Ghloddish.md)
 - [㊙️ Names](/Loreum/Topics/Characters/Names/Ghlodds.md)
+- [🎎 Families](/Loreum/Topics/Characters/Ghloddish_Families.md)
 
 ---
 ♜: might be useful to separate ghloddish cultures since it is not universal as much as it claims
