@@ -20,6 +20,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Anaurin Ettua](Topics/Characters/List/Ettua_Anaurin.md)
 - [Ansur](Topics/Geography/Moon_Continent/East_Moon/Ansur.md)
 - [Ansur Thieves Guild](Topics/Guilds/List/Ansur_Thieves_Guild.md)
+- [Antat](Topics/Nature/Bestiary/List/Antat.md)
 - [Apta](Topics/Races/Regular/Apta.md) (race)
 - [Arennan](Topics/Geography/Baedoor_Continent/Arennan.md) (island)
 - [Arennan](Topics/Cultures/Baedoorians/Vehicles/Arennan.md) (ship)
@@ -206,6 +207,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Say'ye'ys Cult](Topics/Religions/Say'ye'ys_Cult.md)
 - [Sea Serpent](Topics/Nature/Bestiary/List/Sea_Serpent.md)
 - [Sect of Destroyer of the Sun](Topics/Religions/Sect_of_Destroyer_of_the_Sun.md)
+- [Seiteh](Topics/Geography/Seiteh.md)
 - [Separatists](Topics/Factions/List/Separatists.md)
 - [Septei](Topics/Geography/Azure_Archipelago/Septei.md)
 - [Serj](Topics/Cultures/Kaerians/[Culture].md)
@@ -217,6 +219,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Spectre Nosfer](Topics/Nature/Bestiary/List/Spectre_Nosfer.md)
 - [Starshifters](Topics/Guilds/List/Starshifters.md)
 - [Stheyr](Topics/Races/Creature/Stheyr.md)
+- [Sur Ta'hr](Topics/Geography/Seiteh/Cities/Sur_Tahr.md)
 
 ### T
 - [Talaaxi](Topics/Races/Creature/Talaaxi.md)

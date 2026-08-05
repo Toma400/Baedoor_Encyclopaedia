@@ -13,4 +13,4 @@ Every creature existing on [Baedoor Island](/Loreum/Topics/Geography/Baedoor_Con
 
 ---
 ♜  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🐊](/Loreum/Topics/Nature/Bestiary.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](../../Nature.md) 〰️ [🐊](../Bestiary.md)

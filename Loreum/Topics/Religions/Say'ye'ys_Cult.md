@@ -5,8 +5,8 @@ by the goddess.
 The cult worships the dragon as patron of art and the hidden truths, and is overall more invested
 in magic and esoteric side of the faith from the regular religion.
 
-The cult has minor representation in most bigger cities on **Seiteh**, particularly ones found
-underground.
+The cult has minor representation in most bigger cities on [Seiteh](/Loreum/Topics/Geography/Seiteh.md),
+particularly ones found underground.
 
 ---
 ✥  

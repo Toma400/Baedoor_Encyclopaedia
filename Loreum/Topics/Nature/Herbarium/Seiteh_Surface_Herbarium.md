@@ -1,5 +1,5 @@
 # 🌿 Seiteh Surface Herbarium
-Every plant existing on **Seiteh** surface.
+Every plant existing on [Seiteh](/Loreum/Topics/Geography/Seiteh.md) surface.
 
 ---
 #### 🔹 [Ash Veil](List/Ash_Veil.md)

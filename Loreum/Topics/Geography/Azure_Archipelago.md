@@ -4,10 +4,9 @@
 |----------------------------------------|-----------------------------------------|------------------------------|
 | Gridmap of Azure Archipelago           | Incomplete map of Azure Archipelago     | Incomplete map of Vartee     |
 
-Small group of islands located in between Seiteh and West Moon.
+Small group of islands located in between [Seiteh](/Loreum/Topics/Geography/Seiteh.md) and **West Moon**.
 
 ### ISLANDS
-
 #####   🔷 Oe'os
 #####   🔷 [Septei](Azure_Archipelago/Septei.md)
 #####   🔷 Vartee

@@ -3,6 +3,7 @@ Every creature that is considered as animal, either wild or domesticated.
 
 ---
 #### 🔹 [Akad](List/Akad.md)
+#### 🔹 [Antat](List/Antat.md)
 #### 🔹 [Naven](List/Naven.md)
 #### 🔹 [Nerau](List/Nerau.md)
 #### 🔹 [Oloko](List/Oloko.md)
@@ -12,4 +13,4 @@ Every creature that is considered as animal, either wild or domesticated.
 
 ---
 ♜  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🐊](/Loreum/Topics/Nature/Bestiary.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](../../Nature.md) 〰️ [🐊](../Bestiary.md)

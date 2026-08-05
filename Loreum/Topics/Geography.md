@@ -22,12 +22,12 @@ All what creates the oververse, but mostly on Baedoor itself.
 #####      🔹 [Mes Inpea](Geography/Old_Continent/Mes_Inpea.md)
 #####      🔹 [Jitado](Geography/Old_Continent/Jitado.md)
 #####      🔹 Eimr Archipelago
-####   🔷 Seiteh
-####   🔷 [Ixathei](Geography/Ixathei.md)
+####   🔷 [Seiteh](Geography/Seiteh.md)
 ####   🔷 [The Azure Archipelago](Geography/Azure_Archipelago.md)
 #####      🔹 Oe'os
 #####      🔹 [Septei](Geography/Azure_Archipelago/Septei.md)
 #####      🔹 Vartee
+####   🔷 [Ixathei](Geography/Ixathei.md)
 ####   🔷 Vaos Archipelago
 ####   🔷 Loose Islands `outside continents`
 ####   🔷 The Grand Southern Permafrost

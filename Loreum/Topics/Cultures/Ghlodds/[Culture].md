@@ -3,8 +3,8 @@ Ghloddish culture is surprisingly universal for race spread across island of con
 The biggest prevailing aspect of ghlodds existing in almost all areas is their attachment to tradition,
 specifically such as local community, family and religious' tales and values.
 
-In the most ancient time, ghlodds lived in the underground massive caves of **Seiteh**. Their
-migration onto the surface was followed by the creation of [origin myth](/Loreum/Topics/Religions/Tarrashe'_Ishe'.md#origin-myth)
+In the most ancient time, ghlodds lived in the underground massive caves of [Seiteh](/Loreum/Topics/Geography/Seiteh.md).
+Their migration onto the surface was followed by the creation of [origin myth](/Loreum/Topics/Religions/Tarrashe'_Ishe'.md#origin-myth)
 that brought them spiritual explanation of their past and present. Currently, ghlodds reside on both
 planes, with their cities spanning across entire continent.
 

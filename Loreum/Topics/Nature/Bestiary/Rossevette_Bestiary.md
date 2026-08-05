@@ -7,4 +7,4 @@ Every creature existing in waters and depths of [Inner Rossevette](/Loreum/Topic
 
 ---
 ♜  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🐊](/Loreum/Topics/Nature/Bestiary.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](../../Nature.md) 〰️ [🐊](../Bestiary.md)

@@ -34,6 +34,7 @@ If this section becomes too big, it can be split into linked sections in the fut
 * [Renvughe](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Renvughe.md)
 * [Roda](Topics/Geography/Baedoor_Continent/Kaer/Cities/Roda.md)
 * [Skirran](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)
+* [Sur Ta'hr](Topics/Geography/Seiteh/Cities/Sur_Tahr.md)
 * [Thanbyan](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Thanbyan.md)
 * [Tinanat](Topics/Geography/Baedoor_Continent/Kaer/Cities/Tinanat.md)
 

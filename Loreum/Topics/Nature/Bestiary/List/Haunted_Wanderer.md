@@ -14,4 +14,4 @@ Haunted Wanderer body is made out of mossy-like flesh, and its head is similar t
 eyes molded into it, and big mouth hole peeking through.
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🐊](/Loreum/Topics/Nature/Bestiary.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](../../../Nature.md) 〰️ [🐊](../../Bestiary.md)

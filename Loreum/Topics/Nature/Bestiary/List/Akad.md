@@ -18,4 +18,4 @@ without care about keeping their population alive. This resulted in their kind n
 size they were before, and in New Era being semi-extinct species that need special protective measures.
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🐊](/Loreum/Topics/Nature/Bestiary.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](../../../Nature.md) 〰️ [🐊](../../Bestiary.md)

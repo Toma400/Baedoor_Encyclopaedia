@@ -10,6 +10,9 @@ Every creature listed, by lands and kinds.
 ####   🔹 [Arennan Bestiary](Bestiary/Arennan_Bestiary.md)
 ####   🔹 [Ennaeric Ocean Bestiary](Bestiary/Ennaeric_Bestiary.md)
 
+### 🔹 Seiteh
+####   🔹 [Surface](Bestiary/Seiteh_Surface_Bestiary.md)
+
 ---
 ### 🔹 [Animals](Bestiary/Animals.md)
 ### 🔹 [Spirits](Bestiary/Spirits.md)

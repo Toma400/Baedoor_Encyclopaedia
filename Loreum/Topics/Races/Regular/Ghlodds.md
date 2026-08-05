@@ -25,7 +25,7 @@
     </tr>
 </table>
 
-Ghlodds are one of the oldest civilisations in Baedoor universe, inhabiting enormous part of Seiteh
+Ghlodds are one of the oldest civilisations in Baedoor universe, inhabiting enormous part of [Seiteh](/Loreum/Topics/Geography/Seiteh.md)
 continental island, including both surface and deep cave system below it.  
 
 Ghloddish bodies are heavily deformed, from some unknown reason dating back to oldest times,

@@ -6,6 +6,8 @@ Here you can find all abbreviations used by Encyclopaedia.
 ---
 `bae.` - baedoorish (usually referred for translation in this language)
 
+`ehr.` - ehric (usually referred for translation in this language)
+
 `ghl.` - ghloddish (usually referred for translation in this language)
 
 `lit.` - literal translation
