@@ -43,6 +43,13 @@ Needs huge expansion, particularly in context of various baedoorian and nomathia
 ### [Mes Inpea](Loreum/Topics/Geography/Old_Continent/Mes_Inpea.md)
 Expanding on geography -- probably more of a thing where we get to archiving its notebook.
 
+### Illusion poems
+Aside of them needing article to explain what they are, there are three written by me under the
+name of some ghloddish poet:
+
+| ![](/Assets/illusion_poem1.jpg) | ![](/Assets/illusion_poem2.png) | ![](/Assets/illusion_poem3.png) |
+|:-------------------------------:|:-------------------------------:|:-------------------------------:|
+
 ### Images to be used
 For [Ghloddish Architecture](Loreum/Topics/Cultures/Ghlodds/Architecture.md) expansion:
 

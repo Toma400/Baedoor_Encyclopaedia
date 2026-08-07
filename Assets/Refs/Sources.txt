@@ -38,6 +38,14 @@ IMG_1131.png                       -- Berserk's gnome   : ""
 
 [Races - Pahtri]
 firefox_zd5K3f5ql5.png -- Lutemoth's Leki : ""
+IMG_3520.png           -- Ohmes khajiits  : https://www.tumblr.com/theminttu/58015718760/the-ohmes-or-man-faced-khajiit-are-those
+
+[Races - Savel]
+889a8fd3a58c3bd83559c5e5d315ab90.jpg -- ""                              : ""
+image7.png                           -- Sandman                         : skeletontonguedworld
+image29.png                          -- Allie X from "Black Eye" [1m30] : ""
+image50.png                          -- Allie X "Black Eye" dancers     : ""
+image64.png                          -- Sandman                         : ""
 
 [Rossevette Landscapes]
 IMG_2457.png -- ""             : ""

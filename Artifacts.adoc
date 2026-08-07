@@ -1,0 +1,12 @@
+=== Artifacts
+All artifacts planned or made.
+
+[cols="3"]
+|===
+| Artifact name | In game? | Description
+
+| [Dragon's Eye]
+| -
+| A blue eye of one of the dragons found in Seiteh; sacred item for Isheism
+
+|===
