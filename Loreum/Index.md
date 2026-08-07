@@ -229,6 +229,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Spectre Nosfer](Topics/Nature/Bestiary/List/Spectre_Nosfer.md)
 - [Starshifters](Topics/Guilds/List/Starshifters.md)
 - [Stheyr](Topics/Races/Creature/Stheyr.md)
+- [Sugared Charcoal](Topics/Nature/Foods/List/Sugared_Charcoal.md)
 - [Sur Ta'hr](Topics/Geography/Seiteh/Cities/Sur_Ta'hr.md)
 
 ### T

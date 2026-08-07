@@ -1,9 +1,9 @@
-# 🥮 Jitadian Foods
-List of all jitadian foods.
+# 🥮 Pahtric Foods
+List of all pahtric foods.
 
 ---
-### 🧂 SEASONINGS
-####  🔹 [Faraurin](List/Faraurin.md)
+### 🥞 SWEETS
+####  🔹 [Sugared Charcoal](List/Sugared_Charcoal.md)
 
 ---
 ♜  

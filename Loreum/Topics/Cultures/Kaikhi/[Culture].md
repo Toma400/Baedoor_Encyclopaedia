@@ -43,4 +43,4 @@ superstitious beings.
 ---
 ♜: Talaaxi rule would also not let Kaikhi to vote, ***if*** Talaaxi had democratic process
 (or whatever would be its equivalent in different system)  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../../Cultures.md)

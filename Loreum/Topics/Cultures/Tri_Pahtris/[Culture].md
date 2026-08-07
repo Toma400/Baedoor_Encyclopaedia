@@ -73,6 +73,10 @@ The structure follows the idea of "descending". From Laitalu's sky (pre-birth), 
 (life), to the underworld (death). The connection between sky (by bottom's part) ensures Laitalu
 can call the dead if they wish.
 
+### Cultural Topics
+- [🥮 Foods](/Loreum/Topics/Nature/Foods/Pahtric.md)
+- [㊙️ Names](/Loreum/Topics/Characters/Names/TriPahtri.md)
+
 ### Cultural Elements
 - Magic
   - [Mirror Cage](../[Shared]/List/Mirror_Cage.md)
@@ -82,4 +86,4 @@ can call the dead if they wish.
 
 *evolution of pahtric culture, mentioned (in negative form) at the beginning could get its own
 subsection or even something bigger, actually diving into how much of it is myth versus not  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../../Cultures.md)

@@ -2,7 +2,11 @@
 List of all kehtic foods.
 
 ---
-#### 🔹 [Kalvhyk](List/Kalvhyk.md)
+### 🍵 DRINKS
+####  🔹 [Kalvhyk](List/Kalvhyk.md)
+
+### 🍜 MEALS
+####  🔹 Rice
 
 ---
 ♜  

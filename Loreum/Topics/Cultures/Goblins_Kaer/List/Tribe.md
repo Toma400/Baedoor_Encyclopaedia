@@ -127,4 +127,4 @@ onto new generations.
                not as impressive
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures/Goblins_Kaer/[Culture].md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../../../Cultures.md) 〰️ [🏺](../[Culture].md)

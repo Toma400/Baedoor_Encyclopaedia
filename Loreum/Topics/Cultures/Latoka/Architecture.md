@@ -91,4 +91,4 @@ build structures using tunnels through rocky/mountainous parts of environment.
 ♜: small coastal buildings are said to be built from "żółć", which translates to "yellow"
 I'd reckon it may be some variant of clay or maybe mixture of clay and something else, for full
 context see Ascaron's BaeCL archive  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures/Latoka/[Culture].md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../../Cultures.md) 〰️ [🏺]([Culture].md)

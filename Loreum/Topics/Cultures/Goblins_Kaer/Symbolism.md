@@ -98,7 +98,7 @@ logic than other erdic symbols and is also fairly rare nowadays within this cult
 The halberd is a less common symbol that encompasses ideas of safety, stability and erdic
 integrity. It is sometimes also used to emphasize tradition and the longevity of erdic
 culture and roots.
-
+-->
 ---
 ♜  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures/Erds/[Culture].md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../../Cultures.md) 〰️ [🏺]([Culture].md)

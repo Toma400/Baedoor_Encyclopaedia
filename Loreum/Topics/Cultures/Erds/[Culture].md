@@ -41,6 +41,7 @@ List of Houses:
 
 ### Cultural Topics
 - [🏯 Architecture](Architecture.md)
+- [🥮 Food](/Loreum/Topics/Nature/Foods/Erdic.md)
 - [🎭 Art](Art.md)
 - [💮 Language](/Langue/List/Erdis.md)
 - [㊙️ Names](/Loreum/Topics/Characters/Names/Erds.md)

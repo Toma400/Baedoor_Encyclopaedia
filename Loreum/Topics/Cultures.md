@@ -37,7 +37,7 @@ LEGEND:
 ---
 ### Baedoor Continent
 - [Baedoorians](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [⚗️](Cultures/Baedoorians/Technologies.md) [🚂](Cultures/Baedoorians/Vehicles.md) [💮](/Langue/Families/Baedoorish.md) [㊙️](/Loreum/Topics/Characters/Names/Baedoorian.md) [🎎](/Loreum/Topics/Characters/Baedoorian_Families.md)
-- [Erds](Cultures/Erds/[Culture].md) 🔹 [🏯](Cultures/Erds/Architecture.md) [🎭](Cultures/Erds/Art.md) [💮](/Langue/List/Erdis.md) [㊙️](/Loreum/Topics/Characters/Names/Erds.md) [🧿](Cultures/Erds/Symbolism.md)
+- [Erds](Cultures/Erds/[Culture].md) 🔹 [🏯](Cultures/Erds/Architecture.md) [🥮](/Loreum/Topics/Nature/Foods/Erdic.md) [🎭](Cultures/Erds/Art.md) [💮](/Langue/List/Erdis.md) [㊙️](/Loreum/Topics/Characters/Names/Erds.md) [🧿](Cultures/Erds/Symbolism.md)
 - [Goblins](Cultures/Goblins_Kaer/[Culture].md) (Kaer) 🔹 [🧿](Cultures/Goblins_Kaer/Symbolism.md)
 - [Goblins](Cultures/Goblins_Rossevette/[Culture].md) (Rossevette) 🔹 [🕌](Cultures/Goblins_Rossevette/Spirituality.md) [💮](/Langue/Families/Goblish.md)
 - [Kaerians](Cultures/Kaerians/[Culture].md) 🔹 [💮](/Langue/Families/Nomathian.md)
@@ -47,7 +47,7 @@ LEGEND:
   - [Etts](Cultures/LatokaEtts/[Culture].md)
 - [Ormaths](Cultures/Ormaths/[Culture].md)
 - Nomathians (Baedoor) 🔹 [㊙️](/Loreum/Topics/Characters/Names/NomathianBae.md)
-- [Pahtris](Cultures/Tri_Pahtris/[Culture].md) 🔹 [㊙️](/Loreum/Topics/Characters/Names/TriPahtri.md)
+- [Pahtris](Cultures/Tri_Pahtris/[Culture].md) 🔹 [🥮](/Loreum/Topics/Nature/Foods/Pahtric.md) [㊙️](/Loreum/Topics/Characters/Names/TriPahtri.md)
 - [Saphtris](Cultures/Tri_Saphtris/[Culture].md) 🔹 [⚗️](Cultures/Tri_Saphtris/Technologies.md) [㊙️](/Loreum/Topics/Characters/Names/TriSaphtri.md)
 - Voitri 🔹 [㊙️](/Loreum/Topics/Characters/Names/TriVoitri.md)
 

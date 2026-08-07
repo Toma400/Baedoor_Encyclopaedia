@@ -70,4 +70,4 @@ what is the process of picking king?
 - is it based on skills/likeability? (I vote, good angle but need polish)
 - is it based on [something else]? (I vote yes)
 
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../../Cultures.md)

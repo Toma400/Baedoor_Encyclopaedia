@@ -32,4 +32,4 @@ remarkable, setting them as masters of many crafts related to technology.
 
 ---
 ♜ + ghloddish name for ships  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺]([Culture].md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../../Cultures.md) 〰️ [🏺]([Culture].md)

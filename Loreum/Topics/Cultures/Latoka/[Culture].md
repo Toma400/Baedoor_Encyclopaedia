@@ -96,4 +96,4 @@ conquest? some of technicians could betray latoka; could have some issues with t
 limit their use, but here happens issue that either way it makes into powerful devices
 baedoorians would like to use (ghloddish solution of them working close together?)  
 Or them being ancient enough that there's noone who knows how they work?  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../../Cultures.md)

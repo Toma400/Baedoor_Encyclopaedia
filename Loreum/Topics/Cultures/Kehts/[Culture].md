@@ -104,4 +104,4 @@ Possible options that I brainstormed with Nik:
 
 They can be expanded, and I don't have too much preference here for the time being
 
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../../Cultures.md)
