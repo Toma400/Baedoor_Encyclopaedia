@@ -17,4 +17,4 @@ country had place.
 
 ---
 ♜♢✥ / separate into country and island  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](../../Geography.md)

@@ -1,8 +1,8 @@
 # ⚜️ Temple of the Wheel
 
-|           ![](/Assets/Culture/Items/erdic_temple_guard_armour.png)            |                      ![](/Assets/erdic_wheel.png)                      |
-|:-----------------------------------------------------------------------------:|:----------------------------------------------------------------------:|
-| Erdic ceremonial armour worn by Temple of Wheel guards (helmet and pauldrons) | Wheel of life, a symbolic representation of Temple of Wheel philosophy |
+|           ![](/Assets/Culture/Items/erdic_temple_guard_armour.png)            | ![](/Assets/Culture/Items/erdic_temple_guard_armour_tammi.jpg) |                      ![](/Assets/erdic_wheel.png)                      |
+|:-----------------------------------------------------------------------------:|:--------------------------------------------------------------:|:----------------------------------------------------------------------:|
+| Erdic ceremonial armour worn by Temple of Wheel guards (helmet and pauldrons) |              Erdic guard armour (by Tammilisäke)               | Wheel of life, a symbolic representation of Temple of Wheel philosophy |
 
 **Temple of the Wheel** is name of old religious organisation that serves erdic society to
 follow the proper rites of their "garden" faith-philosophy.  

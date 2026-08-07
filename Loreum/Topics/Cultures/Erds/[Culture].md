@@ -5,9 +5,9 @@ It follows old philosophical idea of "the garden" that influences a lot of its a
 Erds perfected their balance between beautiful ornamentation and simplicity, bringing artistry into
 many fields of life in a way that is not overly extravagant.
 
-| ![](/Assets/Culture/Items/erdic_curved_weapons.png) |           ![](/Assets/Culture/Items/erdic_temple_guard_armour.png)            |
-|:---------------------------------------------------:|:-----------------------------------------------------------------------------:|
-|                Erdic curved weapons                 | Erdic ceremonial armour worn by Temple of Wheel guards (helmet and pauldrons) |
+| ![](/Assets/Culture/Items/erdic_curved_weapons.png) |           ![](/Assets/Culture/Items/erdic_temple_guard_armour.png)            |     ![](/Assets/Culture/Items/erdic_temple_guard_armour_tammi.jpg)     |
+|:---------------------------------------------------:|:-----------------------------------------------------------------------------:|:----------------------------------------------------------------------:|
+|                Erdic curved weapons                 | Erdic ceremonial armour worn by Temple of Wheel guards (helmet and pauldrons) |              Erdic guard armour (concept by Tammilisäke)               |
 
 ### Institutional Houses
 Erdic culture holds the specific institution role, called *Houses*. Unlike actual institutions
@@ -55,9 +55,10 @@ List of Houses:
 - Separatists
   - Tae Ravo Naehhag
 - Houses
-  - House of Restoration
   - House of Blue Bird
+  - House of Malachite Lantern
+  - House of Restoration
 
 ---
 ♜  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](/Loreum/Topics/Cultures.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../../Cultures.md)

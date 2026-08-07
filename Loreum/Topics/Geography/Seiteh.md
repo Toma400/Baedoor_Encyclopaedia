@@ -1,7 +1,8 @@
 # 🌄 Seiteh
 
 **Seiteh** (also ghl. *Seyta'h*, sometimes *Seyteygh*, from ehr. *Ct'eh*) is one of the main
-continents in Baedoor universe, being a second largest one only after **Moon Continent**.
+continents in Baedoor universe, being a second largest one only after **Moon Continent**. It is
+inhabited primarily by [ghlodds](/Loreum/Topics/Cultures/Ghlodds/[Culture].md).
 
 The name is taken from ehric description, as in Old Dialect it meant "entire world".
 
@@ -25,26 +26,25 @@ the times of Pre Era, and these communities usually live somewhat isolated from 
 on the surface.
 
 ### CITIES
-- At'har
-- Ghenash'r
-- [Sur Ta'hr](Seiteh/Cities/Sur_Tahr.md)
-- ...
+- [At'har](Seiteh/Cities/At'har.md)
+- [Ghenash'r](Seiteh/Cities/Ghenash'r.md)
+- [Sur Ta'hr](Seiteh/Cities/Sur_Ta'hr.md)
 
 ### PLACES
 - Arthain Goerth
 
 ### LANDSCAPES
 - Mountains
-  - Tar Tahraes Range
-  - E'anatare'
-  - Gheanah (Death Valley)
+  - [Tar Tahraes Range](Seiteh/Lands/Tar_Tahraes.md)
+  - [E'anatare'](Seiteh/Lands/E'anatare'.md)
+  - [Gheanah](Seiteh/Lands/Gheanah.md) (Death Valley)
 - Deserts
-  - Fa'iteh (Fa Desert)
+  - [Fa'iteh](Seiteh/Lands/Fa'iteh.md)
 - Caves
   - Ghlod Cave
-  - Ghe'ar Ethr Cave
+  - [Ghe'ar Ethr Cave](Seiteh/Lands/Ghe'ar_Ethr.md)
 - Other Landmarks
-  - Skull Coast `in LE marked as the southest point in Baedoor, but this can be true only w/o Vaos`
+  - Skull Coast `in LE marked as the southernmost point in Baedoor, but this can be true only w/o Vaos?`
 
 ### TOPICS
 ####   🔷 [🐊 Seiteh Surface Bestiary](/Loreum/Topics/Nature/Bestiary/Seiteh_Surface_Bestiary.md)

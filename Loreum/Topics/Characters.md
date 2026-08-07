@@ -20,7 +20,7 @@ List of all noted characters existing throughout the history of Baedoor universe
 #### 🔹 [Characters of West Baedoor](Characters/West_Baedoor_Characters.md)
 
 ---
-### 🥮 BY NATION
+### 🥮 BY CULTURE
 #### 🔹 [Baedoorians](Characters/Baedoorian_Characters.md)
 #### 🔹 [Erds](Characters/Erdic_Characters.md)
 #### 🔹 [Jitadians](Characters/Jitadian_Characters.md)
@@ -35,6 +35,10 @@ List of all noted characters existing throughout the history of Baedoor universe
 ---
 ### 🔥 CLANS
 #### 🔹 Ormath Clans
+
+---
+### 🐉 OTHER
+#### 🔹 [Say'ye'ys](Characters/List/Say'ye'ys.md)
 
 ---
 ♜✥  

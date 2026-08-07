@@ -5,4 +5,4 @@ the street. It is main symbol of district's prosperity.
 
 ---
 ♜
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Old_Continent/Jitado.mdnent/Jitado.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](../../../../../Geography.md) 〰️ [🌄](../../../Jitado.md)

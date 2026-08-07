@@ -43,6 +43,25 @@ Needs huge expansion, particularly in context of various baedoorian and nomathia
 ### [Mes Inpea](Loreum/Topics/Geography/Old_Continent/Mes_Inpea.md)
 Expanding on geography -- probably more of a thing where we get to archiving its notebook.
 
+### Fa desert
+A concept rather than specific area, of unique desert type being particularly hard to traverse
+and survive in. Should be as cross-cultural topic, but unsure how to make it work. It may be
+useful to link all "Fa deserts" to this article? So that the context is more broadly seen.
+
+Fa deserts include:
+- [Fa'iteh](Loreum/Topics/Geography/Seiteh/Lands/Fa'iteh.md)
+
+From LE:
+> Pustynia Fa jest najbardziej znaną pustynią uniwersum, jednak sama w sobie oznacza kilka 
+> pustyń rozstrzelonych po kilku kontynentach - jest ona raczej symbolem bezkresnego, 
+> suchego i morderczego obszaru, którego przekroczenie jest niemalże niemożliwym wysiłkiem. 
+> Stąd wzięło się kilka powiedzonek, jak chociażby "przemierzać pustynię Fa" 
+> (wziąć na siebie niemożliwy trud) lub "przetrwać wyprawę przez Fa" (zwyciężyć w jakimś 
+> przedsięwzięciu, lecz ogromnym kosztem).
+
+> Najbardziej kojarzoną pustynią Fa jest pustynia Fa'iteh, na Seiteh. Jest ona również 
+> największą pustynią kojarzoną z tą nazwą.
+
 ### Illusion poems
 Aside of them needing article to explain what they are, there are three written by me under the
 name of some ghloddish poet:
@@ -77,11 +96,6 @@ For drinks added to erdic foods:
 
 | ![](/Assets/erdic_drinks.png) | ![](/Assets/erdic_drinks_2.png) |
 |:-----------------------------:|:-------------------------------:|
-
-For **Temple of the Wheel** faith once its article is made:
-
-| ![](/Assets/erdic_temple_guard.jpg) |
-|:-----------------------------------:|
 
 For mesinpean culture's religion/general page, once it is made:
 

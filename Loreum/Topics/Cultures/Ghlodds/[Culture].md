@@ -42,6 +42,13 @@ With time, various sects and religious offshoots emerged. That includes small su
 [Say'ye'ys Cult](/Loreum/Topics/Religions/Say'ye'ys_Cult.md), but also heretical organisations 
 like [Sect of Destroyer of the Sun](/Loreum/Topics/Religions/Sect_of_Destroyer_of_the_Sun.md).
 
+Ghloddish burial practices remained the same throughout this entire time, being the one real
+connection between old beliefs, Isheism and all other sectarian thoughts.  
+Once dead, ghlodd must be returned to the cave, as they will not be able to return on their 
+own during the promised prophecy. The ghloddish cemeteries are carved in cave's walls, consisting
+of small, rounded rooms where the dead and few their belongings are put. They can reach ceiling
+and span kilometers.
+
 ### Gender
 [declarative]
 

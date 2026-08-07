@@ -1,1 +1,2 @@
 --o:"../Exact Search.exe"
+--d:release

@@ -47,8 +47,6 @@ The prophecy is sometimes also referred to as **The Second Pilgrimage**.
 
 ### Other Myths
 
-### Burials
-
 [NOTES:
 I absolutely adore that this connects with the magic triad I read recently in Kraig's book, that 
 the third on kaballah tree is the combination of both  

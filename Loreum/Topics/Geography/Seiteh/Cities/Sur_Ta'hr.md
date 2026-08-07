@@ -8,5 +8,6 @@
 **Say'ye'ys dragon**.
 
 ---
-✥  
+♜: is it really known only/mostly for this, dude...  
+Also imo it should have link to the cult, not the dragon  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](../../../Geography.md) 〰️ [🌄](../../Seiteh.md)

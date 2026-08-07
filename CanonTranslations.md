@@ -24,6 +24,7 @@ in potential GitHub branch merges.
 - Sect of Chaotic Splendor > Sekta Chaotycznego Blasku
 - Sect of Destroyer of Sun > Sekta Niszczyciela Słońca `English version could have better name`
 - Smoke River Collective > Kolektyw Dymiącej Rzeki `rethink, but sounds cool`
+- Spark Festival > Święto Iskier
 - Spectre Nosfer > widmowy latawiec
 - Starshifters > Gwiazdounosiciele
 - Windy Arista > wietrzne źdźbła

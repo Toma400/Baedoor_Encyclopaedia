@@ -14,4 +14,4 @@ From Alkaesar Adventurers Guild:
 geography of Baedoor a little, I'd imagine it's currently the one on the north, but
 worth keeping the name nevertheless.  
 
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](../../Geography.md)
