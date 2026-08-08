@@ -10,4 +10,4 @@ her a lot of followers who found it more relatable than more rational and unsent
 of some other romantics of the movement. She is cited as inspiration by e.g. [Smoke River Collective](/Loreum/Topics/Guilds/List/Smoke_River_Collective.md).
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Baedoorian_Characters.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌸](../../Characters.md) 〰️ [🥮](../Baedoorian_Characters.md)

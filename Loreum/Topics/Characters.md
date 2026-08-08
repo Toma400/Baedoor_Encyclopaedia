@@ -23,6 +23,7 @@ List of all noted characters existing throughout the history of Baedoor universe
 ### 🥮 BY CULTURE
 #### 🔹 [Baedoorians](Characters/Baedoorian_Characters.md)
 #### 🔹 [Erds](Characters/Erdic_Characters.md)
+#### 🔹 [Ghlodds](Characters/Ghloddish_Characters.md)
 #### 🔹 [Jitadians](Characters/Jitadian_Characters.md)
 #### 🔹 [Lunatri](Characters/Lunatri_Characters.md)
 #### 🔹 [Saphtri](Characters/Saphtri_Characters.md)

@@ -9,6 +9,5 @@ It is commonly used for fish, but jitadian citizen tend to experiment with it, s
 using faraurin taste with even most strange combinations, including honey. There's also mead using
 faraurin as a spice, popular in some Jitado regions.
 
----
-♜: `Farauryn` in Polish  
+--- 
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](../../../Nature.md) 〰️ [🥮](../../Foods.md)

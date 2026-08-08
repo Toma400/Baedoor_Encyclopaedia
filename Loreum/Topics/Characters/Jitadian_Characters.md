@@ -1,5 +1,5 @@
 # 🥮 Jitadian Characters
-Characters bound to **Jitadian** heritage and nationality.
+Characters bound to [jitadian](../Cultures/Jitadians/[Culture].md) heritage and nationality.
 
 ---
 ### 🕋 PRE ERA
@@ -7,4 +7,4 @@ Characters bound to **Jitadian** heritage and nationality.
 
 ---
 ♜  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Characters.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌸](../Characters.md)

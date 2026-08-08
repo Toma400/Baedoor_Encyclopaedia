@@ -1,5 +1,5 @@
 # 🥮 Saphtri Characters
-Characters bound to **Saphtri** heritage and nationality.
+Characters bound to [saphtri](../Cultures/Tri_Saphtris/[Culture].md) heritage and nationality.
 
 ---
 ### 🕋 NEW ERA
@@ -7,4 +7,4 @@ Characters bound to **Saphtri** heritage and nationality.
 
 ---
 ♜  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Characters.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌸](../Characters.md)

@@ -62,4 +62,4 @@ a believer of Higher Oververse.
 
 ---
 ✥  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Saphtri_Characters.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌸](../../Characters.md) 〰️ [🥮](../Saphtri_Characters.md)

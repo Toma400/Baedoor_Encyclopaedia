@@ -1,5 +1,6 @@
 # 🎎 Baedoorian Families
-Families living by Baedoorian heritage. 🧊 emoji indicates no longer existing family.
+Families living by [baedoorian](../Cultures/Baedoorians/[Culture].md) heritage. 🧊 emoji 
+indicates no longer existing family.
 
 ---
 ### 🕋 EAST BAEDOOR
@@ -65,4 +66,4 @@ Families living by Baedoorian heritage. 🧊 emoji indicates no longer existing 
 
 ---
 ♜✥  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Characters.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌸](../Characters.md)

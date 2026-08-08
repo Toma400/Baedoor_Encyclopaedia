@@ -28,6 +28,7 @@ Click on section names to head to specific one.
 
 Besides, you can also visit loose pages used as helpers for the above sections (they might be
 migrated there over time):
+- [🧱 Contribution Cheatsheet](ContributionCheatsheet.md)
 - [🧱 Artifacts](Artifacts.adoc)
 - [🧱 Cameos](Cameos.md)
 - [🧱 Canon Translations](CanonTranslations.md)

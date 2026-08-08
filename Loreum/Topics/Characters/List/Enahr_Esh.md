@@ -12,4 +12,4 @@ Esh's gender or origin are unknown. The "name" in itself does not exist in exact
 naming system, as it is most likely made-up pseudonym.
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍁](../Pre_Era_Characters.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌸](../../Characters.md) 〰️ [🍁](../Pre_Era_Characters.md)

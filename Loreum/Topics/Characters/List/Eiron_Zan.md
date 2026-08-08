@@ -7,4 +7,4 @@ In 999 OE, he travelled to Arennan to learn more on military. His comeback ended
 to [Unteupta assassination](/Loreum/Topics/History/List/Unteupta_Assassination.md).
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Baedoorian_Characters.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌸](../../Characters.md) 〰️ [🥮](../Baedoorian_Characters.md)

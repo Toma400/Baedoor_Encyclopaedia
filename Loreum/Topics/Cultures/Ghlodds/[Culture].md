@@ -49,6 +49,9 @@ own during the promised prophecy. The ghloddish cemeteries are carved in cave's 
 of small, rounded rooms where the dead and few their belongings are put. They can reach ceiling
 and span kilometers.
 
+- ere ete ere
+- magic!!
+
 ### Gender
 [declarative]
 
@@ -85,8 +88,33 @@ otherwise you can always do a cloaca
 !!! ALSO IMPORTANT !!! IF WE DECIDE ON BREEDING/SEX, IT SHOULD BE ADDED TO RACE PAGE
 (even more so than culture, which would only hold cultural impact of biology)
 
+[note from Discord]
+> On trans people in ghloddish philosophy: since they do not particularly care about 
+> biological origin, they respect changing sex or gender with time and also are favourable
+> to self-claims on that (in opposition to biological change as in modern right-leaning 
+> discourse).
+This effect is known widely and is perceived as a proof of both gods living in ghlodds, 
+> manifesting themselves. So either cis-M/F, trans-M/F and multi(-non-)binary/genderfluid 
+> (M+F) are perceived as something positive (their distribution is still a minority, but 
+> follows the bigger point given the tolerance).
+A(-non-)binary (devoid of gender) are logically not favoured, similarly to same-sex 
+> relationships - but the later just pretend to be the opposite gender to adjust*. 
+> Non-binaries tend to just lump themselves as multi-binary - ghlodds do not express that 
+> big will to self-expression to create big varieties of genders to detail their personality 
+> (especially as a bit more community-aimed culture than pure individualism-centric one).
+>
+> \* would be good to reflect on what are the stereotypical images of those in ghloddish 
+    > society, the pressure on those (ig low given their state towards gender fluidity?)
+    > and whether this swap is theatrical or bringing some weight with itself
+
+--- NOTE: `illusion poem` does touch the word `illusion`, WE SHOULD EXPLAIN WHY THIS WORD
+IS USED; be aware this ideally should not overlap too heavily with erdic explanation, albeit
+it can if it works within boundaries of ghloddish spirituality
+
 ### Cultural Topics
 - [🏯 Architecture](Architecture.md)
+- [🎭 Art](Art.md)
+- [🥮 Foods](/Loreum/Topics/Nature/Foods/Ghloddish.md)
 - [⚗️ Technologies](Technologies.md)
 - [💮 Language](/Langue/Families/Ghloddish.md)
 - [㊙️ Names](/Loreum/Topics/Characters/Names/Ghlodds.md)

@@ -7,28 +7,38 @@
 #
 # folder with * does not have .pur file
 
-[Ghloddish Airships]
-23lezsyl6dc31.png -- Blade Runner                  : ""
-br-vfx-dn-023.png -- Blade Runner?                 : ""
-
-[Ghloddish Architecture]
+[Architecture - Ghlodds]
 iu_.png           -- Probably some 'pueblo' search : ""
 iu2_.png          -- Probably some 'pueblo' search : ""
 1200.png          -- Blade Runner                  : ""
 
-[*Ghloddish Underground Club]
-GhloddishDNBClub.mp4 -- "Wesoła Immersive show, feels like Blade Runnerish club that could work for ghlodds" : SELF
-
-[Latoka Architecture]
+[Architecture - Latoka]
 the-entrance-in-the-evening.png                       -- ""                          : ""
 Screenshot_20260118_095417_Pinterest.png              -- ""                          : ""
 669903863_18430478305184221_6494232973483067281_n.png -- Pat's photo, from Barcelona : ""
 
-[*Pahtri Architecture]
+[*Architecture - Pahtri]
 iu.png                                   -- ""                  : ""
 mountains.png                            -- Feivelyn's Wild Elf : ""
 wald.png                                 -- Feivelyn's Wild Elf : ""
 Screenshot_20260118_095455_Pinterest.png -- ""                  : ""
+
+[Architecture - Vershaton]
+colonial_house_by_togman_studio_d2l1wjh-pre.png         -- "" : https://www.deviantart.com/togman-studio/art/Colonial-House-156293117
+d270wq0.png                                             -- "" : https://www.deviantart.com/kulayan3d/art/Villa-II-132732072
+hotel_meade_by_cminer1.png                              -- "" : https://www.deviantart.com/cminer1/art/Hotel-Meade-633734847
+house__309a__a_mountain_mediterranean_by_built4ever.png -- "" : https://www.deviantart.com/built4ever/art/House-309A-A-Mountain-Mediterranean-363492461
+iu.png                                                  -- "" : ""
+long_time_neighbors_by_kayaksailor.png                  -- "" : https://www.deviantart.com/kayaksailor/art/Long-time-neighbors-156029411
+main-qimg-eaf3dee40cfd6759594fa7cb1bf2e713-lq.png       -- "" : ""
+the_governor_s_mansion_ii_by_jordangrimmer.png          -- "" : https://www.deviantart.com/jordangrimmer/art/The-Governor-s-Mansion-II-503729286
+
+[Ghloddish Airships]
+23lezsyl6dc31.png -- Blade Runner                  : ""
+br-vfx-dn-023.png -- Blade Runner?                 : ""
+
+[*Ghloddish Underground Club]
+GhloddishDNBClub.mp4 -- "Wesoła Immersive show, feels like Blade Runnerish club that could work for ghlodds" : SELF
 
 [Races - Ghlodd]
 IMG_20231219_113348.jpg            -- ""                : SELF

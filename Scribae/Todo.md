@@ -14,6 +14,7 @@ stated in their articles.
   - Brief Overview of Erdic Culture
 
 ### General authors
+- [Agha O'at'sa'](/Loreum/Topics/Characters/List/Agha_O'at'sa'.md)
 - [Elea Varteford](/Loreum/Topics/Characters/List/Varteford_Elea.md)
 - [Keno Nira](/Loreum/Topics/Characters/List/Nira_Keno.md)
 - Starshifters

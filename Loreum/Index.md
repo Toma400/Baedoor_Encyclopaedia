@@ -11,6 +11,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Adventurers' Guild](Topics/Guilds/List/Alkaesar_Adventurers_Guild.md) (Alkaesar/Morpat)
 - [Aerial Pirates](Topics/Guilds/List/Aerial_Pirates.md)
 - [The Age of Decline](Topics/Cultures/Baedoorians/List/The_Age_of_Decline.md)
+- [Agha O'at'sa'](Topics/Characters/List/Agha_O'at'sa'.md)
 - [Alkaesar](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Alkaesar.md) (city)
 - [Allaut, Eduard](Topics/Characters/List/Allaut_Eduard.md)
 - [Allaut, Isehir](Topics/Characters/List/Allaut_Isehir.md)
@@ -118,6 +119,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### I
 - [I'si](Topics/Religions/Temple_of_I'si.md) (Temple of I'si)
+- [Illusion poem](Topics/Cultures/Ghlodds/Art.md#illusion-poems)
 - [Indan](Topics/Characters/Families/Indan.md)
 - [Ino Anor](Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)
 - [Irlan Lavago](Topics/Characters/List/Lavago_Irlan.md)
@@ -227,10 +229,12 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Souvie Darakon](Topics/Characters/List/Darakon_Souvie.md)
 - [Spark Festival](Topics/Geography/Seiteh/Cities/Ghenash'r.md#-holidays)
 - [Spectre Nosfer](Topics/Nature/Bestiary/List/Spectre_Nosfer.md)
+- [Spirit poem](Topics/Cultures/Ghlodds/Art.md#illusion-poems)
 - [Starshifters](Topics/Guilds/List/Starshifters.md)
 - [Stheyr](Topics/Races/Creature/Stheyr.md)
 - [Sugared Charcoal](Topics/Nature/Foods/List/Sugared_Charcoal.md)
 - [Sur Ta'hr](Topics/Geography/Seiteh/Cities/Sur_Ta'hr.md)
+- [Sweet Balls](Topics/Nature/Foods/List/Sweet_Balls.md)
 
 ### T
 - [Talaaxi](Topics/Races/Creature/Talaaxi.md)

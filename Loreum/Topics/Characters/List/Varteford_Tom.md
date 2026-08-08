@@ -138,4 +138,4 @@ Warthog and Varteford ruling as one destructive force.
 
 ---
 ♜✥???: books and poems listed (not link per se, but..); maybe portrait?  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Baedoorian_Characters.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌸](../../Characters.md) 〰️ [🥮](../Baedoorian_Characters.md)

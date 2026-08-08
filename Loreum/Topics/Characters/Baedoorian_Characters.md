@@ -1,5 +1,5 @@
 # 🥮 Baedoorian Characters
-Characters bound to **Baedoorian** heritage and nationality.
+Characters bound to [baedoorian](../Cultures/Baedoorians/[Culture].md) heritage and nationality.
 
 ---
 ### 🕋 OLD ERA
@@ -23,4 +23,4 @@ Characters bound to **Baedoorian** heritage and nationality.
 
 ---
 ♜  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../Characters.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌸](../Characters.md)

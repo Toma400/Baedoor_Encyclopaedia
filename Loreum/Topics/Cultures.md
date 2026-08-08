@@ -60,7 +60,7 @@ LEGEND:
 - [Jitadians](Cultures/Jitadians/[Culture].md) 🔹 [🥮](/Loreum/Topics/Nature/Foods/Jitadian.md) [💮](/Langue/Families/Jitadish.md) [㊙️](/Loreum/Topics/Characters/Names/Jitadian.md)
 
 ### Seiteh
-- [Ghlodds](Cultures/Ghlodds/[Culture].md) 🔹 [🏯](Cultures/Ghlodds/Architecture.md) [⚗️](Cultures/Ghlodds/Technologies.md) [💮](/Langue/Families/Ghloddish.md) [㊙️](/Loreum/Topics/Characters/Names/Ghlodds.md) [🎎](/Loreum/Topics/Characters/Ghloddish_Families.md)
+- [Ghlodds](Cultures/Ghlodds/[Culture].md) 🔹 [🏯](Cultures/Ghlodds/Architecture.md) [🥮](/Loreum/Topics/Nature/Foods/Ghloddish.md) [🎭](Cultures/Ghlodds/Art.md) [⚗️](Cultures/Ghlodds/Technologies.md) [💮](/Langue/Families/Ghloddish.md) [㊙️](/Loreum/Topics/Characters/Names/Ghlodds.md) [🎎](/Loreum/Topics/Characters/Ghloddish_Families.md)
 
 ### Old Continent
 - Mesinpeans 🔹 [㊙️](/Loreum/Topics/Characters/Names/Mesinpean.md)

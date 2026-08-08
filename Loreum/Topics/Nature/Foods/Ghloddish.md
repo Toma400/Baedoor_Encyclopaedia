@@ -1,8 +1,8 @@
-# 🥮 Sweets
-All foods that are used either for recreational taste, or as addition in between or after a meal.
+# 🥮 Ghloddish Foods
+List of all ghloddish foods.
 
 ---
-####  🔹 [Sugared Charcoal](List/Sugared_Charcoal.md)
+### 🥞 SWEETS
 ####  🔹 [Sweet Balls](List/Sweet_Balls.md)
 
 ---

@@ -3,11 +3,11 @@ Every food listed, by lands and kinds.
 
 ---
 ### TYPE
-#### 🔹 [Drinks](Foods/Drinks.md)
-#### 🔹 Cultivated Foods
-#### 🔹 Meals
-#### 🔹 [Sweets](Foods/Sweets.md)
-#### 🔹 [Seasonings](Foods/Seasonings.md)
+####  [🍵 Drinks](Foods/Drinks.md)
+####  🍅 Cultivated Foods
+####  [🍜 Meals](Foods/Meals.md)
+####  [🥞 Sweets](Foods/Sweets.md)
+####  [🧂 Seasonings](Foods/Seasonings.md)
 
 ---
 ### LANDS
@@ -18,6 +18,9 @@ Every food listed, by lands and kinds.
 
 #### 🔹 Old Continent
 #####   🔹 [Jitadian Foods](Foods/Jitadian.md)
+
+#### 🔹 Seiteh
+#####   🔹 [Ghloddish Foods](Foods/Ghloddish.md)
 
 ---
 ♜✥  
