@@ -1,5 +1,5 @@
 # 🥮 Jitadian Foods
-List of all jitadian foods.
+List of all [jitadian](../../Cultures/Jitadians/[Culture].md) foods.
 
 ---
 ### 🧂 SEASONINGS

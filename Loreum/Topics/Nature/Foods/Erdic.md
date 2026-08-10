@@ -1,5 +1,5 @@
 # 🥮 Erdic Foods
-List of all erdic foods.
+List of all [erdic](../../Cultures/Erds/[Culture].md) foods.
 
 ---
 ### 🍵 DRINKS

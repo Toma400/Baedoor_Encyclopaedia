@@ -1,9 +1,6 @@
 # 🌿 Vulcanic Veil
 
 ---
-<span style="color:#90AA62">**plants**</span> [✦](/Loreum/Tags.md#-plants)  
-
----
 
 <img alt="Vulcanic Veil" height="324" src="/Assets/Nature/Plants/vulcanic_veil_wob.png" width="576"/>
 
@@ -22,4 +19,4 @@ value.
 
 ---
 ♜:WoB Link  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🌿](/Loreum/Topics/Nature/Herbarium.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](../../../Nature.md) 〰️ [🌿](../../Herbarium.md)

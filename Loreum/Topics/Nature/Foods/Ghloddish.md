@@ -1,5 +1,5 @@
 # 🥮 Ghloddish Foods
-List of all ghloddish foods.
+List of all [ghloddish](../../Cultures/Ghlodds/[Culture].md) foods.
 
 ---
 ### 🥞 SWEETS

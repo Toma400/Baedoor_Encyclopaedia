@@ -3,21 +3,25 @@ Every plant existing on Rossevette Islands.
 
 ---
 ### Rossevette
-#### 🔹 Oak
 #### 🔹 Blackberry Bushes
+#### 🔹 [Hyerbitus](List/Hyerbitus.md)
+#### 🔹 Oak
 #### 🔹 [Zhoa](List/Zhoa.md)
 
 ### Karos
 #### 🔹 Blackberry Bushes
+#### 🔹 [Hyerbitus](List/Hyerbitus.md)
 
 ### Veimos
 #### 🔹 Blackberry Bushes
+#### 🔹 [Hyerbitus](List/Hyerbitus.md)
 
 ### Torvos
 #### 🔹 Blackberry Bushes
 
 ### Fariva
 #### 🔹 Blackberry Bushes
+#### 🔹 [Hyerbitus](List/Hyerbitus.md)
 
 ---
 ♜  

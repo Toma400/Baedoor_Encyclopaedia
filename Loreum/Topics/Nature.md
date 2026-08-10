@@ -6,6 +6,7 @@ All things related to nature, including flora, fauna, geological parts and also 
 ### 🐊 [Bestiary](Nature/Bestiary.md)
 ### 🧊 Minerals
 ### 🥮 [Foods](Nature/Foods.md)
+### 🦟 Diseases
 
 ---
 ✥  

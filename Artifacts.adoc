@@ -9,4 +9,9 @@ All artifacts planned or made.
 | -
 | A blue eye of one of the dragons found in Seiteh; sacred item for Isheism
 
+| [Two Keys' Lockpick]
+| -
+| A handmade tool by link:Loreum/Topics/Characters/List/Two_Keys.md[Two Keys]
+  that is able to open any lock with enough patience
+
 |===

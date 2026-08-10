@@ -1,5 +1,5 @@
 # 🥮 Kehtic Foods
-List of all kehtic foods.
+List of all [kehtic](../../Cultures/Kehts/[Culture].md) foods.
 
 ---
 ### 🍵 DRINKS

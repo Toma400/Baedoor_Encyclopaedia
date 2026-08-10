@@ -1,13 +1,9 @@
 # 🌿 Ash Veil
 
 ---
-<span style="color:#90AA62">**plants**</span> [✦](/Loreum/Tags.md#-plants)  
-
----
-
-<img alt="Ash Veil" height="324" src="/Assets/Nature/Plants/ash_veil_wob.png" width="576"/>
-
-``Depiction of Ash Veil in Wastelands of Baedoor mod``
+|    ![](/Assets/Nature/Plants/ash_veil_wob.png)     |
+|:--------------------------------------------------:|
+| Depiction of Ash Veil in Wastelands of Baedoor mod |
 
 **Ash Veil** is plant growing on warm wastelands, being known for finding unusual way to grow on pure
 sand. Its leaves are resembling of smooth, solidifed sand, and they are easily crushed.
@@ -23,4 +19,4 @@ too powdery to be considered such, at least in Baedoor environment.
 
 ---
 ♜:WoB Link  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🌿](/Loreum/Topics/Nature/Herbarium.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](../../../Nature.md) 〰️ [🌿](../../Herbarium.md)

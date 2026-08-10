@@ -1,7 +1,7 @@
 # 🥮 Sugared Charcoal
 
 ---
-A widespread treat in [Baedoor Continent](/Loreum/Topics/Geography/Baedoor_Continent.md), consisting
+A widespread treat in [Baedoor Continent](../../../Geography/Baedoor_Continent.md), consisting
 of active charcoal mixed with sugar, usually in powdered form. Enjoyed for its characteristic taste
 and anti-poisoning qualities, is often taken as precautionary measure with drinks taken after
 the meal.

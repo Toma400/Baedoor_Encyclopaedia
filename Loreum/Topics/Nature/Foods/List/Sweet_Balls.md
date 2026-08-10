@@ -1,7 +1,7 @@
 # 🥮 Sweet Balls
 
 ---
-A farinaceous balls with coconut, nut or pistachio sprinkled on top. A common sweet among [ghlodds](/Loreum/Topics/Cultures/Ghlodds/[Culture].md)
+A farinaceous balls with coconut, nut or pistachio sprinkled on top. A common sweet among [ghlodds](../../../Cultures/Ghlodds/[Culture].md)
 and some other nearby cultures. Usually made locally as rather cheap food.
 
 --- 

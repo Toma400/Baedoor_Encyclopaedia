@@ -1,5 +1,5 @@
 # 🥮 Pahtric Foods
-List of all pahtric foods.
+List of all [pahtric](../../Cultures/Tri_Pahtris/[Culture].md) foods.
 
 ---
 ### 🥞 SWEETS

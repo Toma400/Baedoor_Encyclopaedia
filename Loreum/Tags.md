@@ -40,25 +40,6 @@ If this section becomes too big, it can be split into linked sections in the fut
 * [Thanbyan](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Thanbyan.md)
 * [Tinanat](Topics/Geography/Baedoor_Continent/Kaer/Cities/Tinanat.md)
 
-<span style="color:#90AA62">
-
-### 🌿 PLANTS
-
-</span>
-
-* [Ash Veil](Topics/Nature/Herbarium/List/Ash_Veil.md)
-* [Dawn Tear](Topics/Nature/Herbarium/List/Dawn_Tear.md)
-* [Hyerbitus](Topics/Nature/Herbarium/List/Hyerbitus.md)
-* [Jaspen](Topics/Nature/Herbarium/List/Jaspen.md)
-* [Lhue](Topics/Nature/Herbarium/List/Lhue.md)
-* [Lyrensi Purpui](Topics/Nature/Herbarium/List/Lyrensi_Purpui.md)
-* [Madai](Topics/Nature/Herbarium/List/Madai.md)
-* [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
-* [Vaen](Topics/Nature/Herbarium/List/Vaen.md)
-* [Vulcanic Veil](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
-* [Windy Arista](Topics/Nature/Herbarium/List/Windy_Arista.md)
-* [Zhoa](Topics/Nature/Herbarium/List/Zhoa.md)
-
 <span style="color:#8F3DA5">
 
 ### 💫 UNIVERSE

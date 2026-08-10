@@ -1,7 +1,4 @@
-# 🌿 Vaen
-
----
-<span style="color:#90AA62">**plants**</span> [✦](/Loreum/Tags.md#-plants)  
+# 🌿 Vaen  
 
 ---
 
@@ -21,4 +18,4 @@ What is not canonical is:
 - baedoorian name
 
 Feel free to discard the non-canonical parts if new contradictive sources are found  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🌿](/Loreum/Topics/Nature/Herbarium.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](../../../Nature.md) 〰️ [🌿](../../Herbarium.md)

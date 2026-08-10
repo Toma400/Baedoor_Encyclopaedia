@@ -12,6 +12,7 @@ Every food listed, by lands and kinds.
 ---
 ### LANDS
 #### 🔹 Baedoor Continent
+#####   🔹 [Baedoorian Foods](Foods/Baedoorian.md)
 #####   🔹 [Erdic Foods](Foods/Erdic.md)
 #####   🔹 [Kehtic Foods](Foods/Kehtic.md)
 #####   🔹 [Pahtric Foods](Foods/Pahtric.md)

@@ -1,9 +1,6 @@
 # 🌿 Hyerbitus
 
 ---
-<span style="color:#90AA62">**plants**</span> [✦](/Loreum/Tags.md#-plants)  
-
----
 
 <img alt="Hyerbitus" height="338" src="/Assets/Nature/Plants/hyerbitus.png" width="207"/><br>
 <code>Sketch of Hyerbitus</code><br>
@@ -28,4 +25,4 @@ Shared for all variants is specific shape and size, as well as subtle scent.
 
 --- 
 ✥: Kaer, texatile sickness, animals  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](/Loreum/Topics/Nature.md) 〰️ [🌿](/Loreum/Topics/Nature/Herbarium.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](../../../Nature.md) 〰️ [🌿](../../Herbarium.md)

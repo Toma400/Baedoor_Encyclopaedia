@@ -235,6 +235,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Spark Festival](Topics/Geography/Seiteh/Cities/Ghenash'r.md#-holidays)
 - [Spectre Nosfer](Topics/Nature/Bestiary/List/Spectre_Nosfer.md)
 - [Spirit poem](Topics/Cultures/Ghlodds/Art.md#illusion-poems)
+- [Star of Rising Day](Topics/Nature/Herbarium/List/Tsue.md)
 - [Starshifters](Topics/Guilds/List/Starshifters.md)
 - [de Steye, Dant](Topics/Characters/List/deSteye_Dant.md)
 - [Stheyr](Topics/Races/Creature/Stheyr.md)

@@ -1,9 +1,8 @@
-# 🥮 Meals
-All foods that are used as parts of dinner, breakfasts and suppers.
+# 🥮 Baedoorian Foods
+List of all [baedoorian](../../Cultures/Baedoorians/[Culture].md) foods.
 
----
+### 🍜 MEALS
 ####  🔹 Cheese
-####  🔹 Rice
 
 ---
 ♜  

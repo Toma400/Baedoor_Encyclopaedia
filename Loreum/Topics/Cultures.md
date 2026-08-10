@@ -36,34 +36,34 @@ LEGEND:
 
 ---
 ### Baedoor Continent
-- [Baedoorians](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [⚗️](Cultures/Baedoorians/Technologies.md) [🚂](Cultures/Baedoorians/Vehicles.md) [💮](/Langue/Families/Baedoorish.md) [㊙️](/Loreum/Topics/Characters/Names/Baedoorian.md) [🎎](/Loreum/Topics/Characters/Baedoorian_Families.md)
-- [Erds](Cultures/Erds/[Culture].md) 🔹 [🏯](Cultures/Erds/Architecture.md) [🥮](/Loreum/Topics/Nature/Foods/Erdic.md) [🎭](Cultures/Erds/Art.md) [💮](/Langue/List/Erdis.md) [㊙️](/Loreum/Topics/Characters/Names/Erds.md) [🧿](Cultures/Erds/Symbolism.md)
+- [Baedoorians](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [🥮](Nature/Foods/Baedoorian.md) [⚗️](Cultures/Baedoorians/Technologies.md) [🚂](Cultures/Baedoorians/Vehicles.md) [💮](/Langue/Families/Baedoorish.md) [㊙️](Characters/Names/Baedoorian.md) [🎎](Characters/Baedoorian_Families.md)
+- [Erds](Cultures/Erds/[Culture].md) 🔹 [🏯](Cultures/Erds/Architecture.md) [🥮](Nature/Foods/Erdic.md) [🎭](Cultures/Erds/Art.md) [💮](/Langue/List/Erdis.md) [㊙️](Characters/Names/Erds.md) [🧿](Cultures/Erds/Symbolism.md)
 - [Goblins](Cultures/Goblins_Kaer/[Culture].md) (Kaer) 🔹 [🧿](Cultures/Goblins_Kaer/Symbolism.md)
 - [Goblins](Cultures/Goblins_Rossevette/[Culture].md) (Rossevette) 🔹 [🕌](Cultures/Goblins_Rossevette/Spirituality.md) [💮](/Langue/Families/Goblish.md)
 - [Kaerians](Cultures/Kaerians/[Culture].md) 🔹 [💮](/Langue/Families/Nomathian.md)
 - [Kaikhi](Cultures/Kaikhi/[Culture].md)
-- [Kehts](Cultures/Kehts/[Culture].md) 🔹 [🥮](/Loreum/Topics/Nature/Foods/Kehtic.md)
-- [Latoka](Cultures/Latoka/[Culture].md) 🔹 [🏯](Cultures/Latoka/Architecture.md) [💮](/Langue/List/Nalleput.md) [㊙️](/Loreum/Topics/Characters/Names/Latoka.md)
+- [Kehts](Cultures/Kehts/[Culture].md) 🔹 [🥮](Nature/Foods/Kehtic.md)
+- [Latoka](Cultures/Latoka/[Culture].md) 🔹 [🏯](Cultures/Latoka/Architecture.md) [💮](/Langue/List/Nalleput.md) [㊙️](Characters/Names/Latoka.md)
   - [Etts](Cultures/LatokaEtts/[Culture].md)
 - [Ormaths](Cultures/Ormaths/[Culture].md)
-- Nomathians (Baedoor) 🔹 [㊙️](/Loreum/Topics/Characters/Names/NomathianBae.md)
-- [Pahtris](Cultures/Tri_Pahtris/[Culture].md) 🔹 [🥮](/Loreum/Topics/Nature/Foods/Pahtric.md) [㊙️](/Loreum/Topics/Characters/Names/TriPahtri.md)
-- [Saphtris](Cultures/Tri_Saphtris/[Culture].md) 🔹 [⚗️](Cultures/Tri_Saphtris/Technologies.md) [㊙️](/Loreum/Topics/Characters/Names/TriSaphtri.md)
-- Voitri 🔹 [㊙️](/Loreum/Topics/Characters/Names/TriVoitri.md)
+- Nomathians (Baedoor) 🔹 [㊙️](Characters/Names/NomathianBae.md)
+- [Pahtris](Cultures/Tri_Pahtris/[Culture].md) 🔹 [🥮](Nature/Foods/Pahtric.md) [㊙️](Characters/Names/TriPahtri.md)
+- [Saphtris](Cultures/Tri_Saphtris/[Culture].md) 🔹 [⚗️](Cultures/Tri_Saphtris/Technologies.md) [㊙️](Characters/Names/TriSaphtri.md)
+- Voitri 🔹 [㊙️](Characters/Names/TriVoitri.md)
 
 ### East Moon
-- [Baedoorians](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [⚗️](Cultures/Baedoorians/Technologies.md) [🚂](Cultures/Baedoorians/Vehicles.md) [💮](/Langue/Families/Baedoorish.md) [㊙️](/Loreum/Topics/Characters/Names/Baedoorian.md)
-- Lunatri 🔹 [㊙️](/Loreum/Topics/Characters/Names/TriLunatri.md)
+- [Baedoorians](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [⚗️](Cultures/Baedoorians/Technologies.md) [🚂](Cultures/Baedoorians/Vehicles.md) [💮](/Langue/Families/Baedoorish.md) [㊙️](Characters/Names/Baedoorian.md)
+- Lunatri 🔹 [㊙️](Characters/Names/TriLunatri.md)
 - [Vaerdena Tertens](Cultures/Tertens_Vaerdena/[Culture].md)
 
 ### Jitado
-- [Jitadians](Cultures/Jitadians/[Culture].md) 🔹 [🥮](/Loreum/Topics/Nature/Foods/Jitadian.md) [💮](/Langue/Families/Jitadish.md) [㊙️](/Loreum/Topics/Characters/Names/Jitadian.md)
+- [Jitadians](Cultures/Jitadians/[Culture].md) 🔹 [🥮](Nature/Foods/Jitadian.md) [💮](/Langue/Families/Jitadish.md) [㊙️](Characters/Names/Jitadian.md)
 
 ### Seiteh
-- [Ghlodds](Cultures/Ghlodds/[Culture].md) 🔹 [🏯](Cultures/Ghlodds/Architecture.md) [🥮](/Loreum/Topics/Nature/Foods/Ghloddish.md) [🎭](Cultures/Ghlodds/Art.md) [⚗️](Cultures/Ghlodds/Technologies.md) [💮](/Langue/Families/Ghloddish.md) [㊙️](/Loreum/Topics/Characters/Names/Ghlodds.md) [🎎](/Loreum/Topics/Characters/Ghloddish_Families.md)
+- [Ghlodds](Cultures/Ghlodds/[Culture].md) 🔹 [🏯](Cultures/Ghlodds/Architecture.md) [🥮](/Loreum/Topics/Nature/Foods/Ghloddish.md) [🎭](Cultures/Ghlodds/Art.md) [⚗️](Cultures/Ghlodds/Technologies.md) [💮](/Langue/Families/Ghloddish.md) [㊙️](Characters/Names/Ghlodds.md) [🎎](Characters/Ghloddish_Families.md)
 
 ### Old Continent
-- Mesinpeans 🔹 [㊙️](/Loreum/Topics/Characters/Names/Mesinpean.md)
+- Mesinpeans 🔹 [㊙️](Characters/Names/Mesinpean.md)
 
 ---
 ♜: may be useful to also include subpages? (as in, if the culture has multiple local divisions, like

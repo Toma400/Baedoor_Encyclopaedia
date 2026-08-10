@@ -29,6 +29,7 @@ in potential GitHub branch merges.
 - Spark Festival > Święto Iskier
 - Spectre Nosfer > widmowy latawiec
 - Spirit poem > wiersz ducha `also see: illusion poem`
+- Star of Rising Day > Gwiazda Poranka
 - Starshifters > Gwiazdounosiciele
 - Windy Arista > wietrzne źdźbła
 - Vulcanic Veil > wulkaniczny całun
