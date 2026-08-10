@@ -104,6 +104,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Pathor   | Whole Baedoor       | 🏵️ Semi-rare  | Common name in Old Era                                                                                |
 | Randolph | Whole Baedoor       | 🏵️ Semi-rare  | Common name in Old Era                                                                                |
 | Reduit   | Whole Baedoor       | 🏵️ Semi-rare  | Common name of early Old Era                                                                          |
+| Reven    | Whole Baedoor       | 🔆 Semi-common |                                                                                                       |
 | Rosvin   | East Baedoor        | 🏵️ Semi-rare  | Common name on Rakonnd coast, semi-rare elsewhere, of jitadian origin                                 |
 | Rvana    | Whole Baedoor       | ⚜️ Rare        | Extremely rare name, nowadays almost unseen, with possible nomath origin                              |
 | Sam      | Whole Baedoor       | 🔥 Common      | Modern name, used since New Era                                                                       |
@@ -172,8 +173,10 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Darakon     | Whole Baedoor                 | Fairly rare surname, with likely nomathian origins                                                                                                                  |
 | Eiron       | East Baedoor                  | Aristocratic surname from Skirran                                                                                                                                   |
 | Ettua       | East Baedoor                  | Aristocratic surname                                                                                                                                                |
+| Flamecoat   | Whole Baedoor                 | Semi-rare surname                                                                                                                                                   |
 | Gorth       | Whole Baedoor                 | Common surname                                                                                                                                                      |
 | Harat, de   | West Baedoor                  | Surname of Waine's trader family                                                                                                                                    |
+| Hull        | East Baedoor                  | Rather rare surname                                                                                                                                                 |
 | Ien, vân    | East Baedoor                  | Aristocratic surname from Thanbyan of nomathian origin                                                                                                              |
 | Indan       | East Baedoor                  | Rare aristocratic surname, in NE basically non-existent, few individuals may exist abroad referring to [Indan article](/Loreum/Topics/Characters/Families/Indan.md) |
 | Inradena    | East Baedoor                  | Common surname in south-west of Baedoor's isle                                                                                                                      |

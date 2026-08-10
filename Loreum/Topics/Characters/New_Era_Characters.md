@@ -6,6 +6,9 @@
 ####  🔹 [Irlan Lavago](List/Lavago_Irlan.md)
 ####  🔹 [Two Keys](List/Two_Keys.md)
 
+### 🛕 BAEDOOR EMPIRE
+####  🔹 [Reven Flamecoat](List/Flamecoat_Reven.md)
+
 ### 🛕 EAST BAEDOOR
 ####  🔹 [Naevin Manaut](List/Manaut_Naevin.md)
 

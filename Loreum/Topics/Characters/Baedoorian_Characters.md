@@ -8,10 +8,13 @@ Characters bound to [baedoorian](../Cultures/Baedoorians/[Culture].md) heritage 
 ####  🔹 [Eduard Allaut](List/Allaut_Eduard.md)
 ####  🔹 [Elea Varteford](List/Varteford_Elea.md)
 ####  🔹 [Ernest Constantino](List/Constantino_Ernest.md)
+####  🔹 [Eyd Hull](List/Hull_Eyd.md)
+####  🔹 [Ibrahim vân Buqan](List/vânBuqan_Ibrahim.md)
 ####  🔹 [Isehir Allaut](List/Allaut_Isehir.md)
 ####  🔹 [Joeseh Thon](List/Thon_Joeseh.md)
 ####  🔹 [Lovrem Vantasi](List/Vantasi_Lovrem.md)
 ####  🔹 [Natem Calgori](List/Calgori_Natem.md)
+####  🔹 [Reven Flamecoat](List/Flamecoat_Reven.md)
 ####  🔹 [Tom Varteford](List/Varteford_Tom.md)
 ####  🔹 [Zan Eiron](List/Eiron_Zan.md)
 
@@ -21,6 +24,7 @@ Characters bound to [baedoorian](../Cultures/Baedoorians/[Culture].md) heritage 
 ####  🔹 [Heim Winfleton](List/Winfleton_Heim.md)
 ####  🔹 [Irlan Lavago](List/Lavago_Irlan.md)
 ####  🔹 [Naevin Manaut](List/Manaut_Naevin.md)
+####  🔹 [Reven Flamecoat](List/Flamecoat_Reven.md)
 ####  🔹 [Souvie Darakon](List/Darakon_Souvie.md)
 ####  🔹 [Two Keys](List/Two_Keys.md)
 

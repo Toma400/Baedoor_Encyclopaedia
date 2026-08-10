@@ -27,6 +27,10 @@ stated in their articles.
   - Great Herb Encyclopaedia of Kaer, part IV
   - Great Herb Encyclopaedia of Kaer, part V
   - Great Herb Encyclopaedia of Kaer, part VI
+- **[Eyd Hull](/Loreum/Topics/Characters/List/Hull_Eyd.md)**
+  - White Magic
+  - Black Magic
+  - On Void, A Basis of Magical Universe
 - **[Frederico Alexander](/Loreum/Topics/Characters/List/Alexander_Frederico.md)**
   - Ertenwald
   - A Great History of Tohere River `might have BaeCL representation`
@@ -38,6 +42,15 @@ stated in their articles.
   - On Rossevette
   - Qucari
   - A Venture on Wild Islands - Karos Archipelago
+- **[Ibrahim vân Buqan](/Loreum/Topics/Characters/List/vânBuqan_Ibrahim.md)**
+  - Archaeological Theology
+  - Baedoor, Part I: The Genesis
+  - Baedoor, Part II: The Middle Era
+  - Baedoor, Part III: The Pariah Dynasty
+  - Baedoor, Part IV: Warthog Conquests
+  - Baedoor, Part V: The Current
+  - Before Era, On How The Time Is Measured
+  - Prophecy of the End of the World - Historical Analysis
 - **[Lovrem Vantasi](/Loreum/Topics/Characters/List/Vantasi_Lovrem.md)**
   - The Goblin Society
 - **[Naevin Manaut](/Loreum/Topics/Characters/List/Manaut_Naevin.md)**

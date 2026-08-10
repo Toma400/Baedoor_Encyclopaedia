@@ -43,6 +43,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Baedoorish](/Langue/Families/Baedoorish.md)
 - [Black Tache](Topics/Characters/List/Black_Tache.md)
 - [The Blossoming Lavender](Topics/Guilds/List/The_Blossoming_Lavender.md)
+- [vân Buqan, Ibrahim](Topics/Characters/List/vânBuqan_Ibrahim.md)
 
 ### C
 - [Calgori](Topics/Characters/Families/Calgori.md)
@@ -86,6 +87,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Ettua](Topics/Characters/Families/Ettua.md)
 - [Ettua, Anaurin](Topics/Characters/List/Ettua_Anaurin.md)
 - [Evros](Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)
+- [Eyd Hull](Topics/Characters/List/Hull_Eyd.md)
 
 ### F
 - [Fa'iteh](Topics/Geography/Seiteh/Lands/Fa'iteh.md)
@@ -93,6 +95,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Faraurin](Topics/Nature/Foods/List/Faraurin.md)
 - [Fegar](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Fegar.md)
 - [Ferves Navikon](Topics/Characters/List/Navikon_Ferves.md)
+- [Flamecoat, Reven](Topics/Characters/List/Flamecoat_Reven.md)
 - [Flesh Race](Topics/Races/Flesh_Race.md)
 - [Flower Street](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)
 - [Followers of the Bound](Topics/Guilds/List/Followers_of_the_Bound.md)
@@ -120,10 +123,12 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Haunted Wanderer](Topics/Nature/Bestiary/List/Haunted_Wanderer.md)
 - [Heim Winfleton](Topics/Characters/List/Winfleton_Heim.md)
 - [Higher District](Topics/Geography/Seiteh/Cities/Districts/At'har_Higher_District.md) (At'har)
+- [Hull, Eyd](Topics/Characters/List/Hull_Eyd.md)
 - [Hyerbitus](Topics/Nature/Herbarium/List/Hyerbitus.md)
 
 ### I
 - [I'si](Topics/Religions/Temple_of_I'si.md) (Temple of I'si)
+- [Ibrahim vân Buqan](Topics/Characters/List/vânBuqan_Ibrahim.md)
 - [Illusion poem](Topics/Cultures/Ghlodds/Art.md#illusion-poems)
 - [Indan](Topics/Characters/Families/Indan.md)
 - [Ino Anor](Topics/Geography/Old_Continent/Jitado/Cities/Ino_Anor.md)
@@ -213,6 +218,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### R
 - [Raliun](Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
 - [Renvughe](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Renvughe.md)
+- [Reven Flamecoat](Topics/Characters/List/Flamecoat_Reven.md)
 - [Rings of reality](Topics/World_Mechanics/Oververse.md#rings-of-reality)
 - [Rossevette](Topics/Geography/Baedoor_Continent/Rossevette_Islands.md) (archipelago)
 
