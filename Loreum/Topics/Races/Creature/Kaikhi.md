@@ -17,5 +17,9 @@ clashing with Kaer's vibe, kaikhi felt as much more fitting. They also help to s
 as a place dominated by creature races in earliest times.
 
 ---
-♜  
+♜: culture part, but imo they could have singular (redguard-like) names, without surnames  
+this could maybe depend also on culture they reside in? aka surnames being a rare thing
+but not something they originally used  
+also, culture-wise, kaiki are race that is very much trying to fit in, so the more kehtic-bound
+culturally could be understood as such
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [💮](/Loreum/Topics/Races.md)

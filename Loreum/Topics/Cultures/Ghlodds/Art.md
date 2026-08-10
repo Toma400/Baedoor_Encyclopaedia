@@ -21,10 +21,10 @@ making these genres grow in popularity.
 Illusion poems, also spirit poems or poem of the spirit (_Earee_, from ghl. _ea'are'_) are a 
 characteristic ghloddish poems written ever since early Pre Era.  
 Written on the principle that "spirit does not need an excess", they are formed in a way 
-to convey as much meaning in shortest way. Hence, most of them are built on single words, and 
+to convey as much meaning in the shortest way. Hence, most of them are built on single words, and 
 do not exceed beyond five, up to seven words.
 
-There is no concrete criteria delineating whether the poem is illusin poem or not, it is generally
+There is no concrete criteria delineating whether the poem is illusion poem or not, it is generally
 used term for compact poetry written in [ghloddish language](/Langue/Families/Ghloddish.md).
 Main themes of the genre are feelings, existence, spirit and gods.
 

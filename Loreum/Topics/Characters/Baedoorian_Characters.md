@@ -4,8 +4,10 @@ Characters bound to [baedoorian](../Cultures/Baedoorians/[Culture].md) heritage 
 ---
 ### 🕋 OLD ERA
 ####  🔹 [Anaurin Ettua](List/Ettua_Anaurin.md)
+####  🔹 [Dant de Steye](List/deSteye_Dant.md)
 ####  🔹 [Eduard Allaut](List/Allaut_Eduard.md)
 ####  🔹 [Elea Varteford](List/Varteford_Elea.md)
+####  🔹 [Ernest Constantino](List/Constantino_Ernest.md)
 ####  🔹 [Isehir Allaut](List/Allaut_Isehir.md)
 ####  🔹 [Joeseh Thon](List/Thon_Joeseh.md)
 ####  🔹 [Lovrem Vantasi](List/Vantasi_Lovrem.md)
@@ -20,6 +22,7 @@ Characters bound to [baedoorian](../Cultures/Baedoorians/[Culture].md) heritage 
 ####  🔹 [Irlan Lavago](List/Lavago_Irlan.md)
 ####  🔹 [Naevin Manaut](List/Manaut_Naevin.md)
 ####  🔹 [Souvie Darakon](List/Darakon_Souvie.md)
+####  🔹 [Two Keys](List/Two_Keys.md)
 
 ---
 ♜  

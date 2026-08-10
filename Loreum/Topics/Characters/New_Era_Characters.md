@@ -4,6 +4,7 @@
 ### 🛕 ANSUR
 ####  🔹 [Ferves Navikon](List/Navikon_Ferves.md)
 ####  🔹 [Irlan Lavago](List/Lavago_Irlan.md)
+####  🔹 [Two Keys](List/Two_Keys.md)
 
 ### 🛕 EAST BAEDOOR
 ####  🔹 [Naevin Manaut](List/Manaut_Naevin.md)
@@ -15,6 +16,7 @@
 
 ### 🛕 KAER
 ####  🔹 [Keno Nira](List/Nira_Keno.md)
+####  🔹 [Terska](List/Terska.md)
 
 ### 🛕 ARENNAN
 ####  🔹 [Tehom Aranai](List/Aranai_Tehom.md)

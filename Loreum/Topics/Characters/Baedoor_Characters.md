@@ -4,8 +4,11 @@ Characters bound to country of **Baedoor**, before it has split into two.
 ---
 ### 🕋 OLD ERA
 ####  🔹 [Anaurin Ettua](List/Ettua_Anaurin.md)
+####  🔹 [Dant de Steye](List/deSteye_Dant.md)
 ####  🔹 [Eduard Allaut](List/Allaut_Eduard.md)
 ####  🔹 [Elea Varteford](List/Varteford_Elea.md)
+####  🔹 [Ernest Constantino](List/Constantino_Ernest.md)
+####  🔹 [Frederico Alexander](List/Alexander_Frederico.md)
 ####  🔹 [Isehir Allaut](List/Allaut_Isehir.md)
 ####  🔹 [Joeseh Thon](List/Thon_Joeseh.md)
 ####  🔹 [Lovrem Vantasi](List/Vantasi_Lovrem.md)

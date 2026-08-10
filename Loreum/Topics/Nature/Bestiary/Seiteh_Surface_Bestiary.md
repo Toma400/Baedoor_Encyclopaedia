@@ -7,8 +7,6 @@ Every creature existing in [Seiteh](/Loreum/Topics/Geography/Seiteh.md).
 ####   🔹 Ant
 ####   🔹 Snail
 
-### 🔹 ...
-
 ---
 ♜  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🍂](../../Nature.md) 〰️ [🐊](../Bestiary.md)

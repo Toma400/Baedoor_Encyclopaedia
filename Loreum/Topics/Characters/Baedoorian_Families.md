@@ -34,6 +34,7 @@ indicates no longer existing family.
 #### 🔷 Isuga
 ####   🔹 Allaut
 ####   🔹 [Kono](Families/Kono.md)
+####   🔹 le Velga
 ####   🔹 Neerhe
 ####   🔹 Vertilli
 ####   🔹 [Warthog](Families/Warthog.md)
@@ -60,6 +61,8 @@ indicates no longer existing family.
 ####   🔹 vân Ien
 
 ### 🕋 ANSUR
+#### 🔷 Evros
+####   🔹 le Velga `of Isuga heritage?`
 
 #### 🔷 Waine
 ####   🔹 [Lensati](Families/Lensati.md)

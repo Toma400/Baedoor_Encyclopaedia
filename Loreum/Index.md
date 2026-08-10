@@ -12,6 +12,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Aerial Pirates](Topics/Guilds/List/Aerial_Pirates.md)
 - [The Age of Decline](Topics/Cultures/Baedoorians/List/The_Age_of_Decline.md)
 - [Agha O'at'sa'](Topics/Characters/List/Agha_O'at'sa'.md)
+- [Alexander, Frederico](Topics/Characters/List/Alexander_Frederico.md)
 - [Alkaesar](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Alkaesar.md) (city)
 - [Allaut, Eduard](Topics/Characters/List/Allaut_Eduard.md)
 - [Allaut, Isehir](Topics/Characters/List/Allaut_Isehir.md)
@@ -46,12 +47,14 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### C
 - [Calgori](Topics/Characters/Families/Calgori.md)
 - [Calgori, Natem](Topics/Characters/List/Calgori_Natem.md)
+- [Constantino, Ernest](Topics/Characters/List/Constantino_Ernest.md)
 - [Cuerven Valley](Topics/Geography/Moon_Continent/East_Moon/Lands/Cuerven_Valley.md)
 
 ### D
 - [Da'ahr Hotel](Topics/Geography/Seiteh/Cities/Places/Da'ahr_Hotel.md)
 - [Dahekhris](Topics/Geography/Baedoor_Continent/Kaer/Cities/Dahekhris.md)
 - [Danat-Ett](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Danat-Ett.md)
+- [Dant de Steye](Topics/Characters/List/deSteye_Dant.md)
 - [Darakon, Souvie](Topics/Characters/List/Darakon_Souvie.md)
 - [Dawn Tear](Topics/Nature/Herbarium/List/Dawn_Tear.md)
 - [Delai Eir](Topics/Characters/List/Eir_Delai.md)
@@ -76,6 +79,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Ennaeric Ocean](Topics/Geography/[Oceans]/Ennaeric_Ocean.md)
 - [Erds](Topics/Cultures/Erds/[Culture].md) (culture)
 - [Erdis](/Langue/List/Erdis.md)
+- [Ernest Constantino](Topics/Characters/List/Constantino_Ernest.md)
 - [Esh Enahr](Topics/Characters/List/Enahr_Esh.md)
 - [Eternal Flame of Avantgarde](Topics/Cultures/Baedoorians/List/Eternal_Flame_of_Avantgarde.md)
 - [Etts](Topics/Cultures/LatokaEtts/[Culture].md)
@@ -94,6 +98,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Followers of the Bound](Topics/Guilds/List/Followers_of_the_Bound.md)
 - [Four Kings](Topics/Cultures/[Shared]/List/Four_Kings.md)
 - [Four Winds](Topics/Cultures/[Shared]/List/Four_Kings.md)
+- [Frederico Alexander](Topics/Characters/List/Alexander_Frederico.md)
 - [Funt](Topics/Cultures/Baedoorians/List/Funt.md)
 
 ### G
@@ -231,6 +236,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Spectre Nosfer](Topics/Nature/Bestiary/List/Spectre_Nosfer.md)
 - [Spirit poem](Topics/Cultures/Ghlodds/Art.md#illusion-poems)
 - [Starshifters](Topics/Guilds/List/Starshifters.md)
+- [de Steye, Dant](Topics/Characters/List/deSteye_Dant.md)
 - [Stheyr](Topics/Races/Creature/Stheyr.md)
 - [Sugared Charcoal](Topics/Nature/Foods/List/Sugared_Charcoal.md)
 - [Sur Ta'hr](Topics/Geography/Seiteh/Cities/Sur_Ta'hr.md)
@@ -244,6 +250,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Temple of I'si](Topics/Religions/Temple_of_I'si.md)
 - [Temple of the Wheel](Topics/Factions/List/Temple_of_the_Wheel.md)
 - [Terrean Savannah](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Terrean_Savannah.md)
+- [Terska](Topics/Characters/List/Terska.md)
 - [Tertens](Topics/Races/Spirit/Terten.md)
 - [Tertens](Topics/Cultures/Tertens_Vaerdena/[Culture].md) (Vaerdena)
 - [Tesni](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Tesni.md)
@@ -255,6 +262,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Trish](/Langue/Families/Trish.md)
 - [Tsisu](Topics/Races/Creature/Tsisu.md)
 - [Tsue](Topics/Nature/Herbarium/List/Tsue.md)
+- [Two Keys](Topics/Characters/List/Two_Keys.md)
 
 ### U
 - [University of Illusion](Topics/Geography/Baedoor_Continent/Kaer/Places/University_of_Illusion.md)
@@ -273,6 +281,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Varteford, Tom](Topics/Characters/List/Varteford_Tom.md)
 - [Varteford's Peace Treaty](Topics/History/List/Varteford_Peace_Treaty.md)
 - [Veno Edran](Topics/Cultures/Baedoorians/Vehicles/Veno_Edran.md)
+- [Viktor](Topics/Characters/List/deSteye_Dant.md)
 - [Vulcanic Veil](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
 
 ### W

@@ -24,14 +24,15 @@ wald.png                                 -- Feivelyn's Wild Elf : ""
 Screenshot_20260118_095455_Pinterest.png -- ""                  : ""
 
 [Architecture - Vershaton]
-colonial_house_by_togman_studio_d2l1wjh-pre.png         -- "" : https://www.deviantart.com/togman-studio/art/Colonial-House-156293117
-d270wq0.png                                             -- "" : https://www.deviantart.com/kulayan3d/art/Villa-II-132732072
-hotel_meade_by_cminer1.png                              -- "" : https://www.deviantart.com/cminer1/art/Hotel-Meade-633734847
-house__309a__a_mountain_mediterranean_by_built4ever.png -- "" : https://www.deviantart.com/built4ever/art/House-309A-A-Mountain-Mediterranean-363492461
-iu.png                                                  -- "" : ""
-long_time_neighbors_by_kayaksailor.png                  -- "" : https://www.deviantart.com/kayaksailor/art/Long-time-neighbors-156029411
-main-qimg-eaf3dee40cfd6759594fa7cb1bf2e713-lq.png       -- "" : ""
-the_governor_s_mansion_ii_by_jordangrimmer.png          -- "" : https://www.deviantart.com/jordangrimmer/art/The-Governor-s-Mansion-II-503729286
+colonial_house_by_togman_studio_d2l1wjh-pre.png         -- ""                              : https://www.deviantart.com/togman-studio/art/Colonial-House-156293117
+d270wq0.png                                             -- ""                              : https://www.deviantart.com/kulayan3d/art/Villa-II-132732072
+hotel_meade_by_cminer1.png                              -- ""                              : https://www.deviantart.com/cminer1/art/Hotel-Meade-633734847
+house__309a__a_mountain_mediterranean_by_built4ever.png -- ""                              : https://www.deviantart.com/built4ever/art/House-309A-A-Mountain-Mediterranean-363492461
+iu.png                                                  -- ""                              : ""
+iu_.png                                                 -- Bella Union Theater in Deadwood : https://westernmininghistory.com/7154/deadwood-the-ultimate-photo-collection/
+long_time_neighbors_by_kayaksailor.png                  -- ""                              : https://www.deviantart.com/kayaksailor/art/Long-time-neighbors-156029411
+main-qimg-eaf3dee40cfd6759594fa7cb1bf2e713-lq.png       -- ""                              : ""
+the_governor_s_mansion_ii_by_jordangrimmer.png          -- ""                              : https://www.deviantart.com/jordangrimmer/art/The-Governor-s-Mansion-II-503729286
 
 [Ghloddish Airships]
 23lezsyl6dc31.png -- Blade Runner                  : ""
@@ -39,6 +40,22 @@ br-vfx-dn-023.png -- Blade Runner?                 : ""
 
 [*Ghloddish Underground Club]
 GhloddishDNBClub.mp4 -- "Wesoła Immersive show, feels like Blade Runnerish club that could work for ghlodds" : SELF
+
+[Landscapes - Baedoor]
+Amrum_2818775323529.png  -- ""                                  : ""
+image1.png               -- ""                                  : ""
+image2.png               -- ""                                  : ""
+image3.png               -- may be my photo??? unsure tho       : ""
+image4.png               -- ""                                  : ""
+image5.png               -- ""                                  : ""
+image6.png               -- ""                                  : ""
+image8.png               -- ""                                  : ""
+image9.png               -- ""                                  : ""
+image10.png              -- ""                                  : ""
+image11.png              -- ""                                  : ""
+image13.png              -- ""                                  : ""
+image14.png              -- ""                                  : ""
+Simple_Landscape.jpg     -- Philipp Urlich's "Simple Landscape" : ""
 
 [Races - Ghlodd]
 IMG_20231219_113348.jpg            -- ""                : SELF

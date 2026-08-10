@@ -5,9 +5,39 @@ The list also contains authors that are mentioned to be writers or poets, but do
 stated in their articles.
 
 ### Specific positions
+- **[Dant de Steye](/Loreum/Topics/Characters/List/deSteye_Dant.md)**
+  - Alchemist Tract
+  - Flora of Baedoor, part I
+  - Flora of Baedoor, part II
+  - Flora of Baedoor, part III
+  - Herbs of Mes Inpea
+  - Herbs of Moon Islands
+  - Herbs of Lands Unknown `?`
+  - On Herbs, Compendium of Herbalist Basics
+  - Overview of Poisonous Herbs, part I
+  - Overview of Poisonous Herbs, part II
+  - Preparing Base of Mixtures
 - **[Eduard Allaut](/Loreum/Topics/Characters/List/Allaut_Eduard.md)**
   - Peace, War and State Matter
   - Path to the Glory: Almanac of Tactics
+- **[Ernest Constantino](/Loreum/Topics/Characters/List/Constantino_Ernest.md)**
+  - Great Herb Encyclopaedia of Kaer, part I `might have BaeCL representation`
+  - Great Herb Encyclopaedia of Kaer, part II `might have BaeCL representation`
+  - Great Herb Encyclopaedia of Kaer, part III
+  - Great Herb Encyclopaedia of Kaer, part IV
+  - Great Herb Encyclopaedia of Kaer, part V
+  - Great Herb Encyclopaedia of Kaer, part VI
+- **[Frederico Alexander](/Loreum/Topics/Characters/List/Alexander_Frederico.md)**
+  - Ertenwald
+  - A Great History of Tohere River `might have BaeCL representation`
+  - History of Baedoor
+  - Kaer
+  - Moon Countries
+  - Moon Islands
+  - Nordia, or Northern Isles
+  - On Rossevette
+  - Qucari
+  - A Venture on Wild Islands - Karos Archipelago
 - **[Lovrem Vantasi](/Loreum/Topics/Characters/List/Vantasi_Lovrem.md)**
   - The Goblin Society
 - **[Naevin Manaut](/Loreum/Topics/Characters/List/Manaut_Naevin.md)**

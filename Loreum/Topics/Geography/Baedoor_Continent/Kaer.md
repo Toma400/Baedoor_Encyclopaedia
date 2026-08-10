@@ -224,4 +224,5 @@ being part of it. This also let it be treated more lightly during Baedoor occupa
 
 ---
 ♜♢✥, incl. link to Martingo + filling up all points from map and sources  
+'walds' could also have alternative 'vald' reading?  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md)

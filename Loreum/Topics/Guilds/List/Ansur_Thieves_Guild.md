@@ -16,7 +16,7 @@ their presence in the city is sporadic. It has small presence over [Nyme](/Loreu
 given its loose restrictions over the trade, however ATG does not use this potential to not step
 too much on government's toes.
 
-Current ATG's chef is [Ferves Navikon](/Loreum/Topics/Characters/List/Navikon_Ferves.md), old lady
+Current ATG's chef is [Ferves Navikon](../../Characters/List/Navikon_Ferves.md), old lady
 known for her still remarkable shooting skills.
 
 ### History
@@ -39,6 +39,10 @@ rather interference over politics than direct lawbreaking.
 Things changed however with **Norran Gorth** supporting Ansur's independency. ATG saw the 
 opportunity in overturning falling Empire's law and so supported Norran candidature, introducing
 what will later become a tight interrelationship between the guild and Ansur's government.
+
+### Members
+- [Ferves Navikon](../../Characters/List/Navikon_Ferves.md) (chef)
+- [Two Keys](../../Characters/List/Two_Keys.md)
 
 ---
 ♜♢  
