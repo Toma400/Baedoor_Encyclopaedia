@@ -30,7 +30,7 @@ Besides, you can also visit loose pages used as helpers for the above sections (
 migrated there over time):
 - [🧱 Contribution Cheatsheet](ContributionCheatsheet.md)
 - [🧱 Artifacts](Artifacts.adoc)
-- [🧱 Cameos](Cameos.md)
+- [🧱 References](References.md)
 - [🧱 Canon Translations](CanonTranslations.md)
 - [🧱 Formatting Guide](FormattingGuide.md)
 - [🧱 Ideas Shelved](IdeasShelved.md)

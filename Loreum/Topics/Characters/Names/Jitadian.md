@@ -106,6 +106,7 @@ have `a` (becoming harsher)
 | Avani     | South-East Jitado            | Trader house surname                                |
 | Hai       | South-East Jitado            | Trader family surname                               |
 | Itahmutsi | Whole Jitado                 | Very rare surname, from Adelaie                     |
+| Maervelli | Whole Jitado                 | Semi-common surname                                 | 
 | Sorevo    | Whole Jitado, Ansur, Baedoor | Popular surname, quite popular in Baedoor diasporas | 
 | Tio       | Whole Jitado                 | Old jitadian surname                                |
 | Vantasi   | Whole Jitado, Baedoor        | Semi-rare surname                                   |

@@ -15,6 +15,7 @@
 ####   🔹 [Baedoor Railroad Enterprise](List/Baedoor_Railroad_Enterprise.md)
 ####   🔹 [Desert Divisions](List/Desert_Divisions.md)
 ####   🔹 [Guild of Adventurers](List/Alkaesar_Adventurers_Guild.md)
+####   🔹 [The Unseen Mysteries](List/The_Unseen_Mysteries.md)
 
 ### 🏯 EVÝVIND
 ####   🔹 [Order of the Sword](List/Order_of_the_Sword.md)

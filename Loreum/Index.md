@@ -49,6 +49,8 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Calgori](Topics/Characters/Families/Calgori.md)
 - [Calgori, Natem](Topics/Characters/List/Calgori_Natem.md)
 - [Constantino, Ernest](Topics/Characters/List/Constantino_Ernest.md)
+- [Cornelius Hebarto](Topics/Characters/List/Hebarto_Cornelius.md)
+- [Cornelius' code](Topics/Characters/List/Hebarto_Cornelius.md#cornelius-code)
 - [Cuerven Valley](Topics/Geography/Moon_Continent/East_Moon/Lands/Cuerven_Valley.md)
 
 ### D
@@ -121,6 +123,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### H
 - [Haunted Wanderer](Topics/Nature/Bestiary/List/Haunted_Wanderer.md)
+- [Hebarto, Cornelius](Topics/Characters/List/Hebarto_Cornelius.md)
 - [Heim Winfleton](Topics/Characters/List/Winfleton_Heim.md)
 - [Higher District](Topics/Geography/Seiteh/Cities/Districts/At'har_Higher_District.md) (At'har)
 - [Hull, Eyd](Topics/Characters/List/Hull_Eyd.md)
@@ -174,6 +177,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### M
 - [Madai](Topics/Nature/Herbarium/List/Madai.md)
+- [Maervellius, Seth](Topics/Characters/List/Maervellius_Seth.md)
 - [Maita](Topics/Races/Creature/Maita.md)
 - [Manaut, Naevin](Topics/Characters/List/Manaut_Naevin.md)
 - [Menerun](Topics/Geography/Old_Continent/Jitado/Cities/Menerun.md)
@@ -189,6 +193,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Natem Calgori](Topics/Characters/List/Calgori_Natem.md)
 - [Naven](Topics/Nature/Bestiary/List/Naven.md)
 - [Navikon, Ferves](Topics/Characters/List/Navikon_Ferves.md)
+- [Necromantic code](Topics/Characters/List/Hebarto_Cornelius.md#cornelius-code)
 - [Nerau](Topics/Nature/Bestiary/List/Nerau.md)
 - [Neuvea Romanai](Topics/Cultures/Baedoorians/List/Neuvea_Romanai.md)
 - [New Culture of Baedoor](Topics/Cultures/Baedoorians/List/New_Culture_of_Baedoor.md)
@@ -233,6 +238,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Separatists](Topics/Factions/List/Separatists.md)
 - [Septei](Topics/Geography/Azure_Archipelago/Septei.md)
 - [Serj](Topics/Cultures/Kaerians/[Culture].md)
+- [Seth Maervellius](Topics/Characters/List/Maervellius_Seth.md)
 - [Shimo Valley](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Regions/Shimo_Valley.md)
 - [Si Avani](Topics/Characters/List/Avani_Si.md)
 - [Skirran](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)
@@ -273,6 +279,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### U
 - [University of Illusion](Topics/Geography/Baedoor_Continent/Kaer/Places/University_of_Illusion.md)
+- [The Unseen Mysteries](Topics/Guilds/List/The_Unseen_Mysteries.md)
 - [Unteupta](Topics/Cultures/Baedoorians/Vehicles/Unteupta.md)
 - [Unteupta Assassination](Topics/History/List/Unteupta_Assassination.md)
 - [Uruati](Topics/Races/Creature/Uruati.md)

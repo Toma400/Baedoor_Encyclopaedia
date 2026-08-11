@@ -2,6 +2,7 @@
 
 ---
 ### 🛕 BAEDOOR
+####  🔹 [Cornelius Hebarto](List/Hebarto_Cornelius.md)
 ####  🔹 [Dant de Steye](List/deSteye_Dant.md)
 ####  🔹 [Eduard Allaut](List/Allaut_Eduard.md)
 ####  🔹 [Elea Varteford](List/Varteford_Elea.md)
@@ -13,6 +14,7 @@
 ####  🔹 [Joeseh Thon](List/Thon_Joeseh.md)
 ####  🔹 [Lovrem Vantasi](List/Vantasi_Lovrem.md)
 ####  🔹 [Reven Flamecoat](List/Flamecoat_Reven.md)
+####  🔹 [Seth Maervellius](List/Maervellius_Seth.md)
 ####  🔹 [Tom Varteford](List/Varteford_Tom.md)
 ####  🔹 [Zan Eiron](List/Eiron_Zan.md)
 

@@ -55,6 +55,10 @@ stated in their articles.
   - The Goblin Society
 - **[Naevin Manaut](/Loreum/Topics/Characters/List/Manaut_Naevin.md)**
   - Brief Overview of Erdic Culture
+- **[Seth Maervellius](/Loreum/Topics/Characters/List/Maervellius_Seth.md)**
+  - Chronicles of Baedoor, part I
+  - Chronicles of Baedoor, part II
+  - Thesis on the World
 
 ### General authors
 - [Agha O'at'sa'](/Loreum/Topics/Characters/List/Agha_O'at'sa'.md)

@@ -10,6 +10,7 @@
 | Name    | Localisation       | Rarity         | Description                 |
 |---------|--------------------|----------------|-----------------------------|
 | Agha    | Seiteh and outside | 🔆 Semi-common |                             |
+| Seth    | Seiteh and outside | 🔥 Common      |                             |
 | T'sheit | Outside Seiteh     | ⚜️ Rare        | Hearable foreign influences |
 | Yathr   | Seiteh and outside | 🏵️ Semi-rare  |                             |
 | Yadr    | Seiteh and outside | 🔥 Common      | Modern variant of Yathr     |
