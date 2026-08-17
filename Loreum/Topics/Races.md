@@ -55,8 +55,12 @@ Skull ☠️ emoji indicates extinct race.
 ####   🔹 [Apta](Races/Regular/Apta.md) `partially regular`
 
 ### Spiritual races
+[should prob have quick description and sub-article for `spirits`]
 ####   🔹 [Tertens](Races/Spirit/Terten.md)
 ####   🔹 [Aev]
+
+### [???] races
+####   🔹 Dragons
 
 ---
 ♜✥: links, more races still pending (East Moon, West Moon probably to diversify from too human-centric

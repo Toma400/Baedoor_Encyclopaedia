@@ -3,7 +3,7 @@
 ---
 An informal organisation founded in [Baedoor](../../Geography/Baedoor_Continent/Baedoor.md)
 around third century of Old Era. The exact identity of the founder is not certain, as different
-theories pointing to [Cornelius Hebarto](../../Characters/List/Hebarto_Cornelius.md) or one of his
+theories point to [Cornelius Hebarto](../../Characters/List/Hebarto_Cornelius.md) or one of his
 students.  
 Similarly, it is impossible to figure out leaders of the organisation, as some believe Cornelius
 Hebarto remained Unseen Mysteries' eternal guide, extending his life endlessly (some believe
@@ -14,8 +14,8 @@ leader is **Raelfinn de Segel**.
 
 The organisation was meant to remain a secret due to its practices being heavily penalised by
 law, and so they operated under invitation-only membership. The Unseen Mysteries was focused on 
-exploring magic, particularly **necromancy** and the essence of Void, and had several ranks in
-its hierarchical structure.  
+exploring magic, particularly [necromancy](../../World_Mechanics/Magic/Necromancy.md) and the
+essence of Void, and had several ranks in its hierarchical structure.  
 Some more skilled mages living during existence of the organisation were accused to be part of
 it, although only one such investigation proved it to be true, with suspect committing suicide
 by burning his house during the search.

@@ -18,9 +18,9 @@ Lists all guilds and organisations existing in Baedoor universe.
 ####   🔷 Guilds of Southern Grand Frost
 ####   🔷 Guilds of other lands
 
-### 🧱 BY CATEGORY
+### 🍀 BY THEME
 ####   🔷 Major
-####     🔹 Mages Guilds
+####     🔹 [Mages Guilds](Guilds/Theme_Mages.md)
 ####     🔹 Thieves Guilds
 ####   🔷 Worker
 ####     🔹 Bakers Guilds

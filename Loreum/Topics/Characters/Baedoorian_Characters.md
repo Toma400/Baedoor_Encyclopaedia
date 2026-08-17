@@ -4,6 +4,7 @@ Characters bound to [baedoorian](../Cultures/Baedoorians/[Culture].md) heritage 
 ---
 ### 🕋 OLD ERA
 ####  🔹 [Anaurin Ettua](List/Ettua_Anaurin.md)
+####  🔹 [Cornelius Hebarto](List/Hebarto_Cornelius.md)
 ####  🔹 [Dant de Steye](List/deSteye_Dant.md)
 ####  🔹 [Eduard Allaut](List/Allaut_Eduard.md)
 ####  🔹 [Elea Varteford](List/Varteford_Elea.md)
@@ -15,6 +16,7 @@ Characters bound to [baedoorian](../Cultures/Baedoorians/[Culture].md) heritage 
 ####  🔹 [Lovrem Vantasi](List/Vantasi_Lovrem.md)
 ####  🔹 [Natem Calgori](List/Calgori_Natem.md)
 ####  🔹 [Reven Flamecoat](List/Flamecoat_Reven.md)
+####  🔹 [Seth Maervellius](List/Maervellius_Seth.md)
 ####  🔹 [Tom Varteford](List/Varteford_Tom.md)
 ####  🔹 [Zan Eiron](List/Eiron_Zan.md)
 

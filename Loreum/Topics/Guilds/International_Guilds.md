@@ -7,4 +7,4 @@ land or continent, becoming power known to bigger group of people.
 
 ---
 ✥♜: lots of guilds missing  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Guilds.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](../Guilds.md)

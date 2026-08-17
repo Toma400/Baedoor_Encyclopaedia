@@ -6,4 +6,4 @@
 
 ---
 ✥♜: lots of guilds missing  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Guilds.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](../Guilds.md)

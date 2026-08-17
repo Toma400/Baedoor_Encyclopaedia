@@ -1,9 +1,10 @@
 # 🎎 Cornelius Hebarto
 
 ---
-A legendary persona for **necromancy magic**, however there are not much precise information left
-on his life. Most of what is known about Hebarto are legends and stories that might be exaggerations
-of his actual life, but there's no way to properly establish that.
+A legendary persona for [necromancy magic](../../World_Mechanics/Magic/Necromancy.md), however 
+there are not much precise information left on his life. Most of what is known about Hebarto 
+are legends and stories that might be exaggerations of his actual life, but there's no way to 
+properly establish that.
 
 According to the only historical resource being [Maervellius'](Maervellius_Seth.md) Chronicles, 
 Cornelius birth falls somewhen in between 32 and 70 OE. It is contradicting to the popular notion
@@ -16,9 +17,9 @@ the guild was founded by one of his students.
 Cornelius made a magic code, sometimes also referred as "necromantic code" due to it being used
 primarily for those matters, being used by a lot of mages related to The Unseen Mysteries and
 beyond.  
-The script uses thirty-five letters and ten numbers, some of which diverge from baedoorian script.
-They are used for writing sigils of summoned entities, but also as a code to conceal information
-to the uninitiated.
+The script uses thirty-five letters and ten numbers, some of which diverge from baedoorian script
+slightly, but not enough to not look like normal writing for most. The script is used for writing
+sigils of summoned entities, but also as a code to conceal information to the uninitiated.
 
 ---
 ♜✥  
