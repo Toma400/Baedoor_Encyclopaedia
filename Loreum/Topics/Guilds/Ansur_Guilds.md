@@ -12,7 +12,7 @@
 ####   🔹 Archeologists Society of Waine
 ####   🔹 Baker's Guild
 ####   🔹 Ansur Navy
-####   🔹 [The Blossoming Lavender](List/The_Blossoming_Lavender.md) `guild of the homeless`
+####   🔹 [The Blossoming Lavender](List/The_Blossoming_Lavender.md)
 
 ---
 ✥♜: Waine, rest of guilds  

@@ -178,6 +178,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### M
 - [Madai](Topics/Nature/Herbarium/List/Madai.md)
 - [Maervellius, Seth](Topics/Characters/List/Maervellius_Seth.md)
+- [Magic](Topics/World_Mechanics/Magic.md)
 - [Maita](Topics/Races/Creature/Maita.md)
 - [Manaut, Naevin](Topics/Characters/List/Manaut_Naevin.md)
 - [Menerun](Topics/Geography/Old_Continent/Jitado/Cities/Menerun.md)
@@ -299,6 +300,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Varteford, Tom](Topics/Characters/List/Varteford_Tom.md)
 - [Varteford's Peace Treaty](Topics/History/List/Varteford_Peace_Treaty.md)
 - [Veno Edran](Topics/Cultures/Baedoorians/Vehicles/Veno_Edran.md)
+- [Vessel](Topics/World_Mechanics/Magic/Vessel.md)
 - [Viktor](Topics/Characters/List/deSteye_Dant.md)
 - [Vulcanic Veil](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)
 

@@ -34,12 +34,16 @@ long_time_neighbors_by_kayaksailor.png                  -- ""                   
 main-qimg-eaf3dee40cfd6759594fa7cb1bf2e713-lq.png       -- ""                              : ""
 the_governor_s_mansion_ii_by_jordangrimmer.png          -- ""                              : https://www.deviantart.com/jordangrimmer/art/The-Governor-s-Mansion-II-503729286
 
+[*Food - Ghlodds]
+turkish-traditional-desert-sweets-at-the-market-2CCRPGD.png -- coconut/pistachio/nut balls : ""
+
 [Ghloddish Airships]
 23lezsyl6dc31.png -- Blade Runner                  : ""
 br-vfx-dn-023.png -- Blade Runner?                 : ""
 
 [*Ghloddish Underground Club]
-GhloddishDNBClub.mp4 -- "Wesoła Immersive show, feels like Blade Runnerish club that could work for ghlodds" : SELF
+GhloddishDNBClub.mp4                  -- Wesoła Immersive show, feels like Blade Runnerish club that could work for ghlodds : SELF
+Screenshot_Mohrta_20260821_160146.png -- location in Mohrta (may not be for techno club, but underground one definitely)    : ""
 
 [Landscapes - Baedoor]
 Amrum_2818775323529.png  -- ""                                  : ""

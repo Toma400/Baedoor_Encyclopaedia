@@ -69,6 +69,60 @@ name of some ghloddish poet:
 | ![](/Assets/illusion_poem1.jpg) | ![](/Assets/illusion_poem2.png) | ![](/Assets/illusion_poem3.png) |
 |:-------------------------------:|:-------------------------------:|:-------------------------------:|
 
+### Gender
+From Discord:
+> I love how you always find questions that will make me go "hmmmm... I haven't thought of that!"
+> Though in this case there are some thoughts that I have answer for! Just not all of them and 
+> you got me food for thought
+
+> It is indeed very dependent on area and culture.
+> I could split them into four categories, I think? Making the categories on the fly, so treat 
+> them as my own way to collect thoughts.
+
+> First could be called traditional, let's say. For example, I imagined baedoorians as being 
+> fairly "early modern europeans", as in, they do have their prejudices and -isms, but being 
+> on the path of enlightenment, their mentality is slowly moving to equality. Depending on 
+> faction/political belief this can go either more conservative or progressive
+I haven't thought about the separation for baths nor sports though!  
+And yeah, non-binary exists for baedoorians, though I haven't also brainstormed their attitude 
+> to queerness. I was thinking about making queer club in ⁠🏯ioa⋅⋅discussion though. 
+> That by itself though doesn't say much, such clubs could appear both from oppression and 
+> acceptance really
+
+> Then there are binarists, which for now include only ghlodds. They look at binaries as sacred, 
+> which theoretically puts them into the same slot as our "tradculture" IRL, but here is the 
+> twist - they do perceive gender as more declarative aspect. Meaning that to achieve the unity
+> one need to be of opposite gender, but then you can simply proclaim yourself to be one. 
+> It's a way homosexual ghlodds cheat their relationships into social acceptance  
+Besides, non-binary exists in that quotation as both-binary rather - and such ghlodds are 
+> considered as somewhat blessed, having achieved the unity within themselves  
+> I'd imagine ghlodds would bathe and play sports together, as I see them putting more emphasis
+> on platonic relationships, and having less emphasized sex aspects it also plays well into 
+> that role  
+> Third category would be non-gendered. Probably several creature races could fall here, but 
+> for now goblins would be certain. It simply means that they don't recognise gender as an idea 
+> at all. They may have two sexes, but their understanding is that each goblin is an unique 
+> entity with their traits, including body features - though there is lesser distinction between
+> limbs, character and skills (aka body, mind and psyche), so these also merge more seamlessly
+> with each other when defining the other one  
+> Goblins would absolutely play sports together, as they are extremely social and being part of
+> the tribe is one of their fundamental characteristics
+
+> Fourth would be queer-adjecent, which would be all the races that are heavily influenced 
+> by some sort of freedom/openness to concept of gender. I'd count all of The Joyous there, 
+> probably kehts as ascendants of goblins as well. Basically each culture would probably have
+> its own unique take on queer and gender, but would rather lean into non-traditional set of
+> concepts, like considering all sexualities as equal or thought experiments on gender ideas
+> as natural way of thinking. For example, pahtris are somewhat polyamorous and open for 
+> interracial affairs, so I'd have hard time seeing their attitude mesh with closed mind on
+> adjecent sphere.  
+> Saphtris would probably be less queery, but being very social, I can imagine they'd consider 
+> both sexes as equal. When imagining depiction of saphtri mass, I was seeing both men and 
+> women in the room talking with each other, being just a connected community.
+
+> And most cultures I haven't put in my mind to any of those categories/new ones, so will 
+> need to think about that more.
+
 ### Images to be used
 For [Ghloddish Architecture](Loreum/Topics/Cultures/Ghlodds/Architecture.md) expansion:
 
