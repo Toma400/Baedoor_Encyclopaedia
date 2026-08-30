@@ -169,13 +169,15 @@ treating second noun as being adjective-like. Therefore "Ans Sur" is "Land of Ho
 This does differ from jitadish using reverse system, but did set in stone in baedoorish culture
 as simpler method. In Old Baedoorish, jitadish system was sometimes used, but didn't last long.
 
-### Proverbs
-> Are all towers worth defending?
-
+### Proverbs & Idioms
+#### Are all towers worth defending?
 The proverb is meant to question the value of things we invest ourselves in, the stakes we put in our efforts, especially in case of being in the losing position
 While the semi-obvious answer for the question is "no, not all", the question is rather asked to reexamine particular case, what makes us fight in the particular fight, and on its holistic sense
 
 **Trivia**: somewhat obviously, it's my own personal proverb I'm using, born somewhat after n-th round of me fighting to keep my ex in my life; but it stayed with me basically to this day because this kind of situations reemerge
+
+#### Grey literature
+Idiom used for [cheap magazines](../../Loreum/Topics/Cultures/[Shared]/List/Colourful_Literature.md#grey-literature).
 
 ---
 ♢: loreum

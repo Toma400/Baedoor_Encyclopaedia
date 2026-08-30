@@ -28,4 +28,4 @@ with [Xavier family](Xavier.md).
 ####  🔹 [Tom Varteford](/Loreum/Topics/Characters/List/Varteford_Tom.md)
 
 ---
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../../Characters.md) 〰️ [🎎](../Baedoorian_Families.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../../Characters.md) 〰️ [🎎](../Families_Baedoorian.md)

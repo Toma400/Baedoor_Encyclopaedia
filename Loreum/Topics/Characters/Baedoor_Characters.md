@@ -18,8 +18,10 @@ Characters bound to country of **Baedoor**, before it has split into two.
 ####  🔹 [Isehir Allaut](List/Allaut_Isehir.md)
 ####  🔹 [Joeseh Thon](List/Thon_Joeseh.md)
 ####  🔹 [Lovrem Vantasi](List/Vantasi_Lovrem.md)
+####  🔹 [Loyd Vertilli](List/Vertilli_Loyd.md)
 ####  🔹 [Natem Calgori](List/Calgori_Natem.md)
 ####  🔹 [Reven Flamecoat](List/Flamecoat_Reven.md)
+####  🔹 [Salomon Criss](List/Criss_Salomon.md)
 ####  🔹 [Tom Varteford](List/Varteford_Tom.md)
 ####  🔹 [Zan Eiron](List/Eiron_Zan.md)
 

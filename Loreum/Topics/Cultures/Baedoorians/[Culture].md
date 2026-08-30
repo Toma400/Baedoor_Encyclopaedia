@@ -40,11 +40,13 @@ in ways more friendly to its community.
 - [🚂 Vehicles](Vehicles.md)
 - [💮 Language](/Langue/Families/Baedoorish.md)
 - [㊙️ Names](/Loreum/Topics/Characters/Names/Baedoorian.md)
-- [🎎 Families](/Loreum/Topics/Characters/Baedoorian_Families.md)
+- [🎎 Families](/Loreum/Topics/Characters/Families_Baedoorian.md)
 
 ### Cultural Elements
 - Philosophical movements
-  - [Neuvea Romanai](List/Neuvea_Romanai.md) 
+  - [Neuvea Romanai](List/Neuvea_Romanai.md)
+- Leisure
+  - [Colourful Literature Series](List/Colourful_Literature.md)
 - Items
   - Money
     - [Dem](List/Dem.md)

@@ -53,8 +53,24 @@ stated in their articles.
   - Prophecy of the End of the World - Historical Analysis
 - **[Lovrem Vantasi](/Loreum/Topics/Characters/List/Vantasi_Lovrem.md)**
   - The Goblin Society
+- **[Loyd Vertilli](/Loreum/Topics/Characters/List/Vertilli_Loyd.md)**
+  - Green Literature, Biological Basis of Psychology
+  - Green Literature, How to Resolve Conflicts
+  - Green Literature, Metaphysics
+  - Green Literature, An Overview of Psychology
+  - Matters of Mind `wordplay on -matter-, mind analysed biologically`
+  - The Theory of Relativity
 - **[Naevin Manaut](/Loreum/Topics/Characters/List/Manaut_Naevin.md)**
   - Brief Overview of Erdic Culture
+- **[Salomon Criss](/Loreum/Topics/Characters/List/Criss_Salomon.md)**
+  - The Alchemist: Synthesis of Essences `more of a philosophical thesis on convergence of ideas`
+  - Philosophy of Life
+  - Physical Perspective On World `materialism analysed as a tool`
+  - Star Constellations `focused on societal/mythic representation of cosmos`
+  - A Philosophic Manifesto
+  - On Love
+  - The Right of Life
+  - Tract on the Freedom of the Being
 - **[Seth Maervellius](/Loreum/Topics/Characters/List/Maervellius_Seth.md)**
   - Chronicles of Baedoor, part I
   - Chronicles of Baedoor, part II

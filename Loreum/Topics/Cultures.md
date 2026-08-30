@@ -36,7 +36,7 @@ LEGEND:
 
 ---
 ### Baedoor Continent
-- [Baedoorians](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [🥮](Nature/Foods/Baedoorian.md) [⚗️](Cultures/Baedoorians/Technologies.md) [🚂](Cultures/Baedoorians/Vehicles.md) [💮](/Langue/Families/Baedoorish.md) [㊙️](Characters/Names/Baedoorian.md) [🎎](Characters/Baedoorian_Families.md)
+- [Baedoorians](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [🥮](Nature/Foods/Baedoorian.md) [⚗️](Cultures/Baedoorians/Technologies.md) [🚂](Cultures/Baedoorians/Vehicles.md) [💮](/Langue/Families/Baedoorish.md) [㊙️](Characters/Names/Baedoorian.md) [🎎](Characters/Families_Baedoorian.md)
 - [Erds](Cultures/Erds/[Culture].md) 🔹 [🏯](Cultures/Erds/Architecture.md) [🥮](Nature/Foods/Erdic.md) [🎭](Cultures/Erds/Art.md) [💮](/Langue/List/Erdis.md) [㊙️](Characters/Names/Erds.md) [🧿](Cultures/Erds/Symbolism.md)
 - [Goblins](Cultures/Goblins_Kaer/[Culture].md) (Kaer) 🔹 [🧿](Cultures/Goblins_Kaer/Symbolism.md)
 - [Goblins](Cultures/Goblins_Rossevette/[Culture].md) (Rossevette) 🔹 [🕌](Cultures/Goblins_Rossevette/Spirituality.md) [💮](/Langue/Families/Goblish.md)
@@ -60,7 +60,7 @@ LEGEND:
 - [Jitadians](Cultures/Jitadians/[Culture].md) 🔹 [🥮](Nature/Foods/Jitadian.md) [💮](/Langue/Families/Jitadish.md) [㊙️](Characters/Names/Jitadian.md)
 
 ### Seiteh
-- [Ghlodds](Cultures/Ghlodds/[Culture].md) 🔹 [🏯](Cultures/Ghlodds/Architecture.md) [🥮](/Loreum/Topics/Nature/Foods/Ghloddish.md) [🎭](Cultures/Ghlodds/Art.md) [⚗️](Cultures/Ghlodds/Technologies.md) [💮](/Langue/Families/Ghloddish.md) [㊙️](Characters/Names/Ghlodds.md) [🎎](Characters/Ghloddish_Families.md)
+- [Ghlodds](Cultures/Ghlodds/[Culture].md) 🔹 [🏯](Cultures/Ghlodds/Architecture.md) [🥮](/Loreum/Topics/Nature/Foods/Ghloddish.md) [🎭](Cultures/Ghlodds/Art.md) [⚗️](Cultures/Ghlodds/Technologies.md) [💮](/Langue/Families/Ghloddish.md) [㊙️](Characters/Names/Ghlodds.md) [🎎](Characters/Families_Ghloddish.md)
 
 ### Old Continent
 - Mesinpeans 🔹 [㊙️](Characters/Names/Mesinpean.md)

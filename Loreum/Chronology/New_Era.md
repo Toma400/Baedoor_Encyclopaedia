@@ -15,7 +15,7 @@ there happened to not be many bigger wars in this era yet.
 ---
 #### [New Era History](/Loreum/Topics/History/New_Era.md)
 #### New Era Factions
-#### [New Era Characters](/Loreum/Topics/Characters/New_Era_Characters.md)
+#### [New Era Characters](/Loreum/Topics/Characters/Era_NE_Characters.md)
 
 ---
 ✥♢  

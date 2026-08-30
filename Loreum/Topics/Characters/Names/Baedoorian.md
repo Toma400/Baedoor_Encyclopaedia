@@ -82,6 +82,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Lannot    | Whole Baedoor       | 🏵️ Semi-rare  |                                                                                                       |
 | Levan     | East Baedoor        | 🏵️ Semi-rare  | Popular in OE, less so in NE, of jitadian origin                                                      |
 | Lovrem    | East Baedoor        | 🔆 Semi-common |                                                                                                       |
+| Loyd      | Whole Baedoor       | 🔆 Semi-common |                                                                                                       |
 | Malcolm   | Whole Baedoor       | 🏵️ Semi-rare  |                                                                                                       |
 | Marvin    | Whole Baedoor       | 🔥 Common      |                                                                                                       |
 | Mes       | East Baedoor        | ⚜️ Rare        |                                                                                                       |
@@ -109,6 +110,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Reven     | Whole Baedoor       | 🔆 Semi-common |                                                                                                       |
 | Rosvin    | East Baedoor        | 🏵️ Semi-rare  | Common name on Rakonnd coast, semi-rare elsewhere, of jitadian origin                                 |
 | Rvana     | Whole Baedoor       | ⚜️ Rare        | Extremely rare name, nowadays almost unseen, with possible nomath origin                              |
+| Salomon   | Whole Baedoor       | 🔆 Semi-common |                                                                                                       |
 | Sam       | Whole Baedoor       | 🔥 Common      | Modern name, used since New Era                                                                       |
 | Slavod    | East Baedoor        | ⚜️ Rare        | Of nomathian origin                                                                                   |
 | Takil     | East Baedoor        | 🏵️ Semi-rare  |                                                                                                       |
@@ -172,6 +174,7 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Buqan, vân  | East Baedoor                  | Aristocratic name from Alkaesar of nomathian origin                                                                                                                 |
 | Calgori     | East Baedoor                  | Aristocratic surname                                                                                                                                                |
 | Constantino | Whole Baedoor                 | Somewhat rare surname                                                                                                                                               |
+| Criss       | Whole Baedoor                 | Semi-common surname                                                                                                                                                 |
 | Darakon     | Whole Baedoor                 | Fairly rare surname, with likely nomathian origins                                                                                                                  |
 | Eiron       | East Baedoor                  | Aristocratic surname from Skirran                                                                                                                                   |
 | Ettua       | East Baedoor                  | Aristocratic surname                                                                                                                                                |
@@ -208,8 +211,10 @@ with consonants forming groups of two. With time the usage of *y* letter got rar
 | Thargav     | East Baedoor                  | Aristocratic surname of nomathian origin                                                                                                                            |
 | Thon        | East Baedoor                  | Aristocratic surname from Ontero                                                                                                                                    |
 | Tio         | Mostly Isuga and surroundings | Old Isuga-related family, but also jitadian surname                                                                                                                 |
+| Vack        | Ontero-Delleret strip         | Aristocratic surname of nomathian origin (previously named Wakk)                                                                                                    | 
 | Varteford   | Baedoor city                  | Aristocratical surname                                                                                                                                              |
 | Velga, le   | East Baedoor                  | Aristocratic surname, of Isuga heritage                                                                                                                             |
+| Vertilli    | Whole Baedoor                 | Semi-rare surname, associated with aristocracy but not exclusive to it                                                                                              |
 | Vos         | Arennan, West Baedoor         | Rare surname connected with Arennan naming                                                                                                                          |
 | Warthog     | East Baedoor                  | Aristocratic surname of nomathian origin                                                                                                                            |
 | Winfleton   | West Baedoor                  | Aristocratic surname, nowadays recognised with **Heim Winfleton**                                                                                                   |

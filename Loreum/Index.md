@@ -43,6 +43,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Baedoorish](/Langue/Families/Baedoorish.md)
 - [Black Tache](Topics/Characters/List/Black_Tache.md)
 - [The Blossoming Lavender](Topics/Guilds/List/The_Blossoming_Lavender.md)
+- [Brown Literature](Topics/Cultures/Baedoorians/List/Colourful_Literature.md#brown-literature)
 - [vân Buqan, Ibrahim](Topics/Characters/List/vânBuqan_Ibrahim.md)
 
 ### C
@@ -51,6 +52,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Constantino, Ernest](Topics/Characters/List/Constantino_Ernest.md)
 - [Cornelius Hebarto](Topics/Characters/List/Hebarto_Cornelius.md)
 - [Cornelius' code](Topics/Characters/List/Hebarto_Cornelius.md#cornelius-code)
+- [Criss, Salomon](Topics/Characters/List/Criss_Salomon.md)
 - [Cuerven Valley](Topics/Geography/Moon_Continent/East_Moon/Lands/Cuerven_Valley.md)
 
 ### D
@@ -119,6 +121,8 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Goblish](/Langue/Families/Goblish.md)
 - [Golden Lighthouse of Baedoor](Topics/Geography/Baedoor_Continent/Baedoor/Places/Golden_Lighthouse_of_Baedoor.md)
 - [Great Baedoorian Railroad](Topics/Geography/Baedoor_Continent/Baedoor/Places/Great_Baedoorian_Railroad.md)
+- [Green Literature](Topics/Cultures/Baedoorians/List/Colourful_Literature.md#green-literature)
+- [Grey Literature](Topics/Cultures/Baedoorians/List/Colourful_Literature.md#grey-literature)
 - [Guild of Adventurers](Topics/Guilds/List/Alkaesar_Adventurers_Guild.md) (Alkaesar/Morpat)
 
 ### H
@@ -172,6 +176,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Lhue](Topics/Nature/Herbarium/List/Lhue.md)
 - [Lotua](Topics/Nature/Herbarium/List/Lhue.md)
 - [Lovrem Vantasi](Topics/Characters/List/Vantasi_Lovrem.md)
+- [Loyd Vertilli](Topics/Characters/List/Vertilli_Loyd.md)
 - [Lua](Topics/Characters/Families/Lua.md)
 - [Lyrensi Purpui](Topics/Nature/Herbarium/List/Lyrensi_Purpui.md)
 
@@ -224,12 +229,14 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### R
 - [Raliun](Topics/Geography/Old_Continent/Jitado/Cities/Raliun.md)
+- [Red Literature](Topics/Cultures/Baedoorians/List/Colourful_Literature.md#red-literature)
 - [Renvughe](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Renvughe.md)
 - [Reven Flamecoat](Topics/Characters/List/Flamecoat_Reven.md)
 - [Rings of reality](Topics/World_Mechanics/Oververse.md#rings-of-reality)
 - [Rossevette](Topics/Geography/Baedoor_Continent/Rossevette_Islands.md) (archipelago)
 
 ### S
+- [Salomon Criss](Topics/Characters/List/Criss_Salomon.md)
 - [Saphtri](Topics/Cultures/Tri_Saphtris/[Culture].md) (culture)
 - [Saphtri](Topics/Races/Regular/TriSaphtri.md) (race)
 - [Say'ye'ys](Topics/Characters/List/Say'ye'ys.md)
@@ -300,6 +307,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Varteford, Tom](Topics/Characters/List/Varteford_Tom.md)
 - [Varteford's Peace Treaty](Topics/History/List/Varteford_Peace_Treaty.md)
 - [Veno Edran](Topics/Cultures/Baedoorians/Vehicles/Veno_Edran.md)
+- [Vertilli, Loyd](Topics/Characters/List/Vertilli_Loyd.md)
 - [Vessel](Topics/World_Mechanics/Magic/Vessel.md)
 - [Viktor](Topics/Characters/List/deSteye_Dant.md)
 - [Vulcanic Veil](Topics/Nature/Herbarium/List/Vulcanic_Veil.md)

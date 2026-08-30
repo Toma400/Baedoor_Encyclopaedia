@@ -13,7 +13,7 @@ After Pre Era, **Old Continent** never came back to its old hegemonic glory.
 ---
 #### Pre Era History
 #### Pre Era Factions
-#### [Pre Era Characters](/Loreum/Topics/Characters/Pre_Era_Characters.md)
+#### [Pre Era Characters](/Loreum/Topics/Characters/Era_PE_Characters.md)
 
 ---
 ✥♢  

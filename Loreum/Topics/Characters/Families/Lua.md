@@ -20,4 +20,4 @@ died out.
 
 ---
 ♜✥: needs banner, character pages + Lancres  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../../Characters.md) 〰️ [🎎](../Baedoorian_Families.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../../Characters.md) 〰️ [🎎](../Families_Baedoorian.md)

@@ -31,11 +31,11 @@ are disputed) and either possess some beings, or remain in astral form only rare
 shape. The shape can be both a transformed matter or purely an illusion.
 
 Higher spirits usually aren't beholden to physical world's limitations, being able to transcend
-death or being connected to body-vehicle; they can also warp the reality rather easily being
+death or connection to body-vehicle; they can also warp the reality rather easily being
 still very familiar with **void energy**.
 
 ### Common spirits
-Regular spirits (or souls) include all living beings with moderate or low connection to 
+Regular spirits (or souls) define all living beings with moderate or low connection to 
 magic - which includes all races, creatures and animals. They are very bounded to physical
 reality, and so their magic is intertwined between the small resources of void energy and 
 physical body, with all its limitations.  

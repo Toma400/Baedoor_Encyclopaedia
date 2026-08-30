@@ -6,9 +6,9 @@ List of all noted characters existing throughout the history of Baedoor universe
 
 ---
 ### 🍁 BY ERAS
-####  🔹 [Characters of Pre Era](Characters/Pre_Era_Characters.md)
-####  🔹 [Characters of Old Era](Characters/Old_Era_Characters.md)
-####  🔹 [Characters of New Era](Characters/New_Era_Characters.md)
+####  🔹 [Characters of Pre Era](Characters/Era_PE_Characters.md)
+####  🔹 [Characters of Old Era](Characters/Era_OE_Characters.md)
+####  🔹 [Characters of New Era](Characters/Era_NE_Characters.md)
 
 ---
 ### 🏯 BY COUNTRY
@@ -36,8 +36,8 @@ List of all noted characters existing throughout the history of Baedoor universe
 
 ---
 ### 🎎 FAMILIES
-####  🔹 [Baedoorians](Characters/Baedoorian_Families.md)
-####  🔹 [Ghlodds](Characters/Ghloddish_Families.md)
+####  🔹 [Baedoorians](Characters/Families_Baedoorian.md)
+####  🔹 [Ghlodds](Characters/Families_Ghloddish.md)
 
 ---
 ### 🔥 CLANS

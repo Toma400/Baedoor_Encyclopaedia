@@ -29,4 +29,4 @@ and mutual exchange of technologies.
 may need expanding on Rossevette train, if it's decided?? would be good characterisation
 of Ettua's financial influence on Ascaron area  
 Is Levan a son of Siran and Tokkot?  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../../Characters.md) 〰️ [🎎](../Baedoorian_Families.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🥮](../../Characters.md) 〰️ [🎎](../Families_Baedoorian.md)

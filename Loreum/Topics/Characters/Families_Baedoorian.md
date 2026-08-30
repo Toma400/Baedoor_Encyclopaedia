@@ -23,13 +23,13 @@ indicates no longer existing family.
 ####   🔹 [Xavier](Families/Xavier.md)
 
 #### 🔷 Delleret
-####   🔹 Vack `see Dvickhet comment // original city of theirs?`
+####   🔹 [Vack](Families/Vack.md)
 
 #### 🔷 Dvickhet
 ####   🔹 [Warthog](Families/Warthog.md)
 ####   🔹 Thargav
 ####   🔹 Maen
-####   🔹 Vack `nomathian Vakk, but renamed to accomodate baedoorians | Jacks' sort of cameo`
+####   🔹 [Vack](Families/Vack.md)
 
 #### 🔷 Isuga
 ####   🔹 Allaut
@@ -45,6 +45,7 @@ indicates no longer existing family.
 
 #### 🔷 Ontero
 ####   🔹 Thon
+####   🔹 [Vack](Families/Vack.md)
 
 #### 🔷 Quarius
 ####   🔹 Deom

@@ -9,6 +9,7 @@ through some search categories.
 ####    🔷 [Index](Index_Books.md)
 ####    🔷 [Authors](Authors.md)
 ####    🔷 Genres
+####    🔷 [Series](Series.md)
 
 ### 📰 Magazines
 ####    🔷 Index

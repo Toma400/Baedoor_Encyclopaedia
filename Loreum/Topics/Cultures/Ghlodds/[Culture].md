@@ -118,7 +118,7 @@ it can if it works within boundaries of ghloddish spirituality
 - [⚗️ Technologies](Technologies.md)
 - [💮 Language](/Langue/Families/Ghloddish.md)
 - [㊙️ Names](/Loreum/Topics/Characters/Names/Ghlodds.md)
-- [🎎 Families](/Loreum/Topics/Characters/Ghloddish_Families.md)
+- [🎎 Families](/Loreum/Topics/Characters/Families_Ghloddish.md)
 
 ---
 ♜: might be useful to separate ghloddish cultures since it is not universal as much as it claims
