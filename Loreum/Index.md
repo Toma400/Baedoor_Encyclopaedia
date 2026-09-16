@@ -29,6 +29,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Arennan](Topics/Cultures/Baedoorians/Vehicles/Arennan.md) (ship)
 - [Asalexandriasi](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Asalexandriasi.md)
 - [Ascaron](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Ascaron.md)
+- [Ascaron Realm](Topics/Factions/List/Ascaron_Realm.md)
 - [Ash Veil](Topics/Nature/Herbarium/List/Ash_Veil.md)
 - [At'har](Topics/Geography/Seiteh/Cities/At'har.md)
 - [Avani, Si](Topics/Characters/List/Avani_Si.md)

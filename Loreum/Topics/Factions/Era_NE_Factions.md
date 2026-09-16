@@ -3,6 +3,7 @@ List of all factions existing during New Era period.
 
 ### Baedoor Continent
 
+#####   🔷 [Ascaron Realm](List/Ascaron_Realm.md)
 #####   🔷 [Temple of the Wheel](List/Temple_of_the_Wheel.md)
 
 ---

@@ -4,7 +4,7 @@ All things related to nature, including flora, fauna, geological parts and also 
 ---
 ### 🌿 [Herbarium](Nature/Herbarium.md)
 ### 🐊 [Bestiary](Nature/Bestiary.md)
-### 🧊 Minerals
+### 🧊 [Minerals](Nature/Minerals.md)
 ### 🥮 [Foods](Nature/Foods.md)
 ### 🦟 Diseases
 

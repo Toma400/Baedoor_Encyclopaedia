@@ -115,9 +115,10 @@ Population/settlement density rules:
   - Lan Ratakan `originally Old Forest (Stary Bór)`
 
 ### TOPICS
-####   🔷 [🐊 Bestiary (Inner)](/Loreum/Topics/Nature/Bestiary/Rossevette_Bestiary.md)
-####   🔷 [🐊 Bestiary (Outer)](/Loreum/Topics/Nature/Bestiary/Rossevette_Outer_Bestiary.md)
-####   🔷 [🌿 Herbarium](/Loreum/Topics/Nature/Herbarium/Rossevette_Islands_Herbarium.md)
+####   🔷 [🐊 Bestiary (Inner)](../../Nature/Bestiary/Rossevette_Bestiary.md)
+####   🔷 [🐊 Bestiary (Outer)](../../Nature/Bestiary/Rossevette_Outer_Bestiary.md)
+####   🔷 [🌿 Herbarium](../../Nature/Herbarium/Rossevette_Islands_Herbarium.md)
+####   🔷 [⚜ Factions](../../Factions/Continent_Baedoor_Factions.md#rossevette)
 
 ---
 ♜♢✥: commented out parts, reorganisation  

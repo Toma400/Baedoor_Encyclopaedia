@@ -219,8 +219,9 @@ being part of it. This also let it be treated more lightly during Baedoor occupa
   - Kehts and erds has some melodic parts and letter use shared, but differ heavily in flow and sounds
 
 ### TOPICS
-####   🔷 [🐊 Bestiary](/Loreum/Topics/Nature/Bestiary/Kaer_Bestiary.md)
-####   🔷 [🌿 Herbarium](/Loreum/Topics/Nature/Herbarium/Kaer_Herbarium.md)
+####   🔷 [🐊 Bestiary](../../Nature/Bestiary/Kaer_Bestiary.md)
+####   🔷 [🌿 Herbarium](../../Nature/Herbarium/Kaer_Herbarium.md)
+####   🔷 [⚜ Factions](../../Factions/Continent_Baedoor_Factions.md#kaer)
 
 ---
 ♜♢✥, incl. link to Martingo + filling up all points from map and sources  

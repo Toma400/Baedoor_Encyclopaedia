@@ -1,12 +1,10 @@
-# ⚜️ Baedoor Continent Factions
-List of all factions existing on Baedoor Continent.
+# ⚜️ Old Era Factions
+List of all factions existing during Old Era period.
 
-### International
+### Baedoor Continent
 
+#####   🔷 [Ascaron Realm](List/Ascaron_Realm.md)
 #####   🔷 [Separatists](List/Separatists.md)
-
-### Kaer
-
 #####   🔷 [Temple of the Wheel](List/Temple_of_the_Wheel.md)
 
 ---
