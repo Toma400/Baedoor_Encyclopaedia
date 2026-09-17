@@ -1,4 +1,4 @@
-# Contribution Cheatsheet
+# 🧱 Contribution Cheatsheet
 Here is the list of all steps that you ideally should care for, creating articles for particular
 categories.
 

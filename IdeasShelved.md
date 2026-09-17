@@ -1,4 +1,4 @@
-# Ideas Shelved
+# 🧱 Ideas Shelved
 There are various ideas that have nice worldbuilding potential, but they do not have
 place in currently worked areas of the world. Instead of putting them artificially and trying
 to fit in, I think it'd be best to just enlist them and come back to them later.

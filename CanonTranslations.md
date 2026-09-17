@@ -1,4 +1,4 @@
-# Canon Translations
+# 🧱 Canon Translations
 This list indicates all translations of BE to other languages (assuming English BE as default)
 that are canon and should be used. It's a way to also preserve translations that can get lost
 in potential GitHub branch merges.

@@ -11,7 +11,7 @@
 |===
 -->
 
-# References
+# 🧱 References
 List of cameos and references.
 - Cameos
   - [Dylan](#dylan)

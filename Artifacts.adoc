@@ -1,4 +1,4 @@
-=== Artifacts
+=== 🧱 Artifacts
 All artifacts planned or made.
 
 [cols="3"]

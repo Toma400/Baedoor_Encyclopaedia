@@ -29,6 +29,7 @@ Click on section names to head to specific one.
 Besides, you can also visit loose pages used as helpers for the above sections (they might be
 migrated there over time):
 - [🧱 Contribution Cheatsheet](ContributionCheatsheet.md)
+- [🧱 Neologisms' Guide](ConlangNeologismsGuide.md)
 - [🧱 Artifacts](Artifacts.adoc)
 - [🧱 References](References.md)
 - [🧱 Canon Translations](CanonTranslations.md)
@@ -36,7 +37,6 @@ migrated there over time):
 - [🧱 Ideas Shelved](IdeasShelved.md)
 <!--
 - Backgrounds
-- ConlangSuggestions
 - Sources
 - Todo.md
 -->
