@@ -29,7 +29,7 @@ Population/settlement density rules:
 ### CITIES
 - Rossevette
   - [Ascaron](Rossevette_Islands/Cities/Ascaron.md) `latoka | built on top of Leveiihat ruins`
-  - Akkustarat `latoka | -akku(s)- could be latoka for -glass-`
+  - [Akkustarat](Rossevette_Islands/Cities/Akkustarat.md) `latoka | -akku(s)- could be latoka for -glass-`
   - Firae `voitri | Fingrad on map; initially latoka's Nan Ladam small port town (under the name Sukkutom), it expanded heavily under voitri rule`
   - Nid-Iliot `latoka`
   - Rinlin `voitri`
@@ -60,6 +60,7 @@ Population/settlement density rules:
   - Tonderis `latoka | of baedoorian origin, on old ruins of latoka town and with Lammut fortress built nearby`
 - Karos
   - Armos `pahtri | of baedoorian origin`
+  - Uplos `pahtri | shared -os suffix and latoka sounding?`
 - Fariva
   - Oima `pahtri`
 - Torvos

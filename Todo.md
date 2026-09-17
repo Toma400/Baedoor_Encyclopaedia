@@ -134,11 +134,11 @@ For [Ghloddish Architecture](Loreum/Topics/Cultures/Ghlodds/Architecture.md) exp
 | ![](/Assets/Culture/Architecture/ghloddish_chapel_2.jpg) | ![](/Assets/Culture/Architecture/ghloddish_house_3.jpg) | ![](/Assets/Culture/Architecture/ghloddish_observatorium_2.jpg) |
 |:--------------------------------------------------------:|:-------------------------------------------------------:|:---------------------------------------------------------------:|
 
-For Akkustarat city in [Rossevette](/Loreum/Topics/Geography/Baedoor_Continent/Rossevette_Islands.md):
+For pahtri architecture?:
 
-|  ![](/Assets/Landscapes/Settlements/rossevette_akkustarat.jpg)  | ![](/Assets/Landscapes/Settlements/rossevette_akkustarat_2.jpg) |
-|:---------------------------------------------------------------:|:---------------------------------------------------------------:|
-| ![](/Assets/Landscapes/Settlements/rossevette_akkustarat_3.jpg) | ![](/Assets/Landscapes/Settlements/rossevette_akkustarat_4.jpg) |
+| ![](/Assets/Culture/Architecture/pahtri_lekotei_architecture.png) |
+|:-----------------------------------------------------------------:|
+
 
 For Rossevette bestiary, after deciding whether it's terten, and if so, how does it qualify along
 other similar creatures (particularly haunting wanderer), whether it is creature or expansion

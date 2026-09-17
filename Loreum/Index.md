@@ -17,6 +17,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Allaut, Eduard](Topics/Characters/List/Allaut_Eduard.md)
 - [Allaut, Isehir](Topics/Characters/List/Allaut_Isehir.md)
 - [Altauar](Topics/Geography/Old_Continent/Jitado/Regions/Altauar.md) (region)
+- [Akkustarat](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Akkustarat.md)
 - [Amber Forest](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Amber_Forest.md)
 - [Akad](Topics/Nature/Bestiary/List/Akad.md)
 - [Alote, Hes](Topics/Characters/List/Alote_Hes.md)

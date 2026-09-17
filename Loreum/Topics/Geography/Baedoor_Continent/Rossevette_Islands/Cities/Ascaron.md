@@ -4,7 +4,7 @@
 <span style="color:#107C23">**cities**</span> [✦](/Loreum/Tags.md#-cities)  
 
 ---
-**Ascaron** (sometimes also referred by latoka as *Assaron*) is a city and a capital of **Ascaron Realm**.
+**Ascaron** (sometimes also referred by latoka as *Assaron*) is a city and a capital of [Ascaron Realm](../../../../Factions/List/Ascaron_Realm.md).
 Holding its influence over its part of western coast and **Emerald Hills**, it relies heavily 
 on mining various resources and fishing, with some lesser takings coming out of trade held 
 in **Tarsis** and distributed in Ascaron grand market.
