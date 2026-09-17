@@ -24,6 +24,9 @@
 ####  🔹 [Ernest Constantino](List/Constantino_Ernest.md)
 ####  🔹 [Vancuerto](List/Vancuerto.md)
 
+### 🛕 ARENNAN
+####  🔹 [Hes Alote](List/Alote_Hes.md)
+
 ---
 ♜  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌸](../Characters.md)

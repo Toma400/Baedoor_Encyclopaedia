@@ -42,6 +42,8 @@ stated in their articles.
   - On Rossevette
   - Qucari
   - A Venture on Wild Islands - Karos Archipelago
+- **[Hes Alote](/Loreum/Topics/Characters/List/Alote_Hes.md)**
+  - Tractates of Truth 
 - **[Ibrahim vân Buqan](/Loreum/Topics/Characters/List/vânBuqan_Ibrahim.md)**
   - Archaeological Theology
   - Baedoor, Part I: The Genesis
