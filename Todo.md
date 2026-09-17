@@ -124,15 +124,21 @@ Besides, non-binary exists in that quotation as both-binary rather - and such gh
 > need to think about that more.
 
 ### Images to be used
+For **Raelfinn de Segel** article:
+
+| ![](/Assets/Characters/raelfinn_de_segel.jpg) |
+|:---------------------------------------------:|
+
 For [Ghloddish Architecture](Loreum/Topics/Cultures/Ghlodds/Architecture.md) expansion:
 
 | ![](/Assets/Culture/Architecture/ghloddish_chapel_2.jpg) | ![](/Assets/Culture/Architecture/ghloddish_house_3.jpg) | ![](/Assets/Culture/Architecture/ghloddish_observatorium_2.jpg) |
 |:--------------------------------------------------------:|:-------------------------------------------------------:|:---------------------------------------------------------------:|
 
-For forest capital in [Rossevette](/Loreum/Topics/Geography/Baedoor_Continent/Rossevette_Islands.md):
+For Akkustarat city in [Rossevette](/Loreum/Topics/Geography/Baedoor_Continent/Rossevette_Islands.md):
 
-| ![](/Assets/Landscapes/Settlements/rossevette_city.jpg) | ![](/Assets/Landscapes/Settlements/rossevette_city_2.jpg) |
-|:-------------------------------------------------------:|:---------------------------------------------------------:|
+|  ![](/Assets/Landscapes/Settlements/rossevette_akkustarat.jpg)  | ![](/Assets/Landscapes/Settlements/rossevette_akkustarat_2.jpg) |
+|:---------------------------------------------------------------:|:---------------------------------------------------------------:|
+| ![](/Assets/Landscapes/Settlements/rossevette_akkustarat_3.jpg) | ![](/Assets/Landscapes/Settlements/rossevette_akkustarat_4.jpg) |
 
 For Rossevette bestiary, after deciding whether it's terten, and if so, how does it qualify along
 other similar creatures (particularly haunting wanderer), whether it is creature or expansion
@@ -161,3 +167,8 @@ about world structure:
 
 | ![](/Assets/void_world.png) |
 |:---------------------------:|
+
+For meme:
+
+| ![](/Assets/cat_baedoor.png) |
+|:----------------------------:|
