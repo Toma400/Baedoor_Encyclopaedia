@@ -29,14 +29,16 @@ Click on section names to head to specific one.
 Besides, you can also visit loose pages used as helpers for the above sections (they might be
 migrated there over time):
 - [🧱 Contribution Cheatsheet](ContributionCheatsheet.md)
+- [🧱 Archiving Cheatsheet](ArchivingCheatsheet.md)
 - [🧱 Neologisms' Guide](ConlangNeologismsGuide.md)
 - [🧱 Artifacts](Artifacts.adoc)
 - [🧱 References](References.md)
+- [🧱 Name Ideas](NameIdeas.md)
 - [🧱 Canon Translations](CanonTranslations.md)
 - [🧱 Formatting Guide](FormattingGuide.md)
 - [🧱 Ideas Shelved](IdeasShelved.md)
+- [🧱 Tasks Shelved](Todo.md)
 <!--
 - Backgrounds
 - Sources
-- Todo.md
 -->

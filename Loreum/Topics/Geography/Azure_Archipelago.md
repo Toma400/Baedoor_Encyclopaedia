@@ -9,7 +9,7 @@ Small group of islands located in between [Seiteh](/Loreum/Topics/Geography/Seit
 ### ISLANDS
 #####   🔷 Oe'os
 #####   🔷 [Septei](Azure_Archipelago/Septei.md)
-#####   🔷 Vartee
+#####   🔷 [Vartee](Azure_Archipelago/Vartee.md)
 
 ---
 ♜♢✥  

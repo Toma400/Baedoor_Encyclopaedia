@@ -1,4 +1,4 @@
-# Todo
+# 🧱 Todo
 A list of changes that would be good to be made earlier than later.
 
 ### [Latoka](Loreum/Topics/Cultures/Latoka/[Culture].md) and [Etts](Loreum/Topics/Cultures/LatokaEtts/[Culture].md) pages

@@ -26,7 +26,7 @@ All what creates the oververse, but mostly on Baedoor itself.
 ####   🔷 [The Azure Archipelago](Geography/Azure_Archipelago.md)
 #####      🔹 Oe'os
 #####      🔹 [Septei](Geography/Azure_Archipelago/Septei.md)
-#####      🔹 Vartee
+#####      🔹 [Vartee](Geography/Azure_Archipelago/Vartee.md)
 ####   🔷 [Ixathei](Geography/Ixathei.md)
 ####   🔷 Vaos Archipelago
 ####   🔷 Loose Islands `outside continents`

@@ -52,6 +52,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### C
 - [Calgori](Topics/Characters/Families/Calgori.md)
 - [Calgori, Natem](Topics/Characters/List/Calgori_Natem.md)
+- [City of glass](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Akkustarat.md)
 - [Constantino, Ernest](Topics/Characters/List/Constantino_Ernest.md)
 - [Cornelius Hebarto](Topics/Characters/List/Hebarto_Cornelius.md)
 - [Cornelius' code](Topics/Characters/List/Hebarto_Cornelius.md#cornelius-code)
@@ -306,6 +307,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Vaerdena Tertens](Topics/Cultures/Tertens_Vaerdena/[Culture].md)
 - [Vancuerto](Topics/Characters/List/Vancuerto.md)
 - [Vantasi, Lovrem](Topics/Characters/List/Vantasi_Lovrem.md)
+- [Vartee](Topics/Geography/Azure_Archipelago/Vartee.md)
 - [Varteford](Topics/Characters/Families/Varteford.md)
 - [Varteford, Elea](Topics/Characters/List/Varteford_Elea.md)
 - [Varteford, Tom](Topics/Characters/List/Varteford_Tom.md)
