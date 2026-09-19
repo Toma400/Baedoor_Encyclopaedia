@@ -110,7 +110,7 @@ Since beginnings of Old Era, it got conquered by baedoorians. It also was operat
 - Eregas
 - Ergont
 - Galdiam
-- Girnet
+- Garinea
 - Heros
 - Hlomarat `old nomathian village`
 - Hogrot `old nomathian village`
