@@ -254,6 +254,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Serj](Topics/Cultures/Kaerians/[Culture].md)
 - [Seth Maervellius](Topics/Characters/List/Maervellius_Seth.md)
 - [Shimo Valley](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Regions/Shimo_Valley.md)
+- [Shore-Hunters](Topics/Factions/List/Shore-Hunters.md)
 - [Si Avani](Topics/Characters/List/Avani_Si.md)
 - [Skirran](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)
 - [Smoke River Collective](Topics/Guilds/List/Smoke_River_Collective.md)

@@ -18,7 +18,7 @@ List of all factions existing on Baedoor Continent.
 ####    🔷 Old Kingdoms
 #####      🔹 Realm of Nan Ammarat
 #####      🔹 Realm of Likkrot-Nanat
-#####      🔹 Shore-Hunters
+#####      🔹 [Shore-Hunters](List/Shore-Hunters.md)
 #####      🔹 Leptu Etts Realm
 #####      🔹 Hinnut Etts Realm `partially under voitri??`
 ####    🔷 Eastern Kingdoms
