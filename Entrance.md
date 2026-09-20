@@ -30,6 +30,7 @@ Besides, you can also visit loose pages used as helpers for the above sections (
 migrated there over time):
 - [🧱 Contribution Cheatsheet](ContributionCheatsheet.md)
 - [🧱 Archiving Cheatsheet](ArchivingCheatsheet.md)
+- [🧱 Gridmap Guide](GridmapGuide.md)
 - [🧱 Neologisms' Guide](ConlangNeologismsGuide.md)
 - [🧱 Artifacts](Artifacts.adoc)
 - [🧱 References](References.md)
