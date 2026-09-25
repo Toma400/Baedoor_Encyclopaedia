@@ -281,6 +281,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Temple of I'si](Topics/Religions/Temple_of_I'si.md)
 - [Temple of the Wheel](Topics/Factions/List/Temple_of_the_Wheel.md)
 - [Terrean Savannah](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Terrean_Savannah.md)
+- [Terror Whip](Topics/Cultures/Tertens_Vaerdena/List/Terror_Whip.md)
 - [Terska](Topics/Characters/List/Terska.md)
 - [Tertens](Topics/Races/Spirit/Terten.md)
 - [Tertens](Topics/Cultures/Tertens_Vaerdena/[Culture].md) (Vaerdena)

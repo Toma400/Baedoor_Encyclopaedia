@@ -61,6 +61,9 @@ image13.png              -- ""                                  : ""
 image14.png              -- ""                                  : ""
 Simple_Landscape.jpg     -- Philipp Urlich's "Simple Landscape" : ""
 
+[*Landscapes - Arennan]
+image.png -- "" : ""
+
 [Races - Ghlodd]
 IMG_20231219_113348.jpg            -- ""                : SELF
 Screenshot202025-11-2620161437.png -- PTR's gnome asset : ""

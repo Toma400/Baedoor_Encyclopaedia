@@ -25,3 +25,12 @@
 - Lyksia / Lyksja
 - Opai - name for an island near Karos?
 - Hanarat
+- Szaaklapta - agoi? moon nomath? (szeleszczące dźwięki)
+- Hakanetai
+- Hakaritii
+- Ritihaka
+- Rakahiti
+- Hitiraka
+- a-aii (ai--)
+- Ahratha - cool ghloddish surname
+- Sekkurot - latoka settlement

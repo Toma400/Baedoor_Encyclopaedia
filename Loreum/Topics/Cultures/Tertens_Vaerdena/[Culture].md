@@ -14,6 +14,10 @@ Tertens being undead mean they don't need to create food, making their cities se
 being able to defend themselves without worry of starving population.
 
 ### Military
+|                             ![](/Assets/terten_tortoise_tank.png)                              |              ![](/Assets/Races/terten_with_leashed_stheyr.png)              |
+|:----------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
+| Terten tortoise tank, with mage enchanting the harpoon missile as it was launched (by Toma400) | Stheyr leashed by terten's [terror whip](List/Terror_Whip.md) (by Revenant) |
+
 Tertens multidisciplinary skills can be seen in their army maintaining both magic and technology
 to win over enemies.  
 And tertens fighting is truly a sight to behold - aside of big army, they tend to support themselves 
@@ -36,6 +40,10 @@ Such young stheyrs are then often kept in terten cities to breed under control. 
 could be considered as slavery, tertens do not consider stheyrs as sentient beings.
 
 ### Architecture
+| ![](/Assets/Culture/Architecture/terten_city.jpg) |
+|:-------------------------------------------------:|
+|             Terten city (by Toma400)              |
+
 Vaerdena tertens cities are build on massive sandstone mastabas, which allows them to have a lot of
 tunnels and buildings inside of them, with various storages or even chapels found there.  
 The city is split into districts, with quite rich variety of society's castes that have different
@@ -44,37 +52,16 @@ Districts are usually separated by additional slabs put on top of the main city 
 forming naturally in between and stairs letting you get to the district.
 
 ### Religion
+|     ![](/Assets/terten_armour_colour.png)     |
+|:---------------------------------------------:|
+| Ceremonial armour worn by guards (by Toma400) |
+
 Tertens worship Gods of Destruction alongside their own saints, as their look at divine is not divided
 into good and evil - they rather perceive things are intertwined unity.
 
-<table>
-    <tr>
-        <td width="60%">
-            <img alt="" src="/Assets/Culture/Architecture/terten_city.jpg" height="100%">
-        </td>
-        <td width="40%">
-            <img alt="" src="/Assets/terten_armour_colour.png" height="100%">
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Terten city
-        </td>
-        <td>
-            Ceremonial armour worn by guards
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <img alt="" src="/Assets/terten_tortoise_tank.png" height="500px">
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2">
-            Terten tortoise tank, with mage enchanting the harpoon missile as it was launched
-        </td>
-    </tr>
-</table>
+### Cultural Elements
+- Military
+  - [Terror Whip](List/Terror_Whip.md)
 
 ---
 ♜  

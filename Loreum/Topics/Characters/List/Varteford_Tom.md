@@ -28,7 +28,7 @@ being tempted by traveller he talked with in one of inns. His visit took an unus
 a conspiracy against Oe'os leader at the time, which ended up in the execution of the whole faction.  
 Grateful for saving his life, the leader offered the small island nearby as a symbol of gratitude.
 The island was renamed after Tom's surname - as Ua'rte'thord'oe', shortened to Ua'rte'oe or in 
-baedoorish to just Vartee.  
+baedoorish to just [Vartee](../../Geography/Azure_Archipelago/Vartee.md).  
 He settled there, building a house and organising terrain to better suit him in further journeys.
 
 During next years he spent visiting nearby Moon Continent and also travelling back to Baedoor - gathering a lot
@@ -84,10 +84,11 @@ often sacrificing the interests of the Empire or his own family. It is debated w
 incompetence, a necessary sacrifice, or wise planning, but the general reception of his ruling is mixed.
 Some more patriotic groups say that the Varteford family betrayed their country.
 
-In 1018 OE a peace treaty was signed, resulting in autonomy for many countries on the continent.
-The treaty, being favourable to the winning states, resulted in trade routes reappearing in the beginnings
-of the New Era, also helping Baedoor to survive the destructive effects of post-Warthog events.
-This is also one of the aspects that is often brought up in defence of Tom's peaceful strategy as a
+In 1018 OE a [peace treaty](../../History/List/Varteford_Peace_Treaty.md) was signed, resulting
+in autonomy for many countries on the continent. The treaty, being favourable to the winning 
+states, resulted in trade routes reappearing in the beginnings of the New Era, also helping 
+Baedoor to survive the destructive effects of post-Warthog events. This is also one of the aspects
+that is often brought up in defence of Tom's peaceful strategy as a
 supposed long-term thinking.
 
 In 1024 OE, at the age of seventy-seven, Tom Varteford died of old age in his bedroom in the Varteford
@@ -120,7 +121,8 @@ Anethor Neseaea'. The leader bestowed Tom his own name as an act of gratitude, s
 From that journey, Tom also had Vartee island gifted to him.
 
 Throughout all those years, Tom also had good relationships with variety of influential people of the
-world, including Loyd Vertilli, Ibrahim vân Buqan, Viktor or Frederico Aleksander.
+world, including [Loyd Vertilli](Vertilli_Loyd.md), [Ibrahim vân Buqan](vânBuqan_Ibrahim.md), 
+[Viktor](deSteye_Dant.md) or [Frederico Aleksander](Alexander_Frederico.md).
 
 ### Reception
 Tom Varteford's image differs wildly depending on party, and his persona tends to be controversial.  
