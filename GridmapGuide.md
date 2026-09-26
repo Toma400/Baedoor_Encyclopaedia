@@ -93,3 +93,17 @@ easier testing)
 
 **Map cuts must have cell amount dividable by thirds to be resized**:
 as we use +1/3 as resize factor, it means that minimal map cut must be 3 x 3, then 6 x 3 / 3 x 6 / 6 x 6, and so on
+
+## Gridmap queue
+- Seiteh*
+- East Moon
+- Evyvind
+- Forevind*
+- Jitado*
+- Mes Inpea*
+- Agoi
+- Dyalnesi Islands
+- Central Moon*
+- West Moon*
+
+* has notebook
