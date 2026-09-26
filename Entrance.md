@@ -31,6 +31,7 @@ migrated there over time):
 - [🧱 Contribution Cheatsheet](ContributionCheatsheet.md)
 - [🧱 Archiving Cheatsheet](ArchivingCheatsheet.md)
 - [🧱 Gridmap Guide](GridmapGuide.md)
+- [🧱 Git Management Guide](GitGuide.md)
 - [🧱 Neologisms' Guide](ConlangNeologismsGuide.md)
 - [🧱 Artifacts](Artifacts.adoc)
 - [🧱 References](References.md)
