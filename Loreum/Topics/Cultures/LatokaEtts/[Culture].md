@@ -62,6 +62,14 @@ and thicker walls.
 On ettic military buildings, particularly towers and walls, there are carved inscriptions
 meant to be defence blessings. Such blessings can be seen for example in [Danat-Ett](/Loreum/Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Danat-Ett.md).
 
+### ⚜️ Factions
+- Leptu Realm
+- Hinnut Realm
+
+### ⚜️ Historical Factions
+- Three Kingdoms
+- Kahat Realm
+
 ---
 ♜:  
 what is the process of picking king?

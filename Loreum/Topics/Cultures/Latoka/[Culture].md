@@ -84,11 +84,28 @@ start and protections that were meant to destroy anyone coming without proficien
 
 ### Cultural Topics
 - [🏯 Architecture](Architecture.md)
-- [㊙️ Names](/Loreum/Topics/Characters/Names/Latoka.md)
+- [㊙️ Names](../../Characters/Names/Latoka.md)
 
 ### Cultural Elements
 - Magic
   - [Mirror Cage](../[Shared]/List/Mirror_Cage.md)
+
+### ⚜️ Factions
+- United Realms
+  - Upper Ascaron
+    - [Ascaron Realm](../../Factions/List/Ascaron_Realm.md)
+    - Karos City-State `semi-official`
+    - Latoka Pirates `semi-official`
+  - Old Kingdoms
+    - Realm of Nan Ammarat
+    - Realm of Likkrot-Nanat
+    - [Shore-Hunters](../../Factions/List/Shore-Hunters.md)
+    - Leptu Etts Realm
+    - Hinnut Etts Realm `partially under voitri??`
+  - Eastern Kingdoms
+    - Realm of Nan Lakkurut
+    - Realm of Luna-Kimmaret
+    - Realm of Nukrat-Liim `partially under voitri`
 
 ---
 ♜: other things, but also: shouldn't teleport tech be used by voitri and baedoorians after

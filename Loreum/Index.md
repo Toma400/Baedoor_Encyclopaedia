@@ -174,6 +174,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Kono](Topics/Characters/Families/Kono.md)
 
 ### L
+- [Lampan](Topics/Nature/Foods/List/Lampan.md)
 - [Latoka](Topics/Cultures/Latoka/[Culture].md) (culture)
 - [Latssaeti](Topics/Races/Creature/Latssaeti.md)
 - [Lavago, Irlan](Topics/Characters/List/Lavago_Irlan.md)

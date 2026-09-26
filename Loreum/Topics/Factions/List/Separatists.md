@@ -42,7 +42,7 @@ Kaer resilience was for most its time prevailing as underground military and cul
 performed with mixed results. That was mostly a result of not enough proper organisation between
 various groups and their sometimes conflicting interests.
 
-#### Sain
+#### Kain
 The ancient militaristic erdic family, known for its relentless defence specifically
 on southern front. Empire's occupation took its toll on their reputation, as their strength was
 heavily challenged by lack of action.

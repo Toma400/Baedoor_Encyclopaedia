@@ -51,11 +51,17 @@ All what creates the oververse, but mostly on Baedoor itself.
 
 ### 💫 REGULAR DIMENSIONS
 
-### 🎇 METAPHYSICAL DIMENSIONS
-####   🔷 Lands of the Dead
-####   🔷 Crossing
-####   🔷 The Void
-####   🔷 The Library of Worlds
+### 🎇 META DIMENSIONS
+Meta dimensions convey religious and psychological meaning. They convey archetypal space
+within an individual or community, being real on metaphysical layer of reality. Their
+interpretations differ depending on culture, but also one's life, experiences, emotions,
+longings.
+
+####   🔷 Lands of the Dead `community, social / destination`
+####   🔷 Crossing `journey, destination / connection - outreach`
+####   🔷 The Void `emptiness, source / self`
+####   🔷 The Library of Worlds `dreams, subconscious / outrospection - outward`
+####   🔷 The Endless Paths `liminality, memories / intropection - inward`
 
 ---
 ### 🎆 OTHER KNOWN MULTIVERSES

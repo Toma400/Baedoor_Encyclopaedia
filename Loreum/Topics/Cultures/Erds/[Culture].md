@@ -9,6 +9,11 @@ many fields of life in a way that is not overly extravagant.
 |:---------------------------------------------------:|:-----------------------------------------------------------------------------:|:----------------------------------------------------------------------:|
 |                Erdic curved weapons                 | Erdic ceremonial armour worn by Temple of Wheel guards (helmet and pauldrons) |              Erdic guard armour (concept by Tammilisäke)               |
 
+### History
+[departure from **islands**, Sanaran, travel through mountains, sacred area]
+[Kalas/Khalas? Kalatas/Khalatas?]
+[some believers thinking of coming back to islands?]
+
 ### Institutional Houses
 Erdic culture holds the specific institution role, called *Houses*. Unlike actual institutions
 and guilds, House is term used for structure built from incentive of individuals or local
@@ -41,10 +46,10 @@ List of Houses:
 
 ### Cultural Topics
 - [🏯 Architecture](Architecture.md)
-- [🥮 Food](/Loreum/Topics/Nature/Foods/Erdic.md)
+- [🥮 Food](../../Nature/Foods/Erdic.md)
 - [🎭 Art](Art.md)
 - [💮 Language](/Langue/List/Erdis.md)
-- [㊙️ Names](/Loreum/Topics/Characters/Names/Erds.md)
+- [㊙️ Names](../../Characters/Names/Erds.md)
 - [🧿 Symbolism](Symbolism.md)
 
 ### Cultural Elements
@@ -52,13 +57,14 @@ List of Houses:
   - [Four Kings](../[Shared]/List/Four_Kings.md)
 
 ### ⚜️ Factions
-- [Temple of the Wheel](/Loreum/Topics/Factions/List/Temple_of_the_Wheel.md)
-- Separatists
-  - Tae Ravo Naehhag
+- [Temple of the Wheel](../../Factions/List/Temple_of_the_Wheel.md)
 - Houses
   - House of Blue Bird
   - House of Malachite Lantern
   - House of Restoration
+
+### ⚜️ Historical Factions
+- Kain Clan
 
 ---
 ♜  

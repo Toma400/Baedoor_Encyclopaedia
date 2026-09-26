@@ -1,5 +1,10 @@
 # 💮 Stheyr
 
+---
+| ![](/Assets/Races/terten_with_leashed_stheyr.png) |
+|:-------------------------------------------------:|
+|  Stheyr enslaved by terten trainer (by Revenant)  |
+
 **Stheyr** is creature race living in deserts of [Vaerdena](/Loreum/Topics/Geography/Moon_Continent/East_Moon/Lands/Vaerdena.md).
 
 Stheyrs are sentient creatures living in self-made sand caves buried under the surface, made by male

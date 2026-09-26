@@ -76,11 +76,15 @@ the sacrificial rite will began. Spirit will lead the unfortunate keht to the ma
 Blind Mothers will sacrifice the sinner to the glory of the spirits.
 
 ### Cultural Topics
-- [🥮 Foods](/Loreum/Topics/Nature/Foods/Kehtic.md)
+- [🥮 Foods](../../Nature/Foods/Kehtic.md)
 
 ### Cultural Elements
 - Games
   - [Four Kings](../[Shared]/List/Four_Kings.md)
+
+### ⚜️ Historical Factions
+- [Separatists](../../Factions/List/Separatists.md)
+  - Tae Ravo Naehhag
 
 | ![](/Assets/Culture/Architecture/kehtic_modern_architecture.png) |                                           ![](/Assets/Landscapes/Settlements/kaer_dahekhris.png)                                           |
 |:----------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|

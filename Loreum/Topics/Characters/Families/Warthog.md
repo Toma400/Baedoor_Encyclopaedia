@@ -47,7 +47,7 @@ Next months however set the major setback to Third Fleet conquests. Kehtic and e
 already getting into better relations after long mediating processes, found a strong reason to unite 
 within one banner, also including remaining serj forces residing in Ortaver.  
 Their armies settled in Ortaver and in forests, building both official defence and guerilla 
-forces occupying various kehtic fortresses. Erdic Sain clan supplied both with their battlemages, 
+forces occupying various kehtic fortresses. Erdic Kain clan supplied both with their battlemages, 
 converting Baedoor successful military campaign into long, exhaustive trench warfare.
 
 With the army getting more demotivated over time and losses not only affecting soldiers, but also 

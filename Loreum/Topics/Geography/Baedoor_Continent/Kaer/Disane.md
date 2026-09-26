@@ -18,7 +18,7 @@
 **Disane** is small island located west of Kacari, and south of Kaer. It is part of Erdic Kingdom,
 but in the past was frequently exchanged between erds and saphtri.
 
-Disane was first settled by Sain clan and used as a defence frontier from saphtri attacks.
+Disane was first settled by Kain clan and used as a defence frontier from saphtri attacks.
 
 **TOWNS**
 - [Disanteldir](Cities/Disanteldir.md)

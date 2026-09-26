@@ -26,7 +26,9 @@ as the only so faithful realm to baedoorians, keeping the name and buildings wit
 them to local architecture. This is specifically seen in Ascaron's walls being heavily baedoorian, 
 with only one segment rebuilt after it fell into disrepair.
 
-+ Ascaron holds the biggest baedoorian bank's building?
++ Ascaron holds the biggest baedoorian bank's building? [should figure out what banking system
+  baedoorians hold, so we can either put Baedoorian Bank or e.g. Calgori Bank there, depending
+  how many and what kind of banks baedoorian use]
 
 ### [Ascaron Hotel]
 | ![](/Assets/Culture/Architecture/latoka_ascaron_hotel.png) | ![](/Assets/Culture/Architecture/latoka_ascaron_hotel_2.jpg) |
@@ -39,6 +41,10 @@ It has been a frequent destination visit of all notable visitors of other countr
 aristocrats, diplomats or other wealthy entities.
 
 ### Ascaron Library
+
+### Ascaron Universities?
+
+### Ascaron (Baedoor) Bank
 
 ### Ascaron Market
 

@@ -23,6 +23,10 @@ language throughout occupation and use it to this day.
 ### Cultural Topics
 - [💮 Language](/Langue/Families/Nomathian.md)
 
+### ⚜️ Historical Factions
+- [Separatists](../../Factions/List/Separatists.md)
+  - Tae Ravo Naehhag
+
 ---
 ♜  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../../Cultures.md)

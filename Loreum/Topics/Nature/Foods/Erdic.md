@@ -3,7 +3,7 @@ List of all [erdic](../../Cultures/Erds/[Culture].md) foods.
 
 ---
 ### 🍵 DRINKS
-####  🔹 [Cian] `erdic, handmade mix of tea and wine, very soft in taste. Should have light-greenish bottle of smaller size`
+####  🔹 [Lampan](List/Lampan.md)
 ####  🔹 Niesi `erdic beer made with use of Nam fruit`
 ####  🔹 Tarava Tea `erdic, made out of Tarava flowers`
 
