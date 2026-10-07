@@ -231,6 +231,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 ### P
 - [Pahtri](Topics/Cultures/Tri_Pahtris/[Culture].md) (culture)
 - [Peace Treaty](Topics/History/List/Varteford_Peace_Treaty.md) (1018 OE)
+- [Peacock Club](Topics/Geography/Moon_Continent/East_Moon/Cities/Places/Peacock_Club.md)
 - [Plate Lizard](Topics/Nature/Bestiary/List/Plate_Lizard.md)
 
 ### R
