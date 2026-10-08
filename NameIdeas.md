@@ -1,36 +1,39 @@
 # 🧱 Name Ideas
 
-- Nallat name?
-- Alabet name?
-- Luttuksu(t) name? (Shimo native replacement)
-  - similar to Lukksut
-- Sikkima(t) name? (Shimo native replacement)
-- Sakin(se(t))
-- Lakfrut (Lakhfrut?)
-  - similar to Lukksut
-- Nearagon (baedoorian, `nea` + `ragon`)
-- Eitlean `flying one in Irish`
-- Etho `name (bae/nomath?)`
-- (Her) Atahrat
-- Rataot / Rataat
-- Kaunut
-- Sard? `if 'd' exists, it could sound cool`
-- Atarakt - guild name? for some TG-likes or mystic/DB-like cult
-- Antanas - brought from Antanas Smetona, so not ideal, but cool name
-- Laksan - could be also suffix for something
-- -Larat - suffix? (for god?)
-- Testou - related to Tesni? (idea = if Tesni in reverse is Inset, Testuo would be Outset; Testou is more baedoorish ver)
-- Lampan - erdic drink name?
-- Telig - baedoorian-nomathian city/village?
-- Lyksia / Lyksja
-- Opai - name for an island near Karos?
-- Hanarat
-- Szaaklapta - agoi? moon nomath? (szeleszczące dźwięki)
-- Hakanetai
-- Hakaritii
-- Ritihaka
-- Rakahiti
-- Hitiraka
-- a-aii (ai--)
-- Ahratha - cool ghloddish surname
-- Sekkurot - latoka settlement
+- **BAEDOORIAN**
+  - Nearagon (baedoorian, `nea` + `ragon`)
+  - Etho `name (bae/nomath?)`
+  - Telig - baedoorian-nomathian city/village?
+  - Testou - related to Tesni? (idea = if Tesni in reverse is Inset, Testuo would be Outset; Testou is more baedoorish ver)
+- **LATOKA**
+  - Sikkima(t) name? (Shimo native replacement)
+  - Luttuksu(t) name? (Shimo native replacement)
+    - similar to Lukksut
+  - Lakfrut (Lakhfrut?)
+    - similar to Lukksut
+  - Sekkurot - latoka settlement
+  - Ahalumat / Uhelummat - latoka
+- **UNKNOWN**
+  - Nallat name?
+  - Alabet name?
+  - Sakin(se(t))
+  - Eitlean `flying one in Irish`
+  - (Her) Atahrat
+  - Rataot / Rataat
+  - Kaunut
+  - Sard? `if 'd' exists, it could sound cool`
+  - Atarakt - guild name? for some TG-likes or mystic/DB-like cult
+  - Antanas - brought from Antanas Smetona, so not ideal, but cool name
+  - Laksan - could be also suffix for something
+  - -Larat - suffix? (for god?)
+  - Lyksia / Lyksja
+  - Opai - name for an island near Karos?
+  - Hanarat
+  - Szaaklapta - agoi? moon nomath? (szeleszczące dźwięki)
+  - Hakanetai
+  - Hakaritii
+  - Ritihaka
+  - Rakahiti
+  - Hitiraka
+  - a-aii (ai--)
+  - Ahratha - cool ghloddish surname

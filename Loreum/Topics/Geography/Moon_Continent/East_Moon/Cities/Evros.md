@@ -28,6 +28,7 @@ built in Ilvis' style, separating it from the ones done after them, with differe
 slightly less cohesive architecture design.
 
 ### 🏤 PLACES
+- Flamecoat Bank
 - [Peacock Club](Places/Peacock_Club.md)
 
 ### 🏤 PAST PLACES

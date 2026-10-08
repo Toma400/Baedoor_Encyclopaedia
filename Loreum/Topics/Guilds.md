@@ -22,6 +22,10 @@ Lists all guilds and organisations existing in Baedoor universe.
 ####   🔷 Major
 ####     🔹 [Mages Guilds](Guilds/Theme_Mages.md)
 ####     🔹 Thieves Guilds
+####   🔷 Economic
+####     🔹 [Banks](Guilds/Theme_Banks.md)
+####     🔹 Exchanges
+####     🔹 Companies
 ####   🔷 Worker
 ####     🔹 Bakers Guilds
 ####   🔷 Minor

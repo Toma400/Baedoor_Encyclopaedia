@@ -1,8 +1,5 @@
 # 🖼️ Peacock Club
-
-| ![](/Assets/Landscapes/Settlements/ansur_evros_peacock_club.jpg) |
-|:----------------------------------------------------------------:|
-|                 Peacock Club seen from the alley                 |
+<img style="float: right;" src="/Assets/Landscapes/Settlements/ansur_evros_peacock_club.jpg">
 
 **Peacock Club**, queer club in [Evros](../Evros.md), not far from the port. Found in the 
 narrow alleys carved in city's layout commonly as if its veins, it is little known to other than

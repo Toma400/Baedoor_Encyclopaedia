@@ -6,7 +6,7 @@
 ####   🔹 [Followers of the Bound](List/Followers_of_the_Bound.md)
 ####   🔹 Ansur Vineyards Association
 ####   🔹 Ansur Navy
-
+####   🔹 [Flamecoat Bank](List/Flamecoat_Bank.md)
 
 ### 🏯 WAINE
 ####   🔹 Archeologists Society of Waine

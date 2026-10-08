@@ -103,6 +103,8 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Faraurin](Topics/Nature/Foods/List/Faraurin.md)
 - [Fegar](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Fegar.md)
 - [Ferves Navikon](Topics/Characters/List/Navikon_Ferves.md)
+- [Flamecoat](Topics/Characters/Families/Flamecoat.md)
+- [Flamecoat Bank](Topics/Guilds/List/Flamecoat_Bank.md)
 - [Flamecoat, Reven](Topics/Characters/List/Flamecoat_Reven.md)
 - [Flesh Race](Topics/Races/Flesh_Race.md)
 - [Flower Street](Topics/Geography/Old_Continent/Jitado/Cities/Places/Enfrvein.md)

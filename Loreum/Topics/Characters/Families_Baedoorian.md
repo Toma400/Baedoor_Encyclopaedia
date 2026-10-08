@@ -13,7 +13,7 @@ indicates no longer existing family.
 ####   🔹 [Calgori](Families/Calgori.md)
 ####   🔹 Eschat
 ####   🔹 [Ettua](Families/Ettua.md)
-####   🔹 Flamecoat
+####   🔹 [Flamecoat](Families/Flamecoat.md)
 ####   🔹 [Indan](Families/Indan.md) 🧊
 ####   🔹 [Kono](Families/Kono.md)
 ####   🔹 [Lua](Families/Lua.md) 🧊
