@@ -9,7 +9,7 @@ Flamecoat is family native to [Baedoor City](../../Geography/Baedoor_Continent/B
 Known for its roots dating back to the conquest of the island, Flamecoats are known as family that
 built original laws the whole Empire iterated upon. Their expertise in laws and general intertwining
 in matters beyond its major city brought it soft power, which they later used to become banker
-family, founding **Flamecoat Bank** in 277 OE.
+family, founding [Flamecoat Bank](../../Guilds/List/Flamecoat_Bank.md) in 277 OE.
 
 The relative neutrality in political matters, combined with financial experience and fairly
 patriotic origins, brought [Reven Flamecoat](../List/Flamecoat_Reven.md) to power after death of
