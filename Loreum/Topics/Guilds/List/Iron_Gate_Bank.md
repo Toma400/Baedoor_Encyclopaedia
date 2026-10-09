@@ -6,9 +6,9 @@ operating on northern parts of East Baedoor state and neighbouring colonial stat
 309 OE, it's considered one of the oldest still running banks.
 
 ### 🔻 BRANCHES
-|                     East Baedoor                     | Evyvind | Forewind |
-|:----------------------------------------------------:|:-------:|:--------:|
-| Skirran<br>Latareg<br>Geveaut<br>Quarius<br>Alkaesar | Slovrak |  Skand   |
+|                                                                                    East Baedoor                                                                                     | Evyvind | Forewind |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------:|:--------:|
+| [Skirran](../../Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)<br>Latareg<br>Geveaut<br>Quarius<br>[Alkaesar](../../Geography/Baedoor_Continent/Baedoor/Cities/Alkaesar.md) | Slovrak |  Skand   |
 
 ---
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏯](/Loreum/Topics/Guilds.md)

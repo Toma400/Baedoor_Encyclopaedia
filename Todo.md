@@ -1,6 +1,15 @@
 # 🧱 Todo
 A list of changes that would be good to be made earlier than later.
 
+### Figure out factions and their historical split
+When doing [The Carved Tribunal](Loreum/Topics/Factions/List/The_Carved_Tribunal.md), I noticed
+Baedoor Continent does... include _all_ factions, including historical ones and not. This renders
+it quite problematic... for variety of reasons.
+
+Additionally, TCT in itself would be nice to be clarified _when_ it existed (PE, or OE too?) so
+when this is included please also add respective links to era faction subpages and respective
+backlinks.
+
 ### [Latoka](Loreum/Topics/Cultures/Latoka/[Culture].md) and [Etts](Loreum/Topics/Cultures/LatokaEtts/[Culture].md) pages
 Need details filled in, so that they provide broad info on topics that are only marked by
 subsection or written as notes.

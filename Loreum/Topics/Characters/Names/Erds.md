@@ -12,9 +12,10 @@
 | Keno | 🏵️ Semi-rare | Gender-neutral name |
 
 ### Female
-| Name | Rarity        | Description         |
-|------|---------------|---------------------|
-| Keno | 🏵️ Semi-rare | Gender-neutral name |
+| Name | Rarity         | Description         |
+|------|----------------|---------------------|
+| Keno | 🏵️ Semi-rare  | Gender-neutral name |
+| Sora | 🔆 Semi-common |                     |
 
 ---
 ## Surnames
