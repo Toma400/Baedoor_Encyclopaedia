@@ -29,6 +29,7 @@ DOCS = {
     "Book - Origins of Eastern Tri.pdf":   "https://docs.google.com/document/d/1vzBuvjvWgRHYwLC7JP4GjiZfo66AArjq439w3fdE3x0/export?format=pdf",
     "Book - Pahtric Religious Text.pdf":   "https://docs.google.com/document/d/1o_ptIspeCuj4hU2D6CxX5m5b6pKTIyhTMCm2sRqIfTI/export?format=pdf",
     # other
+    "B3D Mechanics.pdf":                   "https://docs.google.com/document/d/1KnQuTs7JJuMmOYE_Fhuwh4NFldtzh9CtndanM-CiQQY/export?format=pdf",
     "FSAM Dialogues.pdf":                  "https://docs.google.com/document/d/1TGVL16VUYjGt6ezZAx7Ow440BU5eFkRi5T95E8U3hng/export?format=pdf",
     "Lore Issues.pdf":                     "https://docs.google.com/document/d/1yVKL89tu0rjsOJHpM9oSLCK1BtVpOscQ7yJWiU8V3vM/export?format=pdf",
     "Rev's Worldbuilding Questions.pdf":   "https://docs.google.com/document/d/1S9M-lykYW7in-PHx1-ADrIggCdQKR2_CqYs2mmXiqPo/export?format=pdf",

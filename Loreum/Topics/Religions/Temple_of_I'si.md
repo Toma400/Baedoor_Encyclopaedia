@@ -8,4 +8,5 @@ Considering highly philosophical form of the religion, it holds the promise from
 
 ---
 ♜: bigger place for Temple, as Adelaie is only a village and can't be focal point of the religion  
-most possibly just the region Adelaie is "edging" with should be a bit more into I'si
+most possibly just the region Adelaie is "edging" with should be a bit more into I'si  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🕌](../Religions.md)

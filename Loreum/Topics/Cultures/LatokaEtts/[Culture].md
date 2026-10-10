@@ -34,7 +34,7 @@ that in such marriage only the child could bear that title.
 
 ### Leptu, Hinnut & Kahat
 ...
-
+- [The Carved Tribunal](../../Factions/List/The_Carved_Tribunal.md)
 - Ett nobility status is understood as highest importance for etts
   - Ettua situation
   - More monarchic and hereditary than other latoka realms
@@ -48,6 +48,8 @@ that in such marriage only the child could bear that title.
   - monumental, high buildings that fell into ruin or start to do so
 
 * CA: Danat-Ett & spiral well & Ansur banners & goblin village & banners?
+
+::: sun/Ukkabu being historically equalified more with power than madness?
 
 ### Relationships
 Unlike regular latoka, etts weren't seen as equal by voitri, resulting in worse treatment from
