@@ -37,8 +37,8 @@ This phenomenon isn't making ghlodds any way less potent, though: their race dev
 power to move their bodies through intense will. The same power allows them to more easily hold any
 items in their arms, despite lesser energy being theoretically given due to shorter limbs.  
 This goes quite far when we also see technological advances of ghlodds: a lot of technology and
-advancements in metalurgy (including Seiteh being biggest deposit of cirtain metal) makes them quite
-well with overcoming their limitations of body.
+advancements in metalurgy (including Seiteh being biggest deposit of [cirtain](../../Nature/Minerals/List/Cirtain.md))
+makes them quite well with overcoming their limitations of body.
 
 Ghloddish culture was evolving through all thousand years of universe's life, from simple clan-driven
 civilisation, through aggressive Empire, to now place to-be-cosmopolitan-centre of this part of universe.  

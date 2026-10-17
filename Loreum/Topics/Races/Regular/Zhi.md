@@ -3,10 +3,10 @@
 ---
 | ![](/Assets/Races/zhi.png)                                                      |
 |---------------------------------------------------------------------------------|
-| Zhi face, with characteristic bald exposure common to many of them (by Toma400) |
+| Zhi male, with characteristic bald exposure common to many of them (by Toma400) |
 
 **Zhi** (sometimes referred as _nightsky-kin_ or less correctly as _opposite elves_) are race
-native to **West Moon** and **Central Moon**, though they are prevalent less commonly very
+native to **West Moon** and **Central Moon**, though they are prevalent less commonly even very
 far from their origin.
 
 Zhi are black-skinned, with glimmering translucent-whitish star-shaped spots dotting their

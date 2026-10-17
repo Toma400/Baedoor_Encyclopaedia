@@ -53,6 +53,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Calgori](Topics/Characters/Families/Calgori.md)
 - [Calgori, Natem](Topics/Characters/List/Calgori_Natem.md)
 - [The Carved Tribunal](Topics/Factions/List/The_Carved_Tribunal.md)
+- [Cirtain](Topics/Nature/Minerals/List/Cirtain.md)
 - [City of glass](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Akkustarat.md)
 - [Constantino, Ernest](Topics/Characters/List/Constantino_Ernest.md)
 - [Cornelius Hebarto](Topics/Characters/List/Hebarto_Cornelius.md)
@@ -342,4 +343,5 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 
 ### Z
 - [Zan Eiron](Topics/Characters/List/Eiron_Zan.md)
+- [Zhi](Topics/Races/Regular/Zhi.md)
 - [Zhoa](Topics/Nature/Herbarium/List/Zhoa.md)
