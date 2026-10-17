@@ -10,9 +10,32 @@ many fields of life in a way that is not overly extravagant.
 |                Erdic curved weapons                 | Erdic ceremonial armour worn by Temple of Wheel guards (helmet and pauldrons) |              Erdic guard armour (concept by Tammilisäke)               |
 
 ### History
-[departure from **islands**, Sanaran, travel through mountains, sacred area]
-[Kalas/Khalas? Kalatas/Khalatas?]
-[some believers thinking of coming back to islands?]
+#### Beginnings
+Beginning of erds as a nation and a community should start from the proto-erdic culture that
+lived in **Kalas archipelago**, further east from Kaer. While having plain resemblances to current
+erds, their culture differed and is now heavily lost in time. They were heavily stationary culture
+however, not sailing far from their territories and doing so mostly for fishing.
+
+Somewhen in Pre Era, a massive eruption of vulcano happened, drowning entire archipelago and
+destroying the long-lived settlements built by proto-erdic community. A small group survived,
+desperately sailing west, hoping their boats can survive despite not being accommodated for
+deeper seas. Some of them got lost during that escape, but some stayed afloat long enough to
+reach the beaches of eastern Kaer.
+
+In that inhospitable place, proto-erds built first houses from anything they had. As their landing
+spot have been almost devoid of any resources known to them, notably wood, the necessities of
+survival shaped their initial experience that will inevitably remain to this day and build
+foundation of the erdic culture and philosophy. The stone will become, aside of defensive material,
+a one that shaped the spirit of resistance, and the first settlement built, **Sanaran**, will
+eventually become a sacred place and a tragic scream to the lost past.
+
+Eventually, in search of food, proto-erds created expeditions that went more inland - some going
+south and north, and some trying to pass the big **Nemori range**. Contrary to expectations, the
+one that survived was the one crossing the mountains - finding themselves in the lush forests of
+**Eckhag** and **Marane**. Over next decades, erds started settling themselves along the Nemori
+mountains, eventually reaching coasts - allowing Sanaran to connect by water. In that time also
+**Detemardir** has been built, becoming first erdic capital, and the pass between it and Sanaran
+became first monumental project tackled by the slowly emerging erdic state.
 
 ### Institutional Houses
 Erdic culture holds the specific institution role, called *Houses*. Unlike actual institutions
@@ -67,5 +90,5 @@ List of Houses:
 - Kain Clan
 
 ---
-♜  
+♜: may be useful to move history eventually to respective historic section?  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../../Cultures.md)
