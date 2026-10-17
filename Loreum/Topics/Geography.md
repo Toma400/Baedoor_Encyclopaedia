@@ -13,6 +13,7 @@ All what creates the oververse, but mostly on Baedoor itself.
 #####      🔹 [Rossevette Islands](Geography/Baedoor_Continent/Rossevette_Islands.md)
 #####      🔹 [Kaer](Geography/Baedoor_Continent/Kaer.md)
 #####      🔹 [Arennan](Geography/Baedoor_Continent/Arennan.md)
+#####      🔹 Kalas Archipelago `drowned, east of Kaer | Ka-las/Ka-er naming?`
 ####   🔷 [Moon Continent](Geography/Moon_Continent.md)
 #####      🔹 West Moon
 #####      🔹 Moon Islands

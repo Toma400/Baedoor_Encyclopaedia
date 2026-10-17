@@ -5,9 +5,9 @@
 
 ---
 **Ascaron** (sometimes also referred by latoka as *Assaron*) is a city and a capital of [Ascaron Realm](../../../../Factions/List/Ascaron_Realm.md).
-Holding its influence over its part of western coast and **Emerald Hills**, it relies heavily 
-on mining various resources and fishing, with some lesser takings coming out of trade held 
-in **Tarsis** and distributed in Ascaron grand market.
+Holding its influence over its part of western coast and [Emerald Hills](../Regions/Emerald_Hills.md),
+it relies heavily on mining various resources and fishing, with some lesser takings coming out 
+of trade held in **Tarsis** and distributed in Ascaron grand market.
 
 The city itself is built upon centuries of slow expansion.
 
@@ -44,7 +44,7 @@ aristocrats, diplomats or other wealthy entities.
 
 ### Ascaron Universities?
 
-### Ascaron (Baedoor) Bank
+### Flamecoat Bank
 
 ### Ascaron Market
 
@@ -59,4 +59,4 @@ aristocrats, diplomats or other wealthy entities.
 
 ---
 ♜✥  
-[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](/Loreum/Topics/Geography.md) 〰️ [🌄](/Loreum/Topics/Geography/Baedoor_Continent/Rossevette_Islands.md)
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🌏](../../../../Geography.md) 〰️ [🌄](../../../../Geography/Baedoor_Continent/Rossevette_Islands.md)

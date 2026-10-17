@@ -9,6 +9,7 @@ in potential GitHub branch merges.
 - Ash Veil > pustynny całun
 - Ayer Shotgun > strzelba ajerska
 - Black Tache > Czarny Wąs
+- Cirtain > Cyrtan
 - Dawn Tear > Poranna Łza `ensure it's correct in sources`
 - Endaic Ocean > Ocean Endejski
 - Ennaeric Ocean > Ocean Ennaeryjski

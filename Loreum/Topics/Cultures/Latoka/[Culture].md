@@ -39,7 +39,9 @@ to the top positions through mundane, increasingly more valuable work from the g
 [Realms & Kingdoms]
 
 ### Slavery
-... [check Ascaron BaeCL page for my thoughts]
+... [check Ascaron BaeCL page for my thoughts]  
+[a way to pay the price for your wrongdoings? a higher status? generally tying it to the concept
+of some _respect_ given]
 
 ### Etts (Mountain Latokas)
 ... [Question, should we have separate [Culture] pages for etts? Should we for all of them?]
