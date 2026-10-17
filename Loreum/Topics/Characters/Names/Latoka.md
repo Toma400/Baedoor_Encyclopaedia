@@ -14,6 +14,7 @@ as ghloddish naming does, albeit the position of those wovels is inside name, no
 
 | Name        | Rarity         | Description                     |
 |-------------|----------------|---------------------------------|
+| Amon        | 🔆 Semi-common |                                 |
 | Anter       | 🔆 Semi-common |                                 |
 | Anterkiritt | ⚜️ Rare        | Combination of Anter and Kiritt |  
 | Iner        | 🔥 Common      | Has feminine form (Inar)        |
@@ -23,20 +24,28 @@ as ghloddish naming does, albeit the position of those wovels is inside name, no
 | Kiritt      | 🔆 Semi-common |                                 |
 | Nasvioh     | 🏵️ Semi-rare  |                                 |
 | Satarap     | 🔆 Semi-common |                                 |
+| Tanater     | 🔆 Semi-common |                                 |
+| Teratot     | 🔆 Semi-common |                                 |
 | Tokkot      | 🏵️ Semi-rare  |                                 |
 
 ### Female
 
-| Name    | Rarity         | Description                 |
-|---------|----------------|-----------------------------|
-| Inar    | 🔥 Common      | Has masculine form (Iner)   |
-| Inluat  | 🔆 Semi-common | Has masculine form (Inluet) |
-| Lat     | 🔆 Semi-common |                             |
-| Luat    | 🏵️ Semi-rare  | Mix of Lut and Lat names    |
-| Lut     | 🔆 Semi-common |                             |
-| Nel     | 🔆 Semi-common |                             |
-| Nelvose | 🔆 Semi-common |                             |
-| Onyri   | 🏵️ Semi-rare  |                             |
+| Name    | Rarity         | Description                                              |
+|---------|----------------|----------------------------------------------------------|
+| Akaret  | 🏵️ Semi-rare  |                                                          |
+| Inar    | 🔥 Common      | Has masculine form (Iner)                                |
+| Inluat  | 🔆 Semi-common | Has masculine form (Inluet)                              |
+| Irkit   | 🔆 Semi-common |                                                          |
+| Katku   | 🔆 Semi-common |                                                          |
+| Lat     | 🔆 Semi-common |                                                          |
+| Luat    | 🏵️ Semi-rare  | Mix of Lut and Lat names                                 |
+| Lut     | 🔆 Semi-common |                                                          |
+| Nel     | 🔆 Semi-common |                                                          |
+| Nelvose | 🔆 Semi-common |                                                          |
+| Onat    | 🔆 Semi-common |                                                          |
+| Onyri   | 🏵️ Semi-rare  | Feels like name at least somehow of baedoorian influence |
+| Suklat  | 🏵️ Semi-rare  |                                                          |
+| Terinat | 🏵️ Semi-rare  |                                                          |
 
 ### Surname
 | Name | Localisation                       | Description                            |

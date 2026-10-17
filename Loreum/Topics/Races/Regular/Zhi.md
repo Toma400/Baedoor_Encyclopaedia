@@ -19,6 +19,11 @@ They were woven out of the night sky, hence the darkness of their skin and the s
 spots have, if any at all).
 
 ### Culture
+Zhi are one of the races most commonly seen outside their territories, not feeling the belongingness
+to any place. They are notorious travellers, sailors, tramps, depending on individual situation.
+This attitude make them usually skilled in variety of crafts, hence they tend to be hired for
+various tasks requiring knowledge or flexibility regarding transport.
+
 <table align="right" style="width: 250px; height: 80px; display: table; margin: 5px">
   <td style="width: 100%; height: 100%; letter-spacing: 1px; background-color: #000">
     <p style="text-align:center">
@@ -28,11 +33,6 @@ spots have, if any at all).
     <p style="text-align:right"> - excerpt about zhi by unknown author </p>
   </td>
 </table>
-
-Zhi are one of the races most commonly seen outside their territories, not feeling the belongingness
-to any place. They are notorious travellers, sailors, tramps, depending on individual situation.
-This attitude make them usually skilled in variety of crafts, hence they tend to be hired for
-various tasks requiring knowledge or flexibility regarding transport.
 
 As eternal travellers, zhis rarely talk, focused on being the silent background, listening and
 learning in more passive ways. That said, if approached in proper way, they will uncover mysteries

@@ -42,6 +42,8 @@ in alphabetical order:
   - common use of `u`, `h`
   - sometimes usage of hard letters such as `y` and `th`, and hard softs like `k`
   - character name-specific, but may be expanded to settlements: start with `in-`
+  - character name-specific rules
+    - `-at` is female suffix
 
 ### Latoka (etts)
   - less egyptian/sumerian than pure latoka

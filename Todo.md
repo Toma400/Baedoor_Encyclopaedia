@@ -1,6 +1,14 @@
 # 🧱 Todo
 A list of changes that would be good to be made earlier than later.
 
+### Naming switch to .adoc?
+For now, experimentally used for [latoka names](Loreum/Topics/Characters/Names/Latoka.adoc), which
+means both .md and .adoc needs updates simultaneously. If it ends up being more effective, please
+copy the .adoc file, do `git mv` to new format and paste the previous .adoc contents for smooth
+Git handling.
+
+Then perform `git mv` for others. If .adoc is given up, just remove the file.
+
 ### Figure out factions and their historical split
 When doing [The Carved Tribunal](Loreum/Topics/Factions/List/The_Carved_Tribunal.md), I noticed
 Baedoor Continent does... include _all_ factions, including historical ones and not. This renders
