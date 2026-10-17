@@ -54,4 +54,5 @@ creations.
 on how it should be done -- by the way zhis are "detached but shared", it plays both to the
 idea of multiple zhi cultures (settled, assimilated to X) but also to something shared; whether
 it should be put there or have something like ZhiCommon culture pages, up to future decision  
+vibe references: Watain "They Rode On", less so Inquisition "Extinction of Darkness and Light"  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [💮](/Loreum/Topics/Races.md)

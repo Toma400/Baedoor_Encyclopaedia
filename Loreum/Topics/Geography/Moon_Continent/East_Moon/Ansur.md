@@ -46,7 +46,7 @@ in year 425 NE.
 
 ### CATEGORIES
 - [🍁 Ansur Characters](/Loreum/Topics/Characters/Ansur_Characters.md)
-- [🕌 Guilds of Ansur Isle](/Loreum/Topics/Guilds/Ansur_Guilds.md)
+- [🕌 Guilds of Ansur Isle](/Loreum/Topics/Guilds/Continent_Moon_Ansur.md)
 - [❄️ Timetable of Ansur Isle](/Loreum/Topics/History/New_Era_Ansur.md)
 
 ---

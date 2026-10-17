@@ -36,7 +36,7 @@ LEGEND:
 
 ---
 ### Baedoor Continent
-- [Baedoorians](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [🥮](Nature/Foods/Baedoorian.md) [⚗️](Cultures/Baedoorians/Technologies.md) [🚂](Cultures/Baedoorians/Vehicles.md) [💮](/Langue/Families/Baedoorish.md) [㊙️](Characters/Names/Baedoorian.md) [🎎](Characters/Families_Baedoorian.md)
+- [Baedoorians](Cultures/Baedoorians/[Culture].md) 🔹 [🏯](Cultures/Baedoorians/Architecture.md) [🥮](Nature/Foods/Baedoorian.md) [🎭](Cultures/Baedoorians/Art.md) [⚗️](Cultures/Baedoorians/Technologies.md) [🚂](Cultures/Baedoorians/Vehicles.md) [💮](/Langue/Families/Baedoorish.md) [㊙️](Characters/Names/Baedoorian.md) [🎎](Characters/Families_Baedoorian.md)
 - [Erds](Cultures/Erds/[Culture].md) 🔹 [🏯](Cultures/Erds/Architecture.md) [🥮](Nature/Foods/Erdic.md) [🎭](Cultures/Erds/Art.md) [💮](/Langue/List/Erdis.md) [㊙️](Characters/Names/Erds.md) [🧿](Cultures/Erds/Symbolism.md)
 - [Goblins](Cultures/Goblins_Kaer/[Culture].md) (Kaer) 🔹 [🧿](Cultures/Goblins_Kaer/Symbolism.md)
 - [Goblins](Cultures/Goblins_Rossevette/[Culture].md) (Rossevette) 🔹 [🕌](Cultures/Goblins_Rossevette/Spirituality.md) [💮](/Langue/Families/Goblish.md)

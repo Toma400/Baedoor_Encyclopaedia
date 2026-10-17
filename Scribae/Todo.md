@@ -5,6 +5,11 @@ The list also contains authors that are mentioned to be writers or poets, but do
 stated in their articles.
 
 ### Specific positions
+- **[Ainji Otenhat](/Loreum/Topics/Characters/List/Otenhat_Ainji.md)**
+  - The Edge
+  - Eloi Fortress
+  - Eye of the Chaos
+  - Trilogy of Darkness
 - **[Dant de Steye](/Loreum/Topics/Characters/List/deSteye_Dant.md)**
   - Alchemist Tract
   - Flora of Baedoor, part I

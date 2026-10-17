@@ -36,6 +36,7 @@ in ways more friendly to its community.
 ### Cultural Topics
 - [🏯 Architecture](Architecture.md)
 - [🥮 Foods](../../Nature/Foods/Baedoorian.md)
+- [🎭 Art](Art.md)
 - [⚗️ Technologies](Technologies.md)
 - [🚂 Vehicles](Vehicles.md)
 - [💮 Language](/Langue/Families/Baedoorish.md)
@@ -45,6 +46,11 @@ in ways more friendly to its community.
 ### Cultural Elements
 - Philosophical movements
   - [Neuvea Romanai](List/Neuvea_Romanai.md)
+- Art
+  - Theatres
+    - [Oxiai Theatre](List/Theatre_Oxiai.md)
+    - [Si Vai](List/Theatre_Si_Vai.md)
+    - [Theatre of Grey Mask](List/Theatre_of_Grey_Mask.md)
 - Leisure
   - [Colourful Literature Series](List/Colourful_Literature.md)
 - Items

@@ -12,6 +12,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Aerial Pirates](Topics/Guilds/List/Aerial_Pirates.md)
 - [The Age of Decline](Topics/Cultures/Baedoorians/List/The_Age_of_Decline.md)
 - [Agha O'at'sa'](Topics/Characters/List/Agha_O'at'sa'.md)
+- [Ainji Otenhat](Topics/Characters/List/Otenhat_Ainji.md)
 - [Alexander, Frederico](Topics/Characters/List/Alexander_Frederico.md)
 - [Alkaesar](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Alkaesar.md) (city)
 - [Allaut, Eduard](Topics/Characters/List/Allaut_Eduard.md)
@@ -98,6 +99,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Ettua, Anaurin](Topics/Characters/List/Ettua_Anaurin.md)
 - [Evros](Topics/Geography/Moon_Continent/East_Moon/Cities/Evros.md)
 - [Eyd Hull](Topics/Characters/List/Hull_Eyd.md)
+- [Eye of the Chaos](Topics/Cultures/Baedoorians/List/Theatre_Oxiai.md#eye-of-the-chaos)
 
 ### F
 - [Fa'iteh](Topics/Geography/Seiteh/Lands/Fa'iteh.md)
@@ -228,11 +230,14 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Oloko](Topics/Nature/Bestiary/List/Oloko.md)
 - [Orcs](Topics/Races/Regular/Orcs.md)
 - [Order of the Sword](Topics/Guilds/List/Order_of_the_Sword.md)
+- [Order of the Crossroads](Topics/Guilds/List/Order_of_the_Crossroads.md)
 - [Ormaths](Topics/Races/Regular/Ormaths.md) (race)
 - [Ormaths](Topics/Cultures/Ormaths/[Culture].md) (culture)
 - [Ortaver](Topics/Geography/Baedoor_Continent/Kaer/Cities/Ortaver.md)
 - [Ostaequa](Topics/Nature/Bestiary/List/Ostaequa.md)
+- [Otenhat, Ainji](Topics/Characters/List/Otenhat_Ainji.md)
 - [Oververse](Topics/World_Mechanics/Oververse.md)
+- [Oxiai Theatre](Topics/Cultures/Baedoorians/List/Theatre_Oxiai.md)
 
 ### P
 - [Pahtri](Topics/Cultures/Tri_Pahtris/[Culture].md) (culture)
@@ -266,6 +271,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Shimo Valley](Topics/Geography/Baedoor_Continent/Rossevette_Islands/Regions/Shimo_Valley.md)
 - [Shore-Hunters](Topics/Factions/List/Shore-Hunters.md)
 - [Si Avani](Topics/Characters/List/Avani_Si.md)
+- [Si Vai](Topics/Cultures/Baedoorians/List/Theatre_Si_Vai.md)
 - [Skirran](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Skirran.md)
 - [Smoke River Collective](Topics/Guilds/List/Smoke_River_Collective.md)
 - [Soul trapping](Topics/World_Mechanics/Magic/Spirit_Trapping.md)
@@ -298,6 +304,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Tertens](Topics/Cultures/Tertens_Vaerdena/[Culture].md) (Vaerdena)
 - [Tesni](Topics/Geography/Baedoor_Continent/Baedoor/Lands/Tesni.md)
 - [Thanbyan](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Thanbyan.md)
+- [Theatre of Grey Mask](Topics/Cultures/Baedoorians/List/Theatre_of_Grey_Mask.md)
 - [Thon, Joeseh](Topics/Characters/List/Thon_Joeseh.md)
 - [Tinanat](Topics/Geography/Baedoor_Continent/Kaer/Cities/Tinanat.md)
 - [Tom Varteford](Topics/Characters/List/Varteford_Tom.md)

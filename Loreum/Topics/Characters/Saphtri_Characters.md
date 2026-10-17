@@ -6,6 +6,7 @@ Characters bound to [saphtri](../Cultures/Tri_Saphtris/[Culture].md) heritage an
 ####  🔹 [Hes Alote](List/Alote_Hes.md)
 
 ### 🕋 NEW ERA
+####  🔹 [Ainji Otenhat](List/Otenhat_Ainji.md)
 ####  🔹 [Tehom Aranai](List/Aranai_Tehom.md)
 
 ---

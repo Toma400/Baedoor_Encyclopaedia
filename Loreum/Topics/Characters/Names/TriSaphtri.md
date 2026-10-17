@@ -22,8 +22,9 @@
 ---
 ## Surnames
 
-| Name   | Description                                               |
-|--------|-----------------------------------------------------------|
-| Alote  | Saphtri semi-common surname                               |
-| Aranai | Saphtri noble surname, sometimes taken as gods' patronage |
-| Nirai  | Saphtri common surname                                    |
+| Name     | Description                                               |
+|----------|-----------------------------------------------------------|
+| Alote    | Saphtri semi-common surname                               |
+| Aranai   | Saphtri noble surname, sometimes taken as gods' patronage |
+| Nirai    | Saphtri common surname                                    |
+| Otenhat  |                                                           |

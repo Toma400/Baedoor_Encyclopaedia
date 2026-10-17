@@ -13,6 +13,7 @@
 ####  🔹 [Naevin Manaut](List/Manaut_Naevin.md)
 
 ### 🛕 WEST BAEDOOR
+####  🔹 [Ainji Otenhat](List/Otenhat_Ainji.md)
 ####  🔹 [Delai Eir](List/Eir_Delai.md)
 ####  🔹 [Heim Winfleton](List/Winfleton_Heim.md)
 ####  🔹 [Souvie Darakon](List/Darakon_Souvie.md)
@@ -22,6 +23,7 @@
 ####  🔹 [Terska](List/Terska.md)
 
 ### 🛕 ARENNAN
+####  🔹 [Ainji Otenhat](List/Otenhat_Ainji.md)
 ####  🔹 [Tehom Aranai](List/Aranai_Tehom.md)
 
 ---

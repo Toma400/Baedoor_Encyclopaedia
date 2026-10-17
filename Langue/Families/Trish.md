@@ -50,8 +50,10 @@ Middle-era north  ╔══════════════╗    Middle-era
 |  ensi  | shimmer, to emit almost invisible brightness  | en-si         |     ?     |
 |  elai  | stranger, unknown                             | ela-i         |     ?     |
 | elari  | "brother stranger", honour title for non-tris | elari         | elai + ?  |
+|  ksai  | chaos                                         | k-zai         |     ?     |
 | lunai  | moon                                          | luna-i        |     ?     |
 |  lyre  | plant                                         | lyren-si      |     ?     |
+|   oi   | primal, origin, root                          | oi            |     ?     |
 |  pah   | short, small, low                             | pa-k↓h        |     ?     |
 | purpue | purple                                        | purpu-e:      |     ?     |
 | rosse  | light/cherry pink                             | ros-se:       |     ?     |
@@ -67,4 +69,4 @@ Middle-era north  ╔══════════════╗    Middle-era
 `Lyrensi Purpui` means `lyre + ensi + purpue[--i]`
 
 ---
-♢: loreum, ♜: complete history of evolution
+♢: loreum, ♜: complete history of evolution; `onvoi na = eye (of?), see Eye of Chaos`

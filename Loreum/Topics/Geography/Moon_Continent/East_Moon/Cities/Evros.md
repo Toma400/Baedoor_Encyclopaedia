@@ -11,7 +11,7 @@ Since **Norran Gorth** decree, it extended heavily throughout later years.
 
 Politically, it is abode of governor, as well as few guilds and groups.
 
-- [🕌 Ansur Guilds](/Loreum/Topics/Guilds/Ansur_Guilds.md#-evros)
+- [🕌 Ansur Guilds](/Loreum/Topics/Guilds/Continent_Moon_Ansur.md#-evros)
 
 ### CITY STRUCTURE & STYLE
 Evros was built by baedoorian settlers, but even though first structures were built without any
