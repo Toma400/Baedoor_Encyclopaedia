@@ -23,7 +23,7 @@ Skull ☠️ emoji indicates extinct race.
 ####     🔹 Islanders `Serpent Islands, Jitado`
 ####     🔹 Lunanians
 ####   🔹 Tri
-####     🔹 Zhi
+####     🔹 [Zhi](Races/Regular/Zhi.md)
 ####     🔹 Lunatri (Western Tri)
 ####     🔹 Eirtri (Eastern Tri)
 ####       🔹 [Saphtri](Races/Regular/TriSaphtri.md) `desert tri, adopted yellow skin`
