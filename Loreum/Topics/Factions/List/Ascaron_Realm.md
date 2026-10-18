@@ -1,9 +1,9 @@
 # ⚜️ Ascaron Realm
 
 ---
-|                    ![](/Assets/banner_ascaron.jpg)                    | ![](/Assets/banner_ascaron_pixel.png) |
-|:---------------------------------------------------------------------:|:-------------------------------------:|
-| Ascaron Realm banner, depicting **flower** found commonly in **Asca** | Pixel interpretation of realm banner  |
+|                    ![](/Assets/banner_ascaron.jpg)                    |  ![](/Assets/bannerpx_ascaron.png)   |
+|:---------------------------------------------------------------------:|:------------------------------------:|
+| Ascaron Realm banner, depicting **flower** found commonly in **Asca** | Pixel interpretation of realm banner |
 
 **Ascaron** is one of latoka **realms**, encompassing primarily **Emerald Hills region** with
 its [major settlement of the same name](../../Geography/Baedoor_Continent/Rossevette_Islands/Cities/Ascaron.md).

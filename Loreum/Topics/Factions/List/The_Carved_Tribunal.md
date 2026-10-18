@@ -1,9 +1,9 @@
 # ⚜️ The Carved Tribunal
 
 ---
-|   ![](/Assets/banner_ettic_kingdoms.jpg)   | ![](/Assets/banner_ettic_kingdoms_pixel.png) |
-|:------------------------------------------:|:--------------------------------------------:|
-| Banner of The Carved Tribunal (by Toma400) | Pixel representation of The Carved Tribunal  |                 
+|   ![](/Assets/banner_ettic_kingdoms.jpg)   |  ![](/Assets/bannerpx_ettic_kingdoms.png)   |
+|:------------------------------------------:|:-------------------------------------------:|
+| Banner of The Carved Tribunal (by Toma400) | Pixel representation of The Carved Tribunal |                 
 
 **The Carved Tribunal** is historical faction constituting of three ettic kingdoms: **Leptu**, 
 **Hinnut** and **Kahat**, established in the conception of ettic cultural consciousness.

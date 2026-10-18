@@ -4,7 +4,7 @@
 <span style="color:#8F3DA5">**universe**</span> [✦](/Loreum/Tags.md#-universe)  
 
 ---
-| ![](/Assets/banner_starshifters.png) |  ![](/Assets/banner_starshifters_pixel.png)  |
+| ![](/Assets/banner_starshifters.png) |    ![](/Assets/bannerpx_starshifters.png)    |
 |:------------------------------------:|:--------------------------------------------:|
 |         Starshifters banner          | Pixel interpretation of Starshifters' banner |
 

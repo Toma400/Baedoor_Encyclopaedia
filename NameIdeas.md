@@ -2,11 +2,19 @@
 
 ### EBoN Chapters
 EBoN chapters can be found in [respective folder](/Assets/EBoN). They are under construction,
-but the system should follow the reasoning that they are split by a) gender, b) subculture.
+but the system should follow the reasoning that they are split by a) type, b) influence.
 
 The latter means that if there's influence of any sort, name should not appear in "pure"
-chapter, and rather get its own chapter called `[original culture]-[influence]`.  
-Gender is meant to have `_fem` file suffix and have `(Female)` added to the chapter name.
+chapter, and rather get its own chapter called `[original culture]-[influence]`.
+
+Suffixes:
+- `_fem` - female names
+- `_mal` - male names
+- `_sur` - surnames
+
+- `_cit` - settlements/cities
+- `_env` - environmental features (regions, mountains)
+- `_dun` - dungeons
 
 ### Brainstorming
 For brainstorming, please refer to [naming schemes](Langue/Naming_Schemes.md).
@@ -64,6 +72,13 @@ For brainstorming, please refer to [naming schemes](Langue/Naming_Schemes.md).
     - similar to Lukksut
   - Sekkurot - latoka settlement
   - Ahalumat / Uhelummat - latoka
+- **SAPHTRI**
+  - EBoN-genned
+    - Alyine `non-genned, female?`
+    - Anenat `female?`
+    - Anuile `female`
+    - Alanhat `surname?`
+    - Ranalai `sounds generic, surname?`
 - **UNKNOWN**
   - Nallat name?
   - Alabet name?

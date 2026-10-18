@@ -1,6 +1,6 @@
 # 🎎 Xavier Family
 
-|                         <img alt="Xavier crest" height="400" src="/Assets/herb_xavier_family.png">                          |
+|                            <img alt="Xavier crest" height="400" src="/Assets/banner_xavier.png">                            |
 |:---------------------------------------------------------------------------------------------------------------------------:|
 | Xavier family crest depicting [Naven](/Loreum/Topics/Nature/Bestiary/List/Naven.md) on black background (art by MammaHyena) |
 

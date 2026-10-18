@@ -1,6 +1,6 @@
 # 🐊 Naven
 
-|                         <img alt="Xavier crest" height="400" src="/Assets/herb_xavier_family.png">                          |
+|                            <img alt="Xavier crest" height="400" src="/Assets/banner_xavier.png">                            |
 |:---------------------------------------------------------------------------------------------------------------------------:|
 | [Xavier family](/Loreum/Topics/Characters/Families/Xavier.md) crest depicting Naven on black background (art by MammaHyena) |
 
