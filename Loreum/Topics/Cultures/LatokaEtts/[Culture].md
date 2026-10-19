@@ -69,7 +69,7 @@ meant to be defence blessings. Such blessings can be seen for example in [Danat-
 - Hinnut Realm
 
 ### ⚜️ Historical Factions
-- Three Kingdoms
+- [The Carved Tribunal](../../Factions/List/The_Carved_Tribunal.md)
 - Kahat Realm
 
 ---

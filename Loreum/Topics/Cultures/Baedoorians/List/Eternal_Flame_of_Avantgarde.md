@@ -10,5 +10,5 @@ Even though the editorial office is in East Baedoor, the magazine is distributed
 West Baedoor or Rossevette.
 
 ---
-✥  
+✥  NAMES NAMES NAMES NAMES NAMES SURNAMES WHAT IS IT  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../[Culture].md)

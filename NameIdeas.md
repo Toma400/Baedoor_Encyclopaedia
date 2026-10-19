@@ -97,6 +97,7 @@ For brainstorming, please refer to [naming schemes](Langue/Naming_Schemes.md).
   - Opai - name for an island near Karos?
   - Hanarat
   - Szaaklapta - agoi? moon nomath? (szeleszczące dźwięki)
+  - Exire
   - Hakanetai
   - Hakaritii
   - Ritihaka

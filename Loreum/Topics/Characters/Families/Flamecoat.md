@@ -1,9 +1,9 @@
 # 🎎 Flamecoat Family
 
 ---
-| ![](/Assets/banner_flamecoat_pixel.png) |
-|:---------------------------------------:|
-|     Flamecoat family banner, pixel      |
+| ![](/Assets/bannerpx_flamecoat.png) |
+|:-----------------------------------:|
+|   Flamecoat family banner, pixel    |
 
 Flamecoat is family native to [Baedoor City](../../Geography/Baedoor_Continent/Baedoor/Cities/Baedoor.md).
 Known for its roots dating back to the conquest of the island, Flamecoats are known as family that

@@ -1,0 +1,2 @@
+--o:"../Unused Assets.exe"
+--d:release

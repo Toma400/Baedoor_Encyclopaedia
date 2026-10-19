@@ -2,7 +2,9 @@
 - [Names](#names)
   - [Male](#male)
   - [Female](#female)
-- [Surnames](#surnames)
+- [Surnames](#surname)
+
+**⚜️ EBoN Chapters:  [Male](/Assets/EBoN/latoka_mal.ebn) 🔹 [Female](/Assets/EBoN/latoka_fem.ebn) ️⚜️** 
 
 ## Names
 Latoka names have some common naming schemes, e.g. `In-`, `-t`.  
@@ -51,3 +53,8 @@ as ghloddish naming does, albeit the position of those wovels is inside name, no
 | Name | Localisation                       | Description                            |
 |------|------------------------------------|----------------------------------------|
 | Ett  | Ilumat Highlands, Dewehr Mountains | Aristocratic/royal traditional surname |
+
+---
+♜: the `e/a` differentiation is not exactly portrayed by current naming scheme; this should
+    also be rather brought in NamingScheme (and `Names` could have backlink to NamingScheme
+    as well.. heck, even `NameIdeas` could!)

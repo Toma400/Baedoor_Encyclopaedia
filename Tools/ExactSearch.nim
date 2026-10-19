@@ -44,7 +44,7 @@ while true:
     for FOLD in FOLDERS:
         for res in walkDirRec(FOLD, relative=true):
             if endsWith(res, ".md"):
-                let FN = FOLD & "\\" & res # filename
+                let FN = fmt"{FOLD}\{file}" # filename
                 let FR = readFile(FN)
                 if cs: # case sensitive
                     if search in FR:

@@ -9,7 +9,7 @@ List of all organised religions, religious groups and informal faiths in Baedoor
 ####    🔹 [Say'ye'ys Cult](Religions/Say'ye'ys_Cult.md)
 ####  🔹 Lai-Kine `pahtri/voitri/saphtri`
 ####    🔹 The Joyous
-####    🔹 [Voitri] `the faithful?`
+####    🔹 [Voitri] `the faithful? voitric order?`
 ####  🔹 Nikaraits `anti-lai-kine`
 ####  🔹 Temple of the Wheel `erds`
 

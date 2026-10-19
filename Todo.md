@@ -140,6 +140,10 @@ Besides, non-binary exists in that quotation as both-binary rather - and such gh
 > And most cultures I haven't put in my mind to any of those categories/new ones, so will 
 > need to think about that more.
 
+### Figuring out names
+- races of [Eternal Flame of Avangarde founders](Loreum/Topics/Cultures/Baedoorians/List/Eternal_Flame_of_Avantgarde.md),
+  inclusion in name list.
+
 ### Images to be used
 For **Raelfinn de Segel** article:
 
