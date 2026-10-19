@@ -107,6 +107,8 @@ Not expandable, once-gatherable (with race, class or by learning).
 - Stheyr ❓
 - Friend of Animals
 - Vampirism
+- Diamond Soul `no tech/mgck penalty`
+- Child of the Storm `no void/conn penalty`
 - Body Harvesting ❓
 - Ritual Tongues ❓
 - Ancient Architects' Tongue ❓

@@ -66,4 +66,5 @@ A neat connection to magical triad this way
 The only problem I see is that it needs a reason why wouldn't Theresur be glorified by Isheism itself]
 
 ---
+♜  
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🕌](../Religions.md)

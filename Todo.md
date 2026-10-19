@@ -22,6 +22,15 @@ backlinks.
 Need details filled in, so that they provide broad info on topics that are only marked by
 subsection or written as notes.
 
+### [Latoka Architecture](Loreum/Topics/Cultures/Latoka/Architecture.md) article
+Is missing a lot of detail and could have CA... just organised better.
+
+### [Ascaron](Loreum/Topics/Geography/Baedoor_Continent/Rossevette_Islands/Cities/Ascaron.md) article
+Mainly expansion on things not written, ideally adding CA once they are made. Flamecoat Bank
+could use linking to the main article for the bank, and reversely have the bank's page link
+to Ascaron's subsection (or eventually for it to be moved to separate subpage? Depending if
+we will make city's subpages for history and/or buildings).
+
 ### Baedoorian families and railroads/BRE
 Should expand on baedoorian families that were recently edited and their relationship to whole
 railroad enterprise.  
@@ -41,11 +50,30 @@ quick snippets.
 Some of these could be transferred into [New Era](Loreum/Topics/History/New_Era.md) calendarium
 as well, or have separate one for East Baedoor (same goes with PE/OE).
 
+### [Varteford Peace Treaty](Loreum/Topics/History/List/Varteford_Peace_Treaty.md)
+Expanding, noting outcomes for all nations. Might also need some updates in [Old Era](Loreum/Topics/History/Old_Era.md)
+or some new timetables? Unsure because these two were together in PyCharm, but maybe they
+weren't particularly connected.
+
+### Unfinished BRPGS Pages
+Include:
+- [4th System](Mechanicum/RPG_System/3.0/Statistics/4th_System.md)
+- [Attributes/Skills](Mechanicum/RPG_System/3.0/Statistics/Attributes_Skills.md)
+
+When dealing with them, the last diff should be looked at.
+
 ### [Language pages, such as Baedoorish](Langue/Families/Baedoorish.md)
 More general call to separate language pages more broadly, to e.g. include proverbs as separate
 page, but also to include generations/history separate and so on.  
 Getting second insight into whether something is family or separate language, and how useful
 this split is, would be also good.
+
+### Latoka history
+Mostly condensed so far in [this doc](Docs/Historical%20Account%20of%20Latoka.pdf),
+it has its visual counters part with this gridmap:
+![](Assets/Gridmaps/Rossevette_Pre10K_Cultures.png)
+Should be eventually made into finalised doc and/or put into history pages
+in BE.
 
 ### [Ghloddish Technology](Loreum/Topics/Cultures/Ghlodds/Technologies.md) page
 Expand on tech, so there's much more on engines being used, other vehicles and inventions.
@@ -145,6 +173,10 @@ Besides, non-binary exists in that quotation as both-binary rather - and such gh
   inclusion in name list.
 
 ### Images to be used
+**NOTE**: Due to how [Unused Assets](Unused%20Assets.exe) app works, mentioning assets here
+do not count under "using" and will still yield correct results.
+---
+
 For **Raelfinn de Segel** article:
 
 | ![](/Assets/Characters/raelfinn_de_segel.jpg) |

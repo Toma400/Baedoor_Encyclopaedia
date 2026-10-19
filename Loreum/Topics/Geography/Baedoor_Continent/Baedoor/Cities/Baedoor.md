@@ -23,6 +23,8 @@ by districts.
 
 ---
 ### 🪔 HISTORY
+**See also: [Detailed Baedoor History](History/Baedoor.md)**
+
 Baedoor city changed a lot during whole time of it existing - its rise and expansion were product of
 several events happening, and only in last centuries of Old Era, it became big to the extent it is
 known today.

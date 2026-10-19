@@ -24,16 +24,6 @@ to decide whether to invest in one or another.
                  prices in inns and taverns (mostly for sleepovers)
 - During character creation, new option to determine religious affiliation is added (which grants
   additional bonuses, is used later in lore gameplay and for marriage)
-- Addition of new skills and activities (first edition parity):
-   - Activities:
-     - Fishing
-- Fixing some inconsistencies within perks and skills:
-   - Removal of `Vehicles Driving` and `Animal Training` perks - adding `Transportation` and 
-     `Animal Taming` skills instead, where `Transportation` is separated into different subskills
-     on different vehicles, as well as horse riding and boat driving
-   - `Toxin Immunity` is split into perk (becoming boolean value) and skill `Toxin Absorption`. Perk
-     is equal to 100% toxin immunity (as the name says) and skill grants you bonuses against toxins
-     (such as shorter times, less punishment and rarer chances of getting one)
 - Added temperature for locations as one of survival factors. Regarding this aspect, there are several
   features added:
    - Illnesses gained through getting your body on specific temperature for too long, drinking uncooked
