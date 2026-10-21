@@ -13,7 +13,7 @@ it within - most popularly it can be split into three areas:
   technology and enthusiastic about trade, expeditions and science
 
 ### Cultural Topics
-- [🥮 Foods](/Loreum/Topics/Nature/Foods/Jitadian.md)
+- [🥮 Foods](/Loreum/Topics/Nature/Foods/CultureJitadian.md)
 - [💮 Language](/Langue/Families/Jitadish.md)
 - [㊙️ Names](/Loreum/Topics/Characters/Names/Jitadian.md)
 

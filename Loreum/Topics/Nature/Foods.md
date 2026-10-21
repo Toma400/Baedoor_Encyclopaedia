@@ -1,27 +1,27 @@
 # 🥮 Foods
-Every food listed, by lands and kinds.
+Every food listed, by type and culture it belongs to.
 
 ---
 ### TYPE
-####  [🍵 Drinks](Foods/Drinks.md)
+####  [🍵 Drinks](Foods/TypeDrinks.md)
 ####  🍅 Cultivated Foods
-####  [🍜 Meals](Foods/Meals.md)
-####  [🥞 Sweets](Foods/Sweets.md)
-####  [🧂 Seasonings](Foods/Seasonings.md)
+####  [🍜 Meals](Foods/TypeMeals.md)
+####  [🥞 Sweets](Foods/TypeSweets.md)
+####  [🧂 Seasonings](Foods/TypeSeasonings.md)
 
 ---
-### LANDS
+### CULTURE
 #### 🔹 Baedoor Continent
-#####   🔹 [Baedoorian Foods](Foods/Baedoorian.md)
-#####   🔹 [Erdic Foods](Foods/Erdic.md)
-#####   🔹 [Kehtic Foods](Foods/Kehtic.md)
-#####   🔹 [Pahtric Foods](Foods/Pahtric.md)
+#####   🔹 [Baedoorian Foods](Foods/CultureBaedoorian.md)
+#####   🔹 [Erdic Foods](Foods/CultureErdic.md)
+#####   🔹 [Kehtic Foods](Foods/CultureKehtic.md)
+#####   🔹 [Pahtric Foods](Foods/CulturePahtric.md)
 
 #### 🔹 Old Continent
-#####   🔹 [Jitadian Foods](Foods/Jitadian.md)
+#####   🔹 [Jitadian Foods](Foods/CultureJitadian.md)
 
 #### 🔹 Seiteh
-#####   🔹 [Ghloddish Foods](Foods/Ghloddish.md)
+#####   🔹 [Ghloddish Foods](Foods/CultureGhloddish.md)
 
 ---
 ♜✥  

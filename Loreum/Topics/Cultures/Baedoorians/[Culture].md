@@ -35,7 +35,7 @@ in ways more friendly to its community.
 
 ### Cultural Topics
 - [🏯 Architecture](Architecture.md)
-- [🥮 Foods](../../Nature/Foods/Baedoorian.md)
+- [🥮 Foods](../../Nature/Foods/CultureBaedoorian.md)
 - [🎭 Art](Art.md)
 - [⚗️ Technologies](Technologies.md)
 - [🚂 Vehicles](Vehicles.md)
@@ -51,6 +51,10 @@ in ways more friendly to its community.
     - [Oxiai Theatre](List/Theatre_Oxiai.md)
     - [Si Vai](List/Theatre_Si_Vai.md)
     - [Theatre of Grey Mask](List/Theatre_of_Grey_Mask.md)
+  - Music
+    - [Machine Music](../[Shared]/List/Machine_Music.md)
+  - Instruments
+    - [Air Whisperer](../[Shared]/List/Air_Whisperer.md)
 - Leisure
   - [Colourful Literature Series](List/Colourful_Literature.md)
 - Items

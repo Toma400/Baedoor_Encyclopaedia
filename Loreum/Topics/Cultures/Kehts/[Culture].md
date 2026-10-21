@@ -76,11 +76,16 @@ the sacrificial rite will began. Spirit will lead the unfortunate keht to the ma
 Blind Mothers will sacrifice the sinner to the glory of the spirits.
 
 ### Cultural Topics
-- [🥮 Foods](../../Nature/Foods/Kehtic.md)
+- [🥮 Foods](../../Nature/Foods/CultureKehtic.md)
 
 ### Cultural Elements
 - Games
   - [Four Kings](../[Shared]/List/Four_Kings.md)
+- Art
+  - Music
+    - Throat Blessings*
+  - Instruments
+    - [Air Whisperer](../[Shared]/List/Air_Whisperer.md)
 
 ### ⚜️ Historical Factions
 - [Separatists](../../Factions/List/Separatists.md)
@@ -107,5 +112,8 @@ Possible options that I brainstormed with Nik:
 - be avoided (by thinking that they can "poison" their unholy nature onto kehts)
 
 They can be expanded, and I don't have too much preference here for the time being
+
+*check air whisperer article for details; basically a black metal-esque genre in Silencer
+style, sort of ritualistic -- name may be changed
 
 [💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md) 〰️ [🏺](../../Cultures.md)

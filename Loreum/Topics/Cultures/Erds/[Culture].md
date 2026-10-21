@@ -69,7 +69,7 @@ List of Houses:
 
 ### Cultural Topics
 - [🏯 Architecture](Architecture.md)
-- [🥮 Food](../../Nature/Foods/Erdic.md)
+- [🥮 Food](../../Nature/Foods/CultureErdic.md)
 - [🎭 Art](Art.md)
 - [💮 Language](/Langue/List/Erdis.md)
 - [㊙️ Names](../../Characters/Names/Erds.md)

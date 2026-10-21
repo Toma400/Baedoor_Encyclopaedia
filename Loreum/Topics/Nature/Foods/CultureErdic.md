@@ -5,7 +5,7 @@ List of all [erdic](../../Cultures/Erds/[Culture].md) foods.
 ### 🍵 DRINKS
 ####  🔹 [Lampan](List/Lampan.md)
 ####  🔹 Niesi `erdic beer made with use of Nam fruit`
-####  🔹 Tarava Tea `erdic, made out of Tarava flowers`
+####  🔹 [Tarava Tea](List/Tarava_Tea.md)
 
 ### 🍜 MEALS
 ####  🔹 Rice

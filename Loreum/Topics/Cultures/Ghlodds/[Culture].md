@@ -114,11 +114,16 @@ it can if it works within boundaries of ghloddish spirituality
 ### Cultural Topics
 - [🏯 Architecture](Architecture.md)
 - [🎭 Art](Art.md)
-- [🥮 Foods](/Loreum/Topics/Nature/Foods/Ghloddish.md)
+- [🥮 Foods](/Loreum/Topics/Nature/Foods/CultureGhloddish.md)
 - [⚗️ Technologies](Technologies.md)
 - [💮 Language](/Langue/Families/Ghloddish.md)
 - [㊙️ Names](/Loreum/Topics/Characters/Names/Ghlodds.md)
 - [🎎 Families](/Loreum/Topics/Characters/Families_Ghloddish.md)
+
+### Cultural Elements
+- Art
+  - Instruments
+    - [Air Whisperer](../[Shared]/List/Air_Whisperer.md)
 
 ---
 ♜: might be useful to separate ghloddish cultures since it is not universal as much as it claims

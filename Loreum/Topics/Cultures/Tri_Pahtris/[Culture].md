@@ -74,7 +74,7 @@ The structure follows the idea of "descending". From Laitalu's sky (pre-birth), 
 can call the dead if they wish.
 
 ### Cultural Topics
-- [🥮 Foods](/Loreum/Topics/Nature/Foods/Pahtric.md)
+- [🥮 Foods](/Loreum/Topics/Nature/Foods/CulturePahtric.md)
 - [㊙️ Names](/Loreum/Topics/Characters/Names/TriPahtri.md)
 
 ### Cultural Elements

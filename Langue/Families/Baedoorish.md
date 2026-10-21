@@ -171,13 +171,27 @@ as simpler method. In Old Baedoorish, jitadish system was sometimes used, but di
 
 ### Proverbs & Idioms
 #### Are all towers worth defending?
-The proverb is meant to question the value of things we invest ourselves in, the stakes we put in our efforts, especially in case of being in the losing position
-While the semi-obvious answer for the question is "no, not all", the question is rather asked to reexamine particular case, what makes us fight in the particular fight, and on its holistic sense
+The proverb is meant to question the value of things we invest ourselves in, the stakes we put
+in our efforts, especially in case of being in the losing position.  
+While the semi-obvious answer for the question is "no, not all", the question is rather asked 
+to reexamine particular case, what makes us fight in the particular fight, and on its holistic
+sense.
 
-**Trivia**: somewhat obviously, it's my own personal proverb I'm using, born somewhat after n-th round of me fighting to keep my ex in my life; but it stayed with me basically to this day because this kind of situations reemerge
+**Genesis**: now forgotten in time, story of the desperate, stubborn defence of nomathian fortress
+by its general; the details are lost enough for it to be more of a folk tale, but remains in the
+society as pseudohistoric piece.
+
+**Trivia**: somewhat obviously, it's my own personal proverb I'm using, born somewhat after n-th
+round of me fighting to keep my ex in my life; but it stayed with me basically to this day 
+because this kind of situations reemerge.
+
+#### Sword of my own making
+Meaning something you put fully yourself in, invested a lot of time and care for it to become
+what it is currently. Puts emphasis on personal aspect of said thing. Not inherently exclusive 
+to items or art.
 
 #### Grey literature
-Idiom used for [cheap magazines](../../Loreum/Topics/Cultures/[Shared]/List/Colourful_Literature.md#grey-literature).
+Idiom used for [cheap magazines](../../Loreum/Topics/Cultures/Baedoorians/List/Colourful_Literature.md#grey-literature).
 
 ---
 ♢: loreum
