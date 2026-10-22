@@ -23,7 +23,7 @@ List of all factions existing on Baedoor Continent.
 #####      🔹 Hinnut Etts Realm `partially under voitri??`
 ####    🔷 Eastern Kingdoms
 #####      🔹 Realm of Nan Lakkurut
-#####      🔹 Realm of Luna-Kimmaret
+#####      🔹 [Realm of Luna-Kimmaret](List/Luna-Kimmaret_Realm.md)
 #####      🔹 Realm of Nukrat-Liim `partially under voitri`
 
 ---

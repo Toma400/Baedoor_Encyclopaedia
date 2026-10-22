@@ -13,6 +13,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [The Age of Decline](Topics/Cultures/Baedoorians/List/The_Age_of_Decline.md)
 - [Agha O'at'sa'](Topics/Characters/List/Agha_O'at'sa'.md)
 - [Ainji Otenhat](Topics/Characters/List/Otenhat_Ainji.md)
+- [Air Gazer](Topics/Cultures/Ghlodds/List/Strobe_Music.md#air-gazers)
 - [Air Whisperer](Topics/Cultures/[Shared]/List/Air_Whisperer.md)
 - [Alexander, Frederico](Topics/Characters/List/Alexander_Frederico.md)
 - [Alkaesar](Topics/Geography/Baedoor_Continent/Baedoor/Cities/Alkaesar.md) (city)
@@ -194,6 +195,7 @@ You can find all possible named entries of Encyclopaedia Loreum here listed.
 - [Lowlands Vault](Topics/Guilds/List/Lowlands_Vault.md)
 - [Loyd Vertilli](Topics/Characters/List/Vertilli_Loyd.md)
 - [Lua](Topics/Characters/Families/Lua.md)
+- [Luna-Kimmaret Realm](Topics/Factions/List/Luna-Kimmaret_Realm.md)
 - [Lyrensi Purpui](Topics/Nature/Herbarium/List/Lyrensi_Purpui.md)
 
 ### M

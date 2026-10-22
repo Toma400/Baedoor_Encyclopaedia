@@ -20,4 +20,5 @@ List of all political factions existing in Baedoor universe.
 ####    🔹 [Erdic](/Loreum/Topics/Cultures/Erds/[Culture].md#-factions)
 
 ---
-✥
+✥  
+[💠](/Entrance.md) 〰️ [➰](/Loreum/Loreum.md)

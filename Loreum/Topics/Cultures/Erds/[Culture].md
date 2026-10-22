@@ -79,12 +79,14 @@ List of Houses:
 - Games
   - [Four Kings](../[Shared]/List/Four_Kings.md)
 
-### ⚜️ Factions
-- [Temple of the Wheel](../../Factions/List/Temple_of_the_Wheel.md)
+### 🏯️ Guilds
 - Houses
   - House of Blue Bird
   - House of Malachite Lantern
   - House of Restoration
+
+### ⚜️ Factions
+- [Temple of the Wheel](../../Factions/List/Temple_of_the_Wheel.md)
 
 ### ⚜️ Historical Factions
 - Kain Clan

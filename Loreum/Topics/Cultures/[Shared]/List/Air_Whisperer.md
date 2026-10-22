@@ -12,7 +12,7 @@ Air whisperers usually are categorised into more ambienty or dynamic.
 While original air whisperers - and ones true to their sound, heard in [strobe music](../../Ghlodds/List/Strobe_Music.md) -
 remain ghloddish, with the interest of baedoorian musicians, there has been many attempts on 
 reverse-engineering and experimenting with the technology. The most prominent spread of the 
-instrument can be found in West Baedoor (where it was accustomed by [machine music](Machine_Music.md)
+instrument can be found in **West Baedoor** (where it was accustomed by [machine music](Machine_Music.md)
 musicians) and by [kehts](../../Kehts/[Culture].md) for noisier backgrounds of their **throat blessings**.
 
 ---

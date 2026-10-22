@@ -1,9 +1,9 @@
 # ⚜️ Shore-Hunters
 
 ---
-| ![](/Assets/bannerpx_shore_hunters.png) |
-|:---------------------------------------:|
-|  Pixel interpretation of realm banner   |
+| ![](/Assets/banner_luna_kimmaret_shore_hunters.jpg) | ![](/Assets/bannerpx_shore_hunters.png) |
+|:---------------------------------------------------:|:---------------------------------------:|
+|           Sketch of Shore-Hunters banner            |  Pixel interpretation of realm banner   |
 
 **Shore-Hunters** is an old, rural realm located in the valley between **Ilumat Highlands** and
 **Dewehr Mountains**. It is a home to local latoka fishermen, farmers and miners spread around
